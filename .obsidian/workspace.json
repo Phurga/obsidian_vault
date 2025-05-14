@@ -30,7 +30,7 @@
               "state": {
                 "file": "concepts/land use intensity.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -267,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.5
+    "width": 200
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -283,7 +283,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/land use intensity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +292,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for land use intensity"
+              "title": "Backlinks"
             }
           },
           {
@@ -310,6 +309,33 @@
               "icon": "lucide-list",
               "title": "Outline of land use intensity"
             }
+          },
+          {
+            "id": "9af246382772d283",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bb9e5a5d1164c088",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       },
@@ -322,11 +348,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "concepts/land use intensity.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for land use intensity"
+              "title": "File properties"
             }
           }
         ]
@@ -340,16 +364,14 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "50b4765752e913a2",
+  "active": "7fd4e8236e371974",
   "lastOpenFiles": [
+    "concepts/land use intensity.md",
     "New Text Document.txt",
     "concepts/land management.md",
-    "concepts/land use intensity.md",
     "concepts/land management test.md",
     "Untitled.md",
     "concepts/effect of land management practices on soil biodiversity.md",
@@ -392,7 +414,6 @@
     "writing",
     "creators",
     "publishers",
-    "resources/literature_zotero",
     "home canvas.canvas",
     "concept/test.canvas"
   ]

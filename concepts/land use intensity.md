@@ -11,16 +11,16 @@ aliases:
 **Land use intensity** refers to the intensity of [[land management]].
 
 For instance, intensive land management practice for [[agriculture]] include monoculture with frequent and deep tillage, significant mineral fertilization and pesticide usage. Intensive [[forestry]] would refer to monocultures with clear cutting and eventual fertilization or irrigation.
-# classification
+## classification
 There are some classification of land use intensities, as proposed by [[Newbold2015_Globaleffects]] (used by [[Scherer2023_BiodiversityImpact]]):
 ![[Newbold2015_Globaleffects_intensity_definition.png]]
 
-# other definitions
+## other definitions
 In [[Labouyrie2023_Patternssoil]], there is mention of a **land perturbation gradient** which mixes different land use classes and orders those based on land use perturbation.
 There is no supporting evidence for this ordering.
 
 ![[Labouyrie2023_Patternssoil_land_use_intensity_gradient.png]]
-# #data sources
+## #data sources
 Data sources for land use intensity data:
 - [[Chaudhary2018_LandUse]] uses [[vanAsselen2013_Landcover]] (spatial explicit, global coverage, 2000) and [[Arets2011_GlobalWood]] (country level, global, 2008)
 - [[Orgiazzi2016_knowledgebasedapproach]] uses [[Temme2011_Mappingmodelling]] (spatial explicit, europe, 2000)
