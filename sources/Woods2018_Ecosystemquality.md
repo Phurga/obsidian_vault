@@ -9,7 +9,7 @@ itemKey: GA5XNA2L
 > Ecosystem quality in LCIA: status quo, harmonization, and suggestions for the way forward
 > [[Woods, John S.]], [[Damiani, Mattia]], [[Fantke, Peter]], [[Henderson, Andrew D.]], [[Johnston, John M.]], [[Bare, Jane]], [[Sala, Serenella]], [[Maia de Souza, Danielle]], [[Pfister, Stephan]], [[Posthuma, Leo]], [[Rosenbaum, Ralph K.]], [[Verones, Francesca]], 
 > [[The International Journal of Life Cycle Assessment]] (2018)
-> [[Biodiversity]], [[Environmental Chemistry]], [[Damage-level]], [[Endpoint]], [[Functions]], [[Harmonization]], [[Species]], [[UNEP-SETAC]], [[LCIA]], 
+> [[Biodiversity]], [[Environmental Chemistry]], [[Damage-level]], [[Endpoint]], [[Functions]], [[Harmonization]], [[taxonomy]], [[UNEP-SETAC]], [[LCIA]], 
 > [Online link](https://doi.org/10.1007/s11367-017-1422-8), [Zotero Item](zotero://select/library/items/GA5XNA2L), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/GLBIFRJI/Woods2018_Ecosystemquality.pdf), 
 
 >[!abstract]-

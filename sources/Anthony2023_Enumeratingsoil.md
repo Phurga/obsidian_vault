@@ -16,7 +16,7 @@ itemKey: QDI9D7SP
 >Soil is an immense habitat for diverse organisms across the tree of life, but just how many organisms live in soil is surprisingly unknown. Previous efforts to enumerate soil biodiversity consider only certain types of organisms (e.g., animals) or report values for diverse groups without partitioning species that live in soil versus other habitats. Here, we reviewed the biodiversity literature to show that soil is likely home to 59 ± 15% of the species on Earth. We therefore estimate an approximately two times greater soil biodiversity than previous estimates, and we include representatives from the simplest (microbial) to most complex (mammals) organisms. Enchytraeidae have the greatest percentage of species in soil (98.6%), followed by fungi (90%), Plantae (85.5%), and Isoptera (84.2%). Our results demonstrate that soil is the most biodiverse singular habitat. By using this estimate of soil biodiversity, we can more accurately and quantitatively advocate for soil organismal conservation and restoration as a central goal of the Anthropocene.
 
 # Notes %% begin notes %%
-[[species]]
+[[taxonomy]]
 %% end notes %%
 
 

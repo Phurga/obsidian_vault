@@ -11,7 +11,7 @@ aliases:
 The method consists in:
 - sampling some soil or water in the environment,
 - [[DNA extraction|extracting eDNA]],
-- amplifying DNA, i.e. mass replicating specific gene regions ([[marker]]) using some [[primer]]s to perform [[polymerase chain reaction]] (PCR),
+- amplifying DNA, i.e. mass replicating specific gene regions ([[marker]]) using [[polymerase chain reaction]] (PCR),
 - sequencing the DNA, i.e. translating nucleotide sequences into a barcode such as GATTACA...,
 - analyzing data to identify the species in the sample, via DNA databases such as the [[BOLDSystems2025_Homepage]].
 

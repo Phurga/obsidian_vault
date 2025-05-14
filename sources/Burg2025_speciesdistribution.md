@@ -5,7 +5,7 @@ tags:
 Excel file with calculation on species distribution per taxon
 
 Topics:
-[[species]] 
+[[taxonomy]] 
 [[taxonomy]] 
 [[species richness]] 
 

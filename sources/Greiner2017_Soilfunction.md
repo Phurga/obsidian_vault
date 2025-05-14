@@ -9,7 +9,7 @@ itemKey: 4UYTTZA5
 > Soil function assessment: review of methods for quantifying the contributions of soils to ecosystem services
 > [[Greiner, Lucie]], [[Keller, Armin]], [[Grêt-Regamey, Adrienne]], [[Papritz, Andreas]], 
 > [[Land Use Policy]] (2017)
-> [[soil functions]], [[ecosystem service]], [[soil properties]], 
+> [[soil function]], [[ecosystem service]], [[soil properties]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0264837717305719), [Zotero Item](zotero://select/library/items/4UYTTZA5), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/6HINLIW4/Greiner2017_Soilfunctiona.pdf), 
 
 >[!abstract]-

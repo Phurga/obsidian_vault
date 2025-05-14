@@ -6,7 +6,7 @@ aliases:
   - threathened species
   - species extinction
 ---
-**Species extinction risk** characterize the risk for a [[species]] to go extinct, usually via population dynamics, or indirectly via habitat dynamics.
+**Species extinction risk** characterize the risk for a [[taxonomy]] to go extinct, usually via population dynamics, or indirectly via habitat dynamics.
 
 Species extinction risk increases as a species is endemic (limited geographical range) and vulnerable (natural habitat range is decreasing).
 Accounting for this extinction risk is important to convert local [[relative species loss]] into global species extinction risk.

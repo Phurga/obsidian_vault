@@ -20,6 +20,6 @@ challenges
 	- recrossing with [[RNA]]?
 - [[dormancy]]: problem identifying the disappearance of a species?
 - homogenization of communities (e.g. earthworms) linked to [[anthropisation of land leads to habitat homogeneity|homogeneisation of landscapes]]: gamma biodiversity out of scope?
-- concept of [[species]] complicated for [[bacteria]]
+- concept of [[taxonomy]] complicated for [[bacteria]]
 - concept of individual (and therefore [[mean species abundance|species abundance]]) complicated for bacteria (colonies) and especially [[fungus]] (decentralization of the organism, one dna can be shared by several mycelia)
 - take [[rhizosphere|roots]] into account?

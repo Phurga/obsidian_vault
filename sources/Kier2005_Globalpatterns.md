@@ -17,7 +17,7 @@ itemKey: P4Y5BC8C
 
 # Notes %% begin notes %%
 [[plant]]
-[[species]]
+[[taxonomy]]
 %% end notes %%
 
 

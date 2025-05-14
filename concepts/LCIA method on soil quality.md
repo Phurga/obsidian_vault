@@ -22,7 +22,7 @@ Indicators exist to assess the impacts of human activities on soil quality. Sour
 
 # [[GLAM]] recommendation
 The recommendation was to use SOC, despite being a [[proxy indicator]] because ([[UNEP2019_GlobalGuidance]]):
-> SOC is to some extent an implicit indicator of the amount of soil biota present in soil. (...) SOC is positively correlated with the four key [[soil functions]] as defined by Kibblewhite, Ritz et al. (2008): carbon transformations; nutrient cycling; soil structure maintenance; and the biological population regulation of soil fauna. (...) SOC does not represent all aspects of soil quality. **Erosion, chemical pollution and salinization are processes that have a weak correlation with SOC.**
+> SOC is to some extent an implicit indicator of the amount of soil biota present in soil. (...) SOC is positively correlated with the four key [[soil function]] as defined by Kibblewhite, Ritz et al. (2008): carbon transformations; nutrient cycling; soil structure maintenance; and the biological population regulation of soil fauna. (...) SOC does not represent all aspects of soil quality. **Erosion, chemical pollution and salinization are processes that have a weak correlation with SOC.**
 
 Other contenders but rejected [[UNEP2019_GlobalGuidance]]
 > The Swiss agricultural life cycle assessment ([[SALCA-SQ]]) model (Nemecek, von Richthofen et al. 2008) combines several indicators using a mechanistic process-based composite model into an SQI, but was not considered for inclusion in this assessment, as it was developed specifically for the Swiss context and relies mostly on expert knowledge and detailed primary data.

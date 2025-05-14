@@ -15,7 +15,7 @@ As prokaryotes, bacteria do not have a nucleus and their [[DNA]] is diffused in 
 
 
 ![[Bernard2025_Microorganisms_bacteria_anatomy.png|600]]
-There are 7 morphotypes of bacteria but 1 milion+ [[species]].
+There are 7 morphotypes of bacteria but 1 milion+ [[taxonomy]].
 
 The concept of species is difficult to apply to bacteria because they reproduce asexually, can mutate and can perform clonage.
 # Ecological functions

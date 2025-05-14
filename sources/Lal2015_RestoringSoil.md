@@ -9,7 +9,7 @@ itemKey: 6YDDJWLC
 > Restoring Soil Quality to Mitigate Soil Degradation
 > [[Lal, Rattan]], 
 > [[Sustainability]] (2015)
-> [[soil quality]], [[climate change]], [[desertification]], [[soil  carbon sequestration]], [[soil functions]], [[soil resilience]], [[soil]], 
+> [[soil quality]], [[climate change]], [[desertification]], [[soil  carbon sequestration]], [[soil function]], [[soil resilience]], [[soil]], 
 > [Online link](https://www.mdpi.com/2071-1050/7/5/5875), [Zotero Item](zotero://select/library/items/6YDDJWLC), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/IHIZXLCB/Lal2015_RestoringSoil.pdf), 
 
 >[!abstract]-

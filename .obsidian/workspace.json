@@ -4,204 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb1ecebe0d5cde3",
+        "id": "4ea88e4445d2425e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9d020a2c88312f",
+            "id": "27650299d5fd248a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/pressures on soils.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pressures on soils"
-            }
-          },
-          {
-            "id": "50b4765752e913a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/land use intensity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "land use intensity"
-            }
-          },
-          {
-            "id": "2afe7384af704dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/land management.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "land management"
-            }
-          },
-          {
-            "id": "82d2459aedf319d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/effect of land management practices on soil biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "effect of land management practices on soil biodiversity"
-            }
-          },
-          {
-            "id": "76df0e4b4beb191f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/soil biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "soil biodiversity"
-            }
-          },
-          {
-            "id": "c10d34f1ca1a7e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/earthworms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "earthworms"
-            }
-          },
-          {
-            "id": "de13638f43fb6639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/biomass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "biomass"
-            }
-          },
-          {
-            "id": "1ba143b56f38ac68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/fungus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "fungus"
-            }
-          },
-          {
-            "id": "c7122213f8ed5400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/habitat transformation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "habitat transformation"
-            }
-          },
-          {
-            "id": "ffd9e9bde6b80093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/mycorrhiza.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "mycorrhiza"
-            }
-          },
-          {
-            "id": "445d0071fa6a92d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/extinction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "extinction"
-            }
-          },
-          {
-            "id": "a05f5d0a2b7f3d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/biodiversity pressures weighting systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "biodiversity pressures weighting systems"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4a8b5d5734b23951",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7fd4e8236e371974",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Labouyrie2023_Patternssoil"
             }
           }
         ]
@@ -236,10 +54,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(intens land)",
+                "query": "primer",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -267,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -276,6 +94,7 @@
       {
         "id": "a61e629d925333df",
         "type": "tabs",
+        "dimension": 67.06864564007421,
         "children": [
           {
             "id": "8b868b031f631fda",
@@ -283,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +112,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Labouyrie2023_Patternssoil"
             }
           },
           {
@@ -301,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/land use intensity.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of land use intensity"
+              "title": "Outline of Labouyrie2023_Patternssoil"
             }
           },
           {
@@ -316,11 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Labouyrie2023_Patternssoil"
             }
           },
           {
@@ -342,15 +163,18 @@
       {
         "id": "587c041ea6877c38",
         "type": "tabs",
+        "dimension": 32.93135435992579,
         "children": [
           {
             "id": "02350dbab455fbf7",
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "sources/Labouyrie2023_Patternssoil.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Labouyrie2023_Patternssoil"
             }
           }
         ]
@@ -367,34 +191,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7fd4e8236e371974",
+  "active": "27650299d5fd248a",
   "lastOpenFiles": [
-    "concepts/land use intensity.md",
-    "New Text Document.txt",
-    "concepts/land management.md",
-    "concepts/land management test.md",
-    "Untitled.md",
-    "concepts/effect of land management practices on soil biodiversity.md",
-    "concepts/pressures on soils.md",
-    "concepts/soil biodiversity.md",
-    "concepts/earthworms.md",
-    "concepts/biomass.md",
-    "sources/Crowther2019_globalsoil.md",
-    "sources/Bahram2018_Structurefunction.md",
-    "concepts/fungus.md",
-    "concepts/food web.md",
-    "concepts/oligotrophy.md",
-    "concepts/soil.md",
-    "concepts/biological interaction.md",
-    "concepts/metaweb.md",
-    "sources/Saravia2022_Ecologicalnetwork.md",
-    "concepts/detritivore.md",
-    "concepts/carbon transformation.md",
-    "concepts/litter transformer.md",
+    "concepts/LUCAS.md",
+    "concepts/operational taxonomic unit.md",
+    "concepts/RNA.md",
+    "concepts/DNA metabarcoding.md",
+    "concepts/polymerase chain reaction.md",
+    "concepts/marker.md",
+    "concepts/DNA.md",
+    "primer.md",
+    "sources/drive5 - Robert C. Edgar Blog.md",
+    "sources/Labouyrie2023_Patternssoil.md",
+    "concepts/taxonomy.md",
+    "sources/Gevers2005_Reevaluatingprokaryotic.md",
+    "sources/Doolittle2006_Genomicsbacterial.md",
+    "concepts/PREDICTS.md",
+    "creators/DeepSDM 4 - Selene Cerna.md",
+    "creators/Hedde, Mickaël.md",
+    "creators/Deep SDM conference.md",
+    "creators/Cerna, Selene.md",
+    "attachments/wikipedia_taxonomy_.png",
+    "attachments/wikipedia_taxonomy.webp",
+    "concepts/biodiversity pressures weighting systems.md",
+    "concepts/species.md",
+    "concepts/extinction.md",
     "concepts/mycorrhiza.md",
-    "sources/Hinsinger2025_Rhizosphereroots.md",
-    "creators/Formation ecologie des sols.md",
-    "concepts/rhizosphere.md",
+    "concepts/habitat transformation.md",
+    "concepts/fungus.md",
+    "concepts/biomass.md",
+    "concepts/pressures on soils.md",
+    "New Text Document.txt",
     "attachments/Deep SDM 4_improvement_result_with_dataset.png",
     "attachments/Deep SDM 4_prediction_quality.png",
     "attachments/Deep SDM 4_soil_prediction.png",
@@ -403,8 +230,6 @@
     "attachments/Deep SDM 4_result.png",
     "attachments/Deep SDM 4_models_EOF.png",
     "attachments/Deep SDM 4_soil_challengs.png",
-    "attachments/Deep SDM 4_soil_biodiversity_prediction.png",
-    "attachments/Deep SDM 4_multi_species.png",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",
     "misc/checks",

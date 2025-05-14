@@ -15,7 +15,7 @@ itemKey: H5PB7KR5
 # Notes %% begin notes %%
 [[biodiversity]]
 [[ecosystem]]
-[[soil functions]]
+[[soil function]]
 [[soil]]
 [[land use]]
 %% end notes %%

@@ -2,17 +2,16 @@
 tags:
   - concept/definition
 aliases:
+- soil functionning
+- soil functions
 ---
-[[soil]] functions are the [[ecosystem function|supporting services]] to soil [[ecosystem]]s.
+The main four **soil functions** are:
+- [[carbon transformation]],
+- [[nutrient cycling]],
+- [[soil structure]],
+- [[biological regulation]] ([[Kibblewhite2007_Soilhealth]]).
 
-The main four soil functions are:
-- [[carbon transformation]]
-- [[nutrient cycling]]
-- [[soil structure]]
-- [[biological regulation]]
-
-[[Kibblewhite]] 2008
-
+## quotes
 [[Banwart2019_SoilFunctions]]
 > flows and transformations of mass, energy, and genetic information that connect soil to the wider critical zone, transmitting the impacts of human activity at the land surface and providing a control point for beneficial human intervention.
 

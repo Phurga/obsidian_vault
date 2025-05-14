@@ -8,7 +8,7 @@ The [[European Union Soil Observatory|EUSO]] has consolidated a map for **potent
 Three pressure scores are defined:
 - pressures on soil [[microorganism]]s
 - pressures on [[soil biodiversity#Taxonomic and morphological classification|soil fauna]]
-- pressures on [[soil functions]]
+- pressures on [[soil function]]
 
 These scores are calculated by weighting the effect of 13 [[pressures on soils]] affecting its biodiversity. Weights are defined by averaging the subjective scoring proposed by 91 experts in soil ecology, soil biology and other soil sciences.
 

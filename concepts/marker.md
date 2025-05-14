@@ -1,8 +1,10 @@
 ---
 tags:
   - concept/definition
+aliases:
+  - markers
 ---
-In DNA sequencing, a **marker** is a gene or group of [[genes]] used to identify a [[species]].
+In DNA sequencing, a **marker** is a gene or group of [[genes]] used to identify a [[taxonomy]].
 
 Markers are used in [[DNA metabarcoding]]. Different [[taxon]] are associated with different markers. 
 

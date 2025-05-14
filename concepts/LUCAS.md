@@ -11,3 +11,5 @@ LUCAS uses its own standardized land classification: [link](https://showvoc.op.e
 
 # soil module
 Used in [[Orgiazzi2022_LUCASSoil]], [[Labouyrie2023_Patternssoil]].
+## DNA samples
+Used in [[Labouyrie2023_Patternssoil]]: (raw dna data) https://www.ncbi.nlm.nih.gov/sra?LinkName=bioproject_sra_all&from_uid=952168

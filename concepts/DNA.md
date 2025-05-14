@@ -13,3 +13,6 @@ DNA is a [[DNA remanence|remanent]] molecule in soils (making it a stable source
 
 [wikipedia](https://en.wikipedia.org/wiki/DNA) image of a DNA strand.
 ![[wikipedia_DNA_structure.jpg]]
+
+See also
+[[RNA]]

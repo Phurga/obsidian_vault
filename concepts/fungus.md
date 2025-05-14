@@ -9,7 +9,7 @@ aliases:
   - mushroom
   - mushrooms
 ---
-**Fungi** (singular fungi) are [eukaryote]]s, [[heterotroph]]ic [[microorganism]]s. They show a high diversity of life forms and high functional diversity, filling many [[biotope|ecological niches]] over the world. There are most likely millions of fungi [[species]] in the world while only a few 100'000s have been named ([[Anthony2023_Enumeratingsoil]]). They feed of dispersed lignin materials in soils or live in symbiosis with plants (90% of terrestrial plants have symbiosis with fungi [[Bonfante2003_PlantsMycorrhizal]]).
+**Fungi** (singular fungi) are [eukaryote]]s, [[heterotroph]]ic [[microorganism]]s. They show a high diversity of life forms and high functional diversity, filling many [[biotope|ecological niches]] over the world. There are most likely millions of fungi [[taxonomy]] in the world while only a few 100'000s have been named ([[Anthony2023_Enumeratingsoil]]). They feed of dispersed lignin materials in soils or live in symbiosis with plants (90% of terrestrial plants have symbiosis with fungi [[Bonfante2003_PlantsMycorrhizal]]).
 
 Fungi can be unicellular (yeasts) or very large multicellular organisms, spreading via a network of **hyphae**, microscopic needle like structures 10 micrometer thick, constituting a meter (if not kilometer) long network called the **mycelium**. Mycelium is invisible to they eye, except when bundled in packets, showing as white small roots.
 

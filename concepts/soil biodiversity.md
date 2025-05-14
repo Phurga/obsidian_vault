@@ -16,7 +16,7 @@ Soil likely hosts 60% of global species [[Anthony2023_Enumeratingsoil]].
 [[FAO2020_Stateknowledge]]
 > - 1 gram of soil contains up to 1 billion bacteria cells, comprising tens of thousands of taxa, up to 200 metres of fungal hyphae, and a wide range of organisms including nematodes, earthworms and arthropods.
 > - More than 40% of living organisms in terrestrial ecosystems are associated during their life-cycle directly with soils (Decaëns et al., 2006). In fact, soils are one of the main global reservoirs of biodiversity (Bardgett and van der Putten, 2014; Carey, 2016).
-# Taxonomic and morphological classification
+## Taxonomic and morphological classification
 List of the main taxon present in the soil are the following, usually classified by size groups (morphology):
 - [[microorganism]]
 	- [[bacteria]] and [[archae]],
@@ -44,12 +44,12 @@ Example of organization for microbes communities around root cells:
 > Soil communities are hierarchical systems where various types of organisms populate critically different volumes of soil. This includes the micrometre-thick water film around soil particles that house aquatic organisms like bacteria, protists, nematodes and tardigrades (that is, the microfauna), the air-filled pore space for soil animals between 100 μm and 2 mm width (that is, the mesofauna), the hot-spots of nutrients and other resources around plant roots for microorganisms, and the macrofauna and megafauna that perceive soil as a whole in which they make passages that can penetrate all soil horizons across significant soil volumes (Pokarzhevskii et al., 2003). The main driving force of the high diversity of soil animals is this body size fractionation, but also their functional differentiation (Figure 2.2.1, and Figure 2.2.2). A variety of ecological niches in the soil, both in terms of size and in the range of resources provided, leads to a significant functional differentiation of soil organisms.
 
 
-# Functional classification
+## Functional classification
 Organismis can also be classified according to their ecological functions.
-## The soil food web
+### The soil food web
 The [[soil food web]] is a simplified model capturing soil biodiversity composition and structure, through its trophic chains.
 There can be classes in the trophic chain, with [[autotroph]], [[herbivores]], [[predators]] etc, see [[food web]].
-## Functional roles
+### Functional roles
 As part of the soil food web, groups are defined based on the main functional role (besides the position in the trophic chain). These groups include:
 - [[ecosystem engineer]], with large scales effects on the soil structure,
 - [[litter transformer]], digesting plant and animal litter and incorporating it in the soil,
@@ -57,5 +57,10 @@ As part of the soil food web, groups are defined based on the main functional ro
 
 [[Marsden2025_Introductionsoil]]
 ![[Marsden2025_Introduction_functional_groups.png]]
-# characterization techniques
-Soil organisms identification is challenging (opaque medium, microorganisms, deep and heterogeneous medium). Species identification and classification was challenging. Today, new techniques are invented to detect more animals, such as in [[situ soil imaging]] or [[metagenomics]].
+## soil organisms observation
+Soil organisms identification is challenging (opaque medium, microorganisms, deep and heterogeneous medium). 
+
+Species identification and classification was historically challenging. Today, new techniques are invented to detect more animals, such as in [[situ soil imaging]] or environmental [[DNA metabarcoding]].
+
+## see also
+[[protecting above-ground biodiversity is not always sufficient to protect soil biodiversity]]

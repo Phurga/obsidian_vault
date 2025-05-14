@@ -1,12 +1,12 @@
 ---
+tags:
+  - concept/definition
 aliases:
   - land transformation
   - land conversion
   - habitat loss
   - land use change
   - LUC
-tags:
-  - concept/definition
 ---
 **Habitat transformation** refers to the transformation of a local [[biotope]], habitat to native species, leading to its degradation (from the native species perspective). 
 

@@ -15,7 +15,7 @@ aliases:
 		3. soil horizons
 		4. [[soil formation]]
 		5. humus
-3. [[soil functions]]
+3. [[soil function]]
 	1. [[soil ecosystem service]]
 		1. [[bioaction]]
 		2. ...
