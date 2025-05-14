@@ -1,0 +1,30 @@
+---
+tags:
+  - concept/definition
+aliases:
+---
+Mentions [[instrinsic value]] of [[biodiversity|nature]] as a different concept than [[natural heritage]]. This I do not agree with because I cannot conceptualize intrinsic value of things, assuming that nature has a value beyond our relationship with it (i.e. we give it value).
+
+>[! Discussion with Arnaud, personal interpretation]
+There is a materialistic "use value" of nature, which we want to capture and measure through ecosystem services. The debate surrounding the qualification of an "intrinsic value" is maybe a semantic debate. Economists do not conceptualize "intrinsic value" since value is per definition given by humans, hence always in relation to us (not intrinsic). Ecologists want to describe nature functioning as a process beyond human influence or interest, and behind this "absolute" quantification a will to quantify degradations, especially anthropogenic ones, disturbing this functioning. This quantification should use an indicator that does not reflect human use or human perceived qualities but a neutral description of an ecological state.
+
+[[deBenoist2004_naturesa]] gives several sources and concepts to discuss intrinsic values of nature.
+> In environmentalist discourse, the notion of intrinsic value is generally used, somewhat loosely, in three different ways. 
+> In the first sense, intrinsic value is taken as synonymous with **non-instrumental value**: an object is endowed with intrinsic value when it is not an instrumental means to an end. This is the classic definition of the sovereign good: **it is a good in itself, because it is its own end**. This is the point of view adopted by the leading theorist of Deep Ecology, **Arne Naess**, when he writes: "The well-being of non-human life on Earth has a value in itself. This value is independent of any instrumental utility for limited human purposes "7. In a second sense, intrinsic value refers to the value possessed by an object by virtue of its intrinsic properties alone, independently of any instrumental use that may be made of it. An object's intrinsic properties are thus opposed to its relational properties. They are defined either as properties that persist in an object independently of the existence or non-existence of other objects, or as properties that can be grasped and characterized without reference to any other object8. Finally, the notion of "intrinsic value" can also be used as a synonym for absolute value. In this case, it refers to the value an object possesses independently of any evaluation made of it. This latter meaning is often mistakenly confused with the former9.
+> (...) The first way is the correct one.
+
+About the definition of intrinsic value
+> **Non-anthropocentric theories of intrinsic value are of two kinds**: the "hard" **objectivist** version, supported mainly by Paul W. Taylor12 and Holmes Rolston III13 , and the more moderate **subjectivist** version, whose main exponent is J. Baird Callicott14. 
+> The objectivist version is similar to modern Kantian ethics, which endeavors to establish universal rules that man must observe even if, in conscience, he does not personally adhere to them (as opposed to traditional virtue ethics, according to which man must train himself to develop a morally good character, because only a moral being can act morally). From this point of view, the intrinsic value of nature is an "objective" fact, which Holmes Rolston III, who also claims to be a neo-Darwinist, compares to the "laws of evolution". That this value exists independently of man means that it **is established beyond both individual judgments and cultural ideals**. Paul W. Taylor similarly asserts that the duty to preserve nature is imposed even on cultures that consider it not to be an obligation15. The fear underlying this assertion is that current environmentalist sentiment could one day disappear ("what would happen if people stopped finding nature beautiful?"). One of its correlates, taken up by Holmes Rolston III, is that there is only one intrinsic value. 
+> The subjectivist version, on the other hand, recognizes that **valuation always corresponds to an activity of human consciousness**. In this second version, the theory continues to assert that nature possesses a value that is independent of human activity, i.e. that it cannot be instrumentalized for human ends, but it also recognizes that this value is never more than a value conferred by conscious valuators. The term "**inherent value**" is more commonly used to describe this attributed value than "intrinsic value". This approach recognizes that the inherent value of nature, born of human valuing, depends largely on time and place, culture and people.
+
+About [[Baird Callicot, John]] stance:
+> His thesis is that intrinsic value is conferred on the natural world by people who value it for its own sake, and not according to their own self-interest. **Valuation therefore remains human**, but the **value "produced" is not anthropocentric**. Callicott defines inherent value as "the virtual value of nature actualized by interaction with consciousness "17 . He adds that **this value is "anthropogenic", but not anthropocentric**. "I admit," he writes, "that the source of all value is human consciousness, but it does not follow that the locus of all value is consciousness itself or a modality of consciousness such as pleasure, knowledge or reason. In other words, something can be endowed with value because someone values it, while finding itself valued for its own sake, and not as a function of the subjective experiential satisfaction (pleasure, knowledge, aesthetic satisfaction, etc.) brought to the valuer. Value is then subjective and affective, but also intentional and not self-referential "18.
+
+
+See :
+- [[Ness, Arne]] (philosopher on deep ecology)
+- [wikipedia](https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)#Total_intrinsic_value)
+- [reddit](https://www.reddit.com/r/askphilosophy/comments/1416hlc/how_could_there_ever_been_such_a_thing_as_an/)
+- [[Verones2017_LCIAframework]]
+- [[environmental ethics]]

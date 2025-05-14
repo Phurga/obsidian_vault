@@ -1,0 +1,21 @@
+{
+  "pathToPandoc": "C:\\Users\\aburg\\AppData\\Local\\Pandoc\\pandoc.EXE",
+  "tooltipDelay": 200,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1747136072604
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/the-lancet.csl",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "hideLinks": false,
+  "zoteroPort": "23119",
+  "pathToBibliography": ""
+}

@@ -1,0 +1,28 @@
+- Email
+	- with thunderbird
+	- sync personal and INRAE mail.
+	- inrae mail sync with https://intranet.inrae.fr/national/app/uploads/2020/03/Guide-dutilisation-messagerie-skype-intranet-ariane-v2.0-1.pdf
+	- added rule to filter pa@supagro.fr (Pour s'abonner, envoyer un mail à [sympa@supagro.fr](mailto:sympa@supagro.fr) en mettant "sub pa" dans le sujet.)
+	- archivage de tous les mails traités (shortcut a), suppression de tous les mails inutiles (shortcut suppr)
+- Events
+	- thunderbird
+- Instant messages on discord
+- Reference management
+	- Zotero (account to store reference and metadata, note files)
+	- betterbibtex for custom short names of references
+	- search for new articles: web of science for complex searches
+	- inciteful for graph views (available plugin)
+- Note taking
+	- Software: Obsidian
+	- Mardown for simplicity and future proofing (code)
+	- using image plugins (image toolkit, clear unused images, rename images)
+	- other plugins: advanced tables, diagrams, latex suite, text format, zotero integration, auto note mover
+	- zotero integration plugin import to get zotero articles metadata in notes (don't use properties its useless, use a metadata quote)
+		- metadata must not be modified manually, they are overwritten every time you import, you must modify metadata in zotero (source of truth), even aliases or tags
+	- todo note and meetings note
+	- tags and folders to organise (folders: sources, concepts, creators (authors, organisation, events), attachments, writing, miscellaneous)
+- Windows QoL:
+	- Hide task bar and add ElevenClock for permanent clock (with few custom settings)
+	- Added the Deepl app desktop to translate anything with ctrlCC
+	- added google drive desktop to sync my admin folder locally
+	- stopped using nextcloud because it was corrupting the zotero database and creating conflicts with obsidian files

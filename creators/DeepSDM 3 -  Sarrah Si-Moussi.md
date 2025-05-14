@@ -1,0 +1,10 @@
+---
+tags:
+  - creator/event
+---
+![[Deep SDM 4_multi_species.png]]
+
+Terrain Data : Topo DB
+Climate data : CHELSEA
+[[Si-Moussi, Sarrah]]
+[[species distribution model#Community SDM]]

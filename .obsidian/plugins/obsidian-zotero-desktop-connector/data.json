@@ -1,0 +1,31 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "sources",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #3",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "cslStyle": "the-lancet",
+      "brackets": true
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "new zotero note",
+      "outputPathTemplate": "sources/{{citekey}}.md",
+      "imageOutputPathTemplate": "attachments/",
+      "imageBaseNameTemplate": "{{citekey}}_",
+      "templatePath": "misc/templates/new literature note (zotero).md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "last-imported-note"
+}

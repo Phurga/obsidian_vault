@@ -1,0 +1,12 @@
+{
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "images",
+  "attachmentFolderPath": "attachments",
+  "spellcheck": false,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden"
+}

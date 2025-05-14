@@ -1,0 +1,25 @@
+---
+tags:
+  - source/journalArticle
+  - zotero
+doi: 10.1038/nature11226
+itemKey: 4YH985VA
+---
+>[!metadata]+
+> Universal species–area and endemics–area relationships at continental scales
+> [[Storch, David]], [[Keil, Petr]], [[Jetz, Walter]], 
+> [[Nature]] (2012)
+> [[Macroecology]], [[habitat suitability modeling]], [[species area relationship]], [[data]], [[z-values]], 
+> [Online link](https://www.nature.com/articles/nature11226), [Zotero Item](zotero://select/library/items/4YH985VA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KI45QZVR/Storch2012_Universalspecies.pdf), 
+
+>[!abstract]-
+>The change in number of terrestrial vertebrate species or endemics with sampled area is characterized by universal curves whose properties depend only on the mean geographic range size of species.
+
+# Notes %% begin notes %%
+Used in [[Kuipers2021_Consideringhabitat]] for SHR (species habitat relationships) values (ie z slopes in the SAR). These slopes are only used to link area and species and are ecoregion specific based on and do not account for land use.
+%% end notes %%
+
+
+
+
+%% Import Date: 2025-05-12T17:44:40.984+02:00 %%

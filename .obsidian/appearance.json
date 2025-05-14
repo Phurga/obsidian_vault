@@ -1,0 +1,11 @@
+{
+  "showRibbon": false,
+  "baseFontSize": 14,
+  "showViewHeader": false,
+  "accentColor": "#bea6f7",
+  "enabledCssSnippets": [
+    "bolder_bold",
+    "heading_size"
+  ],
+  "cssTheme": "Atom"
+}

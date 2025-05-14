@@ -1,0 +1,11 @@
+{
+  "useForwardLinks": true,
+  "useBackLinks": false,
+  "useTags": false,
+  "skipMOCs": false,
+  "MOCMaxLinks": 30,
+  "enableHighContrast": false,
+  "skipFolders": "",
+  "enableLinks": false,
+  "enableTransclusion": false
+}

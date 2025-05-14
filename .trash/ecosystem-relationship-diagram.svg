@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <!-- Circles/Ovals for concepts -->
+  <ellipse cx="200" cy="100" rx="120" ry="50" stroke="black" stroke-width="2" fill="none" />
+  <ellipse cx="400" cy="150" rx="140" ry="50" stroke="black" stroke-width="2" fill="none" />
+  <ellipse cx="200" cy="200" rx="120" ry="50" stroke="black" stroke-width="2" fill="none" />
+  <ellipse cx="200" cy="300" rx="140" ry="50" stroke="black" stroke-width="2" fill="none" />
+  
+  <!-- Arrows -->
+  <!-- Qualité des sols to Qualité des ecosystèmes -->
+  <path d="M 310 110 Q 340 125 370 135" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Qualité des sols to Biodiversité des sols (bi-directional) -->
+  <path d="M 180 150 Q 170 175 180 175" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M 220 175 Q 230 150 220 150" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Biodiversité des sols to Qualité des ecosystèmes -->
+  <path d="M 315 190 Q 350 175 370 165" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Changement climatique to Biodiversité des sols -->
+  <path d="M 190 250 Q 180 230 190 230" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Changement climatique to Qualité des ecosystèmes -->
+  <path d="M 330 280 Q 380 230 390 195" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Text labels -->
+  <text x="200" y="100" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="16">Qualité des sols</text>
+  <text x="400" y="150" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="16">Qualité des ecosystèmes</text>
+  <text x="200" y="200" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="16">Biodiversité des sols</text>
+  <text x="200" y="300" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="16">Changement climatique</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" />
+    </marker>
+  </defs>
+</svg>
