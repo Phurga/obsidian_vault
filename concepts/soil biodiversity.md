@@ -55,6 +55,8 @@ As part of the soil food web, groups are defined based on the main functional ro
 - [[litter transformer]], digesting plant and animal litter and incorporating it in the soil,
 - the [[microfood web]], made of [[microorganism]] and [[microfauna]].
 
+See [[Bonfanti2025_Linkingeffect]] for linking [[species trait]]s and ecological roles
+
 [[Marsden2025_Introductionsoil]]
 ![[Marsden2025_Introduction_functional_groups.png]]
 ## soil organisms observation

@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/Phurga/obsidian_vault.git",
   "gitLocation": "",
-  "syncinterval": 240,
+  "syncinterval": 120,
   "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }

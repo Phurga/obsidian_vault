@@ -19,7 +19,7 @@ itemKey: K8SXFW2R
 Use of [[operational taxonomic unit|OTU]] and [[DNA metabarcoding]]
 Uses [[LUCAS]]
 Definition of a land-use perturbation gradient (related to [[land use intensity]]).
-Extended documentation on effects of perturbations of environmental conditions (direct human or indirect such as climate change) on soil microrganisms communities. 
+Extended documentation on effects of perturbations of environmental conditions (direct human or indirect such as climate change) on soil microrganisms communities.
 
 > We propose guidelines for environmental policy actions and argue that taxonomical and functional diversity should be considered simultaneously for monitoring purposes.
 

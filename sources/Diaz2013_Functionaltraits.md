@@ -9,7 +9,7 @@ itemKey: I6YLMLYQ
 > Functional traits, the phylogeny of function, and ecosystem service vulnerability
 > [[Díaz, Sandra]], [[Purvis, Andy]], [[Cornelissen, Johannes H. C.]], [[Mace, Georgina M.]], [[Donoghue, Michael J.]], [[Ewers, Robert M.]], [[Jordano, Pedro]], [[Pearse, William D.]], 
 > [[Ecology and Evolution]] (2013)
-> [[biodiversity]], [[functional diversity]], [[Biodiversity loss]], [[functional traits]], [[ecosystem vulnerability]], [[phylogenetic conservatism]], [[specific effect function]], [[specific response function]], 
+> [[biodiversity]], [[functional diversity]], [[Biodiversity loss]], [[species trait]], [[ecosystem vulnerability]], [[phylogenetic conservatism]], [[specific effect function]], [[specific response function]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.601), [Zotero Item](zotero://select/library/items/I6YLMLYQ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LNLXGN4Z/Diaz2013_Functionaltraits.pdf), 
 
 >[!abstract]-
