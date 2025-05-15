@@ -37,6 +37,8 @@ Finds an increase in microbial richness in managed land vs in natural land (fore
 ![[Labouyrie2023_Patternssoil_land_use_intensity_gradient.png]]
 
 > The functional traits databases FAPROTAX[96](https://www.nature.com/articles/s41467-023-37937-4#ref-CR96 "Louca, S., Parfrey, L. W. & Doebeli, M. Decoupling function and taxonomy in the global ocean microbiome. Science 353, 1272–1277 (2016).") and FungalTraits[97](https://www.nature.com/articles/s41467-023-37937-4#ref-CR97 "Põlme, S. et al. FungalTraits: a user-friendly traits database of fungi and fungus-like stramenopiles. Fungal Diversity 105, 1–16 (2020).") were used to associate potential functions to bacterial zOTUs and fungal OTUs based on their taxonomy. Taxonomically unannotated bacterial zOTUs and fungal OTUs were not associated to any function and left as unknowns. For bacteria, FAPROTAX confidently associates a function to zOTUs identified at family, genus or species levels (i.e. a zOTU identified down to the order level is usually ignored by FAPROTAX, see the _Instructions_ section on [http://www.loucalab.com](http://www.loucalab.com)). For fungi, as described in Tedersoo et al.[7](https://www.nature.com/articles/s41467-023-37937-4#ref-CR7 "Hunt, H. W. & Wall, D. H. Modelling the effects of loss of soil biodiversity on ecosystem function: BIODIVERSITY and ECOSYSTEM FUNCTION. Glob. Change Biol. 8, 33–50 (2002)."), functional annotation of OTUs was performed at the level of genera for most fungal guilds.
+
+#data https://www.ncbi.nlm.nih.gov/sra?LinkName=bioproject_sra_all&from_uid=952168
 # References
 [[Tsiafouli2015_Intensiveagriculture]]
 [[Gardi2013_estimatepotential]]

@@ -3,7 +3,7 @@ tags:
   - concept/idea
 ---
 [[species richness]]
-[[biodiversity]]
+#data
 
 | Reference                        | Taxon                                  | Geography | data        | Used in                                                              | Comment                                    |
 | -------------------------------- | -------------------------------------- | --------- | ----------- | -------------------------------------------------------------------- | ------------------------------------------ |
@@ -14,3 +14,4 @@ tags:
 | [[IUCN2025_IUCNRed]]             | vertebrates, plants (specie presence)  | global    | shp         | [[Scherer2023_BiodiversityImpact]] and many others                   | gives location, vulnerability              |
 | [[BOLDSystems2025_Homepage]]     | all (OTU count)                        | global    | points      | [[Jabot2025_Usemassive]]                                             | [[operational taxonomic unit\|OTU]] (bins) |
 | [[Hudson2017_databasePREDICTS]]  |                                        |           |             |                                                                      | [[PREDICTS]]                               |
+| [[Orgiazzi2022_LUCASSoil]]       | fungi, bacteria OTU                    | europe    | points      |                                                                      |                                            |

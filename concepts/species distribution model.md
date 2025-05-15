@@ -59,7 +59,13 @@ Some sources:
 
 Using deep SDM is found to provide better results than classical statistical models, but are black boxes so they are hard to interpret : the model does not describe the [[biotope|ecological niche]] of the species. However this is a limited drawback since any way the classical correlative SDM are simply correlative and might not really define the niche.
 ![[SDM 2_correlation_predictor.png|600]]
+## INVEST
+**state of the art in [[ecosystem services]]**
 
+https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib69
+> Habitat quality is a proxy for biodiversity and refers to the ability of ecosystems to provide suitable conditions for individual and population (i.e., animals or plants) survival ([Hall et al., 1997](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib40)). The habitat quality is calculated for the three scenarios applying Equation [(4)](https://www.sciencedirect.com/science/article/pii/S0301479725006097#fd4), with the parameters shown in [Table S4](https://www.sciencedirect.com/science/article/pii/S0301479725006097#appsec1). This equation is based on the INVEST habitat quality model ([Sharp et al., 2014](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib69)), adapted to Norwegian conditions ([Hu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib47)).Eq. 4
+
+> HQ is the habitat quality per each scenario; the S score (i.e., SCONV and SCSA) represents the habitat suitability score from 0 to 1, with 0 being the lowest suitability; yCONV and yCSA represent the factor of area that the S score applies; and c is the threat level and scaling, equal for all scenarios. For CONV scenario, SCONV considers habitat suitability for rainfed cropland ([Hu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib47)). The CC scenario has ryegrass cover 50% of the time, from fall until termination in spring, and the SCSA considers the habitat suitability for fields with continuous cover ([Hu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib47)). For BZ, the SCSA represents the habitat suitability for tree-covered land ([Hu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib47)).
 ## Use in LCA
 Partial operationalization in LCIA, for mammals only: [[deBaan2015_HighResolutionAssessment]].
 ## ecological niche models and hemeroby
