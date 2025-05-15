@@ -13,6 +13,9 @@ itemKey: D74IAQS4
 > [Online link](https://www.nature.com/scitable/knowledge/library/characterizing-communities-13241173/), [Zotero Item](zotero://select/library/items/D74IAQS4), 
 
 # Notes %% begin notes %%
+[[measures of biodiversity]]
+> Three levels of diversity have been studied by community ecologists. Alpha diversity is within-habitat diversity. Beta diversity is between-habitat diversity. This refers to changes in diversity along an environmental gradient. Gamma diversity or large-scale landscape diversity combines alpha diversity and beta diversity.
+
 
 > All diversity indices are criticized because they combine the number of species and the relative species abundances for one area into a single index, confounding these variables (Ludwig & Reynolds 1988).
 

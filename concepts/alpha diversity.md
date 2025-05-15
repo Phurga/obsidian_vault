@@ -1,7 +1,15 @@
 ---
 tags:
   - concept/definition
+aliases: []
 ---
-**Alpha diversity** is one metric for [[species diversity]]. It focuses on diveristy within habitat.
+**Alpha diversity** is an [[measures of biodiversity|indicator]] of [[species richness]] found in a given [[biocenosis|ecological community]], i.e. measured for a local ecosystem. 
 
-See [[measures of biodiversity#indicators at different spatial scales]].
+It is measured by counting the species found in a delimited area (species inventories). 
+
+The area size is not defined and depends on the type of organism surveyed (e.g. birds vs bacteria). The choice of the area size will influence the results, as defined by the [[species-area-relationship]].
+
+Reference:
+[[Andermann2022_EstimatingAlpha]] ***
+[[Godet2017_Notiondebat]]
+[[Pyron2010_CharacterizingCommunities]]
