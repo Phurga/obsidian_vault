@@ -5,3 +5,5 @@ tags:
 **GLOBI** is a database for [[biological interaction]].
 
 https://www.globalbioticinteractions.org/
+
+ #data 

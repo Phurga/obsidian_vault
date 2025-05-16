@@ -9,6 +9,7 @@ nematodes are well studied and there are lots of data points in many global [[bi
 [files](file:\\\C:\Users\aburg\Documents\calculations\nematode_exploration)
 Based on [[Crowther2020_globaldatabase]].
 Source biomes: https://fr.wikipedia.org/wiki/%C3%89cor%C3%A9gion_terrestre_du_WWF
+Land cover map: [[WorldCover]]
 # Results
 
 ![[Burg2025_nematode_exploration_biome_map.png|600]]
@@ -16,6 +17,7 @@ Source biomes: https://fr.wikipedia.org/wiki/%C3%89cor%C3%A9gion_terrestre_du_WW
 ![[Burg2025_nematode_exploration_biome_count.png|600]]
 
 ![[Burg2025_nematode_exploration_ecoregion_count.png|600]]
+![[Burg2025_nematode_exploration_land_cover.png]]
 # Discussion
 The database focuses on [[species abudance]] and not on [[species richness]] which makes it impossible to extrapolate to [[relative species loss]].
 Maybe there could be indicators focusing on functional groups, such as [[food web|trophic groups]].

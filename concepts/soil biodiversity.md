@@ -3,7 +3,7 @@ tags:
   - concept/definition
 aliases:
   - soil organic composition
-  - soil biodiversity
+  - soil biological diversity
 ---
 **Soil biological diversity** refers to [[biodiversity]] inside the [[soil]].
 

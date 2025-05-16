@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#concept/definition  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#concept",
+      "query": "tag:#creator",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22725282035153926,
-  "close": false
+  "scale": 0.14623434258663134,
+  "close": true
 }

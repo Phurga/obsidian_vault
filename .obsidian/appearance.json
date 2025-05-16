@@ -5,7 +5,8 @@
   "accentColor": "#bea6f7",
   "enabledCssSnippets": [
     "bolder_bold",
-    "heading_size"
+    "heading_size",
+    "notitle"
   ],
   "cssTheme": "Atom"
 }

@@ -1,3 +1,7 @@
+---
+tags:
+  - concept/definition
+---
 Biodiversity is now usually presented as a multi-dimensional concept, going beyond [[species diversity]]. It also includes the [[genetic diversity]] (diversity of genes inside a species population) and [[ecosystem diversity]] (diversity of communities of species).
 
 This is the definition agreed on in the [[convention on biological diversity]]:

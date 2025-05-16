@@ -4,22 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb8b3e94925c1bb",
+        "id": "bdb264a4f8104a10",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6f1a4889885f94",
+            "id": "fb980360819a1365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "concepts/species distribution model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "beta diversity"
+              "title": "species distribution model"
+            }
+          },
+          {
+            "id": "6a78fdb81699658e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/land use.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "land use"
+            }
+          },
+          {
+            "id": "136569e0a80c6b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Burg2025_nematode_exploration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Burg2025_nematode_exploration"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1441b52cc3b4e6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fef0e69d95f1a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/LUCAS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "LUCAS"
             }
           }
         ]
@@ -54,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multidimension",
+                "query": "worldco",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -95,7 +146,6 @@
       {
         "id": "a61e629d925333df",
         "type": "tabs",
-        "dimension": 67.06864564007421,
         "children": [
           {
             "id": "8b868b031f631fda",
@@ -103,17 +153,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "concepts/land use.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for beta diversity"
+              "title": "Backlinks for land use"
             }
           },
           {
@@ -122,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "sources/Burg2025_nematode_exploration.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beta diversity"
+              "title": "Outline of Burg2025_nematode_exploration"
             }
           },
           {
@@ -137,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "concepts/land use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from beta diversity"
+              "title": "Outgoing links from land use"
             }
           },
           {
@@ -159,12 +209,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "587c041ea6877c38",
+        "id": "0c89e55f24bc43eb",
         "type": "tabs",
-        "dimension": 32.93135435992579,
         "children": [
           {
             "id": "02350dbab455fbf7",
@@ -172,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/beta diversity.md"
+                "file": "sources/Burg2025_nematode_exploration.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for beta diversity"
+              "title": "File properties for Burg2025_nematode_exploration"
             }
           }
         ]
@@ -192,34 +242,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8d6f1a4889885f94",
+  "active": "136569e0a80c6b8c",
   "lastOpenFiles": [
-    "misc/TODO.md",
-    "genes, species, ecosystems.md",
-    "concepts/ecosystem diversity.md",
-    "concepts/alpha and gamma diversity in RSL.md",
-    "concepts/LCA.md",
-    "concepts/LCIA.md",
-    "concepts/alpha diversity.md",
-    "misc/checks/check for duplicate itemkeys zotero.md",
-    "concepts/biodiversity.md",
-    "concepts/measures of biodiversity.md",
-    "nature and biodiversity.md",
-    "biodiversity dynamics.md",
-    "major realms of life.md",
-    "composition, structure, function.md",
-    "concepts/virus.md",
-    "sources/Woods2018_Ecosystemquality.md",
-    "concepts/soil.md",
-    "concepts/beta diversity.md",
-    "concepts/species richness.md",
-    "concepts/sorensen similarity index.md",
-    "concepts/list of datasets for organisms richness.md",
-    "concepts/compositional diversity.md",
-    "concepts/creation of eDNA maps from eDNA samples for species distribution models (SDM).md",
-    "concepts/biocenosis.md",
-    "concepts/ecosystem.md",
-    "sources/Andermann2022_EstimatingAlpha.md",
+    "attachments/Burg2025_nematode_exploration_land_cover.png",
+    "concepts/nematodes.md",
+    "concepts/WorldCover.md",
+    "concepts/land use.md",
+    "concepts/LUCAS.md",
+    "concepts/LCCS.md",
+    "sources/WorldCover2022_ProductUser.md",
+    "attachments/WorldCover2022_ProductUser_land_use_classification.png",
+    "creators/ISRIC.md",
+    "attachments/WorldCover_classification.png",
+    "sources/Tuanmu2014_global1km.md",
+    "concepts/EarthEnv.md",
+    "creators/Deep SDM conference.md",
+    "sources/Temme2011_Mappingmodelling.md",
+    "sources/Scherer2023_BiodiversityImpact.md",
+    "concepts/species distribution model.md",
+    "creators/DeepSDM 3 -  Sarrah Si-Moussi.md",
+    "concepts/deep species distribution model.md",
+    "concepts/composition, structure, function.md",
+    "concepts/soil biodiversity.md",
+    "sources/Bos2016_LANCACharacterization.md",
+    "concepts/major realms of life.md",
+    "concepts/biodiversity dynamics.md",
+    "concepts/nature and biodiversity.md",
+    "concepts/genes, species, ecosystems.md",
+    "creators/MCV.md",
+    "writing/Challenges in extending land use change impacts on biodiversity to soil organisms (abstract).md",
+    "sources/Vrasdonk2020_inclusionBiodiversity.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "attachments/wikipedia_taxonomy.webp",
@@ -229,8 +281,6 @@
     "attachments/Deep SDM 4_soil_prediction.png",
     "attachments/Deep SDM 4_land_cover.png",
     "attachments/Deep SDM 4_result_abundance.png",
-    "attachments/Deep SDM 4_result.png",
-    "attachments/Deep SDM 4_models_EOF.png",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",
     "misc/checks",
