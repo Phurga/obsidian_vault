@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Burg2025_nematode_exploration.md",
+                "file": "sources/VanDenHoogen2019_Soilnematode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Burg2025_nematode_exploration"
+              "title": "VanDenHoogen2019_Soilnematode"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/land use.md",
+                "file": "sources/VanDenHoogen2019_Soilnematode.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for land use"
+              "title": "Backlinks for VanDenHoogen2019_Soilnematode"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Burg2025_nematode_exploration.md",
+                "file": "sources/VanDenHoogen2019_Soilnematode.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Burg2025_nematode_exploration"
+              "title": "Outline of VanDenHoogen2019_Soilnematode"
             }
           },
           {
@@ -209,8 +209,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c89e55f24bc43eb",
@@ -222,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Burg2025_nematode_exploration.md"
+                "file": "sources/VanDenHoogen2019_Soilnematode.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Burg2025_nematode_exploration"
+              "title": "File properties for VanDenHoogen2019_Soilnematode"
             }
           }
         ]
@@ -244,11 +243,14 @@
   },
   "active": "136569e0a80c6b8c",
   "lastOpenFiles": [
+    "concepts/LUCAS.md",
+    "sources/VanDenHoogen2019_Soilnematode.md",
+    "sources/Crowther2020_globaldatabase.md",
+    "sources/Burg2025_nematode_exploration.md",
     "attachments/Burg2025_nematode_exploration_land_cover.png",
     "concepts/nematodes.md",
     "concepts/WorldCover.md",
     "concepts/land use.md",
-    "concepts/LUCAS.md",
     "concepts/LCCS.md",
     "sources/WorldCover2022_ProductUser.md",
     "attachments/WorldCover2022_ProductUser_land_use_classification.png",
@@ -270,8 +272,6 @@
     "concepts/nature and biodiversity.md",
     "concepts/genes, species, ecosystems.md",
     "creators/MCV.md",
-    "writing/Challenges in extending land use change impacts on biodiversity to soil organisms (abstract).md",
-    "sources/Vrasdonk2020_inclusionBiodiversity.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "attachments/wikipedia_taxonomy.webp",
@@ -280,7 +280,6 @@
     "attachments/Deep SDM 4_prediction_quality.png",
     "attachments/Deep SDM 4_soil_prediction.png",
     "attachments/Deep SDM 4_land_cover.png",
-    "attachments/Deep SDM 4_result_abundance.png",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",
     "misc/checks",
