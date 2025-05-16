@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "tag:#source OR tag:#concept",
+  "collapse-filter": false,
+  "search": "tag:#concept/definition  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -22,10 +22,10 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.82734375,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,

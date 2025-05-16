@@ -9,7 +9,7 @@ itemKey: 58ASAWWY
 > Fifteen forms of biodiversity trend in the Anthropocene
 > [[McGill, Brian J.]], [[Dornelas, Maria]], [[Gotelli, Nicholas J.]], [[Magurran, Anne E.]], 
 > [[Trends in Ecology & Evolution]] (2015)
-> [[species richness]], [[alpha diversity]], [[Anthropocene]], [[Beta diversity]], [[change]], [[landscape]], [[local]], [[loss]], [[meta-community]], [[region]], [[winners and losers]], 
+> [[species richness]], [[alpha diversity]], [[Anthropocene]], [[beta diversity]], [[change]], [[landscape]], [[local]], [[loss]], [[meta-community]], [[region]], [[winners and losers]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0169534714002456), [Zotero Item](zotero://select/library/items/58ASAWWY), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/E4Y52K7S/McGill2015_Fifteenforms.pdf), 
 
 >[!abstract]-

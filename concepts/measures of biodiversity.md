@@ -9,9 +9,10 @@ Because of the complexity and multiple dimensions of [[biodiversity]], there can
 [[McGill2015_Fifteenforms]]  proposes 15 trends/indicators for biodiversity monitoring.
 ## facets of biodiversity
 Three facets for biodiversity [[Godet2017_Notiondebat]]:
-- [[taxonomy|taxonomic]] (morphology)
+- [[taxonomy|taxonomic]] (species)
 - [[functional diversity]] (ecological functions, [[food web]])
 - [[phylogenetic diversity]] (evolutionary history)
+- [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
 Each facet should be quantified using different indicators.
 
 On the choice of the biodiversity indicator to use, [[Santini2017_Assessingsuitability]]:

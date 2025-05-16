@@ -4,96 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ff20d8c483d3ae21",
+        "id": "dcb8b3e94925c1bb",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa4c9dc2ed774d5",
+            "id": "8d6f1a4889885f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/alpha and gamma diversity in RSL.md",
+                "file": "concepts/beta diversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "alpha and gamma diversity in RSL"
-            }
-          },
-          {
-            "id": "d90a5c9faf5508f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/measures of biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "measures of biodiversity"
-            }
-          },
-          {
-            "id": "ff0919e49fa4f4b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/alpha diversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "alpha diversity"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "59c86647c49233b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4884efac1810107",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "concepts/measures of biodiversity.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.20021871622586068,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of measures of biodiversity"
+              "title": "beta diversity"
             }
           }
         ]
@@ -177,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "concepts/beta diversity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for measures of biodiversity"
+              "title": "Backlinks for beta diversity"
             }
           },
           {
@@ -196,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "concepts/beta diversity.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of measures of biodiversity"
+              "title": "Outline of beta diversity"
             }
           },
           {
@@ -211,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "concepts/beta diversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from measures of biodiversity"
+              "title": "Outgoing links from beta diversity"
             }
           },
           {
@@ -246,10 +172,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/measures of biodiversity.md"
+                "file": "concepts/beta diversity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for measures of biodiversity"
+              "title": "File properties for beta diversity"
             }
           }
         ]
@@ -266,12 +192,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f4884efac1810107",
+  "active": "8d6f1a4889885f94",
   "lastOpenFiles": [
+    "misc/TODO.md",
+    "genes, species, ecosystems.md",
+    "concepts/ecosystem diversity.md",
     "concepts/alpha and gamma diversity in RSL.md",
-    "concepts/measures of biodiversity.md",
-    "concepts/Beta diversity.md",
+    "concepts/LCA.md",
+    "concepts/LCIA.md",
     "concepts/alpha diversity.md",
+    "misc/checks/check for duplicate itemkeys zotero.md",
+    "concepts/biodiversity.md",
+    "concepts/measures of biodiversity.md",
+    "nature and biodiversity.md",
+    "biodiversity dynamics.md",
+    "major realms of life.md",
+    "composition, structure, function.md",
+    "concepts/virus.md",
+    "sources/Woods2018_Ecosystemquality.md",
+    "concepts/soil.md",
+    "concepts/beta diversity.md",
     "concepts/species richness.md",
     "concepts/sorensen similarity index.md",
     "concepts/list of datasets for organisms richness.md",
@@ -280,20 +220,6 @@
     "concepts/biocenosis.md",
     "concepts/ecosystem.md",
     "sources/Andermann2022_EstimatingAlpha.md",
-    "sources/Scherer2023_BiodiversityImpact.md",
-    "sources/Koellner2013_UNEPSETACguideline.md",
-    "concepts/species distribution model.md",
-    "creators/DeepSDM 4 - Selene Cerna.md",
-    "sources/Burg2025_nematode_exploration.md",
-    "sources/Crowther2020_globaldatabase.md",
-    "sources/Labouyrie2023_Patternssoil.md",
-    "concepts/Earth observation foundation (EOF) model.md",
-    "sources/Gardi2013_estimatepotential.md",
-    "creators/Gardi, Ciro.md",
-    "sources/Orgiazzi2016_knowledgebasedapproach.md",
-    "concepts/potential threats to biological functions.md",
-    "concepts/LUCAS.md",
-    "concepts/PREDICTS.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "attachments/wikipedia_taxonomy.webp",
