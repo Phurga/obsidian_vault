@@ -19,6 +19,24 @@ itemKey: 5P2DLPA4
  #data 
 One source of [[EarthEnv]]
 [[biodiversity]]
+Gives a map of **prevalence** of each land cover, meaning there can be multiple land cover on a single pixel, and this is more a probability.
+
+Classification
+
+| Class | Description                          |
+| ----- | ------------------------------------ |
+| 1     | Evergreen/Deciduous Needleleaf Trees |
+| 2     | Evergreen Broadleaf Trees            |
+| 3     | Deciduous Broadleaf Trees            |
+| 4     | Mixed/Other Trees                    |
+| 5     | Shrubs                               |
+| 6     | Herbaceous Vegetation                |
+| 7     | Cultivated and Managed Vegetation    |
+| 8     | Regularly Flooded Vegetation         |
+| 9     | Urban/Built-up                       |
+| 10    | Snow/Ice                             |
+| 11    | Barren                               |
+| 12    | Open Water                           |
 %% end notes %%
 
 

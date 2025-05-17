@@ -38,43 +38,22 @@
             }
           },
           {
-            "id": "136569e0a80c6b8c",
+            "id": "528dd4e508c88d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/VanDenHoogen2019_Soilnematode.md",
+                "file": "sources/Tuanmu2014_global1km.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "VanDenHoogen2019_Soilnematode"
+              "title": "Tuanmu2014_global1km"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "1441b52cc3b4e6a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fef0e69d95f1a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/LUCAS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "LUCAS"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/VanDenHoogen2019_Soilnematode.md",
+                "file": "sources/Tuanmu2014_global1km.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VanDenHoogen2019_Soilnematode"
+              "title": "Backlinks for Tuanmu2014_global1km"
             }
           },
           {
@@ -172,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/VanDenHoogen2019_Soilnematode.md",
+                "file": "sources/Tuanmu2014_global1km.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VanDenHoogen2019_Soilnematode"
+              "title": "Outline of Tuanmu2014_global1km"
             }
           },
           {
@@ -221,10 +200,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/VanDenHoogen2019_Soilnematode.md"
+                "file": "sources/Tuanmu2014_global1km.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for VanDenHoogen2019_Soilnematode"
+              "title": "File properties for Tuanmu2014_global1km"
             }
           }
         ]
@@ -241,20 +220,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "136569e0a80c6b8c",
+  "active": "528dd4e508c88d6a",
   "lastOpenFiles": [
-    "concepts/LUCAS.md",
+    "concepts/land use.md",
+    "ESRI.md",
+    "creators/ISRIC.md",
     "sources/VanDenHoogen2019_Soilnematode.md",
+    "concepts/LUCAS.md",
     "sources/Crowther2020_globaldatabase.md",
     "sources/Burg2025_nematode_exploration.md",
     "attachments/Burg2025_nematode_exploration_land_cover.png",
     "concepts/nematodes.md",
     "concepts/WorldCover.md",
-    "concepts/land use.md",
     "concepts/LCCS.md",
     "sources/WorldCover2022_ProductUser.md",
     "attachments/WorldCover2022_ProductUser_land_use_classification.png",
-    "creators/ISRIC.md",
     "attachments/WorldCover_classification.png",
     "sources/Tuanmu2014_global1km.md",
     "concepts/EarthEnv.md",
@@ -271,7 +251,6 @@
     "concepts/biodiversity dynamics.md",
     "concepts/nature and biodiversity.md",
     "concepts/genes, species, ecosystems.md",
-    "creators/MCV.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "attachments/wikipedia_taxonomy.webp",

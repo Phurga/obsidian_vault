@@ -51,10 +51,10 @@ Globally:
 The multiple land use classifications used in LCI databases (ecoinvent, agribalyse etc).
 ### datasets
 #### global
+[[WorldCover]], following the [[LCCS]] (public database)
 Globcover v. 2.1, following the LCCS (obsolete), used by [[deBaan2015_HighResolutionAssessment]]
-[[ISRIC]] land cover, following 
+[[ESRI]] land cover (private)
 [[EarthEnv]] land cover, following the 
-[[WorldCover]], following the LCCS
 https://blog.google/products/earth/dynamic-world-land-cover-data/ ([[google]])
 #### european
 [[LUCAS]]
