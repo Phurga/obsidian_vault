@@ -51,8 +51,19 @@ Globally:
 The multiple land use classifications used in LCI databases (ecoinvent, agribalyse etc).
 ### datasets
 #### global
+
+| Name                  | Time      | Link                                                                                                                                      | Note                                                         | Author               | resolution | land classification |
+| --------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------- | ---------- | ------------------- |
+| Globcover (2.3)       | 2009      | [link](https://developers.google.com/earth-engine/datasets/catalog/ESA_GLOBCOVER_L4_200901_200912_V2_3?hl=fr)                             | outdated but used by [[deBaan2015_HighResolutionAssessment]] | [[ESA]]              | 300m       |                     |
+| Copernicus CGLS LC100 | 2015-2019 | [link](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_Landcover_100m_Proba-V-C3_Global?hl=fr#description)         | outdated                                                     | [[ESA]] (copernicus) | 100m       | [[corine]]          |
+| [[WorldCover]]        | 2020-2021 | [link](https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200?hl=fr)                                             | see link                                                     | [[ESA]]              | 10m        | [[LCCS]]            |
+| [[EarthEnv]]          | 2014      | [link](https://www.earthenv.org/landcover)                                                                                                | outdated, based on globcover                                 | [[NASA]] and more    | 1km        |                     |
+| [[ESRI]] land cover   | 2017-2024 | [link](https://livingatlas.arcgis.com/landcoverexplorer/#mapCenter=137.15246%2C-35.87641%2C11&mode=step&timeExtent=2017%2C2024&year=2024) | from published of arcgis, so not in google earth engine      | [[ESRI]]             | 10m        |                     |
+| Dynamic world v1      | 2015-2024 |                                                                                                                                           |                                                              |                      |            |                     |
+
+
+
 [[WorldCover]], following the [[LCCS]] (public database)
-Globcover v. 2.1, following the LCCS (obsolete), used by [[deBaan2015_HighResolutionAssessment]]
 [[ESRI]] land cover (private)
 [[EarthEnv]] land cover, following the 
 https://blog.google/products/earth/dynamic-world-land-cover-data/ ([[google]])

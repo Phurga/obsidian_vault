@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "worldco",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Crowther2020_globaldatabase.md",
+                "file": "concepts/land use.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Crowther2020_globaldatabase"
+              "title": "Backlinks for land use"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Crowther2020_globaldatabase.md",
+                "file": "concepts/land use.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Crowther2020_globaldatabase"
+              "title": "Outline of land use"
             }
           },
           {
@@ -200,10 +200,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Crowther2020_globaldatabase.md"
+                "file": "concepts/land use.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Crowther2020_globaldatabase"
+              "title": "File properties for land use"
             }
           }
         ]
@@ -220,16 +220,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "528dd4e508c88d6a",
+  "active": "6a78fdb81699658e",
   "lastOpenFiles": [
-    "sources/VanDenHoogen2019_Soilnematode.md",
+    "concepts/remote sensing data sources.md",
+    "concepts/land use.md",
+    "concepts/LUCAS.md",
+    "concepts/EarthEnv.md",
     "sources/Crowther2020_globaldatabase.md",
+    "sources/VanDenHoogen2019_Soilnematode.md",
     "sources/Burg2025_nematode_exploration.md",
     "sources/Tuanmu2014_global1km.md",
-    "concepts/land use.md",
     "ESRI.md",
     "creators/ISRIC.md",
-    "concepts/LUCAS.md",
     "attachments/Burg2025_nematode_exploration_land_cover.png",
     "concepts/nematodes.md",
     "concepts/WorldCover.md",
@@ -237,7 +239,6 @@
     "sources/WorldCover2022_ProductUser.md",
     "attachments/WorldCover2022_ProductUser_land_use_classification.png",
     "attachments/WorldCover_classification.png",
-    "concepts/EarthEnv.md",
     "creators/Deep SDM conference.md",
     "sources/Temme2011_Mappingmodelling.md",
     "sources/Scherer2023_BiodiversityImpact.md",
@@ -250,7 +251,6 @@
     "concepts/major realms of life.md",
     "concepts/biodiversity dynamics.md",
     "concepts/nature and biodiversity.md",
-    "concepts/genes, species, ecosystems.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "attachments/wikipedia_taxonomy.webp",
