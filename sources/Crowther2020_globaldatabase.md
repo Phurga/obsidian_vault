@@ -17,6 +17,7 @@ itemKey: YCN2QH5M
 
 # Notes %% begin notes %%
 #data 
+article [link](https://www.nature.com/articles/s41597-020-0437-3)
 [files](file:\\\C:\Users\aburg\Documents\code\nematode_exploration\data)
 Article: [[VanDenHoogen2019_Soilnematode]]
 %% end notes %%
