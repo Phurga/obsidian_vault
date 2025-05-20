@@ -7,7 +7,7 @@ itemKey: MQV3WCHD
 ---
 >[!metadata]+
 > The global soil community and its influence on biogeochemistry
-> [[Crowther, T. W.]], [[Hoogen, Johan van den]], [[Wan, J.]], [[Mayes, M. A.]], [[Keiser, A. D.]], [[Mo, L.]], [[Averill, C.]], [[Maynard, D. S.]], 
+> [[Crowther, Thomas W.]], [[Hoogen, Johan van den]], [[Wan, J.]], [[Mayes, M. A.]], [[Keiser, A. D.]], [[Mo, L.]], [[Averill, C.]], [[Maynard, D. S.]], 
 > [[Science]] (2019)
 > [[soil]], [[soil ecology]], 
 > [Online link](https://www.science.org/doi/10.1126/science.aav0550), [Zotero Item](zotero://select/library/items/MQV3WCHD), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/6X4MBUBZ/Crowther2019_globalsoil.pdf), 
@@ -29,4 +29,4 @@ itemKey: MQV3WCHD
 	
 
 
-%% Import Date: 2025-04-30T11:27:53.312+02:00 %%
+%% Import Date: 2025-05-20T13:28:58.136+02:00 %%

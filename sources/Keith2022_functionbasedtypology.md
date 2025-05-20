@@ -18,6 +18,8 @@ itemKey: CQ2J3Y4D
 # Notes %% begin notes %%
 Available online at [Link](https://global-ecosystems.org)
 Used in the [[Kunming-Montreal Global Biodiversity Framework|GBF]] for target 1.
+google earth engine map available here: [link](https://developers.google.com/earth-engine/datasets/catalog/IUCN_GlobalEcosystemTypology_current?hl=fr#dois)
+Official ecosystem classificaiton for the [[IUCN]]
 # Quotes
 Together with ecosystem function, the identity of constituent biota is central to biodiversity concepts, conservation goals and human values[10](https://www.nature.com/articles/s41586-022-05318-4#ref-CR10 "Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets ‘Living in Harmony with Nature’ (United Nations Convention on Biological Diversity, 2010)."). Although ecosystem functions and ecological processes support both the diversity of biota and human well-being, global assessments of ecosystems[11](https://www.nature.com/articles/s41586-022-05318-4#ref-CR11 "Millennium Ecosystem Assessment. Ecosystems and Human Well-Being: Synthesis (Island Press, 2005)."),[12](https://www.nature.com/articles/s41586-022-05318-4#ref-CR12 "Díaz, S. et al. Summary for Policymakers of the Global Assessment Report on Biodiversity and Ecosystem Services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (Intergovernmental Panel on Biodiversity and Ecosystem Services, 2019).") continue to rely heavily on species metrics or simplistic land-cover proxies that convey limited information about ecosystems themselves. This limits our ability to diagnose trends and to design and resource on-ground management and policy solutions for slowing and reversing current declines in biodiversity and ecosystem services.
 
