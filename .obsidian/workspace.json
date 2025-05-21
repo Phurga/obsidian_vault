@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Burg2025_nematode_exploration.md",
+                "file": "Untitled.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Burg2025_nematode_exploration"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -191,11 +191,14 @@
   },
   "active": "3d81aa983266fb3f",
   "lastOpenFiles": [
-    "concepts/ecoregion.md",
+    "attachments/Burg2025_nematode_exploration_matrix_mean.png",
+    "attachments/Burg2025_nematode_exploration_matrix_count.png",
+    "sources/Crowther2020_globaldatabase.md",
     "sources/Burg2025_nematode_exploration.md",
+    "Untitled.md",
+    "concepts/ecoregion.md",
     "concepts/remote sensing data sources.md",
     "concepts/species distribution model.md",
-    "sources/Crowther2020_globaldatabase.md",
     "sources/Keith2022_functionbasedtypology.md",
     "creators/Crowther, Thomas W..md",
     "sources/VanDenHoogen2019_Soilnematode.md",
@@ -218,8 +221,6 @@
     "sources/Scherer2023_BiodiversityImpact.md",
     "creators/DeepSDM 3 -  Sarrah Si-Moussi.md",
     "concepts/deep species distribution model.md",
-    "concepts/composition, structure, function.md",
-    "concepts/soil biodiversity.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "attachments/wikipedia_taxonomy.webp",
@@ -227,7 +228,6 @@
     "attachments/Deep SDM 4_improvement_result_with_dataset.png",
     "attachments/Deep SDM 4_prediction_quality.png",
     "attachments/Deep SDM 4_soil_prediction.png",
-    "attachments/Deep SDM 4_land_cover.png",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",
     "misc/checks",
