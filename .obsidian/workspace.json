@@ -80,8 +80,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +190,8 @@
   },
   "active": "3d81aa983266fb3f",
   "lastOpenFiles": [
+    "attachments/Burg2025_nematode_exploration_worldcover_accuracy.png",
+    "attachments/Burg2025_nematode_exploration_matrix_mean.png",
     "attachments/Burg2025_nematode_exploration_matrix_mean.png",
     "attachments/Burg2025_nematode_exploration_matrix_count.png",
     "sources/Crowther2020_globaldatabase.md",
@@ -226,8 +227,6 @@
     "attachments/wikipedia_taxonomy.webp",
     "New Text Document.txt",
     "attachments/Deep SDM 4_improvement_result_with_dataset.png",
-    "attachments/Deep SDM 4_prediction_quality.png",
-    "attachments/Deep SDM 4_soil_prediction.png",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",
     "misc/checks",

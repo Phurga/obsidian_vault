@@ -21,7 +21,10 @@ Land cover map: [[WorldCover]]
 ![[Burg2025_nematode_exploration_matrix_count.png]]
 ![[Burg2025_nematode_exploration_matrix_mean.png]]
 
+![[Burg2025_nematode_exploration_worldcover_accuracy.png]]
+
+
 # Discussion
 The database focuses on [[species abudance]] and not on [[species richness]] which makes it impossible to extrapolate to [[relative species loss]].
 Maybe there could be indicators focusing on functional groups, such as [[food web|trophic groups]].
-The land cover dataset ([[WORLDCOVER]]) is accurate at 10m with sometimes local variates
+The land cover dataset ([[WORLDCOVER]]) is accurate at 10m with sometimes local 
