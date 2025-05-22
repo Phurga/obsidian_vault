@@ -5,6 +5,9 @@ tags:
 aliases:
 ---
 The soil [[food web]] is a simplified model representing the relations between [[soil biodiversity|soil species]] through throphic chains.
+
+In this model, organisms can be grouped by [[taxonomy|species]] but since species definitions are challenging for microorganisms, organisms can also be grouped by taxon (clades) and by trophic groups. It is usual to classify by functional roles too.
+## functional roles of soil organisms
 In this model, several classes are defined related to the function of species in the soil:
 1. [[autotroph|Primary producers]]are plants, and plant biomass is accessed through roots, but also some algae and bacteria. Plants produce sugar for their own direct function, but also send a portion of this energetic molecules as [[exudates]] through their roots to attract microorganisms for [[symbiotic]] processes.
 2. The [[microfood web]], composed of [[microorganism]] (bacteria, fungi), decompose these exudates and store nutrients in the [[rhizosphere]]. [[microfauna]] (protozoa and nematodes) feeds of these microorganisms.
@@ -15,7 +18,7 @@ In this model, several classes are defined related to the function of species in
 [[FAO2020_Stateknowledge]] representation of the soil food web
 ![[FAO2020_Stateknowledge_food_web.png|400]]
 
-Another representation of the soil food web [wikipedia](https://en.wikipedia.org/wiki/Food_web#Kinds_of_food_webs)
+Another representation of the soil food web [wikipedia](https://en.wikipedia.org/wiki/Food_web#Kinds_of_food_webs), using taxon as main elements, organised by trophic levels.
 ![[wikipedia_food_web.jpg|600]]
 
 Ecosystem around a root cell, mainly composed of microorganisms.

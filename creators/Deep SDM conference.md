@@ -17,5 +17,5 @@ Linked projects:
 # Sessions
 [[DeepSDM 1 - Devis Tuia]]
 [[DeepSDM 2 - Florian Hartig]]
-[[DeepSDM 3 -  Sarrah Si-Moussi]]
+[[DeepSDM 3 -  Sara Si-Moussi]]
 [[DeepSDM 4 - Selene Cerna]]

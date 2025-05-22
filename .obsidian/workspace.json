@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d81aa983266fb3f",
+            "id": "8bd1ad89132ec429",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/land use.md",
+                "file": "questions meeting sdm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "land use"
-            }
-          },
-          {
-            "id": "19f233ae8116c2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/CES OSO – THEIA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CES OSO – THEIA"
+              "title": "questions meeting sdm"
             }
           }
         ]
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sarrah",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -95,7 +80,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/land use.md",
+                "file": "questions meeting sdm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for land use"
+              "title": "Backlinks for questions meeting sdm"
             }
           },
           {
@@ -134,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/land use.md",
+                "file": "questions meeting sdm.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of land use"
+              "title": "Outline of questions meeting sdm"
             }
           },
           {
@@ -171,8 +157,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c89e55f24bc43eb",
@@ -184,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/land use.md"
+                "file": "questions meeting sdm.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for land use"
+              "title": "File properties for questions meeting sdm"
             }
           }
         ]
@@ -204,42 +189,42 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3d81aa983266fb3f",
+  "active": "8bd1ad89132ec429",
   "lastOpenFiles": [
+    "sources/Violle2007_Letconcept.md",
+    "sources/Hedde2022_commonframework.md",
+    "concepts/microbial loop.md",
+    "creators/Cerna, Selene.md",
+    "creators/Thuiller, Wilfried.md",
+    "creators/LECA.md",
+    "creators/Si-moussi, Sara.md",
+    "creators/DeepSDM 3 -  Sara Si-Moussi.md",
+    "questions meeting sdm.md",
+    "concepts/Earth observation foundation (EOF) model.md",
+    "Untitled.md",
+    "concepts/soil biodiversity.md",
+    "concepts/biodiversity.md",
+    "concepts/soil food web.md",
     "concepts/CES OSO – THEIA.md",
-    "Untitled 1.md",
-    "attachments/CES OSO  THEIA_land_classes.png",
+    "sources/Burg2025_nematode_exploration.md",
+    "creators/DeepSDM 4 - Selene Cerna.md",
     "concepts/land use.md",
+    "attachments/CES OSO  THEIA_land_classes.png",
     "concepts/remote sensing data sources.md",
     "remote sensing.md",
-    "sources/Burg2025_nematode_exploration.md",
     "attachments/Burg2025_nematode_exploration_worldcover_accuracy.png",
     "attachments/Burg2025_nematode_exploration_matrix_mean.png",
     "attachments/Burg2025_nematode_exploration_matrix_mean.png",
     "attachments/Burg2025_nematode_exploration_matrix_count.png",
     "sources/Crowther2020_globaldatabase.md",
-    "Untitled.md",
     "concepts/ecoregion.md",
     "concepts/species distribution model.md",
     "sources/Keith2022_functionbasedtypology.md",
     "creators/Crowther, Thomas W..md",
     "sources/VanDenHoogen2019_Soilnematode.md",
-    "sources/Crowther2019_globalsoil.md",
-    "concepts/LUCAS.md",
-    "concepts/EarthEnv.md",
-    "sources/Tuanmu2014_global1km.md",
-    "ESRI.md",
-    "creators/ISRIC.md",
     "attachments/Burg2025_nematode_exploration_land_cover.png",
-    "concepts/nematodes.md",
-    "concepts/WorldCover.md",
-    "concepts/LCCS.md",
-    "sources/WorldCover2022_ProductUser.md",
     "attachments/WorldCover2022_ProductUser_land_use_classification.png",
     "attachments/WorldCover_classification.png",
-    "creators/Deep SDM conference.md",
-    "sources/Temme2011_Mappingmodelling.md",
-    "sources/Scherer2023_BiodiversityImpact.md",
     "attachments/Bonfanti2025_Linkingeffect_traits_som_functions.jpg",
     "attachments/wikipedia_taxonomy_.png",
     "New Text Document.txt",

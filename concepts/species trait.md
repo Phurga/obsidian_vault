@@ -10,6 +10,9 @@ tags:
 ---
 **Species traits** are measurable features (characteristics) of organisms. [[Violle2007_Letconcept]], [[Bonfanti2025_Linkingeffect]]. 
 
+[[Violle2007_Letconcept]]
+> “Functional traits” are defined as morpho-physio-phenological traits which impact fitness indirectly via their effects on growth, reproduction and survival, the three components of individual performance.
+
 Examples:
 - for plants: leaf size, root depth. 
 - for animals : body size, respiration rate. f
