@@ -2,6 +2,8 @@
 tags:
   - concept/definition
 ---
+[[remote sensing]] #data 
+
 [[NASA]]
 - Landsat
 - MODIS

@@ -69,6 +69,8 @@ The multiple land use classifications used in LCI databases (ecoinvent, agribaly
 https://blog.google/products/earth/dynamic-world-land-cover-data/ ([[google]])
 #### european
 [[LUCAS]]
+### france
+[[CES OSO – THEIA]]
 ## quantification
 Land use is considered to be an occupation of land and occupation infers a use over time. This means the conventional unit for land use is **surface multiplied with time** (e.g. ha.year).
 
