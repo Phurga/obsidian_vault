@@ -12,6 +12,8 @@ Source biomes: https://fr.wikipedia.org/wiki/%C3%89cor%C3%A9gion_terrestre_du_WW
 Land cover map: [[WorldCover]]
 ## Results
 
+![[Burg2025_nematode_exploration_fr_map.png]]
+
 ![[Burg2025_nematode_exploration_biome_map.png|600]]
 
 ![[Burg2025_nematode_exploration_biome_count.png|600]]

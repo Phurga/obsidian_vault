@@ -8,8 +8,7 @@ tags:
   - concept/definition
 ---
 **Land use** is the occupation of land for human use, as opposed to natural land. Land use is usually classified in **land use classes**, usually following a hierarchical organization of increasing refinement.
-## classification
-### land use classes
+## land use classes
 The main land uses and associated classes are :
 - [[forestry]], also named managed forest land,
 - [[agriculture]], also named agricultural land, usually subdivided into:
@@ -24,7 +23,7 @@ These classes are usually subclassified depending on [[land use intensity]], for
 Some land show heterogeneous patterns and are difficult to classify, or lead to new mixed classes, such as mozaic agriculture, used for agroforestry or landscapes including arable land and hedgerows.
 
 >[!warning] Some land use class systems include non used land, such as primary forest or natural land. This is correct for general use but should not appear in any [[LCI]] because by definition, if it appears in the LCI, it is used for human systems. Semi-natural land can appear in LCIs.
-### land cover classes
+## land cover classes
 Land can also be classified according to its bio-physical coverage rather than its socioeconomic use. In that case, non-used land are classified and we are talking about land cover.
 Land cover classes include:
 - forest land,
@@ -33,23 +32,24 @@ Land cover classes include:
 - agricultural area,
 - artificial area,
 - wetlands,
-### standard classifications
-In Europe:
+### standards
+#### european
 - The simplified land cover used in the [[ESA WORLD COVER dataset]]
 - The CORINE land cover class recommended to be used by the European Environment Agency. It is apparently superseded with 
-- the EUNIS classification at European level [link here](https://inpn.mnhn.fr/habitat/cd_typo/7?lg=en) or 
+- the [[EUNIS]] classification at European level [link here](https://inpn.mnhn.fr/habitat/cd_typo/7?lg=en) or 
 - the [[LUCAS]] classification ([link here](https://showvoc.op.europa.eu/#/datasets/ESTAT_LUCAS_Classification_2022_%28LUCAS_SU_LC_%2B_LU_%2B_FT%29/data)).
+- IUCN habitat classes, [[IUCN2025_HabitatsClassification]]
 
 Corine classification:
 ![[EEA_CORINE_land_cover_classes.png|300]]
-Globally:
+#### global
 - The [[LCCS]] developped by the UN.
 - There is IPCC land use classification.
 - The GLAM land use classification.
 
-[[conflict land use classes IPCC and GLAM]]
-The multiple land use classifications used in LCI databases (ecoinvent, agribalyse etc).
+>[!warning] due to a lack of standards in LCA, there is a [[conflict land use classes IPCC and GLAM]] leading to multiple land use classifications used in LCI databases (ecoinvent, agribalyse etc).
 ### datasets
+#data 
 #### global
 
 | Name                  | Time      | Link                                                                                                                                      | Note                                                         | Author               | resolution | land classification |
@@ -59,7 +59,7 @@ The multiple land use classifications used in LCI databases (ecoinvent, agribaly
 | [[WorldCover]]        | 2020-2021 | [link](https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200?hl=fr)                                             | see link                                                     | [[ESA]]              | 10m        | [[LCCS]]            |
 | [[EarthEnv]]          | 2014      | [link](https://www.earthenv.org/landcover)                                                                                                | outdated, based on globcover                                 | [[NASA]] and more    | 1km        |                     |
 | [[ESRI]] land cover   | 2017-2024 | [link](https://livingatlas.arcgis.com/landcoverexplorer/#mapCenter=137.15246%2C-35.87641%2C11&mode=step&timeExtent=2017%2C2024&year=2024) | from published of arcgis, so not in google earth engine      | [[ESRI]]             | 10m        |                     |
-| Dynamic world v1      | 2015-2024 |                                                                                                                                           |                                                              |                      |            |                     |
+| Dynamic world v1      | 2015-2024 |                                                                                                                                           | great time representativeness                                | Google               | 10m        |                     |
 
 
 
@@ -69,16 +69,16 @@ The multiple land use classifications used in LCI databases (ecoinvent, agribaly
 https://blog.google/products/earth/dynamic-world-land-cover-data/ ([[google]])
 #### european
 [[LUCAS]]
-### france
+#### france
 [[CES OSO – THEIA]]
 ## quantification
 Land use is considered to be an occupation of land and occupation infers a use over time. This means the conventional unit for land use is **surface multiplied with time** (e.g. ha.year).
 
-Some studies measure land use in ha, assuming implicitely a result for one year. This can be misleading when the occupation does not occur for a full year, such as for agricultural land with crop rotations, and when the occupation occurs for more than one year, such as for forestry with trees occupying land for decades. 
+>[!warning] Some studies measure land use in ha, assuming implicitely a result for one year. This can be misleading when the occupation does not occur for a full year, such as for agricultural land with crop rotations, and when the occupation occurs for more than one year, such as for forestry with trees occupying land for decades. 
 ## impacts of land use in LCA
 See [[LCIA method for land use impacts on ecosystem quality]]
 
-## Global land use
+## global land use stats
 ![[OurWorldInData2019_global_land_use_food.png|600]]
 ## See also
 [[habitat transformation|land use change]]

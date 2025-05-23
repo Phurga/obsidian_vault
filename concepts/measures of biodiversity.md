@@ -25,8 +25,9 @@ Indicators used in [[DeBaan2013_Landuse]] (and other studies):
 	- [[relative species loss ]](PDF)
 - [[species abudance]]
 	- [[mean species abundance]] (MSA)
-- [[species diversity]]
+- richness and abundance combined ([[species diversity]])
 	- [[shannon index]]
+- compos
 	- [[sorensen similarity index]]
 	- [[fischer alpha]]
 	

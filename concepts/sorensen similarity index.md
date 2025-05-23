@@ -4,6 +4,7 @@ tags:
 authors:
   - sorensen index
   - sørensen index
+  - sorensen dissimilarity
 ---
 The **Sorensen similarity index** is a metric used to assess the similarity between two sets of data, especially species abundance in a community. It is an index whose value ranges between 0 and 1, reaching 1 when both datasets are identical.
 
@@ -16,3 +17,5 @@ This formula applies for richness, since we assess presence or absence of a spec
 For numerical data, such as abundance of species (Ab):
 ![[Santini2017_Assessingsuitability_sorensen formula.png]]
 where Ab is the abudance and Nsp the number of species, 1 the original environment and 2 the new environment.
+## use in ecology
+In practice, it is used to study the similarity between two [[biocenosis|ecological community]], and in particular, the "dissimilarity index" is used to monitor impacts of a variable on community structure ([[beta diversity]]).
