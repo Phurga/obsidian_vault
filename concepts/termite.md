@@ -8,7 +8,7 @@ aliases:
 - wood feeder
 - soil feeder
 - foragers (interface soil-wood)
-- mushroom growers ([[biological interaction]] with [[fungus|fungus]] to digest wood, termites give wooden debris to a fungus that predigests it).
+- mushroom growers ([[symbiosis]] with [[fungus|fungus]] to digest wood, termites give wooden debris to a fungus that predigests it).
 
 Termites can improve [[nutrient cycling]] and are important [[ecosystem engineer]] as they build galleries and nests, leading to [[soil decompaction]] (better aeration, drainage, root penetration).
 

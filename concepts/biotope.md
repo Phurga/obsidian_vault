@@ -11,7 +11,7 @@ tags:
 ---
 A **biotope** is a set of stable environmental conditions.
 # Related definitions
-A biotope hosts a community of organisms, living sustainably: its [[biocenosis]].
+A biotope hosts a community of organisms, living sustainably: its [[ecological composition]].
 
 An **ecological niche** is the theoretical biotope specific to a species or group of species, it is the **habitat** of a species.
 

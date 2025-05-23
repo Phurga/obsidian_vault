@@ -24,4 +24,4 @@ Main targets include:
 Indicators are documented here [[UNEP2025_Indicatorsrepository]]
 
 Target 1: [[red list of ecosystems]]
-Target 4: [[population size and genetic diversity|proportion of populations within species with an effective population size over 500]]
+Target 4: [[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]]

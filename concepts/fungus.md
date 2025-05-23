@@ -13,7 +13,7 @@ aliases:
 
 Fungi can be unicellular (yeasts) or very large multicellular organisms, spreading via a network of **hyphae**, microscopic needle like structures 10 micrometer thick, constituting a meter (if not kilometer) long network called the **mycelium**. Mycelium is invisible to they eye, except when bundled in packets, showing as white small roots.
 
-Many fungi live in a [[biological interaction|symbiotic relationship]]s with other organisms. The most important interaction is with plants: fungi form [[mycorrhiza]]s and exchange nutrients or water for energy with their host. Fungi can live in interaction with algae or cyanobacteriae, creating a lichen.
+Many fungi live in a [[symbiosis|symbiotic relationship]]s with other organisms. The most important interaction is with plants: fungi form [[mycorrhiza]]s and exchange nutrients or water for energy with their host. Fungi can live in interaction with algae or cyanobacteriae, creating a lichen.
 
 Fungi disperse via spores, emitted by their above ground fruits (the **mushroom**), or via organic growth via hyphae with exploration strategies maximinzing surface area in a volume or on a surface. 
 

@@ -9,7 +9,7 @@ aliases:
   - endomycorrhiza
   - ectomycorrhiza
 ---
-A **mycorrhiza** is a mutualist [[biological interaction|symbiotic relationship]] between a [[plant]] and a [[fungus]] in the [[rhizosphere]] (constituting a **mycorrhizosphere**). The fungi will primarily allow for increased soil exploration, increase soil structure and water retention, provide water and nutrient (especially [[phosphorus]]) to the plant. The plant can refuse the mycorrhize if they do not need it.
+A **mycorrhiza** is a mutualist [[symbiosis|symbiotic relationship]] between a [[plant]] and a [[fungus]] in the [[rhizosphere]] (constituting a **mycorrhizosphere**). The fungi will primarily allow for increased soil exploration, increase soil structure and water retention, provide water and nutrient (especially [[phosphorus]]) to the plant. The plant can refuse the mycorrhize if they do not need it.
 
 Fungi (and generally microorgs) are very widespread on earth. But still soy (from Asia) would not create nodules (symbiosis with bacteria) in South America before the bacteria was inoculated.
 # endo and ecto mycorrhiza

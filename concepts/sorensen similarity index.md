@@ -17,5 +17,9 @@ This formula applies for richness, since we assess presence or absence of a spec
 For numerical data, such as abundance of species (Ab):
 ![[Santini2017_Assessingsuitability_sorensen formula.png]]
 where Ab is the abudance and Nsp the number of species, 1 the original environment and 2 the new environment.
+
+>[!tip] nice !
+>This index avoids missing changes in composition that could highligh ecological disruptions when there are compensating effects on richness or mean abundances !
+
 ## use in ecology
-In practice, it is used to study the similarity between two [[biocenosis|ecological community]], and in particular, the "dissimilarity index" is used to monitor impacts of a variable on community structure ([[beta diversity]]).
+In practice, it is used to study the similarity between two [[ecological composition|ecological community]], and in particular, the "dissimilarity index" is used to monitor impacts of a variable on community structure ([[beta diversity]]).

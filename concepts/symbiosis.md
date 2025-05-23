@@ -3,7 +3,6 @@ tags:
   - concept/definition
 aliases:
   - symbiotic relationship
-  - symbiosis
   - symbiont
   - symbiote
 ---

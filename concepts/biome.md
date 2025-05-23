@@ -5,7 +5,7 @@ aliases:
   - habitat type
   - major habitat type
 ---
-A biome is a set of [[ecosystem]]s with consistent a [[biotope]] and [[biocenosis]], it is also named "habitat type" or "major habitat type".
+A biome is a set of [[ecosystem]]s with consistent a [[biotope]] and [[ecological composition]], it is also named "habitat type" or "major habitat type".
 
 According to [[Olson2001_TerrestrialEcoregions]], there are 14 major habitat types:
 - 01. Tropical and subtropical moist deciduous forests

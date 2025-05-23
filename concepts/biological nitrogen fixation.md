@@ -10,7 +10,7 @@ aliases:
 
 This process is energy intensive, requiring energy in the form of [[ATP]]. ATP molecules require [[phosphorus]], thus nitrogenase requires phosphorus availability, and can be P-limited. 
 
-Microorganisms can enter [[biological interaction|symbiotic relationship]]s with plants, using plant's energy to perform the nitrogenase in exchange for ammonia stored in nodules ([[rhizobacteria]] and [[Azospirillum]]), use photosynthesis ([[cyanobacteria]]) or oxidize surrounding organic molecules ([[azotobacter]]).
+Microorganisms can enter [[symbiosis|symbiotic relationship]]s with plants, using plant's energy to perform the nitrogenase in exchange for ammonia stored in nodules ([[rhizobacteria]] and [[Azospirillum]]), use photosynthesis ([[cyanobacteria]]) or oxidize surrounding organic molecules ([[azotobacter]]).
 
 Bacteria fixing: [[rhizobacteria]] (legumes), [[azotobacter]] (free living), [[Azospirillum]] (grasses/cereals), [[cyanobacteria]] (autotroph)
 Fungi fixing #todo/refneeded [[FAO2020_Stateknowledge]]

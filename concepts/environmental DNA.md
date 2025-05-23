@@ -20,7 +20,7 @@ DNA barcoding vs DNA metabarcoding
 metagenomics illustration
 ![[Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp|600]]
 
-It is used to detect the presence of organisms, living or recently dead due to [[DNA remanence]], and thus detect [[taxonomy]] presence to derive local [[compositional diversity]] metrics.
+It is used to detect the presence of organisms, living or recently dead due to [[DNA remanence]], and thus detect [[taxonomy]] presence to derive local [[ecological composition]] metrics.
 
 metagenomics vs DNA metabarcoding [wikipedia](https://en.wikipedia.org/wiki/Metagenomics)
 > The main difference is the underlying methodology, since metagenomics targets all DNA in a sample, while \[barcoding or metabarcoding] amplifies and sequences one or multiple specific genes.

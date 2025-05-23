@@ -19,7 +19,7 @@ tags:
 - probleme: sentiment que la perte d'espece ce n'est pas pertinent pour les microorganismes
 	- envie de focus sur la fonctionalité des ecoysystèmes
 - potentiel sur la diversité des ecosystemes [[red list of ecosystems]]
-- potentiel sur la diversité génétique [[population size and genetic diversity|proportion of populations within species with an effective population size over 500]]
+- potentiel sur la diversité génétique [[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]]
 	- supporté par la relation [[occupancy abundance relationship]] (pas exploré en ACV?)
 
 

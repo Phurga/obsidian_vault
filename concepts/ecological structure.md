@@ -4,7 +4,7 @@ tags:
 aliases:
   - interactional value of biodiversity
 ---
-[[Biodiversity]] is not only characterized by [[compositional diversity]] but also by **structural diversity**, that is the diversity of [[biological interaction]]s.
+[[Biodiversity]] is not only characterized by [[ecological composition|compositional]] aspects but but also by **structural** aspects, i.e., that is the diversity of [[symbiosis]]s.
 
 [[Hedde, Mickaël]] and [[Bernard, Laetitia]] for instance insists on the **interactional value of biodiversity**. An indicator for biodiversity beyond species can be species interactions, currently estimated via [[cooccurence]].
 

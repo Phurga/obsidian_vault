@@ -32,7 +32,7 @@ Visualisation of the rhizosphere volume for several plants [[Hinsinger2025_Rhizo
 ![[Hinsinger2025_Rhizosphere_examples_kutschera.png|600]]
 
 Noteworthy elements in soil obstructing root exploration : rocks, [[tillage]] sole, [[water table]] (nappe phreatique) inducing O2 scarcity.
-Plants compete for resources, but also compliment each other ([[facilitation]], [[biological interaction]]).
+Plants compete for resources, but also compliment each other ([[facilitation]], [[symbiosis]]).
 
 Roots grow at their apex, and have high exsudation at these locations. 
 ## Biomass
@@ -41,7 +41,7 @@ Plant below ground [[biomass]] is 40% of of total plant biomass (20-80%), highly
 Most of soil biomass is [[rhizodeposition]]. But most plant biomass is above ground. But my assumption is that litter is incorporated in soil with a lower efficiency, as there are more intermediate organisms mineralizing the biomass. See [[Chevallier2025_Organicmatters]].
 
 ## Symbiosis
-Plants can perform [[biological interaction|symbiotic relationship]] with bacteria, forming [[nodules]], and fungi, forming [[mycorrhiza]]s.
+Plants can perform [[symbiosis|symbiotic relationship]] with bacteria, forming [[nodules]], and fungi, forming [[mycorrhiza]]s.
 
 Roots do not merge with other roots (organism exclusive). Some woody plants can have connecting roots (information sharing), or connect via ]]rhizes.
 # Rhizosphere observations

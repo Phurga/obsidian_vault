@@ -9,7 +9,7 @@ aliases:
   - oligotrophy
   - oligotrophic
 ---
-The **food web** (or **trophic web**) is a way of representing [[biological interaction]]s based on organisms food sources.
+The **food web** (or **trophic web**) is a way of representing [[symbiosis]]s based on organisms food sources.
 
 The term food web is more suited than **food chains** (or **trophic chain**) since the chain concept is too simple to model the complex interactions (one species can be a prey to numerous predators at different trophic levels).
 
@@ -30,6 +30,6 @@ Food chain classification and representation
 ![[wikipedia_trophic_web.jpg|500]]
 
 ## ecological networks beyond the food web
-The food web is based on predation, and is thus an ecological network based on only one of several possible [[biological interaction]]s (mutualism, parasitism).
+The food web is based on predation, and is thus an ecological network based on only one of several possible [[symbiosis]]s (mutualism, parasitism).
 
 The [[metaweb]].

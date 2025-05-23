@@ -37,17 +37,17 @@ Some datasources quoted in [[DeepSDM 1 - Devis Tuia]]
 ![[DeepSDM 1_rasters.png|300]]
 
 ## fundamental vs realized niche
-ecological niche modelling would define a *fundamental* niche based on environmental parameters, but the *realized* niche is different (smaller) given there are [[biological interaction]]s, such as competition, in the natural environment
+ecological niche modelling would define a *fundamental* niche based on environmental parameters, but the *realized* niche is different (smaller) given there are [[symbiosis]]s, such as competition, in the natural environment
 
 ![[SDM 2_niche.png]]
 ## environmental factors are not the only parameters in SDM
-Generally, one should consider not only environmental parameters to predict the presence of one species, but also the [[biocenosis|biotic community]] (assemblage) and also the available space for the species (see [[species-area-relationship]]), this leads to the creation of [[species distribution model#Community SDM]].
+Generally, one should consider not only environmental parameters to predict the presence of one species, but also the [[ecological composition|biotic community]] (assemblage) and also the available space for the species (see [[species-area-relationship]]), this leads to the creation of [[species distribution model#Community SDM]].
 ![[SDM 2_find_specie_von.png|600]]
 
 ## Community SDM
-SDMs can be used to model an [[biocenosis|ecological community]]. A **stacked SDM (S-SDM)** is a union of species-specific SDMs. A **joint SDM (jSDM)** is an enhanced S-SDM where there is a connexion between the SDMs, allowing for a "sharing" of information across connected species (eg prey-predators).
+SDMs can be used to model an [[ecological composition|ecological community]]. A **stacked SDM (S-SDM)** is a union of species-specific SDMs. A **joint SDM (jSDM)** is an enhanced S-SDM where there is a connexion between the SDMs, allowing for a "sharing" of information across connected species (eg prey-predators).
  ![[Deep SDM 4_multi_species.png]]
-Creating these models requires information about [[biological interaction]]. This data is scarce but is being developped. Note for instance:
+Creating these models requires information about [[symbiosis]]. This data is scarce but is being developped. Note for instance:
 - [[Mangal]]
 - [[GLOBI]]
 There is ongoing development of [[metaweb]] data (regional biotic interaction networks).
