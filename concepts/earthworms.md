@@ -50,7 +50,7 @@ Earthworms body is a succession of segments (rings), they produce mucus in their
 
 ## trivia
 - Earthworms species diversity is higher in the south because the north was frozen in the previous glacial era and earthworms had to recolonize to the north (slow process).
-- Videos of [[Hedde, Mickaël]]
+- Videos of [[Hedde, Mickael]]
 - [[Bouché, Marcel]]
 - https://www.earthwormsoc.org.uk/earthworm-ecology
 - [[Capowiez2024_Letearthworms]]

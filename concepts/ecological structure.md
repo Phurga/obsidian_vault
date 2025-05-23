@@ -18,7 +18,7 @@ There is a range of possible species interactions [[Ings2009_ReviewEcological]]:
 
 Species interactions are studied through [[ecological networks]]. But most approaches only consider only species *cooccurence* and not actual relationships.
 
-[[Hedde, Mickaël]] and [[Bernard, Laetitia]] for instance insists on the **interactional value of biodiversity**.
+[[Hedde, Mickael]] and [[Bernard, Laetitia]] for instance insists on the **interactional value of biodiversity**.
 
 >[!warning] Cooccurence does not mean there is an interaction, but merely they coexist in a macrohabitat (macro at their scale).
 

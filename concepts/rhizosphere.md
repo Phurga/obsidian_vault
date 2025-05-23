@@ -49,7 +49,7 @@ Studying roots is done by:
 - digging a trench and looking at a profile. One can put a grid and count root per grid cell to get densities. This is time consuming.
 - harvesting a portion of soil and running it in a medical scanner (expensive and scarce)
 - use radars on soil (only top cm)
-- look with buried scanner ([[Hedde, Mickaël]])
+- look with buried scanner ([[Hedde, Mickael]])
 
 # Ecological functions
 The rhizosphere is a hotspot of [[soil biodiversity|soil biodiversity]] and is key in [[plant health]].

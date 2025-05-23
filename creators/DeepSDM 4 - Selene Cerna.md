@@ -27,4 +27,4 @@ embeddings (features)
 ![[Deep SDM 4_prediction_quality.png]]
 
 ![[Deep SDM 4_improvement_result_with_dataset.png]]
-[[Hedde, Mickaël]] (presenter was [[Cerna, Selene]])
+[[Hedde, Mickael]] (presenter was [[Cerna, Selene]])

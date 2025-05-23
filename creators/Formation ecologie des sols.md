@@ -20,7 +20,7 @@ Institut Agro Montpellier
 [[Marsden, Claire]]
 [[Bernard, Laetitia]]
 [[Chevallier, Tiphaine]]
-[[Hedde, Mickaël]]
+[[Hedde, Mickael]]
 [[Trap, Jean]]
 # Participants
 claire.marsden@supagro.fr, conseil@alinebuffo.fr, production2@maraichers-doller.fr, coteaux.juan@orange.fr, margot.tricoche@morbihan.fr, jpinta@soltis-environnement.com, aurore.toulou@insa-lyon.fr, mathilde.grau@cuma.fr, marie-laure.balandier@cuma.fr, saurin.marie@orange.fr, leonie.falgous1@gmail.com, quentin.caris@inrae.fr, marion.forest@inrae.fr, simon.charriere@inrae.fr, sterenn.leguennic@fibl.org, mickael.lyamouri@cmds.chambagri.fr

@@ -2,6 +2,9 @@
 tags:
   - concept/definition
 ---
+[[Noss1990_IndicatorsMonitoring]]
+> Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutrient cycling.
+
 at ecosystem level
 - [[ecosystem function]]
 - [[ecosystem service]]

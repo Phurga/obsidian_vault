@@ -9,7 +9,7 @@ itemKey: MWNMVDA2
 > The theory of island biogeography
 > [[MacArthur, Robert H.]], [[Wilson, Edward O.]], 
 > [[Princeton University Press]] (2001)
-> [[Biogeography]], [[Island ecology]], [[fundational]], [[species area relationship]], [[SAR]], 
+> [[biogeography]], [[Island ecology]], [[fundational]], [[species area relationship]], [[SAR]], 
 > [Online link](https://press.princeton.edu/books/paperback/9780691088365/the-theory-of-island-biogeography), [Zotero Item](zotero://select/library/items/MWNMVDA2), 
 
 # Notes %% begin notes %%

@@ -1,8 +1,7 @@
 ---
 tags:
   - creator/people
-aliases:
-  - Hedde, Mickael
+aliases: []
 ---
 https://orcid.org/0000-0002-6733-3622
 [mickael.hedde@inrae.fr](mailto:mickael.hedde@inrae.fr)

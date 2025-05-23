@@ -7,7 +7,7 @@ itemKey: NUVEAHRH
 ---
 >[!metadata]+
 > In situ soil imaging, a tool for monitoring the hourly to monthly temporal dynamics of soil biota
-> [[Belaud, Emma]], [[Jourdan, Christophe]], [[Barry-Etienne, Dominique]], [[Marsden, Claire]], [[Robin, Agnès]], [[Taschen, Elisa]], [[Hedde, Mickaël]], 
+> [[Belaud, Emma]], [[Jourdan, Christophe]], [[Barry-Etienne, Dominique]], [[Marsden, Claire]], [[Robin, Agnès]], [[Taschen, Elisa]], [[Hedde, Mickael]], 
 > [[Biology and Fertility of Soils]] (2024)
 > [[Co-occurrence network]], [[Mycorrhizal fungi]], [[Roots]], [[Soil imaging device]], [[Soil invertebrates]], [[Temporal dynamics]], 
 > [Online link](https://doi.org/10.1007/s00374-024-01851-8), [Zotero Item](zotero://select/library/items/NUVEAHRH), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/54LSXMMU/Belaud2024_situsoil.pdf), 

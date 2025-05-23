@@ -7,7 +7,7 @@ itemKey: XH73LQJU
 ---
 >[!metadata]+
 > Crop management strategies shape the shared temporal dynamics of soil food web structure and functioning
-> [[Hedde, Mickaël]], [[Coudrain, Valérie]], [[Maron, Pierre-Alain]], [[Chauvat, Matthieu]], [[Cheviron, Nathalie]], [[Ekelund, Flemming]], [[Mougin, Christian]], [[Mary, Bruno]], [[Recous, Sylvie]], [[Villenave, Cécile]], [[Thébault, Elisa]], 
+> [[Hedde, Mickael]], [[Coudrain, Valérie]], [[Maron, Pierre-Alain]], [[Chauvat, Matthieu]], [[Cheviron, Nathalie]], [[Ekelund, Flemming]], [[Mougin, Christian]], [[Mary, Bruno]], [[Recous, Sylvie]], [[Villenave, Cécile]], [[Thébault, Elisa]], 
 > [[Agriculture, Ecosystems & Environment]] (2024)
 > [[biodiversity]], [[soil food web]], [[land management]], [[soil function]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0167880924001762), [Zotero Item](zotero://select/library/items/XH73LQJU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/D3CNHABG/Hedde2024_Cropmanagement.pdf), 

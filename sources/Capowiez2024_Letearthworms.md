@@ -7,7 +7,7 @@ itemKey: P2CVXCNC
 ---
 >[!metadata]+
 > Let earthworms be functional - Definition of new functional groups based on their bioturbation behavior
-> [[Capowiez, Yvan]], [[Marchán, Daniel]], [[Decaëns, Thibaud]], [[Hedde, Mickaël]], [[Bottinelli, Nicolas]], 
+> [[Capowiez, Yvan]], [[Marchán, Daniel]], [[Decaëns, Thibaud]], [[Hedde, Mickael]], [[Bottinelli, Nicolas]], 
 > [[Soil Biology and Biochemistry]] (2024)
 > [[Anecic]], [[Burrow]], [[Ecological categories]], [[Endogeics]], [[Epi-anecic]], [[Epigeic]], [[Tomography]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0038071723002717), [Zotero Item](zotero://select/library/items/P2CVXCNC), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/6VRLA372/Capowiez2024_Letearthwormsa.pdf), 

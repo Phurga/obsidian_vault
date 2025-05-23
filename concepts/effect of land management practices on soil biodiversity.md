@@ -11,4 +11,4 @@ Soil work ([[tillage]]) leads to [[soil compaction]] which destroys soil [[soil 
 
 It is possible to study and represent [[food web|trophic chains]] in an ecosystem and assess the response to a perturbation (before after network) [[Hedde2025_Diversityroles]], to be published.
 
-Cultivated ecosystems show more (soil) biodiversity than non cultivated ([[Hedde, Mickaël]], [[Labouyrie2023_Patternssoil]]).
+Cultivated ecosystems show more (soil) biodiversity than non cultivated ([[Hedde, Mickael]], [[Labouyrie2023_Patternssoil]]).
