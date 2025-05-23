@@ -9,18 +9,17 @@ aliases:
   - biological community
   - ecological community
   - life assemblage
+  - biocenosis
 ---
-An ecosystem is usually characterized [[ecological composition|ecological community]] aracterized by its **ecological composition**, i.e. its [[biocenosis|ecological community]].
-## at organism level
-biocenosis #todo/refactor 
-Species composition is a matter of [[species richness]] and [[species abudance]]. Combined measures are considered as [[species diversity]].
+One aspect of a biodiverse system is its **ecological composition**. It relates to the list of elements composing the system.
 
+[[Noss1990_IndicatorsMonitoring]]
+> Composition has to do with the identity and variety of elements in a collection, and includes species lists and measures of species diversity and genetic diversity. 
+## ecological community of an ecosystem
+The **ecological community** is the ensemble of organisms constituting an ecosystem. It is also called **biocenosis**, **life assemblage** and similar names (e.g. biotic community, biological community, life community and same with assemblage).
+
+The ecological community is usually characterized by species composition, and measured via indicators such as [[species richness]] and [[species abudance]], see [[measures of biodiversity#indicators]].
 Species composition was also found to be a good proxy for ecosystem functioning #todo/refneeded 
-## indicators
-see [[measures of biodiversity#species composition indicators]]
-
-
-
-It is also called the **community**, **assemblage** and similar names (e.g. biotic community, biological community, life community and same with assemblage).
-
- its  is the most conventional type of biodiversity we encounter, e.g. the variability of the organisms constituting an ecosystem or the diversity of ecoystems constituting a landscape. **Species composition** refers to what species constitute an
+## other compositional aspects
+Landscapes are composed of ecosystems.
+Organisms are composed of genes.

@@ -17,7 +17,9 @@ see
 
 > In this paper, I expand the three primay attributes of biodiversity recognized by Jerry Franklin - composition, structure, and  function - into a nested hierarchy that incorporates elements of each attribute at four levels of organization: regional landscape, community-ecosystem, population species, and genetic.
 
-> Composition has to do with the identity and variety of elements in a collection, and includes species lists and measures of species diversity and genetic diversity. Structure is the physical organization or pattern of a system, from hab- itat complexity as measured within communities to the pattern of patches and other elements at a landscape scale. Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutri- ent cycling.
+> Composition has to do with the identity and variety of elements in a collection, and includes species lists and measures of species diversity and genetic diversity. 
+> Structure is the physical organization or pattern of a system, from habitat complexity as measured within communities to the pattern of patches and other elements at a landscape scale. 
+> Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutri- ent cycling.
 
 ![[Noss1990_IndicatorsMonitoring_biodiversity_multi_dimensional.png|400]]
 

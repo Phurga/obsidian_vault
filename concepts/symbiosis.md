@@ -6,20 +6,19 @@ aliases:
   - symbiont
   - symbiote
 ---
-**Symbiosis** stands for long term **biological interactions**, which do not have to be mutually beneficial. Mutually beneficial interactions is named [[mutualism]]. An organism living in symbiosis is a **symbiont (or symbiote)**.
+**Symbiosis** stands for long term [[ecological structure|biological interactions]]. An organism living in symbiosis is a **symbiont (or symbiote)**.
 
-There are short term interactions:
-- predation ([[food web|trophic chain]], a [[predator]] kills a [[prey]]).
-- [[pollination]] (exchange of nectar for seed dispersal, hence a mutualist interaction).
-- and also seed dispersal in general)
-- competition for space
-- habitat modification ([[ecosystem engineer]])
+>[!warning] wording
+> A symbiosis does not have to be mutually beneficial. Mutually beneficial interactions are named [[mutualism]]. 
 
-There are long term interactions (symbioses):
-[[commensalism]]
-[[mutualism]]
-[[parasitism]]
-[[neutralism]]
-[[competition]]
-[[amensalism]]
+List of symbioses types:
+- [[mutualism]]
+- [[parasitism]]
+- and secondarily:
+- [[commensalism]]
+- [[neutralism]]
+- [[competition]] (for space or other resources)
+- [[amensalism]]
+
+[[wikipedia]]
 ![[wikipedia_Symbiotic_relationships_diagram.svg.png]]

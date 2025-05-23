@@ -3,14 +3,28 @@ tags:
   - concept/definition
 aliases:
   - interactional value of biodiversity
+  - species interaction
+  - species relationship
 ---
-[[Biodiversity]] is not only characterized by [[ecological composition|compositional]] aspects but but also by **structural** aspects, i.e., that is the diversity of [[symbiosis]]s.
+One aspect of a biodiverse system is its **ecological structure**. It relates to interactions amongst the system elements (for an ecosystem, the [[ecological composition|biocenosis]]).
 
-[[Hedde, Mickaël]] and [[Bernard, Laetitia]] for instance insists on the **interactional value of biodiversity**. An indicator for biodiversity beyond species can be species interactions, currently estimated via [[cooccurence]].
+Species interact as the ecosystem functions.
+
+There is a range of possible species interactions [[Ings2009_ReviewEcological]]:
+- short term interactions, led by *predatory relationships* studied via the concept of the [[food web]],
+- other short term interactions such as *pollination* and *seed dispersal*,
+- long term interactions, aka [[symbiosis]].
+	- not also habitat modification (made by species classified as [[ecosystem engineer]]s)
+
+Species interactions are studied through [[ecological networks]]. But most approaches only consider only species *cooccurence* and not actual relationships.
+
+[[Hedde, Mickaël]] and [[Bernard, Laetitia]] for instance insists on the **interactional value of biodiversity**.
 
 >[!warning] Cooccurence does not mean there is an interaction, but merely they coexist in a macrohabitat (macro at their scale).
 
-[[Hedde2025_Diversityroles]] will publish on the evolution of species coocurrence depending on [[land management]].
-![[Hedde2025_SoilFauna_reseau_interaction.png|600]]
+## references
+[[Hedde2025_Diversityroles]]
+[[Hedde2024_Cropmanagement]]
 
-See [[Ings2009_ReviewEcological]].
+Illustration of two systems with different structures:
+![[Hedde2025_SoilFauna_reseau_interaction.png|600]]

@@ -17,20 +17,21 @@ Each facet should be quantified using different indicators.
 
 On the choice of the biodiversity indicator to use, [[Santini2017_Assessingsuitability]]:
 > While metrics such as phylogenetic and functional diversity may also be useful, scientists should consider whether they provide added value in terms of conveying useful information to end-users such as conservation managers. For example, phylogenetic diversity and functional richness are often correlated with species richness ([Schipper et al., 2016](https://www.sciencedirect.com/science/article/pii/S0006320716303305?ref=pdf_download&fr=RR-2&rr=935e09b06db3d159#bb0275)). Generally, a small set of complementary and conceptually simple metrics is more transparent, intuitive and informative for policy makers on the underlying causes of changes in biodiversity (e.g. [Latombe et al., 2016](https://www.sciencedirect.com/science/article/pii/S0006320716303305?ref=pdf_download&fr=RR-2&rr=935e09b06db3d159#bb0175) for invasive species).
-## indicators for species composition
-[[ecological composition]] indicators are sometimes used to measure taxonomic diversity, especially in [[LCA]]. This is mostly motivated by data availability to allow for global coverage of the biodiversity erosion issue. Below are given direct indicators of species composition.
-
-- [[species richness]]
-	- [[relative species loss ]](PDF)
-- [[species abudance]]
-	- [[mean species abundance]] (MSA)
-- richness and abundance combined ([[species diversity]])
-	- [[shannon index]]
-- compositional similarity
-	- [[sorensen similarity index]]
-	- fischer alpha
-	- simpson indicators
-	- [[Chao2005_newstatistical]]
+## indicators
+- [[ecological composition|composition]]
+	- [[species richness]]
+		- [[relative species loss ]](PDF)
+	- [[species abudance]]
+		- [[mean species abundance]] (MSA)
+	- richness and abundance combined ([[species diversity]])
+		- [[shannon index]]
+	- compositional similarity
+		- [[sorensen similarity index]]
+		- fischer alpha
+		- simpson indicators
+		- [[Chao2005_newstatistical]]
+- [[ecological structure]]
+	- todo ?
 
 [[Santini2017_Assessingsuitability]] seems to advise for using sorensen index and species richness as simple yet effective indicators for composition changes.
 ### references
@@ -49,3 +50,4 @@ Species diversity can be measured at different spatial scales:
 [[Andermann2022_EstimatingAlpha]]
 ## implementations in LCIA
 In [[LCA]] compositional indicators are recommended, especially species richness ([[Woods2018_Ecosystemquality]]), but they can be used to derive more complex indicators when data is available ([[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] and more: see [[LCIA method on ecosystem quality]].
+Species richness are recommended as a pragramatic answer to challenges related to data availability with global coverage.

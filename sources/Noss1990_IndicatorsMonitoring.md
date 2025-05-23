@@ -25,6 +25,8 @@ Builds on structural biodiversity from [[Franklin1981_Ecologicalcharacteristics]
 Refers to an old definition of biodiversity in :
 > A widely cited definition of biological diversity is “the variety and variability among living organisms and the ecological complexes in which they occur” ([[OTA1987_TechnologiesMaintain]]).
 
+![[Noss1990_IndicatorsMonitoring_biodiversity_multi_dimensional.png|400]]
+
 
 %% end notes %%
 
