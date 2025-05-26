@@ -9,7 +9,7 @@ itemKey: CQ2J3Y4D
 > A function-based typology for Earth’s ecosystems
 > [[Keith, David A.]], [[Ferrer-Paris, José R.]], [[Nicholson, Emily]], [[Bishop, Melanie J.]], [[Polidoro, Beth A.]], [[Ramirez-Llodra, Eva]], [[Tozer, Mark G.]], [[Nel, Jeanne L.]], [[Mac Nally, Ralph]], [[Gregr, Edward J.]], [[Watermeyer, Kate E.]], [[Essl, Franz]], [[Faber-Langendoen, Don]], [[Franklin, Janet]], [[Lehmann, Caroline E. R.]], [[Etter, Andrés]], [[Roux, Dirk J.]], [[Stark, Jonathan S.]], [[Rowland, Jessica A.]], [[Brummitt, Neil A.]], [[Fernandez-Arcaya, Ulla C.]], [[Suthers, Iain M.]], [[Wiser, Susan K.]], [[Donohue, Ian]], [[Jackson, Leland J.]], [[Pennington, R. Toby]], [[Iliffe, Thomas M.]], [[Gerovasileiou, Vasilis]], [[Giller, Paul]], [[Robson, Belinda J.]], [[Pettorelli, Nathalie]], [[Andrade, Angela]], [[Lindgaard, Arild]], [[Tahvanainen, Teemu]], [[Terauds, Aleks]], [[Chadwick, Michael A.]], [[Murray, Nicholas J.]], [[Moat, Justin]], [[Pliscoff, Patricio]], [[Zager, Irene]], [[Kingsford, Richard T.]], 
 > [[Nature]] (2022)
-> [[Biodiversity]], [[Conservation Biology]], [[Ecosystem ecology]], 
+> [[Biodiversity]], [[Conservation biology]], [[Ecosystem ecology]], 
 > [Online link](https://www.nature.com/articles/s41586-022-05318-4), [Zotero Item](zotero://select/library/items/CQ2J3Y4D), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/Q63G6YTC/Keith2022_functionbasedtypology.pdf), 
 
 >[!abstract]-
@@ -28,4 +28,4 @@ Together with ecosystem function, the identity of constituent biota is central t
 
 
 
-%% Import Date: 2025-04-30T11:27:55.045+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.356+02:00 %%

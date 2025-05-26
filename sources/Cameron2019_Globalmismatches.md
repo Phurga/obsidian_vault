@@ -9,7 +9,7 @@ itemKey: PD83M4L6
 > Global mismatches in aboveground and belowground biodiversity
 > [[Cameron, Erin K.]], [[Martins, Inês S.]], [[Lavelle, Patrick]], [[Mathieu, Jérôme]], [[Tedersoo, Leho]], [[Bahram, Mohammad]], [[Gottschall, Felix]], [[Guerra, Carlos A.]], [[Hines, Jes]], [[Patoine, Guillaume]], [[Siebert, Julia]], [[Winter, Marten]], [[Cesarz, Simone]], [[Ferlian, Olga]], [[Kreft, Holger]], [[Lovejoy, Thomas E.]], [[Montanarella, Luca]], [[Orgiazzi, Alberto]], [[Pereira, Henrique M.]], [[Phillips, Helen R. P.]], [[Settele, Josef]], [[Wall, Diana H.]], [[Eisenhauer, Nico]], 
 > [[Conservation Biology]] (2019)
-> [[important]], [[soil biodiversity]], [[bacteria]], [[fungus]], [[macrofauna]], [[aboveground-belowground]], [[global patterns]], [[policy]], 
+> [[important]], [[soil biodiversity]], [[bacteria]], [[fungi]], [[macrofauna]], [[aboveground-belowground]], [[global patterns]], [[policy]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13311), [Zotero Item](zotero://select/library/items/PD83M4L6), 
 
 >[!abstract]-
@@ -26,4 +26,4 @@ Results:
 
 
 
-%% Import Date: 2025-05-06T14:21:03.714+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.795+02:00 %%

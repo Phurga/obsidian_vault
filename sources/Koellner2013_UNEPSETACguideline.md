@@ -9,7 +9,7 @@ itemKey: ZM7ATZIL
 > UNEP-SETAC guideline on global land use impact assessment on biodiversity and ecosystem services in LCA
 > [[Koellner, Thomas]], [[de Baan, Laura]], [[Beck, Tabea]], [[Brandão, Miguel]], [[Civit, Barbara]], [[Margni, Manuele]], [[Milà i Canals, Llorenç]], [[Saad, Rosie]], [[de Souza, Danielle Maia]], [[Müller-Wenk, Ruedi]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[Land use]], [[biodiversity]], [[Biodiversity]], [[Environmental Chemistry]], [[important]], [[ecosystem service]], [[Ecological functions]], [[LCIA]], [[LCA]], 
+> [[Land use]], [[biodiversity]], [[Biodiversity]], [[Environmental Chemistry]], [[important]], [[Ecosystem services]], [[Ecological functions]], [[LCIA]], [[LCA]], 
 > [Online link](https://doi.org/10.1007/s11367-013-0579-z), [Zotero Item](zotero://select/library/items/ZM7ATZIL), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/DF2U7FHZ/Koellner2013_UNEPSETACguideline.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: ZM7ATZIL
 
 
 
-%% Import Date: 2025-05-06T17:10:05.580+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.433+02:00 %%

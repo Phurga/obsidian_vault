@@ -9,7 +9,7 @@ itemKey: NTIZHQGM
 > Global extinction probabilities of terrestrial, freshwater, and marine species groups for use in Life Cycle Assessment
 > [[Verones, Francesca]], [[Kuipers, Koen J. J.]], [[Núñez, Montserrat]], [[Rosa, Francesca]], [[Scherer, Laura]], [[Marques, Alexandra]], [[Michelsen, Ottar]], [[Barbarossa, Valerio]], [[Jaffe, Benjamin]], [[Pfister, Stephan]], [[Dorber, Martin]], 
 > [[Ecological Indicators]] (2022)
-> [[important]], [[LCIA]], [[Biodiversity loss]], [[Ecosystem quality]], [[Global extinction probability]], [[Species extinctions]], [[Species richness]], 
+> [[important]], [[Biodiversity loss]], [[Ecosystem quality]], [[Global extinction probability]], [[Species extinctions]], [[Species richness]], [[LCIA]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S1470160X22006768), [Zotero Item](zotero://select/library/items/NTIZHQGM), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/QCZYUTZW/Verones2022_Globalextinction.pdf), 
 
 >[!abstract]-
@@ -23,4 +23,4 @@ Part of [[GLAM]]
 
 
 
-%% Import Date: 2025-04-30T11:27:57.451+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.532+02:00 %%

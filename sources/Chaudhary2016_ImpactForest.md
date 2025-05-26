@@ -9,7 +9,7 @@ itemKey: LSQP9Y84
 > Impact of Forest Management on Species Richness: Global Meta-Analysis and Economic Trade-Offs
 > [[Chaudhary, Abhishek]], [[Burivalova, Zuzana]], [[Koh, Lian Pin]], [[Hellweg, Stefanie]], 
 > [[Scientific Reports]] (2016)
-> [[Biodiversity]], [[Forestry]], [[Conservation Biology]], [[Forest ecology]], 
+> [[Biodiversity]], [[Forestry]], [[Conservation biology]], [[Forest ecology]], 
 > [Online link](https://www.nature.com/articles/srep23954), [Zotero Item](zotero://select/library/items/LSQP9Y84), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/BRTQMNB5/Chaudhary2016_ImpactForest.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: LSQP9Y84
 
 
 
-%% Import Date: 2025-05-05T15:38:01.099+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.012+02:00 %%

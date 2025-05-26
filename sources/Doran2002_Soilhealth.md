@@ -9,7 +9,7 @@ itemKey: E3T2NCIM
 > Soil health and global sustainability: translating science into practice
 > [[Doran, John W.]], 
 > [[Agriculture, Ecosystems & Environment]] (2002)
-> [[soil quality]], [[fundational]], [[maybe important]], 
+> [[soil quality]], [[important]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0167880901002468), [Zotero Item](zotero://select/library/items/E3T2NCIM), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KSGDFNY5/Doran2002_Soilhealth.pdf), 
 
 >[!abstract]-
@@ -26,4 +26,4 @@ Definition inhere links back to previous work done by [[Doran, John W.]] in 1996
 
 
 
-%% Import Date: 2025-04-30T11:27:53.635+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.761+02:00 %%

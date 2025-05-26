@@ -21,10 +21,7 @@ Introduction can be reused for context on soil biodiversity.
 ^b92ab3
 
 [[diversity within and among trophic groups]]
-> In a multi-trophic approach, diversity can be addressed from two dimensions. A first dimension 
-constitutes the diversity within trophic groups (e.g., species diversity). A second dimension constitutes the diversity across trophic groups (e.g., the number of trophic groups, the diversity of trophic interactions). (...) The
-second dimension is also referred to as food web diversity or food web structure throughout
-this manuscript.
+> In a multi-trophic approach, diversity can be addressed from two dimensions. A first dimension constitutes the diversity within trophic groups (e.g., species diversity). A second dimension constitutes the diversity across trophic groups (e.g., the number of trophic groups, the diversity of trophic interactions). (...) The second dimension is also referred to as food web diversity or food web structure throughout this manuscript.
 
 [[soil food web#channels]]
 > Traditionally, energy flowing through the soil food web has been categorized into energy ‘channels’ based on the basal resource at the origin of the channel, e.g., green channel (from plants) vs brown channel (from organic matter), or fast channel (bacteria-based) vs low channel (fungi-based) (Moore & de Ruiter 1991; de Vries et al. 2013). Despite the fact that the terminology of ‘channel’ is widely used in the literature to relate food webs to functions or processes, recent evidence points out the existence of reticulate channels because groups in low trophic levels can feed on multiple energy channels (e.g. omnivore protists that feed on both bacteria and fungi), complexifying the separation of the food web into the traditional binary categories (Geisen et al. 2016; Potapov et al. 2021). 
@@ -41,8 +38,8 @@ this manuscript.
 >the Intermediate Disturbance Hypothesis postulates that biodiversity peaks at intermediate levels of disturbance, where both colonist and climax species are able to coexist and decline at low and high levels of disturbance where they are mutually excluded by exploitative competition (Grime 1973; Horn 1974; Connell 1978)
 
 ^4c58ec
-
-
+[[food web networks metrics]]
+> For this, one approach consists of summarising the structure of the food web through network metrics (e.g. connectance, modularity, vulnerability, etc) and related them to ecological processes (Braga et al. 2019), but the real meaning of these metrics or the ecological information they provide still in debate (Thompson et al. 2012).
 ### references
 - [[Potapov2022_Multifunctionalitybelowgrounda]]
 %% end notes %%

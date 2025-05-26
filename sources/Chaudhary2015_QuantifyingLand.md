@@ -24,4 +24,4 @@ Defines the [[vulnerability score]], an indicator for [[species extinction risk]
 
 
 
-%% Import Date: 2025-04-30T11:27:53.034+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.989+02:00 %%

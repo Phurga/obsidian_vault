@@ -9,7 +9,7 @@ itemKey: Y76HJ8ZW
 > Coupling GIS and LCA for biodiversity assessments of land use
 > [[Geyer, Roland]], [[Lindner, Jan P.]], [[Stoms, David M.]], [[Davis, Frank W.]], [[Wittstock, Bastian]], 
 > [[The International Journal of Life Cycle Assessment]] (2010)
-> [[Land use]], [[biodiversity]], [[Environmental Chemistry]], [[Hemeroby]], [[Species richness]], [[Abundance]], [[Biodiversity impacts]], [[Bioethanol]], [[Evenness]], [[Geographic information systems (GIS)]], [[GIS-based inventory modeling]], [[Habitats]], [[Spatially explicit inventory modeling]], [[species distribution model]], 
+> [[Land use]], [[biodiversity]], [[Environmental Chemistry]], [[Hemeroby]], [[Species richness]], [[Abundance]], [[Biodiversity impacts]], [[Bioethanol]], [[Evenness]], [[Geographic information systems (GIS)]], [[GIS-based inventory modeling]], [[Habitats]], [[Spatially explicit inventory modeling]], [[habitat suitability modeling]], 
 > [Online link](https://doi.org/10.1007/s11367-010-0199-9), [Zotero Item](zotero://select/library/items/Y76HJ8ZW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/JVYWA9PS/Geyer2010_CouplingGIS.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: Y76HJ8ZW
 
 
 
-%% Import Date: 2025-04-30T11:27:54.309+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.363+02:00 %%

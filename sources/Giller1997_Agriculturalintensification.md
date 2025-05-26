@@ -9,7 +9,7 @@ itemKey: TAIIXX9M
 > Agricultural intensification, soil biodiversity and agroecosystem function
 > [[Giller, K. E.]], [[Beare, M. H.]], [[Lavelle, P.]], [[Izac, A. -M. N.]], [[Swift, M. J.]], 
 > [[Applied Soil Ecology]] (1997)
-> [[Earthworms]], [[Soil fauna]], [[microorganism]], [[bacteria]], [[fungus]], 
+> [[Earthworms]], [[Soil fauna]], [[microorganisms]], [[bacteria]], [[fungi]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0929139396001497), [Zotero Item](zotero://select/library/items/TAIIXX9M), 
 
 >[!abstract]-
@@ -29,4 +29,4 @@ https://www.fao.org/fileadmin/templates/soilbiodiversity/Drawings/tables_fro_FAO
 
 
 
-%% Import Date: 2025-04-30T11:27:54.328+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.377+02:00 %%

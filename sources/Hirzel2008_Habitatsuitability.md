@@ -9,7 +9,7 @@ itemKey: XW5LVGLV
 > Habitat suitability modelling and niche theory
 > [[Hirzel, Alexandre H.]], [[Le Lay, Gwenaëlle]], 
 > [[Journal of Applied Ecology]] (2008)
-> [[conservation]], [[community ecology]], [[fundamental and realized niche]], [[generalization]], [[Geographic Information Systems (GIS)]], [[niche evolution]], [[Resource Selection Functions (RSF)]], [[spatial predictions]], [[fundational]], 
+> [[important]], [[conservation]], [[community ecology]], [[fundamental and realized niche]], [[generalization]], [[Geographic Information Systems (GIS)]], [[niche evolution]], [[Resource Selection Functions (RSF)]], [[spatial predictions]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2664.2008.01524.x), [Zotero Item](zotero://select/library/items/XW5LVGLV), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/WW9XPYC2/Hirzel2008_Habitatsuitability.pdf), 
 
 >[!abstract]-
@@ -26,4 +26,4 @@ itemKey: XW5LVGLV
 
 
 
-%% Import Date: 2025-04-30T11:27:54.599+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.736+02:00 %%

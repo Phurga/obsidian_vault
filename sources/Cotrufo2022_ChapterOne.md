@@ -9,7 +9,7 @@ itemKey: 2J3S9VVN
 > Advances in Agronomy, Chapter One - Soil organic matter formation, persistence, and functioning: A synthesis of current understanding to inform its conservation and regeneration
 > [[Cotrufo, M. Francesca]], [[Lavallee, Jocelyn M.]], [[Sparks, Donald L.]], 
 > [[Academic Press]] (2022)
-> [[soil function]], [[Soil organic matter]], [[Carbon]], [[Dissolved organic matter]], [[Mineral-associated organic matter]], [[Particulate organic matter]], [[Soil carbon input]], 
+> [[soil functions]], [[Soil organic matter]], [[Carbon]], [[Dissolved organic matter]], [[Mineral-associated organic matter]], [[Particulate organic matter]], [[Soil carbon input]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0065211321001048), [Zotero Item](zotero://select/library/items/2J3S9VVN), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: 2J3S9VVN
 
 
 
-%% Import Date: 2025-04-30T11:27:53.188+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.190+02:00 %%

@@ -9,7 +9,7 @@ itemKey: PHF3BA6C
 > Effect factors for marine invasion impacts on biodiversity
 > [[Gjedde, Philip]], [[Carrer, Fabio]], [[Pettersen, Johan Berg]], [[Verones, Francesca]], 
 > [[The International Journal of Life Cycle Assessment]] (2024)
-> [[biodiversity]], [[Environmental Chemistry]], [[LCIA]], [[LCA]], [[Aliens]], [[Effect factors]], [[MarINvaders]], [[invasive species]], [[invasive]], 
+> [[biodiversity]], [[Environmental Chemistry]], [[Aliens]], [[Effect factors]], [[MarINvaders]], [[invasive species]], [[invasive]], [[LCIA]], [[LCA]], 
 > [Online link](https://doi.org/10.1007/s11367-024-02325-7), [Zotero Item](zotero://select/library/items/PHF3BA6C), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/VN4MPFFH/Gjedde2024_Effectfactors.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: PHF3BA6C
 
 
 
-%% Import Date: 2025-04-30T11:27:54.344+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.394+02:00 %%

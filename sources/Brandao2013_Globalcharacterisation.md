@@ -9,7 +9,7 @@ itemKey: IEFYPF7J
 > Global characterisation factors to assess land use impacts on biotic production
 > [[Brandao, Miguel]], [[Milà i Canals, Llorenç]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[Land use]], [[Midpoint indicators]], [[Environmental Chemistry]], [[Biotic production potential]], [[ecosystem service]], [[Life Cycle Impact Assessment (LCIA)]], [[Soil organic carbon (SOC)]], [[Soil organic matter (SOM)]], 
+> [[Land use]], [[Midpoint indicators]], [[Environmental Chemistry]], [[Biotic production potential]], [[Ecosystem services]], [[Soil organic carbon (SOC)]], [[Soil organic matter (SOM)]], [[LCIA]], 
 > [Online link](https://link.springer.com/article/10.1007/s11367-012-0381-3), [Zotero Item](zotero://select/library/items/IEFYPF7J), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/VC22HYKZ/s11367-012-0381-3.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: IEFYPF7J
 
 
 
-%% Import Date: 2025-04-30T11:27:52.778+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.506+02:00 %%

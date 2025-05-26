@@ -9,7 +9,7 @@ itemKey: N6J2XQP4
 > Status of the world's soil resources: main report
 > [[FAO and ITPS]], 
 > [[FAP and ITPS]] (2015)
-> [[maybe important]], 
+> [[important]], 
 > [Online link](), [Zotero Item](zotero://select/library/items/N6J2XQP4), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/55828VWJ/2015_Statusworlds.pdf), 
 
 # Notes %% begin notes %%
@@ -19,4 +19,4 @@ itemKey: N6J2XQP4
 
 
 
-%% Import Date: 2025-04-30T11:27:53.816+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.000+02:00 %%

@@ -9,7 +9,7 @@ itemKey: DTFRVVW6
 > The IUCN Red List of Threatened Species
 > [[IUCN]], 
 > [[IUCN Red List of Threatened Species]] (2025)
-> [[maybe important]], 
+> [[important]], 
 > [Online link](https://www.iucnredlist.org/en), [Zotero Item](zotero://select/library/items/DTFRVVW6), 
 
 >[!abstract]-
@@ -23,4 +23,4 @@ itemKey: DTFRVVW6
 
 
 
-%% Import Date: 2025-04-30T11:27:54.835+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.171+02:00 %%

@@ -9,7 +9,7 @@ itemKey: CEYNFZTZ
 > Valuing Biodiversity in Life Cycle Impact Assessment
 > [[Lindner, Jan Paul]], [[Fehrenbach, Horst]], [[Winter, Lisa]], [[Bloemer, Judith]], [[Knuepffer, Eva]], 
 > [[Sustainability]] (2019)
-> [[biodiversity]], [[LCIA]], [[important]], [[unread]], [[environmental management]], [[LCA]], [[product evaluation]], 
+> [[biodiversity]], [[important]], [[unread]], [[environmental management]], [[product evaluation]], [[LCIA]], [[LCA]], 
 > [Online link](https://www.mdpi.com/2071-1050/11/20/5628), [Zotero Item](zotero://select/library/items/CEYNFZTZ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/HEJ5A6EL/Lindner2019_ValuingBiodiversity.pdf), 
 
 >[!abstract]-
@@ -39,4 +39,4 @@ Additional notes:
 
 
 
-%% Import Date: 2025-04-30T11:27:55.486+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.676+02:00 %%

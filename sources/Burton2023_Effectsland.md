@@ -9,7 +9,7 @@ itemKey: WAC4D2CQ
 > Effects of land use and soil properties on taxon richness and abundance of soil assemblages
 > [[Burton, Victoria J.]], [[Baselga, Andrés]], [[Palma, Adriana De]], [[Phillips, Helen R. P.]], [[Mulder, Christian]], [[Eggleton, Paul]], [[Purvis, Andy]], 
 > [[European Journal of Soil Science]] (2023)
-> [[soil biodiversity]], [[species richness]], [[land use]], [[soil assemblages]], 
+> [[important]], [[soil biodiversity]], [[species richness]], [[land use]], [[soil assemblages]], 
 > [Online link](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/ejss.13430), [Zotero Item](zotero://select/library/items/WAC4D2CQ), 
 
 >[!abstract]-
@@ -25,4 +25,4 @@ Use of [[PREDICTS]] as main source of data for organisms surveys ([[Hudson2014_P
 
 
 
-%% Import Date: 2025-05-23T10:58:38.152+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.690+02:00 %%

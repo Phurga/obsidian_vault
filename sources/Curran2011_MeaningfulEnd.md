@@ -9,7 +9,7 @@ itemKey: 3NB4SR5Z
 > Toward Meaningful End Points of Biodiversity in Life Cycle Assessment
 > [[Curran, Michael]], [[de Baan, Laura]], [[De Schryver, An M.]], [[Van Zelm, Rosalie]], [[Hellweg, Stefanie]], [[Koellner, Thomas]], [[Sonnemann, Guido]], [[Huijbregts, Mark A. J.]], 
 > [[Environmental Science & Technology]] (2011)
-> [[biodiversity]], [[important]], [[endpoint]], [[lca]], [[lcia]], [[ecosystem quality]], 
+> [[biodiversity]], [[important]], [[endpoint]], [[ecosystem quality]], [[LCIA]], 
 > [Online link](https://pubs.acs.org/doi/10.1021/es101444k), [Zotero Item](zotero://select/library/items/3NB4SR5Z), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/B43BECE2/Curran2011_MeaningfulEnd.pdf), 
 
 # Notes %% begin notes %%
@@ -19,4 +19,4 @@ itemKey: 3NB4SR5Z
 
 
 
-%% Import Date: 2025-04-30T11:27:53.344+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.413+02:00 %%

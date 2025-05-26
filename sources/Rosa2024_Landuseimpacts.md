@@ -9,7 +9,7 @@ itemKey: PTY5PHVW
 > Land-use impacts on plant functional diversity throughout Europe
 > [[Rosa, Francesca]], [[Bodegom, Peter M. van]], [[Hellweg, Stefanie]], [[Pfister, Stephan]], [[Biurrun, Idoia]], [[Boch, Steffen]], [[Chytrý, Milan]], [[Ćušterevska, Renata]], [[Fratte, Michele Dalle]], [[Damasceno, Gabriella]], [[Garbolino, Emmanuel]], [[Lenoir, Jonathan]], [[Ozinga, Wim A.]], [[Penuelas, Josep]], [[Sabatini, Francesco Maria]], [[Schrodt, Franziska]], [[Uogintas, Domas]], [[Byun, Chaeho]], [[Dolezal, Jiri]], [[Dziuba, Tetiana]], [[Hérault, Bruno]], [[Martín-Forés, Irene]], [[Niinemets, Ülo]], [[Peyre, Gwendolyn]], [[Scherer, Laura]], 
 > [[bioRxiv]] (2024)
-> [[biodiversity]], [[functional diversity]], [[land use]], [[lcia]], 
+> [[biodiversity]], [[functional diversity]], [[land use]], [[LCIA]], 
 > [Online link](https://www.biorxiv.org/content/10.1101/2024.02.21.580945v3), [Zotero Item](zotero://select/library/items/PTY5PHVW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/EPNTQBF7/Rosa2024_Landuseimpacts.pdf), 
 
 >[!abstract]-
@@ -26,4 +26,4 @@ preprint only
 
 
 
-%% Import Date: 2025-04-30T11:27:56.400+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.529+02:00 %%

@@ -9,7 +9,7 @@ itemKey: XZ54H28T
 > Evaluation and selection of functional diversity metrics with recommendations for their use in life cycle assessments
 > [[Ahmed, Danish Ali]], [[van Bodegom, Peter M.]], [[Tukker, Arnold]], 
 > [[The International Journal of Life Cycle Assessment]] (2019)
-> [[LCA]], [[Biodiversity]], [[Environmental Chemistry]], [[important]], [[functional diversity]], [[Ecosystem functioning]], [[Functional diversity]], [[Functional diversity metrics]], [[Life cycle model developer]], 
+> [[Biodiversity]], [[Environmental Chemistry]], [[important]], [[functional diversity]], [[Ecosystem functioning]], [[Functional diversity]], [[Functional diversity metrics]], [[Life cycle model developer]], [[LCA]], 
 > [Online link](https://doi.org/10.1007/s11367-018-1470-8), [Zotero Item](zotero://select/library/items/XZ54H28T), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/7MQRZISG/Ahmed2019_Evaluationselection.pdf), 
 
 >[!abstract]-
@@ -49,4 +49,4 @@ species traits: plants: leaf area, rooting depth ... animals: body size, respira
 
 
 
-%% Import Date: 2025-04-30T11:27:52.338+02:00 %%
+%% Import Date: 2025-05-26T13:45:40.886+02:00 %%

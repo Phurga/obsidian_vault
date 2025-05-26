@@ -7,7 +7,7 @@ itemKey: IKNUZIRD
 ---
 >[!metadata]+
 > A common framework for developing robust soil fauna classifications
-> [[Hedde, Mickael]], [[Blight, Olivier]], [[Briones, Maria J. I.]], [[Bonfanti, Jonathan]], [[Brauman, Alain]], [[Brondani, Margot]], [[Calderón Sanou, Irene]], [[Clause, Julia]], [[Conti, Erminia]], [[Cortet, Jérôme]], [[Decaëns, Thibaud]], [[Erktan, Amandine]], [[Gérard, Sylvain]], [[Goulpeau, Arnaud]], [[Iannelli, Maeva]], [[Joimel-Boulanger, Sophie]], [[Jouquet, Pascal]], [[Le Guillarme, Nicolas]], [[Marsden, Claire]], [[Martinez Almoyna, Camille]], [[Mulder, Christian]], [[Perrin, William]], [[Pétillon, Julien]], [[Pey, Benjamin]], [[Potapov, Anton M.]], [[Si-moussi, Sara]], [[Thuiller, Wilfried]], [[Trap, Jean]], [[Vergnes, Alan]], [[Zaitsev, Andrey]], [[Capowiez, Yvan]], 
+> [[Hedde, Mickael]], [[Blight, Olivier]], [[Briones, Maria J. I.]], [[Bonfanti, Jonathan]], [[Brauman, Alain]], [[Brondani, Margot]], [[Calderón-Sanou, Irene]], [[Clause, Julia]], [[Conti, Erminia]], [[Cortet, Jérôme]], [[Decaëns, Thibaud]], [[Erktan, Amandine]], [[Gérard, Sylvain]], [[Goulpeau, Arnaud]], [[Iannelli, Maeva]], [[Joimel-Boulanger, Sophie]], [[Jouquet, Pascal]], [[Le Guillarme, Nicolas]], [[Marsden, Claire]], [[Martinez Almoyna, Camille]], [[Mulder, Christian]], [[Perrin, William]], [[Pétillon, Julien]], [[Pey, Benjamin]], [[Potapov, Anton M.]], [[Si-moussi, Sara]], [[Thuiller, Wilfried]], [[Trap, Jean]], [[Vergnes, Alan]], [[Zaitsev, Andrey]], [[Capowiez, Yvan]], 
 > [[Geoderma]] (2022)
 > [[Soil invertebrates]], [[Ecological groups]], [[Functional groups]], [[Guilds]], [[Trait-based approach]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0016706122003809), [Zotero Item](zotero://select/library/items/IKNUZIRD), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4V878ZRW/Hedde2022_commonframework.pdf), 
@@ -36,4 +36,4 @@ Definitions
 
 
 
-%% Import Date: 2025-05-23T16:06:32.536+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.624+02:00 %%

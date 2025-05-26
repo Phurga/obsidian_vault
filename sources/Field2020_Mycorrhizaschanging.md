@@ -9,7 +9,7 @@ itemKey: W9IWD27Q
 > Mycorrhizas for a changing world: Sustainability, conservation, and society
 > [[Field, Katie J.]], [[Daniell, Tim]], [[Johnson, David]], [[Helgason, Thorunn]], 
 > [[PLANTS, PEOPLE, PLANET]] (2020)
-> [[climate change]], [[conservation]], [[restoration]], [[agriculture]], [[ecosystem service]], [[horticulture]], [[mycorrhizas]], [[remediation]], [[society]], 
+> [[climate change]], [[conservation]], [[restoration]], [[agriculture]], [[ecosystem services]], [[horticulture]], [[mycorrhizas]], [[remediation]], [[society]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppp3.10092), [Zotero Item](zotero://select/library/items/W9IWD27Q), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LEJL8873/Field2020_Mycorrhizaschanging.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: W9IWD27Q
 
 
 
-%% Import Date: 2025-04-30T11:27:53.878+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.076+02:00 %%

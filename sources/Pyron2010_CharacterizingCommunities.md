@@ -9,7 +9,7 @@ itemKey: D74IAQS4
 > Characterizing Communities
 > [[Pyron, Mark]], 
 > [[Nature Education Knowledge]] (2010)
-> [[biodiversity]], [[species richness]], [[species diversity]], [[species abundance]], [[maybe important]], 
+> [[biodiversity]], [[important]], [[species richness]], [[species diversity]], [[species abundance]], 
 > [Online link](https://www.nature.com/scitable/knowledge/library/characterizing-communities-13241173/), [Zotero Item](zotero://select/library/items/D74IAQS4), 
 
 # Notes %% begin notes %%
@@ -32,4 +32,4 @@ itemKey: D74IAQS4
 
 
 
-%% Import Date: 2025-04-30T11:27:56.287+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.412+02:00 %%

@@ -9,7 +9,7 @@ itemKey: HIPADHCD
 > Recent developments in Life Cycle Assessment
 > [[Finnveden, Göran]], [[Hauschild, Michael Z.]], [[Ekvall, Tomas]], [[Guinée, Jeroen]], [[Heijungs, Reinout]], [[Hellweg, Stefanie]], [[Koehler, Annette]], [[Pennington, David]], [[Suh, Sangwon]], 
 > [[Journal of Environmental Management]] (2009)
-> [[Ecological footprint]], [[Exergy analysis]], [[LCA]], [[LCC]], [[LCA]], [[Risk assessment]], [[Strategic Environmental Assessment]], [[Valuation]], [[Weighting]], 
+> [[Ecological footprint]], [[Exergy analysis]], [[LCC]], [[Risk assessment]], [[Strategic Environmental Assessment]], [[Valuation]], [[Weighting]], [[LCA]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0301479709002345), [Zotero Item](zotero://select/library/items/HIPADHCD), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/RQKGRV8T/Finnveden2009_Recentdevelopmentsa.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: HIPADHCD
 
 
 
-%% Import Date: 2025-04-30T11:27:53.928+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.130+02:00 %%

@@ -9,7 +9,7 @@ itemKey: G7JXXSQL
 > Biodiversity and ecosystem functioning in soil
 > [[Brussaard, Lijbert]], 
 > [[Ambio]] (1997)
-> [[fundational]], 
+> [[important]], 
 > [Online link](), [Zotero Item](zotero://select/library/items/G7JXXSQL), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/ZEEGXUPC/010012848.pdf), 
 
 # Notes %% begin notes %%
@@ -19,4 +19,4 @@ itemKey: G7JXXSQL
 
 
 
-%% Import Date: 2025-04-30T11:27:52.864+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.592+02:00 %%

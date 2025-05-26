@@ -9,7 +9,7 @@ itemKey: GBD5YDJJ
 > DNA Barcoding as a Plant Identification Method
 > [[Letsiou, Stavroula]], [[Madesis, Panagiotis]], [[Vasdekis, Efstathios]], [[Montemurro, Cinzia]], [[Grigoriou, Maria E.]], [[Skavdis, George]], [[Moussis, Vassilios]], [[Koutelidakis, Antonios E.]], [[Tzakos, Andreas G.]], 
 > [[Applied Sciences]] (2024)
-> [[DNA metabarcoding]], [[molecular markers]], [[plants]], [[species identification]], [[taxonomy]], 
+> [[DNA barcoding]], [[molecular markers]], [[plants]], [[species identification]], [[taxonomy]], 
 > [Online link](https://www.mdpi.com/2076-3417/14/4/1415), [Zotero Item](zotero://select/library/items/GBD5YDJJ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/85G6G9JX/Letsiou2024_DNABarcoding.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: GBD5YDJJ
 
 
 
-%% Import Date: 2025-04-30T11:27:55.404+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.610+02:00 %%

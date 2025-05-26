@@ -27,4 +27,4 @@ Key idea: not only organic farming has lower yields leading to higher impact per
 
 
 
-%% Import Date: 2025-04-30T11:27:55.793+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.969+02:00 %%

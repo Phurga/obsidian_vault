@@ -9,7 +9,7 @@ itemKey: 5K7V729E
 > A novel method for soil quality in life cycle assessment using several soil indicators
 > [[Oberholzer, Hans-Rudolf]], [[Freiermuth Knuchel, Ruth]], [[Weisskopf, Peter]], [[Gaillard, Gérard]], 
 > [[Agronomy for Sustainable Development]] (2012)
-> [[Land use]], [[soil quality]], [[LCIA]], [[important]], [[soil]], [[Life cycle impact assessment (LCIA)]], [[SALCA-SQ]], [[SALCA]], 
+> [[Land use]], [[soil quality]], [[important]], [[soil]], [[SALCA-SQ]], [[SALCA]], [[LCIA]], 
 > [Online link](https://doi.org/10.1007/s13593-011-0072-7), [Zotero Item](zotero://select/library/items/5K7V729E), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4BIGR9AG/Oberholzer2012_novelmethoda.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ See [[Bystricky2024_Combiningimpact]].
 
 
 
-%% Import Date: 2025-04-30T11:27:56.052+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.146+02:00 %%

@@ -9,7 +9,7 @@ itemKey: 9XP79MC4
 > Development of LCIA characterisation factors for land use impacts on biodiversity
 > [[Schmidt, Jannick H.]], 
 > [[Journal of Cleaner Production]] (2008)
-> [[Land use]], [[biodiversity]], [[LCIA]], [[Species richness]], [[LCIA]], [[Vascular plants]], 
+> [[Land use]], [[biodiversity]], [[Species richness]], [[Vascular plants]], [[LCIA]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0959652608000139), [Zotero Item](zotero://select/library/items/9XP79MC4), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YVVZ8HR6/Schmidt2008_DevelopmentLCIAa.pdf), 
 
 >[!abstract]-
@@ -21,4 +21,4 @@ itemKey: 9XP79MC4
 
 
 
-%% Import Date: 2025-04-30T11:27:56.801+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.904+02:00 %%

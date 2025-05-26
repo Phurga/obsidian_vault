@@ -9,7 +9,7 @@ itemKey: G6RDYM6N
 > Proposal for a Directive on Soil Monitoring and Resilience
 > [[European Commission]], 
 > [[European Commission]] (2025)
-> [[fundational]], 
+> [[important]], 
 > [Online link](https://environment.ec.europa.eu/publications/proposal-directive-soil-monitoring-and-resilience_en), [Zotero Item](zotero://select/library/items/G6RDYM6N), 
 
 >[!abstract]-
@@ -25,4 +25,4 @@ itemKey: G6RDYM6N
 
 
 
-%% Import Date: 2025-04-30T11:27:53.765+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.967+02:00 %%

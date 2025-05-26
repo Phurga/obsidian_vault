@@ -9,7 +9,7 @@ itemKey: IFZFQYW9
 > Conceptual Framework for Biodiversity Assessments in Global Value Chains
 > [[Maier, Stephanie D.]], [[Lindner, Jan Paul]], [[Francisco, Javier]], 
 > [[Sustainability]] (2019)
-> [[biodiversity]], [[LCIA]], [[unread]], [[LCA]], [[land use]], [[irreplaceability]], [[land management parameter]], [[methodology]], [[occupation]], [[proactive]], [[reactive]], [[regionalization]], [[transformation]], [[vulnerability]], [[intro]], 
+> [[biodiversity]], [[unread]], [[land use]], [[irreplaceability]], [[land management parameter]], [[methodology]], [[occupation]], [[proactive]], [[reactive]], [[regionalization]], [[transformation]], [[vulnerability]], [[intro]], [[LCIA]], [[LCA]], 
 > [Online link](https://www.mdpi.com/2071-1050/11/7/1841), [Zotero Item](zotero://select/library/items/IFZFQYW9), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KK8DWS98/Maier2019_ConceptualFramework.pdf), 
 
 >[!abstract]-
@@ -30,4 +30,4 @@ Reactive vs proactive approaches.
 
 
 
-%% Import Date: 2025-04-30T11:27:55.611+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.807+02:00 %%

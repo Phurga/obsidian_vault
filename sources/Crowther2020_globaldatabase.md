@@ -8,8 +8,8 @@ itemKey: YCN2QH5M
 >[!metadata]+
 > A global database of soil nematode abundance and functional group composition
 > [[Crowther, Thomas W.]], 
->  (2020)
-> [[nematodes]], [[abundance]], [[functional group]], [[maybe important]], 
+> [[]] (2020)
+> [[important]], [[nematodes]], [[abundance]], [[functional group]], 
 > [Online link](https://springernature.figshare.com/collections/A_global_database_of_soil_nematode_abundance_and_functional_group_composition/4718003), [Zotero Item](zotero://select/library/items/YCN2QH5M), 
 
 >[!abstract]-
@@ -25,4 +25,4 @@ Article: [[VanDenHoogen2019_Soilnematode]]
 
 
 
-%% Import Date: 2025-04-30T11:27:53.327+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.392+02:00 %%

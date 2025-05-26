@@ -7,7 +7,7 @@ itemKey: SAXJZRZQ
 ---
 >[!metadata]+
 > Linking effect traits of soil fauna to processes of organic matter transformation
-> [[Bonfanti, Jonathan]], [[Potapov, Anton M.]], [[Angst, Gerrit]], [[Ganault, Pierre]], [[Briones, Maria J. I.]], [[Calderón Sanou, Irene]], [[Chen, Ting-Wen]], [[Conti, Erminia]], [[Degrune, Florine]], [[Eisenhauer, Nico]], [[Ferlian, Olga]], [[Hackenberger, Davorka]], [[Hauer, Amelie]], [[Hedde, Mickael]], [[Hohberg, Karin]], [[Krogh, Paul Henning]], [[Mulder, Christian]], [[Perez-Roig, Camila]], [[Russell, David]], [[Shelef, Oren]], [[Zhou, Zheng]], [[Zuev, Andrey G.]], [[Berg, Matty P.]], 
+> [[Bonfanti, Jonathan]], [[Potapov, Anton M.]], [[Angst, Gerrit]], [[Ganault, Pierre]], [[Briones, Maria J. I.]], [[Calderón-Sanou, Irene]], [[Chen, Ting-Wen]], [[Conti, Erminia]], [[Degrune, Florine]], [[Eisenhauer, Nico]], [[Ferlian, Olga]], [[Hackenberger, Davorka]], [[Hauer, Amelie]], [[Hedde, Mickael]], [[Hohberg, Karin]], [[Krogh, Paul Henning]], [[Mulder, Christian]], [[Perez-Roig, Camila]], [[Russell, David]], [[Shelef, Oren]], [[Zhou, Zheng]], [[Zuev, Andrey G.]], [[Berg, Matty P.]], 
 > [[Functional Ecology]] (2025)
 > 
 > [Online link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14720), [Zotero Item](zotero://select/library/items/SAXJZRZQ), 
@@ -20,6 +20,6 @@ itemKey: SAXJZRZQ
 %% end notes %%
 
 
-https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=e2ca88036aed36a1f0373ccd4126e7a5&sot=a&sdt=a&sl=90&s=TITLE%28%22Linking+effect+traits+of+soil+fauna+to+processes+of+organic+matter+transformation%22%29
 
-%% Import Date: 2025-05-23T16:06:32.511+02:00 %%
+
+%% Import Date: 2025-05-26T13:45:41.344+02:00 %%

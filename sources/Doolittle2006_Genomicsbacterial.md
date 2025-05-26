@@ -9,7 +9,7 @@ itemKey: 3QBW962X
 > Genomics and the bacterial species problem
 > [[Doolittle, W. Ford]], [[Papke, R. Thane]], 
 > [[Genome Biology]] (2006)
-> [[Bacillus Anthracis]], [[Gene Content]], [[Homologous Recombination]], [[Lateral Gene Transfer]], [[Species Concept]], 
+> [[taxonomy]], [[Bacillus Anthracis]], [[Gene Content]], [[Homologous Recombination]], [[Lateral Gene Transfer]], [[Species Concept]], 
 > [Online link](https://doi.org/10.1186/gb-2006-7-9-116), [Zotero Item](zotero://select/library/items/3QBW962X), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/RUD6DSZ5/Doolittle2006_Genomicsbacterial.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: 3QBW962X
 
 
 
-%% Import Date: 2025-05-14T17:20:32.916+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.741+02:00 %%

@@ -9,7 +9,7 @@ itemKey: 7DQWKXY8
 > The challenge and importance of preserving microbial biodiversity
 > [[Sansonetti, Philippe]], 
 > [[Institut Pasteur]] (2024)
-> [[biodiversity]], [[/unread]], 
+> [[biodiversity]], 
 > [Online link](https://www.pasteur.fr/en/research-journal/news/challenge-and-importance-preserving-microbial-biodiversity?language=fr), [Zotero Item](zotero://select/library/items/7DQWKXY8), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4A7ETI4R/Sansonetti_PhilippeSansonettiProfessorEmeritusattheInstitutPasteurandtheCollegedeFrance.pdf), 
 
 >[!abstract]-
@@ -34,4 +34,4 @@ itemKey: 7DQWKXY8
 	
 
 
-%% Import Date: 2025-04-30T11:27:56.479+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.614+02:00 %%

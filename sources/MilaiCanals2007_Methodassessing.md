@@ -9,7 +9,7 @@ itemKey: LH8QQ679
 > Method for assessing impacts on life support functions (LSF) related to the use of ‘fertile land’ in Life Cycle Assessment (LCA)
 > [[Milà i Canals, Llorenç]], [[Romanyà, Joan]], [[Cowell, Sarah J.]], 
 > [[Journal of Cleaner Production]] (2007)
-> [[Agriculture]], [[Fertile land use]], [[LCIA]], [[life support functions]], [[Life support functions]], [[LSF]], [[Soil organic matter]], 
+> [[Agriculture]], [[Fertile land use]], [[life support functions]], [[Life support functions]], [[LSF]], [[Soil organic matter]], [[LCIA]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0959652606001600), [Zotero Item](zotero://select/library/items/LH8QQ679), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/TLSX78MB/MilaICanals2007_Methodassessinga.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: LH8QQ679
 
 
 
-%% Import Date: 2025-04-30T11:27:55.843+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.009+02:00 %%

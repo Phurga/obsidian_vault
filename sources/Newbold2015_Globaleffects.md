@@ -9,7 +9,7 @@ itemKey: LB99VPJ2
 > Global effects of land use on local terrestrial biodiversity
 > [[Newbold, Tim]], [[Hudson, Lawrence N.]], [[Hill, Samantha L. L.]], [[Contu, Sara]], [[Lysenko, Igor]], [[Senior, Rebecca A.]], [[Börger, Luca]], [[Bennett, Dominic J.]], [[Choimes, Argyrios]], [[Collen, Ben]], [[Day, Julie]], [[De Palma, Adriana]], [[Díaz, Sandra]], [[Echeverria-Londoño, Susy]], [[Edgar, Melanie J.]], [[Feldman, Anat]], [[Garon, Morgan]], [[Harrison, Michelle L. K.]], [[Alhusseini, Tamera]], [[Ingram, Daniel J.]], [[Itescu, Yuval]], [[Kattge, Jens]], [[Kemp, Victoria]], [[Kirkpatrick, Lucinda]], [[Kleyer, Michael]], [[Correia, David Laginha Pinto]], [[Martin, Callum D.]], [[Meiri, Shai]], [[Novosolov, Maria]], [[Pan, Yuan]], [[Phillips, Helen R. P.]], [[Purves, Drew W.]], [[Robinson, Alexandra]], [[Simpson, Jake]], [[Tuck, Sean L.]], [[Weiher, Evan]], [[White, Hannah J.]], [[Ewers, Robert M.]], [[Mace, Georgina M.]], [[Scharlemann, Jörn P. W.]], [[Purvis, Andy]], 
 > [[Nature]] (2015)
-> [[biodiversity]], [[Biodiversity]], [[Community ecology]], [[Conservation Biology]], [[/unread]], 
+> [[biodiversity]], [[Biodiversity]], [[Community ecology]], [[Conservation biology]], 
 > [Online link](https://www.nature.com/articles/nature14324), [Zotero Item](zotero://select/library/items/LB99VPJ2), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/VV6W92FN/Newbold2015_Globaleffectsa.pdf), 
 
 >[!abstract]-
@@ -26,4 +26,4 @@ itemKey: LB99VPJ2
 
 
 
-%% Import Date: 2025-04-30T11:27:55.975+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.076+02:00 %%

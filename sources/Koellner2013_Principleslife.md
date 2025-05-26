@@ -9,7 +9,7 @@ itemKey: 5JK29CR6
 > Principles for life cycle inventories of land use on a global scale
 > [[Koellner, Thomas]], [[de Baan, Laura]], [[Beck, Tabea]], [[Brandão, Miguel]], [[Civit, Barbara]], [[Goedkoop, Mark]], [[Margni, Manuele]], [[Milà i Canals, Llorenç]], [[Müller-Wenk, Ruedi]], [[Weidema, Bo]], [[Wittstock, Bastian]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[LCA]], [[Environmental Chemistry]], [[Global]], [[Land cover]], [[Regionalization]], 
+> [[Environmental Chemistry]], [[Global]], [[Land cover]], [[Regionalization]], [[LCA]], 
 > [Online link](https://doi.org/10.1007/s11367-012-0392-0), [Zotero Item](zotero://select/library/items/5JK29CR6), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YBK9UG62/Koellner2013_Principleslifea.pdf), 
 
 >[!abstract]-
@@ -23,4 +23,4 @@ Referenced in [[Fehrenbach2015_Hemerobyimpact]], mentioning a potential discrimi
 
 
 
-%% Import Date: 2025-04-30T11:27:55.167+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.421+02:00 %%

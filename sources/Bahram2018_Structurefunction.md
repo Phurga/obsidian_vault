@@ -7,9 +7,9 @@ itemKey: NPJ4Z7BX
 ---
 >[!metadata]+
 > Structure and function of the global topsoil microbiome
-> [[Bahram, Mohammad]], [[Hildebrand, Falk]], [[Forslund, Sofia K.]], [[Anderson, Jennifer L.]], [[Soudzilovskaia, Nadejda A.]], [[Bodegom, Peter M.]], [[Bengtsson-Palme, Johan]], [[Anslan, Sten]], [[Coelho, Luis Pedro]], [[Harend, Helery]], [[Huerta-Cepas, Jaime]], [[Medema, Marnix H.]], [[Maltz, Mia R.]], [[Mundra, Sunil]], [[Olsson, Pål Axel]], [[Pent, Mari]], [[Põlme, Sergei]], [[Sunagawa, Shinichi]], [[Ryberg, Martin]], [[Tedersoo, Leho]], [[Bork, Peer]], 
+> [[Bahram, Mohammad]], [[Hildebrand, Falk]], [[Forslund, Sofia K.]], [[Anderson, Jennifer L.]], [[Soudzilovskaia, Nadejda A.]], [[van Bodegom, Peter M.]], [[Bengtsson-Palme, Johan]], [[Anslan, Sten]], [[Coelho, Luis Pedro]], [[Harend, Helery]], [[Huerta-Cepas, Jaime]], [[Medema, Marnix H.]], [[Maltz, Mia R.]], [[Mundra, Sunil]], [[Olsson, Pål Axel]], [[Pent, Mari]], [[Põlme, Sergei]], [[Sunagawa, Shinichi]], [[Ryberg, Martin]], [[Tedersoo, Leho]], [[Bork, Peer]], 
 > [[Nature]] (2018)
-> [[biogeography]], [[Microbial ecology]], 
+> [[Biogeography]], [[Microbial ecology]], 
 > [Online link](https://www.nature.com/articles/s41586-018-0386-6), [Zotero Item](zotero://select/library/items/NPJ4Z7BX), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/ECC64PM9/Bahram2018_Structurefunction.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: NPJ4Z7BX
 
 
 
-%% Import Date: 2025-05-06T17:32:23.950+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.086+02:00 %%

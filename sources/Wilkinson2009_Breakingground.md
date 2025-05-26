@@ -9,7 +9,7 @@ itemKey: PDYFTUJ3
 > Breaking ground: Pedological, geological, and ecological implications of soil bioturbation
 > [[Wilkinson, Marshall T.]], [[Richards, Paul J.]], [[Humphreys, Geoff S.]], 
 > [[Earth-Science Reviews]] (2009)
-> [[ant]], [[bioturbation]], [[earthworms]], [[soil carbon]], [[soil creep]], [[soil production]], [[termite]], 
+> [[ants]], [[bioturbation]], [[earthworms]], [[soil carbon]], [[soil creep]], [[soil production]], [[termites]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0012825209001470), [Zotero Item](zotero://select/library/items/PDYFTUJ3), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/CDGN7MPE/Wilkinson2009_Breakinggrounda.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: PDYFTUJ3
 
 
 
-%% Import Date: 2025-04-30T11:27:57.745+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.785+02:00 %%

@@ -1,13 +1,13 @@
 ---
 tags:
-  - source/book
+  - source/report
   - zotero
 doi: 
 itemKey: 5VX2NLTU
 ---
 >[!metadata]+
 > State of knowledge of soil biodiversity - Status, challenges and potentialities
-> [[FAO]], 
+> [[FAO]], [[ITPS]], [[GBSI]], [[SCBD]], [[EC]], 
 > [[FAO]] (2020)
 > [[biodiversity]], [[important]], [[soil]], 
 > [Online link](http://www.fao.org/documents/card/en/c/cb1928en), [Zotero Item](zotero://select/library/items/5VX2NLTU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LL57S7CQ/FAO2020_Stateknowledge.pdf), 
@@ -41,4 +41,4 @@ Many ideas here
 
 
 
-%% Import Date: 2025-04-30T11:27:53.798+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.981+02:00 %%

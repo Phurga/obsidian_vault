@@ -9,7 +9,7 @@ itemKey: A4WSZYYB
 > Homepage
 > [[BOLD Systems]], 
 > [[BOLD – The Barcode of Life Data Systems]] (2025)
-> [[DNA]], [[DNA metabarcoding]], 
+> [[DNA]], [[DNA barcoding]], 
 > [Online link](https://boldsystems.org/), [Zotero Item](zotero://select/library/items/A4WSZYYB), 
 
 # Notes %% begin notes %%
@@ -20,4 +20,4 @@ linked to this webpage, to use for [[DNA metabarcoding]], there is a great taxon
 
 
 
-%% Import Date: 2025-04-30T11:27:52.664+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.305+02:00 %%

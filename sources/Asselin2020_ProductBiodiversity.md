@@ -9,7 +9,7 @@ itemKey: RL2U364N
 > Product Biodiversity Footprint – A novel approach to compare the impact of products on biodiversity combining Life Cycle Assessment and Ecology
 > [[Asselin, Anne]], [[Rabaud, Suzanne]], [[Catalan, Caroline]], [[Leveque, Benjamin]], [[L’Haridon, Jacques]], [[Martz, Patricia]], [[Neveux, Guillaume]], 
 > [[Journal of Cleaner Production]] (2020)
-> [[lca]], [[invasive species]], [[beyond lca]], [[product footprint]], [[direct exploitation]], [[overexploitation]], 
+> [[invasive species]], [[beyond lca]], [[product footprint]], [[direct exploitation]], [[overexploitation]], [[LCIA]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652619341320), [Zotero Item](zotero://select/library/items/RL2U364N), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/NBR8V8SX/Asselin2020_ProductBiodiversity.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: RL2U364N
 
 
 
-%% Import Date: 2025-04-30T11:27:52.422+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.042+02:00 %%

@@ -9,7 +9,7 @@ itemKey: SX5VSF95
 > A global map of terrestrial habitat types
 > [[Jung, Martin]], [[Dahal, Prabhat Raj]], [[Butchart, Stuart H. M.]], [[Donald, Paul F.]], [[De Lamo, Xavier]], [[Lesiv, Myroslava]], [[Kapos, Valerie]], [[Rondinini, Carlo]], [[Visconti, Piero]], 
 > [[Scientific Data]] (2020)
-> [[Biodiversity]], [[biogeography]], [[Macroecology]], [[Environmental sciences]], 
+> [[Biodiversity]], [[Biogeography]], [[Macroecology]], [[Environmental sciences]], 
 > [Online link](https://www.nature.com/articles/s41597-020-00599-8), [Zotero Item](zotero://select/library/items/SX5VSF95), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/TIWLFGGV/Jung2020_globalmap.pdf), 
 
 >[!abstract]-
@@ -24,4 +24,4 @@ Provides a global map at 100m or 10m of [[IUCN2025_HabitatsClassification]]
 
 
 
-%% Import Date: 2025-05-23T09:34:52.353+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.316+02:00 %%

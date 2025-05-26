@@ -14,6 +14,7 @@ itemKey: FB96DLQ2
 
 >[!abstract]-
 >The focus of land use modeling in life cycle impact assessment has been mainly on taxonomic measures of biodiversity, namely species richness (SR). However, increasing availability of trait data for species has led to the use of functional diversity (FD) as a promising metric to reflect the distinctiveness of species; this paper proposes the use of an FD index to calculate characterization factors (CFs) for land use impacts. Furthermore, we compare the results of the CFs to current practice and assess the increase in complexity introduced by the use of the new indicator.
+
 # Notes %% begin notes %% 
 
 This is the first LCIA method that derive CFs for functional diversity, before Scherer in 2020.
@@ -31,4 +32,4 @@ Following Petchey 2002 (Functional diversity (FD), species richness and communit
 
 
 
-%% Import Date: 2025-04-30T11:27:53.557+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.784+02:00 %%

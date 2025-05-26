@@ -9,7 +9,7 @@ itemKey: T3HJW2TY
 > Global guidance on environmental life cycle impact assessment indicators: progress and case study
 > [[Frischknecht, Rolf]], [[Fantke, Peter]], [[Tschümperlin, Laura]], [[Niero, Monia]], [[Antón, Assumpció]], [[Bare, Jane]], [[Boulay, Anne-Marie]], [[Cherubini, Francesco]], [[Hauschild, Michael Z.]], [[Henderson, Andrew]], [[Levasseur, Annie]], [[McKone, Thomas E.]], [[Michelsen, Ottar]], [[Milà I Canals, Llorenç]], [[Pfister, Stephan]], [[Ridoutt, Brad]], [[Rosenbaum, Ralph K.]], [[Verones, Francesca]], [[Vigon, Bruce]], [[Jolliet, Olivier]], 
 > [[The International Journal of Life Cycle Assessment]] (2016)
-> [[Environmental Chemistry]], [[LCIA]], [[LCIA]], [[Footprint]], [[Guidance]], [[Impact indicators]], [[Rice cultivation]], 
+> [[Environmental Chemistry]], [[Footprint]], [[Guidance]], [[Impact indicators]], [[Rice cultivation]], [[LCIA]], 
 > [Online link](https://doi.org/10.1007/s11367-015-1025-1), [Zotero Item](zotero://select/library/items/T3HJW2TY), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/STHKS93B/s11367-015-1025-1.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: T3HJW2TY
 
 
 
-%% Import Date: 2025-04-30T11:27:54.119+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.205+02:00 %%

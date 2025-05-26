@@ -9,7 +9,7 @@ itemKey: ST5HVFHI
 > An expert system for integrating biodiversity into agricultural life-cycle assessment
 > [[Jeanneret, Philippe]], [[Baumgartner, Daniel U.]], [[Freiermuth Knuchel, Ruth]], [[Koch, Bärbel]], [[Gaillard, Gérard]], 
 > [[Ecological Indicators]] (2014)
-> [[LCA]], [[Agriculture]], [[Impact]], [[Biodiversity indicators]], [[Scoring]], [[SALCA]], [[SALCA-BD]], 
+> [[Agriculture]], [[Impact]], [[Biodiversity indicators]], [[Scoring]], [[SALCA]], [[SALCA-BD]], [[LCA]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S1470160X14002830), [Zotero Item](zotero://select/library/items/ST5HVFHI), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/STFWWGR9/Jeanneret2014_expertsystem.pdf), 
 
 >[!abstract]-
@@ -28,4 +28,4 @@ The method defined 11 indicator species group (ISGs) and calculates a score repr
 
 
 
-%% Import Date: 2025-04-30T11:27:54.906+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.215+02:00 %%

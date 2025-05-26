@@ -9,7 +9,7 @@ itemKey: R52HDVJA
 > A consistent variable-scale biodiversity impact assessment structure
 > [[Lindner, Jan Paul]], [[Fehrenbach, Horst]], [[Winter, Lisa]], [[Bischoff, Mascha]], [[Bloemer, Judith]], 
 > [[11th International Conference on Life Cycle Assessment of Food (LCA Food 2018)]] (2018)
-> [[biodiversity]], [[LCIA]], [[land use]], [[fuzzy thinking]], [[hemeroby]], 
+> [[biodiversity]], [[land use]], [[fuzzy thinking]], [[hemeroby]], [[LCIA]], 
 > [Online link](https://publica.fraunhofer.de/entities/publication/7dfb2d44-8206-4a6e-a341-442f0eb1a93e/fullmeta), [Zotero Item](zotero://select/library/items/R52HDVJA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/3VKSI5G5/BOA_Prgm_Abs_Final_15%20Nov%202018.pdf), 
 
 >[!abstract]-
@@ -31,4 +31,4 @@ multivariate equation which describes the biodiversity value of the land. Exampl
 
 
 
-%% Import Date: 2025-04-30T11:27:55.475+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.662+02:00 %%

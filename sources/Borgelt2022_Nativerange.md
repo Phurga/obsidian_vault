@@ -9,7 +9,7 @@ itemKey: 8BBY5DIN
 > Native range estimates for red-listed vascular plants
 > [[Borgelt, Jan]], [[Sicacha-Parada, Jorge]], [[Skarpaas, Olav]], [[Verones, Francesca]], 
 > [[Scientific Data]] (2022)
-> [[Biodiversity]], [[biogeography]], [[Sustainability]], [[Data publication and archiving]], [[Ecological modelling]], 
+> [[Biodiversity]], [[Biogeography]], [[Sustainability]], [[Data publication and archiving]], [[Ecological modelling]], 
 > [Online link](https://www.nature.com/articles/s41597-022-01233-5), [Zotero Item](zotero://select/library/items/8BBY5DIN), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/C9NT6BBZ/Borgelt2022_Nativerange.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: 8BBY5DIN
 
 
 
-%% Import Date: 2025-04-30T11:27:52.707+02:00 %%
+%% Import Date: 2025-05-26T13:45:41.375+02:00 %%

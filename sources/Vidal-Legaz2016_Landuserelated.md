@@ -2,7 +2,6 @@
 tags:
   - source/report
   - zotero
-  - source/book
 doi: 
 itemKey: IBAZRZBM
 ---
@@ -22,4 +21,4 @@ itemKey: IBAZRZBM
 
 
 
-%% Import Date: 2025-04-30T11:27:53.732+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.563+02:00 %%

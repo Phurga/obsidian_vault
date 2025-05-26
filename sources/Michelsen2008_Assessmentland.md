@@ -9,7 +9,7 @@ itemKey: NDLLSHF2
 > Assessment of land use impact on biodiversity
 > [[Michelsen, Ottar]], 
 > [[The International Journal of Life Cycle Assessment]] (2008)
-> [[biodiversity]], [[Biodiversity]], [[Environmental Chemistry]], [[LCIA]], [[LCA]], [[ecoregion]], [[forestry]], [[key factors]], [[land quality]], [[land use impacts]], 
+> [[biodiversity]], [[Biodiversity]], [[Environmental Chemistry]], [[ecoregion]], [[forestry]], [[key factors]], [[land quality]], [[land use impacts]], [[LCIA]], [[LCA]], 
 > [Online link](https://doi.org/10.1065/lca2007.04.316), [Zotero Item](zotero://select/library/items/NDLLSHF2), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/JKCQ5CUM/Michelsen2008_Assessmentlanda.pdf), 
 
 >[!abstract]-
@@ -29,4 +29,4 @@ The basis for the method is that the [[ecosystem quality]] is quantified as a pr
 
 
 
-%% Import Date: 2025-04-30T11:27:55.809+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.985+02:00 %%

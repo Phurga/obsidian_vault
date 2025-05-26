@@ -9,7 +9,7 @@ itemKey: UHNT785F
 > Indicators for Monitoring Biodiversity: A Hierarchical Approach
 > [[Noss, Reed F.]], 
 > [[Conservation Biology]] (1990)
-> [[biodiversity]], [[fundational]], 
+> [[biodiversity]], [[important]], 
 > [Online link](https://conbio.onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.1990.tb00309.x), [Zotero Item](zotero://select/library/items/UHNT785F), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YP4FZD6M/Noss1990_IndicatorsMonitoring.pdf), 
 
 >[!abstract]-
@@ -33,4 +33,4 @@ Refers to an old definition of biodiversity in :
 
 
 
-%% Import Date: 2025-04-30T11:27:56.017+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.124+02:00 %%

@@ -9,7 +9,7 @@ itemKey: TTMKW47H
 > Earthworms increase plant production: a meta-analysis
 > [[van Groenigen, Jan Willem]], [[Lubbers, Ingrid M.]], [[Vos, Hannah M. J.]], [[Brown, George G.]], [[De Deyn, Gerlinde B.]], [[van Groenigen, Kees Jan]], 
 > [[Scientific Reports]] (2014)
-> [[ecosystem service]], [[Agroecology]], 
+> [[Ecosystem services]], [[Agroecology]], 
 > [Online link](https://www.nature.com/articles/srep06365), [Zotero Item](zotero://select/library/items/TTMKW47H), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/CF7ENXAR/vanGroenigen2014_Earthwormsincrease.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: TTMKW47H
 
 
 
-%% Import Date: 2025-04-30T11:27:57.340+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.446+02:00 %%

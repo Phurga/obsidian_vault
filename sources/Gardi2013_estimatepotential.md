@@ -6,10 +6,10 @@ doi: 10.1111/gcb.12159
 itemKey: MYGXTPF5
 ---
 >[!metadata]+
-> An estimate of potential threats levels to soil biodiversity in <span style="font-variant:small-caps;">EU</span>
+> An estimate of potential threats levels to soil biodiversity in EU
 > [[Gardi, Ciro]], [[Jeffery, Simon]], [[Saltelli, Andrea]], 
 > [[Global Change Biology]] (2013)
-> [[biodiversity]], [[important]], [[soil]], [[BISQ]], [[DISPR]], [[QBS]], [[soil biodiversity]], [[soil degradation processes]], [[soil thematic strategy]], [[threats]], 
+> [[biodiversity]], [[important]], [[soil]], [[BISQ]], [[DISPR]], [[QBS]], [[soil biodiversity]], [[soil degradation processes]], [[soil thematic strategy]], [[threats]], [[EU JRC]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.12159), [Zotero Item](zotero://select/library/items/MYGXTPF5), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/P3MZZ8P9/Global%20Change%20Biology%20-%202013%20-%20Gardi%20-%20An%20estimate%20of%20potential%20threats%20levels%20to%20soil%20biodiversity%20in%20EU.pdf), 
 
 >[!abstract]-
@@ -24,4 +24,4 @@ Already based on a consultation of experts but only 20 experts were surveyed her
 
 
 
-%% Import Date: 2025-04-30T11:27:54.202+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.276+02:00 %%

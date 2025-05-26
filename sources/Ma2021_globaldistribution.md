@@ -9,7 +9,7 @@ itemKey: 9RH2SY5Y
 > The global distribution and environmental drivers of aboveground versus belowground plant biomass
 > [[Ma, Haozhi]], [[Mo, Lidong]], [[Crowther, Thomas W.]], [[Maynard, Daniel S.]], [[van den Hoogen, Johan]], [[Stocker, Benjamin D.]], [[Terrer, César]], [[Zohner, Constantin M.]], 
 > [[Nature Ecology & Evolution]] (2021)
-> [[biogeography]], [[Macroecology]], [[Plant ecology]], 
+> [[Biogeography]], [[Macroecology]], [[Plant ecology]], 
 > [Online link](https://www.nature.com/articles/s41559-021-01485-1), [Zotero Item](zotero://select/library/items/9RH2SY5Y), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: 9RH2SY5Y
 
 
 
-%% Import Date: 2025-04-30T11:27:55.554+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.715+02:00 %%

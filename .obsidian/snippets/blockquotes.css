@@ -1,4 +1,6 @@
-.internal-embed::before[if] {
-    content: attr(alt);
-    font-style: italic;
+.internal-embed::before { 
+    content: attr(alt); 
+    font-size: 0.9em; 
+    font-weight: 300; 
+    color: grey; 
 }

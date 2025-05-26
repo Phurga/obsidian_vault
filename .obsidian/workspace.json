@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/the intermediate disturbance hypothesis.md",
+                "file": "sources/Fierer2009_Globalpatterns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the intermediate disturbance hypothesis"
+              "title": "Fierer2009_Globalpatterns"
+            }
+          },
+          {
+            "id": "3601b4f0ce6eff75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Zhou2020_Metaanalysisimpacts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhou2020_Metaanalysisimpacts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/the intermediate disturbance hypothesis.md",
+                "file": "sources/Zhou2020_Metaanalysisimpacts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for the intermediate disturbance hypothesis"
+              "title": "Backlinks for Zhou2020_Metaanalysisimpacts"
             }
           },
           {
@@ -171,10 +187,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/the intermediate disturbance hypothesis.md"
+                "file": "sources/Zhou2020_Metaanalysisimpacts.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for the intermediate disturbance hypothesis"
+              "title": "File properties for Zhou2020_Metaanalysisimpacts"
             }
           }
         ]
@@ -191,8 +207,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c06854352a1077f2",
+  "active": "3601b4f0ce6eff75",
   "lastOpenFiles": [
+    "sources/Fierer2009_Globalpatterns.md",
+    "sources/Thakur2020_integrativeunderstanding.md",
+    "sources/Skidmore2022_Mappingrelative.md",
+    "sources/Potapov2022_Multifunctionalitybelowground.md",
+    "sources/MEA2005_Ecosystemshuman.md",
+    "sources/Leibold2022_internalstructure.md",
+    "sources/LCAFood2018_ProceedingLCAFood.md",
+    "sources/Jones2021_TaxonomicIdentification.md",
+    "sources/Jeffery2010_Europeanatlas.md",
+    "sources/IPBES2019_Globalassessment.md",
+    "sources/Hu2025_Introductiondeep.md",
+    "sources/Guisan2005_Predictingspecies.md",
+    "sources/Cerna2025_Limitspromises.md",
+    "sources/CBD2000_Sustaininglife.md",
+    "sources/Calderon-Sanou2022_betterunderstanding.md",
+    "concepts/soil.md",
     "sources/CalderonSanou2022_betterunderstanding.md",
     "concepts/the intermediate disturbance hypothesis.md",
     "attachments/CalderonSanou2022_betterunderstanding_spatial_scale.png",
@@ -204,24 +236,8 @@
     "sources/Potapov2022_Multifunctionalitybelowgrounda.md",
     "misc/setup/setup.md",
     "misc/meetings/questions meeting sdm.md",
-    "creators/Potapov, Anton M..md",
     "misc/meetings",
-    "concepts/taxonomy.md",
-    "sources/Bonfanti2025_Linkingeffect.md",
-    "creators/Sanou-Calderon, Irene.md",
-    "concepts/biogeography.md",
-    "concepts/la fresque du sol.md",
-    "concepts/ontology.md",
-    "sources/LeGuillarme2023_SoilFood.md",
     "attachments/LeGuillarme2023_SoilFood_gratin.png",
-    "creators/Hedde, Mickael.md",
-    "sources/AFES2022_fresquesol.md",
-    "concepts/pressures on soils.md",
-    "sources/Hedde2022_commonframework.md",
-    "concepts/composition, structure, function.md",
-    "concepts/ecological functionning.md",
-    "concepts/biodiversity.md",
-    "concepts/ecological composition.md",
     "attachments/WCSorg_ecosystem_integrity_3.png",
     "attachments/PREDICTS_taxon_representativeness.jpg",
     "attachments/Burg2025_nematode_exploration_fr_map.png",

@@ -8,7 +8,7 @@ itemKey: JEVD5FWM
 >[!metadata]+
 > La fresque du sol
 > [[AFES]], 
-> [[la fresque du sol]] (2022)
+> [[La fresque du sol]] (2022)
 > [[soil]], [[soil ecology]], [[fresque]], 
 > [Online link](https://fresquedusol.com/), [Zotero Item](zotero://select/library/items/JEVD5FWM), 
 
@@ -19,4 +19,4 @@ itemKey: JEVD5FWM
 
 
 
-%% Import Date: 2025-04-30T11:27:52.324+02:00 %%
+%% Import Date: 2025-05-26T13:45:40.870+02:00 %%

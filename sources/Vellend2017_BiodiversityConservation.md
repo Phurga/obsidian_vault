@@ -9,7 +9,7 @@ itemKey: CQEANHGR
 > The Biodiversity Conservation Paradox
 > [[Vellend, Mark]], 
 > [[American Scientist]] (2017)
-> [[biodiversity]], [[Biodiversity conservation]], [[Conservation Biology]], [[wildnerness]], [[maybe important]], 
+> [[biodiversity]], [[Biodiversity conservation]], [[important]], [[Conservation biology]], [[wildnerness]], 
 > [Online link](https://www.americanscientist.org/article/the-biodiversity-conservation-paradox), [Zotero Item](zotero://select/library/items/CQEANHGR), 
 
 >[!abstract]-
@@ -44,4 +44,4 @@ itemKey: CQEANHGR
 
 
 
-%% Import Date: 2025-04-30T11:27:57.355+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.461+02:00 %%

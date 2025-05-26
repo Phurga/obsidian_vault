@@ -9,7 +9,7 @@ itemKey: NNS763U6
 > DNA barcoding, an effective tool for species identification: a review
 > [[Antil, Sandeep]], [[Abraham, Jeeva Susan]], [[Sripoorna, S.]], [[Maurya, Swati]], [[Dagar, Jyoti]], [[Makhija, Seema]], [[Bhagat, Pooja]], [[Gupta, Renu]], [[Sood, Utkarsh]], [[Lal, Rup]], [[Toteja, Ravi]], 
 > [[Molecular Biology Reports]] (2023)
-> [[Biodiversity]], [[DNA metabarcoding]], [[Consortium for barcode of life (CBOL)]], [[Next-generation sequencing (NGS)]], [[Oxford Nanopore Technologies (ONT)’s MinION™]], [[PacBio sequencing]], 
+> [[Biodiversity]], [[DNA barcoding]], [[Consortium for barcode of life (CBOL)]], [[Next-generation sequencing (NGS)]], [[PacBio sequencing]], [[Oxford Nanopore Technologies (ONT)’s MinION]], 
 > [Online link](https://doi.org/10.1007/s11033-022-08015-7), [Zotero Item](zotero://select/library/items/NNS763U6), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/6FV6Y4QA/Antil2023_DNAbarcoding.pdf), 
 
 >[!abstract]-
@@ -42,4 +42,4 @@ itemKey: NNS763U6
 
 
 
-%% Import Date: 2025-04-30T11:27:52.397+02:00 %%
+%% Import Date: 2025-05-26T13:45:40.969+02:00 %%

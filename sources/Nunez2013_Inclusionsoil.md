@@ -9,7 +9,7 @@ itemKey: 934IIKFW
 > Inclusion of soil erosion impacts in life cycle assessment on a global scale: application to energy crops in Spain
 > [[Núñez, Montserrat]], [[Antón, Assumpció]], [[Muñoz, Pere]], [[Rieradevall, Joan]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[Environmental Chemistry]], [[Soil organic carbon]], [[ecosystem service]], [[Regionalized life cycle impact assessment]], [[Land use impacts]], [[Soil loss]], 
+> [[Environmental Chemistry]], [[Soil organic carbon]], [[Ecosystem services]], [[Regionalized life cycle impact assessment]], [[Land use impacts]], [[Soil loss]], 
 > [Online link](https://doi.org/10.1007/s11367-012-0525-5), [Zotero Item](zotero://select/library/items/934IIKFW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/WBQHBR52/Nunez2013_Inclusionsoil.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: 934IIKFW
 
 
 
-%% Import Date: 2025-04-30T11:27:56.034+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.136+02:00 %%

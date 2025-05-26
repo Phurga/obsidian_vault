@@ -9,7 +9,7 @@ itemKey: DM4BWYUZ
 > Developing characterisation factors for land fragmentation impacts on biodiversity in LCA: key learnings from a sugarcane case study
 > [[Larrey-Lassalle, Pyrène]], [[Loiseau, Eléonore]], [[Roux, Philippe]], [[Lopez-Ferber, Miguel]], [[Rosenbaum, Ralph K.]], 
 > [[The International Journal of Life Cycle Assessment]] (2018)
-> [[Biodiversity loss]], [[Habitat fragmentation]], [[LCIA characterisation factors]], [[Metapopulation capacity]], [[Species-fragmented area relationship (SFAR)]], [[Sugarcane production]], [[fragmentation]], 
+> [[Biodiversity loss]], [[characterisation factors]], [[Habitat fragmentation]], [[Metapopulation capacity]], [[Species-fragmented area relationship (SFAR)]], [[Sugarcane production]], [[fragmentation]], 
 > [Online link](https://doi.org/10.1007/s11367-018-1449-5), [Zotero Item](zotero://select/library/items/DM4BWYUZ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/H9JK8R7W/Larrey-Lassalle2018_Developingcharacterisation.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: DM4BWYUZ
 
 
 
-%% Import Date: 2025-04-30T11:27:55.356+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.535+02:00 %%

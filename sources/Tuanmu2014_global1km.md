@@ -9,7 +9,7 @@ itemKey: 5P2DLPA4
 > A global 1-km consensus land-cover product for biodiversity and ecosystem modelling
 > [[Tuanmu, Mao-Ning]], [[Jetz, Walter]], 
 > [[Global Ecology and Biogeography]] (2014)
-> [[land use]], [[DISCover]], [[GLC2000]], [[GlobCover]], [[land-cover heterogeneity]], [[land-cover prevalence]], [[MODIS]], [[remote sensing]], [[species distribution model]], 
+> [[land use]], [[DISCover]], [[GLC2000]], [[GlobCover]], [[land-cover heterogeneity]], [[land-cover prevalence]], [[MODIS]], [[remote sensing]], [[species distribution models]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12182), [Zotero Item](zotero://select/library/items/5P2DLPA4), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/QZ2LYG2B/Tuanmu2014_global1km.pdf), 
 
 >[!abstract]-
@@ -42,4 +42,4 @@ Classification
 
 
 
-%% Import Date: 2025-04-30T11:27:57.225+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.312+02:00 %%

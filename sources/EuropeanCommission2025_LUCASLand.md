@@ -9,7 +9,7 @@ itemKey: XA32W6M8
 > LUCAS - Land use and land cover survey
 > [[European Commission]], 
 > [[Eurostat - Statistics Explained]] (2025)
-> [[land use]], [[land cover]], 
+> [[land use]], [[land cover]], [[dataset]], 
 > [Online link](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=LUCAS_-_Land_use_and_land_cover_survey), [Zotero Item](zotero://select/library/items/XA32W6M8), 
 
 >[!abstract]-
@@ -23,4 +23,4 @@ land classification: https://showvoc.op.europa.eu/#/datasets/ESTAT_LUCAS_Classif
 
 
 
-%% Import Date: 2025-05-07T14:33:51.480+02:00 %%
+%% Import Date: 2025-05-26T13:45:42.944+02:00 %%

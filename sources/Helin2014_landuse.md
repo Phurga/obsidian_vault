@@ -9,7 +9,7 @@ itemKey: LMZJHG5X
 > Is land use impact assessment in LCA applicable for forest biomass value chains? Findings from comparison of use of Scandinavian wood, agro-biomass and peat for energy
 > [[Helin, Tuomas]], [[Holma, Anne]], [[Soimakallio, Sampo]], 
 > [[The International Journal of Life Cycle Assessment]] (2014)
-> [[Land use]], [[Environmental Chemistry]], [[LCIA]], [[Indicators]], [[Barley]], [[Bioenergy]], [[Peat]], [[Reed canary grass]], [[Timber]], [[Wood]], 
+> [[Land use]], [[Environmental Chemistry]], [[Indicators]], [[Barley]], [[Bioenergy]], [[Peat]], [[Reed canary grass]], [[Timber]], [[Wood]], [[LCIA]], 
 > [Online link](https://doi.org/10.1007/s11367-014-0706-5), [Zotero Item](zotero://select/library/items/LMZJHG5X), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/Q3GAX7ZK/s11367-014-0706-5.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: LMZJHG5X
 
 
 
-%% Import Date: 2025-04-30T11:27:54.559+02:00 %%
+%% Import Date: 2025-05-26T13:45:43.701+02:00 %%

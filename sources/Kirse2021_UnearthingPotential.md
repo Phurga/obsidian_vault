@@ -9,7 +9,7 @@ itemKey: H7Z6BQ5Y
 > Unearthing the Potential of Soil eDNA Metabarcoding—Towards Best Practice Advice for Invertebrate Biodiversity Assessment
 > [[Kirse, Ameli]], [[Bourlat, Sarah J.]], [[Langen, Kathrin]], [[Fonseca, Vera G.]], 
 > [[Frontiers in Ecology and Evolution]] (2021)
-> [[soil biodiversity]], [[metabarcoding]], [[EDNA extraction]], [[eDNA metabarcoding]], [[extracellular DNA]], [[Intracellular DNA]], [[Invertebrate]], [[metazoa]], 
+> [[soil biodiversity]], [[metabarcoding]], [[EDNA extraction]], [[eDNA metabarcoding]], [[extracellular DNA]], [[Intracellular DNA]], [[Invertebrates]], [[metazoa]], 
 > [Online link](https://www.frontiersin.orghttps://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.630560/full), [Zotero Item](zotero://select/library/items/H7Z6BQ5Y), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/U3TKQFMU/Kirse2021_UnearthingPotential.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: H7Z6BQ5Y
 
 
 
-%% Import Date: 2025-04-30T11:27:55.133+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.410+02:00 %%

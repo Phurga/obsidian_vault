@@ -9,7 +9,7 @@ itemKey: LV6MFCU4
 > Biodiversity Impact Assessment Considering Land Use Intensities and Fragmentation
 > [[Scherer, Laura]], [[Rosa, Francesca]], [[Sun, Zhongxiao]], [[Michelsen, Ottar]], [[De Laurentiis, Valeria]], [[Marques, Alexandra]], [[Pfister, Stephan]], [[Verones, Francesca]], [[Kuipers, Koen J. J.]], 
 > [[Environmental Science & Technology]] (2023)
-> [[biodiversity]], [[LCIA]], [[important]], [[unread]], 
+> [[biodiversity]], [[important]], [[unread]], [[LCIA]], 
 > [Online link](https://doi.org/10.1021/acs.est.3c04191), [Zotero Item](zotero://select/library/items/LV6MFCU4), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/K98INF3F/Scherer2023_BiodiversityImpact.pdf), 
 
 >[!abstract]-
@@ -49,4 +49,4 @@ $RSL_{g,j,reg}=1-(\frac{H_{g,j,1}}{H_{g,j,0}})^{z_{g,j}}$
 
 
 
-%% Import Date: 2025-04-30T11:27:56.616+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.757+02:00 %%

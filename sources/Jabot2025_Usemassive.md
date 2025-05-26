@@ -9,7 +9,7 @@ itemKey: 5H5BG6HI
 > Use of massive DNA barcoding to monitor biodiversity: a test on forest soil fauna
 > [[Jabot, Franck]], [[Auger, Gwenaëlle]], [[Bonnal, Pauline]], [[Pizaine, Mathilde]], [[Roncoroni, Marilyn]], [[Revaillot, Sandrine]], [[Pottier, Julien]], 
 >  (2025)
-> [[biodiversity]], [[metabarcoding]], [[dna sequencing]], [[macrofauna]], 
+> [[biodiversity]], [[important]], [[metabarcoding]], [[dna sequencing]], [[macrofauna]], 
 > [Online link](https://www.biorxiv.org/content/10.1101/2025.02.07.636998v1), [Zotero Item](zotero://select/library/items/5H5BG6HI), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/AKQHBYVM/Jabot2025_Usemassive.pdf), 
 
 >[!abstract]-
@@ -23,4 +23,4 @@ In this article, the author test metabarcoding as a mean to identify species in 
 
 
 
-%% Import Date: 2025-04-30T11:27:54.849+02:00 %%
+%% Import Date: 2025-05-26T13:45:44.182+02:00 %%

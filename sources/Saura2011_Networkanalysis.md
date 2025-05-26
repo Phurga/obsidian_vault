@@ -9,7 +9,7 @@ itemKey: LKQNN7CP
 > Network analysis to assess landscape connectivity trends: Application to European forests (1990–2000)
 > [[Saura, Santiago]], [[Estreguil, Christine]], [[Mouton, Coralie]], [[Rodríguez-Freire, Mónica]], 
 > [[Ecological Indicators]] (2011)
-> [[Ecological connectivity]], [[ecological networks]], [[Graph theory]], [[Habitat availability indices]], [[Landscape dynamics]], [[Spatial pattern indicators]], 
+> [[Ecological connectivity]], [[Ecological networks]], [[Graph theory]], [[Habitat availability indices]], [[Landscape dynamics]], [[Spatial pattern indicators]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S1470160X10001159), [Zotero Item](zotero://select/library/items/LKQNN7CP), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/QSKCZTX7/Saura2011_Networkanalysisa.pdf), 
 
 >[!abstract]-
@@ -21,4 +21,4 @@ itemKey: LKQNN7CP
 
 
 
-%% Import Date: 2025-04-30T11:27:56.553+02:00 %%
+%% Import Date: 2025-05-26T13:45:45.708+02:00 %%

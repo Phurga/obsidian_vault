@@ -1,15 +1,15 @@
 ---
 tags:
-  - source/book
+  - source/report
   - zotero
 doi: 
 itemKey: KXWUKDFI
 ---
 >[!metadata]+
 > Suggestions for updating the  Product Environmental Footprint (PEF) method
-> [[Zampori, L.]], [[Pant, R.]], [[EU JRC]], 
+> [[Zampori, Luca]], [[Pant, Rana]], 
 > [[Publications Office of the European Union]] (2019)
-> 
+> [[EU JRC]], 
 > [Online link](), [Zotero Item](zotero://select/library/items/KXWUKDFI), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/J7NZJMXJ/Zampori2019_Suggestionsupdating.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ itemKey: KXWUKDFI
 
 
 
-%% Import Date: 2025-04-30T11:27:57.913+02:00 %%
+%% Import Date: 2025-05-26T13:45:46.959+02:00 %%
