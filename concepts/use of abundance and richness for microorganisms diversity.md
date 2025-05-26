@@ -2,5 +2,5 @@
 tags:
   - concept/idea
 ---
-[[CalderonSanou2022_betterunderstanding]]
-![[CalderonSanou2022_betterunderstanding#^b92ab3]]
+[[Calderon-Sanou2022_betterunderstanding]]
+![[Calderon-Sanou2022_betterunderstanding#^b92ab3]]

@@ -3,9 +3,13 @@ tags:
   - concept/definition
 aliases:
   - SAR
-  - species-area-relationship
+  - species area relationship
 ---
-Empirical relationship linking an area size with expected [[species richness]] found in said area, through $S = c.A^z$ with S the species richness, A the area, c and z coefficients (with 0 < z < 1, leading to diminishing returns, see curve below). This relationship is now considered central in ecology, and is used in LCA (through several refinements) to estimate the loss of species richness with the loss of natural land. Note that this relationship does not consider species populations, but only species presence or absence.
+The **species-area relationship** is an empirical theory in ecology, linking an area size with expected [[species richness]] found in this area. 
+
+The relationship is of the form $S = c.A^z$ with S the species richness, A the area, c and z coefficients (with 0 < z < 1, leading to diminishing returns, see curve below). 
+
+This relationship is now considered central in ecology, and is used in LCA (through several refinements) to estimate the loss of species richness with the loss of natural land. Note that this relationship does not consider species populations, but only species presence or absence.
 
 SAR approaches have continuously evolved to correct historical drawbacks. Such evolutions include:
 - the [[matrix SAR]]

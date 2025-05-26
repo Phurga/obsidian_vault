@@ -9,6 +9,6 @@ It considers the mobility of species and the probability for them to connect dif
  
 ![[Saura2011_Networkanalysis_ECA_formula.png]]
 It was proposed in [[Saura2011_Networkanalysis]].
-It is used in [[LCIA method for land use impacts on ecosystem quality]], to account for habitat fragmentation using [[species-area-relationship]]s.
+It is used in [[LCIA method for land use impacts on ecosystem quality]], to account for habitat fragmentation using [[species-area relationship]]s.
 
 Keywords: [[landscape connectivity]], [[functional connectivity]]

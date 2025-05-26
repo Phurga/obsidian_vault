@@ -3,7 +3,7 @@ tags:
   - concept/definition
 aliases:
 ---
-The **Matrix-Calibrated Species–Area Relationship** is a refinement of the original [[species-area-relationship|SAR]] model defined in [[Koh2010_MatrixCalibratedSpeciesArea]]. 
+The **Matrix-Calibrated Species–Area Relationship** is a refinement of the original [[species-area relationship|SAR]] model defined in [[Koh2010_MatrixCalibratedSpeciesArea]]. 
 
 The model considers that human modified [[habitat]], i.e. [[land use#classification|land use classes]], can be a suitable habitat for wild species, although [[species distribution model|suboptimal]].
 

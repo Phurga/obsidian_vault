@@ -16,7 +16,7 @@ itemKey: I43FW7ZU
 >Change of vegetation cover and increased land use intensity, particularly for agricultural use, can affect species richness. Within life cycle impact assessment, methods to assess impacts of land use on a global scale are still in need of development. In this work, we present a spatially explicit data-driven approach to characterize the effect of agricultural land occupation on different species groups.
 
 # Notes %% begin notes %%
-Another method to read not using [[species-area-relationship|SAR]] nor [[species distribution model|HSM]] ([[land use]] [[biodiversity]]).
+Another method to read not using [[species-area relationship|SAR]] nor [[species distribution model|HSM]] ([[land use]] [[biodiversity]]).
 %% end notes %%
 
 

@@ -1,5 +1,5 @@
 ---
 tags:
-  - concept/index
+  - misc
 ---
 files tagged as important in zotero

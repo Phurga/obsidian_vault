@@ -20,7 +20,7 @@ This method is quoted as resource in [[Lindner2018_consistentvariablescale]]. It
 The method focuses on [[forest]] land use (the author is Norwegian).
 The basis for the method is that the [[ecosystem quality]] is quantified as a product of three parameters:
 - ecosystem scarcity (ES), based on the potential ecosystem area (can be several scale),
-- ecosystem vulnerability (EV), based on the current loss of the ecosystem, using the [[species-area-relationship|SAR]] as basis for calculation, normalized to the most vulnerable ecosystem,
+- ecosystem vulnerability (EV), based on the current loss of the ecosystem, using the [[species-area relationship|SAR]] as basis for calculation, normalized to the most vulnerable ecosystem,
 - conditions for maintained biodiversity (CMB), based on 17 parameters based on [[Larsson2001_BiodiversityEvaluation]]. The value of the parameters is based on a rough scale (0 to 9 based on parameter impact on biodiversity), normalized to the max values of each parameters.
 [[reference situation]]: situation before the conversion
 

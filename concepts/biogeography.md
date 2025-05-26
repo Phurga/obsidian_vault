@@ -6,4 +6,4 @@ tags:
 
 environmental gradients
 island biogeography
-[[species-area-relationship]]
+[[species-area relationship]]

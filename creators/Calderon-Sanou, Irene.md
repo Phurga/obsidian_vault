@@ -1,4 +1,5 @@
 ---
 tags:
   - creator/people
+aliases:
 ---

@@ -5,7 +5,7 @@ aliases:
 ---
 # List of methods
 - species composition methods
-	- species richness methods, based on [[species-area-relationship]]
+	- species richness methods, based on [[species-area relationship]]
 		- apex
 			- [[Scherer2023_BiodiversityImpact]]
 		- outdated but important

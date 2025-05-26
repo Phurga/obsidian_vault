@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-tag:#misc  -tag:#production  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "tag:#creator",
+      "query": "tag:#concept",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#creator  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -33,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.14623434258663134,
-  "close": true
+  "close": false
 }

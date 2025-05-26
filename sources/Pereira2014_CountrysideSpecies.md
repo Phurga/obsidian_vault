@@ -18,7 +18,7 @@ itemKey: A6FGR4VE
 > there are other studies that say the opposite
 
 [[matrix SAR]]
-[[species-area-relationship|SAR]]
+[[species-area relationship|SAR]]
 [[countryside SAR|cSAR]]
 
 ![[Pereira2014_CountrysideSpecies_projected_observed_extinctions.png]]

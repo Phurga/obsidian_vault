@@ -16,7 +16,7 @@ tags:
 		- [[land use]] and [[habitat transformation]]
 		- [[species richness]]
 			- meta analyses ([[DeBaan2013_Landuse]])
-			- [[species-area-relationship]] (SAR)
+			- [[species-area relationship]] (SAR)
 			- [[uses of SAR in LCA]]
 			- [[functional diversity]]
 			- [[loss of years of evolutionary history]]

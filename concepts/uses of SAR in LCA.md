@@ -3,7 +3,7 @@ tags:
   - concept/index
 aliases:
 ---
-[[species-area-relationship]] (SAR) originate early for [[LCIA method for land use impacts on ecosystem quality]], with potentials for global coverage, such as in [[Goedkoop2013_ReCiPe2008]].
+[[species-area relationship]] (SAR) originate early for [[LCIA method for land use impacts on ecosystem quality]], with potentials for global coverage, such as in [[Goedkoop2013_ReCiPe2008]].
 
 Today, the [[GLAM]] recommends using [[Scherer2023_BiodiversityImpact]], the most advanced SAR based approach. It has:
 - an habitat affinity model ([[species-habitat relationship|SHR]]), a SAR derivate accounting for the ability of species to survive after [[habitat transformation|habitat conversion]] (developped in [[Kuipers2021_Consideringhabitat]])

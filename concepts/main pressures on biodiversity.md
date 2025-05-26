@@ -1,7 +1,7 @@
 ---
 tags: concept/definition
 ---
-As defined in [[Brondizio2019_globalassessment]], there are 5 main pressures on [biodiversity]():
+As defined in [[IPBES2019_Globalassessment]], there are 5 main pressures on [biodiversity]():
 - [[habitat transformation|habitat transformation]] (land use change)
 - direct exploitation ([[overexploitation]])
 - [[climate change]]
@@ -10,7 +10,7 @@ As defined in [[Brondizio2019_globalassessment]], there are 5 main pressures on 
 
 ![[Brondizio2019_globalassessment_IPBES_drivers.png]]
 
-[[Habitat transformation]] alone drives one third of terrestrial biodiversity decline globally. Land use change is primarly driven by agriculture, forestry and urbanization. Agriculture intensification increased productivity on the short term, but depleted [[natural resource]] with long renewable rates. For instance, soil fertility has degraded, with observed declines in productivity for equivalent practices. [[Brondizio2019_globalassessment]].
+[[Habitat transformation]] alone drives one third of terrestrial biodiversity decline globally. Land use change is primarly driven by agriculture, forestry and urbanization. Agriculture intensification increased productivity on the short term, but depleted [[natural resource]] with long renewable rates. For instance, soil fertility has degraded, with observed declines in productivity for equivalent practices. [[IPBES2019_Globalassessment]].
 
 # Coverage in LCA
 [[Damiani2023_Criticalreview]]

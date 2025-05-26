@@ -2,5 +2,5 @@
 tags:
   - concept/definition
 ---
-as in [[CalderonSanou2022_betterunderstanding]]
-![[CalderonSanou2022_betterunderstanding#^4c58ec]]
+as in [[Calderon-Sanou2022_betterunderstanding]]
+![[Calderon-Sanou2022_betterunderstanding#^4c58ec]]

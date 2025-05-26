@@ -29,7 +29,7 @@ Ecosystem around a root cell, mainly composed of microorganisms.
 ![[FAO2020_Stateknowledge#^79105a]]
 
 ## channels
-The concept of **channels** is related to flows of energy, supposedly following a "path", from the first heterotrophs to higher trophic levels. This seems to be challenged:![[CalderonSanou2022_betterunderstanding#^daeced]]
+The concept of **channels** is related to flows of energy, supposedly following a "path", from the first heterotrophs to higher trophic levels. This seems to be challenged:![[Calderon-Sanou2022_betterunderstanding#^daeced]]
 References:
 [[FAO2020_Stateknowledge]]
 [[Vincent2022_Soilbiodiversity]]

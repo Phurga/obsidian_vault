@@ -7,7 +7,7 @@ itemKey: 32WIS8PB
 ---
 >[!metadata]+
 > Global soil biodiversity atlas
-> [[Johnson, Nancy C.]], [[Scheu, Stefan]], [[Ramirez, Kelly S.]], [[Lemanceau, Philippe]], [[Eggleton, Paul]], [[Jones, Arwyn]], [[Moreira, Fatima M. S.]], [[Barrios, Edmundo]], [[De Deyn, Gerlinde B.]], [[Briones, María J. I.]], [[Kaneko, Nobuhiro]], [[Kandeler, Ellen]], [[Wall, Diana H.]], [[Six, Johan]], [[Fierer, Noah]], [[Jeffery, Simon]], [[Lavelle, Patrick]], [[Putten, Wim H. van der]], [[Singh, Brajesh K.]], [[Miko, Ladislav]], [[Hedlund, Katarina]], [[Orgiazzi, Alberto]], [[Chotte, Jean-Luc]], [[Bardgett, Richard D.]], [[Behan-Pelletier, Valerie]], [[Fraser, Tandra]], [[Montanarella, Luca]], 
+> [[Orgiazzi, Alberto]], [[Johnson, Nancy C.]], [[Scheu, Stefan]], [[Ramirez, Kelly S.]], [[Lemanceau, Philippe]], [[Eggleton, Paul]], [[Jones, Arwyn]], [[Moreira, Fatima M. S.]], [[Barrios, Edmundo]], [[De Deyn, Gerlinde B.]], [[Briones, María J. I.]], [[Kaneko, Nobuhiro]], [[Kandeler, Ellen]], [[Wall, Diana H.]], [[Six, Johan]], [[Fierer, Noah]], [[Jeffery, Simon]], [[Lavelle, Patrick]], [[Putten, Wim H. van der]], [[Singh, Brajesh K.]], [[Miko, Ladislav]], [[Hedlund, Katarina]], [[Chotte, Jean-Luc]], [[Bardgett, Richard D.]], [[Behan-Pelletier, Valerie]], [[Fraser, Tandra]], [[Montanarella, Luca]], 
 > [[Publications Office of the European Union]] (2016)
 > [[biodiversity]], [[Earth sciences research]], [[soil science]], [[atlas]], [[soil type]], [[EU JRC]], 
 > [Online link](https://data.europa.eu/doi/10.2788/2613), [Zotero Item](zotero://select/library/items/32WIS8PB), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YQ75LCHU/global%20soil%20biodiversity%20atlas-LBNA27236ENN.pdf), 

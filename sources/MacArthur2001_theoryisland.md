@@ -13,7 +13,7 @@ itemKey: MWNMVDA2
 > [Online link](https://press.princeton.edu/books/paperback/9780691088365/the-theory-of-island-biogeography), [Zotero Item](zotero://select/library/items/MWNMVDA2), 
 
 # Notes %% begin notes %%
-Source of the [[species-area-relationship|SAR]] as said in [[DeBaan2013_LandUsea]]
+Source of the [[species-area relationship|SAR]] as said in [[DeBaan2013_LandUsea]]
 %% end notes %%
 
 

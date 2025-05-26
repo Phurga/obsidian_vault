@@ -18,7 +18,7 @@ Defining [[biodiversity]]
 Spatialisation of biodiversity (linking to [[species extinction risk]] and [[global extinction probability|GEP]])
 Defends [[species richness]]
 Introduces the list of [[main pressures on biodiversity]], the realms ([[taxonomy]])
-[[species-area-relationship|SAR]] and [[species-habitat relationship|SHR]]
+[[species-area relationship|SAR]] and [[species-habitat relationship|SHR]]
 Mentions progress on marine ecosystems with the work done in [[MariLCA]]
 Mentions work done on [[invasive species]]
 %% end notes %%

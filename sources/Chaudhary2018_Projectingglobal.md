@@ -20,7 +20,7 @@ itemKey: LIWVPA9A
 This method uses a different approach than PDF, using [[phylogenetic diversity]].
 > It has been argued that the [[biodiversity]] value of  a region is better estimated by the amount of phylogenetic diversity  hosted by it rather than just its [[species richness]] (see, e.g., Crozier,  1997; Faith, 1992; Jetz et al., 2014; Mace, Gittleman, & Purvis, 2003;  Safi, Armour-Marshall, Baillie, & Isaac, 2013). The main argument  here is that the PD in a region measures the evolutionary information within its flora/fauna, and more PD offers the region both more  [[functional diversity]] (and so, e.g., more resilience) and more options to  respond to a changing world (see, e.g., Collen et al., 2011; Mace et al.,  2003).
 
-This paper uses a [[species-area-relationship|SAR]] approach, then derives the loss of species into loss of years of evolutionary history.
+This paper uses a [[species-area relationship|SAR]] approach, then derives the loss of species into loss of years of evolutionary history.
 
 %% end notes %%
 

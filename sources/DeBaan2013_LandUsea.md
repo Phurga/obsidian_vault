@@ -13,7 +13,7 @@ tags:
 
 
 # Notes %% begin notes %%
-In this method De Baan uses a [[species-area-relationship|SAR]] to model predicted species loss with increased land use. They use a [[matrix SAR]] to integrate species affinity with given land uses.
+In this method De Baan uses a [[species-area relationship|SAR]] to model predicted species loss with increased land use. They use a [[matrix SAR]] to integrate species affinity with given land uses.
 I think this is the first version for [[species extinction risk|species extinction]], but not yet [[global extinction probability|GEP]].
 
 Data

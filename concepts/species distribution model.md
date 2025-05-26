@@ -41,7 +41,7 @@ ecological niche modelling would define a *fundamental* niche based on environme
 
 ![[SDM 2_niche.png]]
 ## environmental factors are not the only parameters in SDM
-Generally, one should consider not only environmental parameters to predict the presence of one species, but also the [[ecological composition|biotic community]] (assemblage) and also the available space for the species (see [[species-area-relationship]]), this leads to the creation of [[species distribution model#Community SDM]].
+Generally, one should consider not only environmental parameters to predict the presence of one species, but also the [[ecological composition|biotic community]] (assemblage) and also the available space for the species (see [[species-area relationship]]), this leads to the creation of [[species distribution model#Community SDM]].
 ![[SDM 2_find_specie_von.png|600]]
 
 ## Community SDM
