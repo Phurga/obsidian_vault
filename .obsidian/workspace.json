@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f88a702fac3ca73e",
+            "id": "c06854352a1077f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Sanou2022_betterunderstanding.md",
+                "file": "concepts/the intermediate disturbance hypothesis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sanou2022_betterunderstanding"
+              "title": "the intermediate disturbance hypothesis"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crop management strategies shape the shared temporal dynamics of soil food web structure and functioning",
+                "query": "tag:#source/thesis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -80,11 +80,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Sanou2022_betterunderstanding.md",
+                "file": "concepts/the intermediate disturbance hypothesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sanou2022_betterunderstanding"
+              "title": "Backlinks for the intermediate disturbance hypothesis"
             }
           },
           {
@@ -169,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Sanou2022_betterunderstanding.md"
+                "file": "concepts/the intermediate disturbance hypothesis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Sanou2022_betterunderstanding"
+              "title": "File properties for the intermediate disturbance hypothesis"
             }
           }
         ]
@@ -189,10 +191,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f88a702fac3ca73e",
+  "active": "c06854352a1077f2",
   "lastOpenFiles": [
+    "sources/CalderonSanou2022_betterunderstanding.md",
+    "concepts/the intermediate disturbance hypothesis.md",
+    "attachments/CalderonSanou2022_betterunderstanding_spatial_scale.png",
+    "concepts/use of abundance and richness for microorganisms diversity.md",
+    "sources/FAO2020_Stateknowledge.md",
+    "concepts/soil food web.md",
+    "misc/checks/check for duplicate itemkeys zotero.md",
+    "sources/Sanou2022_betterunderstanding.md",
+    "sources/Potapov2022_Multifunctionalitybelowgrounda.md",
+    "misc/setup/setup.md",
+    "misc/meetings/questions meeting sdm.md",
+    "creators/Potapov, Anton M..md",
+    "misc/meetings",
+    "concepts/taxonomy.md",
+    "sources/Bonfanti2025_Linkingeffect.md",
     "creators/Sanou-Calderon, Irene.md",
-    "questions meeting sdm.md",
     "concepts/biogeography.md",
     "concepts/la fresque du sol.md",
     "concepts/ontology.md",
@@ -201,23 +217,11 @@
     "creators/Hedde, Mickael.md",
     "sources/AFES2022_fresquesol.md",
     "concepts/pressures on soils.md",
-    "sources/Sanou2022_betterunderstanding.md",
     "sources/Hedde2022_commonframework.md",
-    "sources/CalderonSanou2022_betterunderstanding.md",
-    "misc/checks/check for duplicate itemkeys zotero.md",
     "concepts/composition, structure, function.md",
     "concepts/ecological functionning.md",
     "concepts/biodiversity.md",
     "concepts/ecological composition.md",
-    "creators/ESRI.md",
-    "concepts/remote sensing.md",
-    "creators/DeepSDM 4 - Selene Cerna.md",
-    "concepts/measures of biodiversity.md",
-    "concepts/ecological structure.md",
-    "concepts/symbiosis.md",
-    "concepts/ecological networks.md",
-    "sources/Bonfanti2025_Linkingeffect.md",
-    "sources/Hedde2024_Cropmanagement.md",
     "attachments/WCSorg_ecosystem_integrity_3.png",
     "attachments/PREDICTS_taxon_representativeness.jpg",
     "attachments/Burg2025_nematode_exploration_fr_map.png",
@@ -226,7 +230,6 @@
     "attachments/Burg2025_nematode_exploration_worldcover_accuracy.png",
     "attachments/Burg2025_nematode_exploration_matrix_mean.png",
     "attachments/Burg2025_nematode_exploration_matrix_mean.png",
-    "attachments/Burg2025_nematode_exploration_matrix_count.png",
     "New Text Document.txt",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",
@@ -236,7 +239,6 @@
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "writing",
     "creators",
-    "publishers",
     "home canvas.canvas",
     "concept/test.canvas"
   ]

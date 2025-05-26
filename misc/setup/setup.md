@@ -1,3 +1,7 @@
+---
+tags:
+  - misc
+---
 - Email
 	- with thunderbird
 	- sync personal and INRAE mail.
@@ -26,3 +30,64 @@
 	- Added the Deepl app desktop to translate anything with ctrlCC
 	- added google drive desktop to sync my admin folder locally
 	- stopped using nextcloud because it was corrupting the zotero database and creating conflicts with obsidian files
+	- firefox: top bar url with code [here](file:\\\C:\Users\aburg\AppData\Roaming\Mozilla\Firefox\Profiles\ord7oguv.default-release\chrome\userChrome.css)
+
+
+
+```css
+:root {
+
+    --url-bar-height: 36px; /* Adjust this value to change the height of the url bar */
+
+    --number-icon: 1;
+
+    --navbar-width: calc(550px + var(--number-icon) * 50px);
+
+    --windows-button-margin: 150px; /* Adjust this value to leave space for window buttons */
+
+    --tabsbar-width: calc( 100vw - var(--navbar-width) - var(--windows-button-margin)) !important; /* Adjust this value to change the width of the tabs bar */
+
+}
+
+  
+
+/* Ensure the window control buttons are aligned to the right, by default it is after the tab bar */
+
+.titlebar-buttonbox-container {
+
+    position: absolute !important;
+
+    right: 0 !important;
+
+    top: 0 !important;
+
+    margin: 0 !important;
+
+    height: var(--url-bar-height) !important;
+
+}
+
+  
+
+/* rise the nav bar to top and move to the right and shrink its width */
+
+#nav-bar {
+
+    margin-top: calc(-1 * var(--url-bar-height)) !important;
+
+    margin-right: var(--windows-button-margin) !important; /* Leave space for the titlebar buttons */
+
+    margin-left: var(--tabsbar-width) !important;
+
+}
+
+  
+
+/* prevent tabs toolbar to overlap the navbar */
+
+#TabsToolbar {
+
+    margin-right: calc(var(--navbar-width) + var(--windows-button-margin)) !important;
+
+}
+```

@@ -25,13 +25,11 @@ Ecosystem around a root cell, mainly composed of microorganisms.
 ![[FAO2020_Stateknowledge_microbes_communities_root.png|400]]
 
 
-[[FAO2020_Stateknowledge]]:
-> The contributions of soil organisms can be grouped into three broad categories (Figure 1). 
-> - First, soil microorganisms (i.e., bacteria, fungi) and microfauna (i.e., protozoa and nematodes) transform organic and inorganic compounds into accessible forms as part of their metabolism through extraordinarily complex biochemical processes. These transformations are critical for ecosystem services such as nutrient availability for the growth of plants and other organisms, soil organic matter and nutrient cycling, and the filtration, degradation and immobilization of contaminants in water and soil.
-> - Second, soil organisms are part of a vast food web that cycles energy and nutrients from microscopic forms through the soil’s megafauna to organisms that live on top of the soil. An important part of the food web is represented by mesofauna such as springtails and mites, which accelerate litter decomposition and enhance nutrient cycling and availability (especially nitrogen), and predate on smaller soil organisms (Figure 1). 
-> - Finally, soil macrofauna and megafauna such as earthworms, ants, termites and some mammals act as ecosystem engineers that modify soil porosity, water and gas transport, and also bind together soil particles into stable aggregates that hold the soil in place, reducing soil erosion (Figure 1).
+[[FAO2020_Stateknowledge]]
+![[FAO2020_Stateknowledge#^79105a]]
 
-
+## channels
+The concept of **channels** is related to flows of energy, supposedly following a "path", from the first heterotrophs to higher trophic levels. This seems to be challenged:![[CalderonSanou2022_betterunderstanding#^daeced]]
 References:
 [[FAO2020_Stateknowledge]]
 [[Vincent2022_Soilbiodiversity]]

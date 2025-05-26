@@ -10,13 +10,16 @@ aliases:
   - species
   - taxon
 ---
-**Taxonomy** refers to the classification of organisms, using **species** as the smallest unit.
+**Taxonomy** refers to the classification of organisms.
+
+**Species** is used as the smallest unit in the classification. Species names are following the binomial nomenclature : species = genus + epithet e.g. Homo + sapiens ([[von Linné, Carl]]).
+
 A **taxon** (plural **taxa**) is any taxonomic group, e.g. a species or group of species.
+## phylogenetic classification
+Modern taxonomy is based on **phylogeny**: the study of evolutionary relationship between organisms ([libretext](https://bio.libretexts.org/Courses/Sacramento_City_College/Biology_342_-_The_New_Plagues/02%3A_Classifying_Pathogens_and_Hosts/2.01%3A_Taxonomy_and_Phylogeny)).
 
 Usual ranks in the taxonomic classification:
 ![[wikipedia_taxonomy.webp|400]]
-## phylogenetic classification
-Many taxa are based on the **phylogenetic classification** of species, i.e. a classification based on the evolutionnary history of organisms.
 
 Example of evolutionary history
 ![[wikipedia_taxonomy_.png|500]]

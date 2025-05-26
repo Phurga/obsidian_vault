@@ -19,7 +19,7 @@ The model uses:
 - phenological data
 - [[environmental DNA]] ([[Orchamp]])
 
-To predict taxonomic abundance. [[abundance could be is more relevant than richness in the case of microorganisms]]
+To predict taxonomic abundance. [[use of abundance and richness for microorganisms diversity]]
 
 ![[Deep SDM 4_result.png]]
 - 
