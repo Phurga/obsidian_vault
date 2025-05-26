@@ -12,6 +12,8 @@ itemKey: 8XXALQKE
 > 
 > [Online link](https://theses.hal.science/tel-03890224v1), [Zotero Item](zotero://select/library/items/8XXALQKE), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4IDGNZCS/Sanou_betterunderstanding.pdf), 
 # Notes %% begin notes %%
+
+## Introduction
 Introduction can be reused for context on soil biodiversity.
 
 [[use of abundance and richness for microorganisms diversity]]
@@ -53,7 +55,26 @@ Introduction can be reused for context on soil biodiversity.
 
 ^4442ac
 
-### references
+## chapter 2 : Building trophic groups and soil food webs from environmental DNA metabarcoding data
+
+Materials and methods:
+[[GlobNets]]
+[[ORCHAMP]] and [[TROMSO]]
+bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]] with [[food web|trophic group]]s.
+
+[[definition of trophic groups]]
+> the major trophic classes commonly associated with soil groups from the literature (e.g., Moore & de Ruiter 1991; Orgiazzi et al. 2016; Barnes et al. 2018). The trophic classes included autotrophs, decomposers, detritivores, phytophagous or phytoparasites, plant mutualists, bacterivores, fungivores, omnivores, predators and zooparasites
+
+> I defined finer trophic groups by separating phylogenetic distant groups that could have a different set of prey/predators (e.g., bacterivore mites vs. bacterivore nematodes) or groups differing in their resources acquisition strategy (e.g. different types of mycorrhiza and saprotrophs). In this thesis, the taxonomic rank that I used to delimitate phylogenetic distant groups was at different levels and comprised Bacteria, Fungi, Protista, the different phyla within Metazoa, and the different classes or orders within Arthropoda and Annelida
+![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png]]
+
+# chapter 3: energy and physiological tolerance explain multi-trophic soil diversity in temperate mountains
+[[thoeries explaining spatial variation of soil biodiversity]]
+> the “energy hypothesis”, the “physiological tol - erance hypothesis”, the “habitat heterogeneity hypothesis” and the “resource heterogeneity hypothesis”.
+
+
+![[Calderon-Sanou2022_betterunderstanding_theories.png]]
+## references
 - [[Potapov2022_Multifunctionalitybelowgrounda]]
 %% end notes %%
 

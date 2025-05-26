@@ -13,6 +13,6 @@ Below is a list of usual markers:
 | taxon             | marker                                             |
 | ----------------- | -------------------------------------------------- |
 | [[bacteria]]      | [[16S rRNA]]                                       |
-| [[fungus]]         | [[18s rRNA]], [[ITS]]                              |
+| [[fungus]]        | [[18s rRNA]], [[ITS]]                              |
 | animals, protists | [[COX1]]                                           |
 | plants            | no universal marker ([[Letsiou2024_DNABarcoding]]) |

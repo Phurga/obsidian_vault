@@ -8,6 +8,7 @@ aliases:
   - mixotrophy
   - oligotrophy
   - oligotrophic
+  - trophic group
 ---
 The **food web** (or **trophic web**) is a way of representing [[symbiosis]]s based on organisms food sources.
 

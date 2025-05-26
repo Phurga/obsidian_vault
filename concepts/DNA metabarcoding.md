@@ -5,6 +5,8 @@ aliases:
   - metabarcoding
   - barcoding
   - DNA barcoding
+  - DNA barcode
+  - DNA metabarcode
 ---
 **DNA metabarcoding** is a high throughput [[environmental DNA]] sequencing method. It can be classified as a metagenetic method.
 

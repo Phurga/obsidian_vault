@@ -17,7 +17,7 @@ The model uses:
 - environmental data
 - soil data
 - phenological data
-- [[environmental DNA]] ([[Orchamp]])
+- [[environmental DNA]] ([[ORCHAMP]])
 
 To predict taxonomic abundance. [[use of abundance and richness for microorganisms diversity]]
 

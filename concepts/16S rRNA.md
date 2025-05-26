@@ -4,7 +4,7 @@ tags:
 aliases:
   - 16S
 ---
-**16s ribosomal RNA (rRNA)** is a group of genes specific to [[procaryotes]], used in [[phylogenetic diversity]] analysis for [[bacteria]].
+**16s ribosomal RNA (rRNA)** is a [[marker]] (group of genes) specific to [[prokaryote]]s, used to replicate [[bacteria]]l DNA during [[DNA metabarcoding]].
 
 The equivalent for eukaryotes are [[18s rRNA]] genes.
 
