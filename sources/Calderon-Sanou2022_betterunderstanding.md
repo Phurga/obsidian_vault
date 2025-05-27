@@ -7,12 +7,11 @@ itemKey: 8XXALQKE
 ---
 >[!metadata]+
 > Towards a better understanding of soil multi-trophic biodiversity through the use of environmental DNA metabarcoding
-> [[Calderón-Sanou, Irene]], 
+> [[Calderon-Sanou, Irene]], 
 > PhD thesis, [[Université Grenoble Alpes]] (2022)
 > 
 > [Online link](https://theses.hal.science/tel-03890224v1), [Zotero Item](zotero://select/library/items/8XXALQKE), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4IDGNZCS/Sanou_betterunderstanding.pdf), 
 # Notes %% begin notes %%
-# quotes
 ## Introduction
 Introduction can be reused for context on soil biodiversity.
 
@@ -29,8 +28,10 @@ Introduction can be reused for context on soil biodiversity.
 
 ^daeced
 
-[[disturbance gradients]]
+disturbance gradients: [[land use intensity]]
 >(...) disturbance gradients are widely used to understand the role of natural disturbances in maintaining biodiversity at local scales, because disturbances promote local heterogeneity, control spatio-temporal dynamics and drive successional trajectories (Fig.4B) (Thom & Seidl 2016) 
+
+^376421
 
 [[spatial scale for soil ecosystems]]
 ![[CalderonSanou2022_betterunderstanding_spatial_scale.png]]
@@ -69,8 +70,10 @@ bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]
 ![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png]]
 
 ## chapter 3: energy and physiological tolerance explain multi-trophic soil diversity in temperate mountains
-[[thoeries explaining spatial variation of soil biodiversity]]
+[[spatial patterns in biodiversity]]
 > the “energy hypothesis”, the “physiological tolerance hypothesis”, the “habitat heterogeneity hypothesis” and the “resource heterogeneity hypothesis”.
+
+^2e4665
 
 ![[Calderon-Sanou2022_betterunderstanding_theories.png]]
 ## references

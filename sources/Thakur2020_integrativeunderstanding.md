@@ -22,6 +22,8 @@ itemKey: QX6V5ZV7
 [[biodiversity theory]]
 > Here, we consider five biodiversity theories: (i) species–energy relationships, (ii) theory of island biogeography, (iii) metacommunity theory, (iv) niche theory, and (v) neutral theory.
 
+^dee5e2
+
 [[species-energy relationship]] see [[Wright1983_SpeciesEnergyTheory]]
 
 %% end notes %%
