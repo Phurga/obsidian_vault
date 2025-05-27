@@ -5,11 +5,12 @@ aliases:
   - shannon diversity
   - H'
 ---
-The **Shannon index** is an indicator of [[ecological composition]]. This measure accounts for richness and abundance, and reaches a maximum value when all species occur equally abundant ([[species eveness]]).
+The **Shannon index** is an indicator of [[ecological composition]], measuring species [[eveness]]. This measure accounts for richness and abundance, and reaches a maximum value when all species occur equally abundant.
 
 Formula from [[DeBaan2013_Landuse]]
+
 $H = - \sum{p_k*ln p_k}$ 
-where $p_k$ is the number of organisms of species $k$ relative to the total number of organisms across all species ($p_k=\frac{N_k$.
+where $p_k$ is the number of organisms of species $k$ relative to the total number of organisms $N$ across all species ($p_k=\frac{N_k}{\sum_k{N_k}}$.
 
 Used  in [[DeBaan2013_Landuse]], [[Labouyrie2023_Patternssoil]].
 ## Reference:

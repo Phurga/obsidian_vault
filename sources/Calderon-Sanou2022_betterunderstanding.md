@@ -60,7 +60,7 @@ Introduction can be reused for context on soil biodiversity.
 Materials and methods:
 [[GlobNets]]
 [[ORCHAMP]] and [[TROMSO]]
-bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]] with [[food web|trophic group]]s.
+bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]] with [[food web|trophic group]]s, use of molecular OTU (MOTU).
 
 [[definition of trophic groups]]
 > the major trophic classes commonly associated with soil groups from the literature (e.g., Moore & de Ruiter 1991; Orgiazzi et al. 2016; Barnes et al. 2018). The trophic classes included autotrophs, decomposers, detritivores, phytophagous or phytoparasites, plant mutualists, bacterivores, fungivores, omnivores, predators and zooparasites
@@ -68,10 +68,9 @@ bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]
 > I defined finer trophic groups by separating phylogenetic distant groups that could have a different set of prey/predators (e.g., bacterivore mites vs. bacterivore nematodes) or groups differing in their resources acquisition strategy (e.g. different types of mycorrhiza and saprotrophs). In this thesis, the taxonomic rank that I used to delimitate phylogenetic distant groups was at different levels and comprised Bacteria, Fungi, Protista, the different phyla within Metazoa, and the different classes or orders within Arthropoda and Annelida
 ![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png]]
 
-# chapter 3: energy and physiological tolerance explain multi-trophic soil diversity in temperate mountains
+## chapter 3: energy and physiological tolerance explain multi-trophic soil diversity in temperate mountains
 [[thoeries explaining spatial variation of soil biodiversity]]
-> the “energy hypothesis”, the “physiological tol - erance hypothesis”, the “habitat heterogeneity hypothesis” and the “resource heterogeneity hypothesis”.
-
+> the “energy hypothesis”, the “physiological tolerance hypothesis”, the “habitat heterogeneity hypothesis” and the “resource heterogeneity hypothesis”.
 
 ![[Calderon-Sanou2022_betterunderstanding_theories.png]]
 ## references

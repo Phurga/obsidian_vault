@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/shannon index.md",
+                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shannon index"
+              "title": "Calderon-Sanou2022_betterunderstanding"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/shannon index.md",
+                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shannon index"
+              "title": "Outline of Calderon-Sanou2022_betterunderstanding"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/shannon index.md",
+                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shannon index"
+              "title": "Backlinks for Calderon-Sanou2022_betterunderstanding"
             }
           },
           {
@@ -229,10 +229,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/shannon index.md"
+                "file": "sources/Calderon-Sanou2022_betterunderstanding.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for shannon index"
+              "title": "File properties for Calderon-Sanou2022_betterunderstanding"
             }
           }
         ]
@@ -251,7 +251,11 @@
   },
   "active": "35bf635ae5a6da6b",
   "lastOpenFiles": [
+    "concepts/operational taxonomic unit.md",
+    "GlobNets.md",
     "sources/Calderon-Sanou2022_betterunderstanding.md",
+    "sources/drive5 - Robert C. Edgar Blog.md",
+    "concepts/shannon index.md",
     "concepts/16S rRNA.md",
     "concepts/marker.md",
     "concepts/18s rRNA.md",
@@ -261,7 +265,6 @@
     "concepts/soil food web.md",
     "concepts/ORCHAMP.md",
     "concepts/environmental DNA.md",
-    "GlobNets.md",
     "concepts/BOLD Systems.md",
     "concepts/DNA metabarcoding.md",
     "concepts/OBJECTIVES.md",
@@ -276,9 +279,6 @@
     "concepts/biotope.md",
     "organisms in the environment.md",
     "concepts/ecological composition.md",
-    "concepts/species-area relationship.md",
-    "sources/Babin2024_Decryptageanalyse.md",
-    "sources/Bahram2018_Structurefunction.md",
     "attachments/CalderonSanou2022_betterunderstanding_spatial_scale.png",
     "misc/meetings",
     "attachments/LeGuillarme2023_SoilFood_gratin.png",

@@ -3,8 +3,11 @@ tags:
   - concept/definition
 aliases:
   - OTU
+  - MOTU
+  - mOTU
+  - zOTU
 ---
-An **operational taxonomic unit (OTU)** is a cluster of DNA sequences grouped by similarity. It is a "pragmatic proxy for species at different [[taxonomy|taxonomic]] levels" (https://en.wikipedia.org/wiki/Operational_taxonomic_unit).
+A **molecular operational taxonomic unit (MOTU)**, generally called **OTU**^[OTU stands for the generic process of clustering of individuals, MOTU stands for the clustering based on the DNA sequence (molecule) retrieved] is a cluster of DNA sequences grouped by similarity. It is a "pragmatic proxy for species at different [[taxonomy|taxonomic]] levels" (https://en.wikipedia.org/wiki/Operational_taxonomic_unit).
 
 The definition of the OTU is determined by the threshold used in similarity calculations (stricter thresholds leads to lower OTU count in a DNA sequence for the same sample), historically 97%, but more optimal thresholds vary depending on the [[marker]] and reach 99%+.
 
