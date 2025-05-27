@@ -2,6 +2,8 @@
 tags:
   - meeting
 ---
+23.05.2025 meeting with [[Si-moussi, Sara]] [[Cerna, Selene]] [[Miele, Vincent]] from the [[LECA]] to talk about deep sdm model and their used in my thesis
+
 what makes the soil abundance maps limited to french alps ? is it edna sampling ?
 - edna sampling
 - resolution orthophoto 20cm france meilleure que 10m sentinel

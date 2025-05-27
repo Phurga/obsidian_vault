@@ -2,7 +2,7 @@
 tags:
   - creator/event
 ---
-[[Earth observation foundation (EOF) model]] such as DOFA
+[[Earth observation foundation model]] such as DOFA
 
 ![[Deep SDM 4_models_EOF.png]]
 

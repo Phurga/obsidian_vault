@@ -9,5 +9,3 @@ aliases:
 ![[Depraz2013_Notionproteger_protection_nature.png|600]]
 
 ![[Godet2017_Notiondebat#^4498dc]]
-
-[[intrinsic value of nature]]

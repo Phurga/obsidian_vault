@@ -16,7 +16,7 @@ There is a range of possible species interactions [[Ings2009_ReviewEcological]]:
 - long term interactions, aka [[symbiosis]].
 	- not also habitat modification (made by species classified as [[ecosystem engineer]]s)
 
-Species interactions are studied through [[ecological networks]]. But most approaches only consider only species *cooccurence* and not actual relationships.
+Species interactions are studied through [[ecological network]]. But most approaches only consider only species *cooccurence* and not actual relationships.
 
 [[Hedde, Mickael]] and [[Bernard, Laetitia]] for instance insists on the **interactional value of biodiversity**.
 

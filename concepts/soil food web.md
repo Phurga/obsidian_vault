@@ -1,7 +1,6 @@
 ---
 tags:
   - concept/definition
-  - todo/draft
 aliases:
 ---
 The soil [[food web]] is a simplified model representing the trophic relationships between [[soil biodiversity|soil organisms]].
@@ -27,9 +26,12 @@ Ecosystem around a root cell, mainly composed of microorganisms.
 ## channels
 The concept of **channels** is related to flows of energy, supposedly following a "path", from the first heterotrophs to higher trophic levels. This seems to be challenged:![[Calderon-Sanou2022_betterunderstanding#^daeced]]
 
-## soil trophic groups
+## soil multi-trophic classification
+[[Calderon-Sanou2022_betterunderstanding]] combines high level taxonomic classification with trophic groups to obtain a soil multi-trophic classification shown below:
+![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png|400]]
 
+This classification was used in [[Cerna2025_Limitspromises]], 
 
-References:
+## References
 [[FAO2020_Stateknowledge]]
 [[Vincent2022_Soilbiodiversity]]
