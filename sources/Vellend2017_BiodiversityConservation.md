@@ -17,7 +17,7 @@ itemKey: CQEANHGR
 
 # Notes %% begin notes %%
 #favourite 
-[[The Biodiversity Conservation Paradox]]
+[[biodiversity conservation paradox]]
 
 > The first objective of the CBD is simply “the conservation of biological diversity,” and individual countries have pursued this objective in various ways, perhaps most often by providing legal protection to species at risk of extinction.
 

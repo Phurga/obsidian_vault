@@ -77,7 +77,7 @@ bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]
 
 ![[Calderon-Sanou2022_betterunderstanding_theories.png]]
 ## references
-- [[Potapov2022_Multifunctionalitybelowgrounda]]
+- [[Potapov2022_Multifunctionalitybelowground]]
 %% end notes %%
 
 

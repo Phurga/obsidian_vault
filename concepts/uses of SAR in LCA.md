@@ -10,8 +10,8 @@ Today, the [[GLAM]] recommends using [[Scherer2023_BiodiversityImpact]], the mos
 - a large [[taxonomy]] coverage (mammals, birds, reptiles, amphibious, plants)
 - a large geographical coverage (global)
 - a good geographical accuracy ([[ecoregion]] specific)
-- considers [[land management intensities]] (developped in [[Chaudhary2018_LandUse]])
-- considers species [[species extinction risk]] and [[irreplacibility]] (developped in [[Chaudhary2015_QuantifyingLand]])
+- considers [[land use intensity]] (developped in [[Chaudhary2018_LandUse]])
+- considers species [[species extinction risk]] (developped in [[Chaudhary2015_QuantifyingLand]])
 - considers habitat [[habitat fragmentation]], through [[equivalent connected area]] (developped in [[Kuipers2021_Consideringhabitat]])
 
 The abovementioned method uses a SHR model, but [[It is still debated what approach is most accurate to model species-habitat affinities]].

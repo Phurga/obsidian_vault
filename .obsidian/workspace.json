@@ -43,32 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/spatial patterns in biodiversity.md",
+                "file": "concepts/nature conservation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "spatial patterns in biodiversity"
+              "title": "nature conservation"
             }
           },
           {
-            "id": "d3288cc329940ffe",
+            "id": "02e61ef1acfd8516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/ecological structure.md",
+                "file": "concepts/intrinsic value of nature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ecological structure"
+              "title": "intrinsic value of nature"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meeting",
+                "query": "niche tag:#source  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -148,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/spatial patterns in biodiversity.md",
+                "file": "concepts/intrinsic value of nature.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of spatial patterns in biodiversity"
+              "title": "Outline of intrinsic value of nature"
             }
           },
           {
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/spatial patterns in biodiversity.md",
+                "file": "concepts/intrinsic value of nature.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spatial patterns in biodiversity"
+              "title": "Backlinks for intrinsic value of nature"
             }
           },
           {
@@ -182,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/spatial patterns in biodiversity.md",
+                "file": "concepts/intrinsic value of nature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from spatial patterns in biodiversity"
+              "title": "Outgoing links from intrinsic value of nature"
             }
           },
           {
@@ -204,7 +203,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9469384179e8c84a",
@@ -216,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/spatial patterns in biodiversity.md"
+                "file": "concepts/intrinsic value of nature.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for spatial patterns in biodiversity"
+              "title": "File properties for intrinsic value of nature"
             }
           }
         ]
@@ -236,34 +236,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "935b21a9b2591451",
+  "active": "02e61ef1acfd8516",
   "lastOpenFiles": [
-    "sources/Thakur2020_integrativeunderstanding.md",
-    "concepts/spatial patterns in biodiversity.md",
-    "sources/Calderon-Sanou2022_betterunderstanding.md",
-    "attachments/Pasted image 20250527115956.png",
-    "concepts/ecological structure.md",
+    "sources/deBenoist2004_naturesa.md",
+    "concepts/intrinsic value of nature.md",
     "concepts/anthropisation of land leads to habitat homogeneity.md",
-    "concepts/land use intensity.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "concepts/soil food web.md",
-    "concepts/food web.md",
-    "concepts/composition, structure, function.md",
-    "concepts/ecological composition.md",
-    "ecological filtering.md",
-    "concepts/predation.md",
-    "GlobNets.md",
-    "concepts/OBJECTIVES.md",
-    "concepts/environmental DNA.md",
-    "concepts/biological interaction.md",
-    "concepts/symbiosis.md",
-    "concepts/Mangal.md",
-    "concepts/fungus.md",
+    "concepts/monitoring the advancement of conservation policies is the main goal of biodiversity LCIA.md",
+    "concepts/biodiversity conservation paradox.md",
     "concepts/operational taxonomic unit.md",
+    "concepts/environmental ethics.md",
+    "sources/Chaudhary2015_QuantifyingLand.md",
+    "sources/Chaudhary2016_ImpactForest.md",
+    "sources/Santini2017_Assessingsuitability.md",
     "sources/drive5 - Robert C. Edgar Blog.md",
-    "concepts/shannon index.md",
-    "concepts/16S rRNA.md",
+    "concepts/niche theory.md",
+    "sources/Potapov2022_Multifunctionalitybelowground.md",
+    "concepts/measures of biodiversity.md",
+    "concepts/sorensen similarity index.md",
+    "sources/Potapov2022_Multifunctionalitybelowgrounda.md",
+    "sources/Vandermeer1972_NicheTheory.md",
+    "sources/Vandermeer1972_NicheTheorya.md",
+    "concepts/nature conservation.md",
+    "sources/Godet2017_Notiondebat.md",
+    "concepts/ecological structure.md",
+    "sources/CBD2011_ConventionBiological.md",
+    "sources/CBD2000_Sustaininglife.md",
+    "Godet2017_Notiondebat^.md",
+    "concepts/convention on biological diversity.md",
+    "sources/Thakur2020_integrativeunderstanding.md",
+    "attachments/Pasted image 20250527115956.png",
     "attachments/Calderon-Sanou2022_betterunderstanding_theories.png",
     "attachments/Calderon-Sanou2022_betterunderstanding_trophic_groups.png",
     "attachments/CalderonSanou2022_betterunderstanding_spatial_scale.png",

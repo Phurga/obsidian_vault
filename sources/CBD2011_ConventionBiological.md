@@ -7,7 +7,7 @@ itemKey: KKZ9E5B6
 ---
 >[!metadata]+
 > Convention on Biological Diversity - Text and annexes
-> [[Secretariat of the Convention on Biological Diversity]], 
+> [[CBD]], 
 > [[Secretariat of the Convention on Biological Diversity]] (2011)
 > [[biodiversity]], 
 > [Online link](https://www.cbd.int/doc/legal/cbd-en.pdf), [Zotero Item](zotero://select/library/items/KKZ9E5B6), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/NAVYC2CM/_cbden.pdf), 
