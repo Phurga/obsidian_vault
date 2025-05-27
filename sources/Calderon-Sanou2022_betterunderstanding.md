@@ -12,7 +12,7 @@ itemKey: 8XXALQKE
 > 
 > [Online link](https://theses.hal.science/tel-03890224v1), [Zotero Item](zotero://select/library/items/8XXALQKE), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4IDGNZCS/Sanou_betterunderstanding.pdf), 
 # Notes %% begin notes %%
-
+# quotes
 ## Introduction
 Introduction can be reused for context on soil biodiversity.
 
@@ -25,7 +25,7 @@ Introduction can be reused for context on soil biodiversity.
 > In a multi-trophic approach, diversity can be addressed from two dimensions. A first dimension constitutes the diversity within trophic groups (e.g., species diversity). A second dimension constitutes the diversity across trophic groups (e.g., the number of trophic groups, the diversity of trophic interactions). (...) The second dimension is also referred to as food web diversity or food web structure throughout this manuscript.
 
 [[soil food web#channels]]
-> Traditionally, energy flowing through the soil food web has been categorized into energy ‘channels’ based on the basal resource at the origin of the channel, e.g., green channel (from plants) vs brown channel (from organic matter), or fast channel (bacteria-based) vs low channel (fungi-based) (Moore & de Ruiter 1991; de Vries et al. 2013). Despite the fact that the terminology of ‘channel’ is widely used in the literature to relate food webs to functions or processes, recent evidence points out the existence of reticulate channels because groups in low trophic levels can feed on multiple energy channels (e.g. omnivore protists that feed on both bacteria and fungi), complexifying the separation of the food web into the traditional binary categories (Geisen et al. 2016; Potapov et al. 2021). 
+>Traditionally, energy flowing through the soil food web has been categorized into energy ‘channels’ based on the basal resource at the origin of the channel, e.g., green channel (from plants) vs brown channel (from organic matter), or fast channel (bacteria-based) vs low channel (fungi-based) (Moore & de Ruiter 1991; de Vries et al. 2013). Despite the fact that the terminology of ‘channel’ is widely used in the literature to relate food webs to functions or processes, recent evidence points out the existence of reticulate channels because groups in low trophic levels can feed on multiple energy channels (e.g. omnivore protists that feed on both bacteria and fungi), complexifying the separation of the food web into the traditional binary categories (Geisen et al. 2016; Potapov et al. 2021). 
 
 ^daeced
 
@@ -51,7 +51,7 @@ Introduction can be reused for context on soil biodiversity.
 >Box 2. DNA metabarcoding processing and sources of errors
 
 [[ecological filtering]]
->From the global or regional pool of species, the local composition of a realized community is the consequence of both the dispersal ability of species and their biogeographic history, i.e., ‘dispersal filter’ (Sexton et al. 2009), and, the capacity of the species to establish and reproduce under the local environmental conditions, i.e., ‘niche filter’ (Cornwell et al. 2006).
+> From the global or regional pool of species, the local composition of a realized community is the consequence of both the dispersal ability of species and their biogeographic history, i.e., ‘dispersal filter’ (Sexton et al. 2009), and, the capacity of the species to establish and reproduce under the local environmental conditions, i.e., ‘niche filter’ (Cornwell et al. 2006).
 
 ^4442ac
 

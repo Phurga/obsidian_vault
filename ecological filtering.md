@@ -7,4 +7,4 @@ https://www.sciencedirect.com/science/article/pii/S0169534717302562?via%3Dihub
 >Environmental Filtering Is a Relic
 
 [[Calderon-Sanou2022_betterunderstanding]]
-![[Calderon-Sanou2022_betterunderstanding#^4442ac]]
+![[Calderon-Sanou2022_betterunderstanding#^4442ac|title]]

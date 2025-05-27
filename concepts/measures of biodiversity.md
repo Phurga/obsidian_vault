@@ -30,7 +30,7 @@ On the choice of the biodiversity indicator to use, [[Santini2017_Assessingsuita
 		- fischer alpha
 		- simpson indicators
 		- [[Chao2005_newstatistical]]
-- [[ecological structure]]
+- [[biological interaction]]
 	- todo ?
 
 [[Santini2017_Assessingsuitability]] seems to advise for using sorensen index and species richness as simple yet effective indicators for composition changes.

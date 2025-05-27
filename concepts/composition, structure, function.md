@@ -2,7 +2,7 @@
 tags:
   - concept/definition
 ---
-Biodiversity is not only **compositional** (constituents of the system) but also **structural** (interactions in the system) and **functional** (functions in the system, such as trophic chains (food web)).
+Biodiversity is not only **compositional** (constituents of the system) but also **structural** (interactions, spatial and temporal aspects in the system) and **functional** (functions in the system, such as trophic webs).
 
 see 
 - [[ecological composition]]

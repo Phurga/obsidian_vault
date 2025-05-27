@@ -5,8 +5,9 @@ aliases:
   - symbiotic relationship
   - symbiont
   - symbiote
+  - symbioses
 ---
-**Symbiosis** stands for long term [[ecological structure|biological interactions]]. An organism living in symbiosis is a **symbiont (or symbiote)**.
+**Symbiosis** stands for long term [[biological interaction|biological interactions]]. An organism living in symbiosis is a **symbiont (or symbiote)**.
 
 >[!warning] wording
 > A symbiosis does not have to be mutually beneficial. Mutually beneficial interactions are named [[mutualism]]. 

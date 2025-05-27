@@ -6,7 +6,8 @@
   "enabledCssSnippets": [
     "bolder_bold",
     "heading_size",
-    "notitle"
+    "notitle",
+    "blockquotes"
   ],
   "cssTheme": "Atom"
 }
