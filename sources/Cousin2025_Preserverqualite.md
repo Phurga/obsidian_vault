@@ -24,7 +24,7 @@ différence aussi entre une description d'état intrinseque et état lié à un 
 qualité: description de ce qu'il est
 santé: description de ce qu'il devrait etre (par rapport a un potentiel)
 
-Le sol comme une surface
+Le sol comme une surface (foncier)
 Le sol comme un potentiel de ressources (production etc)
 Le sol comme patrimoine (conservation)
 Le sol comme identité (terroir en viticulture) ^ff63e1
