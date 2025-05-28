@@ -1,3 +1,7 @@
+---
+tags:
+  - concept/definition
+---
 The **species-energy relationship** theory is an extension of the [[species-area relationship]] (SAR), aiming at refining differences in regional productivity leading to differences in species richness.
 
 It is defined in [[Wright1983_SpeciesEnergyTheory]].

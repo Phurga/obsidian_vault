@@ -26,5 +26,20 @@ The [[potential threats to biological functions]] method considers also:
  - [[habitat fragmentation]]
  - use of [[GMO]]
 
+[[Cousin2025_Preserverqualite]] proposes a classification without double counting
+- [[artificialization]]
+	- similar as [[soil sealing]]
+- loss of biodiversity
+- loss of SOC
+- [[pollution]]
+- [[nutrient cycling|nutrient imbalance]]
+- [[soil compaction]]
+- [[salinization]]
+- [[erosion]]
+
+"[[La fresque du sol]]" is a way of classifying and representing the causal effects from human activities on soil quality and their consequences:
+![[AFES2022_fresquesol_FresqueSolsAmandine.png]]
+
 [[Cameron2019_Globalmismatches]] (quoted in [[FAO2020_Stateknowledge]])
 >[[protecting above-ground biodiversity is not always sufficient to protect soil biodiversity]]
+
