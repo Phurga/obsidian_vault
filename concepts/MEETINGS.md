@@ -20,7 +20,7 @@ tags:
 	- envie de focus sur la fonctionalité des ecoysystèmes
 - potentiel sur la diversité des ecosystemes [[red list of ecosystems]]
 - potentiel sur la diversité génétique [[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]]
-	- supporté par la relation [[occupancy abundance relationship]] (pas exploré en ACV?)
+	- supporté par la relation [[occupancy-abundance relationship]] (pas exploré en ACV?)
 
 
 - ecole chercheur https://clapas.umontpellier.fr/ecoles-chercheur-es-et-ateliers-clapas/ecole-chercheur-sur-la-biodiversite-fonctionnelle-dans-les-agrosystemes/

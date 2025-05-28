@@ -39,6 +39,8 @@ disturbance gradients: [[land use intensity]]
 [[the intermediate disturbance hypothesis]]
 >the Intermediate Disturbance Hypothesis postulates that biodiversity peaks at intermediate levels of disturbance, where both colonist and climax species are able to coexist and decline at low and high levels of disturbance where they are mutually excluded by exploitative competition (Grime 1973; Horn 1974; Connell 1978)
 
+^674194
+
 ^4c58ec
 [[food web networks metrics]]
 > For this, one approach consists of summarising the structure of the food web through network metrics (e.g. connectance, modularity, vulnerability, etc) and related them to ecological processes (Braga et al. 2019), but the real meaning of these metrics or the ecological information they provide still in debate (Thompson et al. 2012).
@@ -70,7 +72,7 @@ bioinformatics pipelines with databses to link [[operational taxonomic unit|OTU]
 ![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png]]
 
 ## chapter 3: energy and physiological tolerance explain multi-trophic soil diversity in temperate mountains
-[[spatial patterns in biodiversity]]
+[[community ecology]]
 > the “energy hypothesis”, the “physiological tolerance hypothesis”, the “habitat heterogeneity hypothesis” and the “resource heterogeneity hypothesis”.
 
 ^2e4665

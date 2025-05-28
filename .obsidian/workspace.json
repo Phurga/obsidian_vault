@@ -13,17 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
+                "file": "concepts/community ecology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Calderon-Sanou2022_betterunderstanding"
+              "title": "community ecology"
             }
           },
           {
-            "id": "d47af3d250c2511f",
+            "id": "cdffde5738ddc995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/community ecology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "community ecology"
+            }
+          },
+          {
+            "id": "e8f6f1a2c59d9655",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,8 +51,24 @@
               "icon": "lucide-file",
               "title": "use of soil eDNA sequencing methods to measure soil species richness"
             }
+          },
+          {
+            "id": "f18f8b8343174516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Vellend2010_ConceptualSynthesis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vellend2010_ConceptualSynthesis"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(abundance area)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -117,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
+                "file": "concepts/community ecology.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calderon-Sanou2022_betterunderstanding"
+              "title": "Outline of community ecology"
             }
           },
           {
@@ -132,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
+                "file": "concepts/community ecology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Calderon-Sanou2022_betterunderstanding"
+              "title": "Backlinks for community ecology"
             }
           },
           {
@@ -151,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
+                "file": "concepts/community ecology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Calderon-Sanou2022_betterunderstanding"
+              "title": "Outgoing links from community ecology"
             }
           },
           {
@@ -177,7 +207,7 @@
         "currentTab": 1
       },
       {
-        "id": "9469384179e8c84a",
+        "id": "1e3e095ba6417a2e",
         "type": "tabs",
         "children": [
           {
@@ -186,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Calderon-Sanou2022_betterunderstanding.md"
+                "file": "concepts/community ecology.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Calderon-Sanou2022_betterunderstanding"
+              "title": "File properties for community ecology"
             }
           }
         ]
@@ -206,34 +236,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "35bf635ae5a6da6b",
+  "active": "cdffde5738ddc995",
   "lastOpenFiles": [
+    "concepts/niche theory.md",
+    "concepts/spatial patterns in biodiversity.md",
+    "concepts/community ecology.md",
+    "sources/Vellend2010_ConceptualSynthesis.md",
+    "concepts/phenotype.md",
+    "concepts/karyotype.md",
+    "concepts/taxonomy.md",
     "concepts/use of soil eDNA sequencing methods to measure soil species richness.md",
-    "sources/Calderon-Sanou2022_betterunderstanding.md",
-    "concepts/soil food web.md",
-    "concepts/Earth observation foundation model.md",
-    "sources/Potapov2019_Trophicconsistency.md",
-    "sources/Cerna2025_Limitspromises.md",
-    "concepts/DNA metabarcoding.md",
-    "concepts/trait databases.md",
-    "sources/Si-Moussi2020_Contributiondata.md",
-    "concepts/biotope.md",
+    "concepts/creation of eDNA maps from eDNA samples for species distribution models (SDM).md",
+    "attachments/Vellend2010_ConceptualSynthesis_theories.png",
+    "concepts/occupancy-abundance relationship.md",
+    "sources/Noss1990_IndicatorsMonitoring.md",
+    "attachments/Vellend2010_ConceptualSynthesis_processes_patterns.png",
+    "attachments/Pasted image 20250528105229.png",
     "concepts/ecological filtering.md",
-    "Elton niche.md",
-    "concepts/ecological network.md",
-    "concepts/food web.md",
-    "Grinnel niche.md",
-    "concepts/species distribution model.md",
-    "creators/Calderón-Sanou, Irene.md",
-    "misc/meetings/questions meeting LECA.md",
-    "creators/Si-moussi, Sara.md",
-    "sources/Hu2025_Introductiondeep.md",
-    "concepts/environmental DNA.md",
-    "sources/Thakur2020_integrativeunderstanding.md",
-    "concepts/nature conservation.md",
-    "concepts/intrinsic value of nature.md",
-    "sources/deBenoist2004_naturesa.md",
+    "concepts/stochastic.md",
+    "concepts/evolutionary biology.md",
+    "concepts/ecological functionning.md",
+    "creators/Vellend, Mark.md",
+    "sources/Vellend2017_BiodiversityConservation.md",
     "concepts/anthropisation of land leads to habitat homogeneity.md",
+    "concepts/the intermediate disturbance hypothesis.md",
+    "sources/Calderon-Sanou2022_betterunderstanding.md",
+    "sources/Anthony2023_Enumeratingsoil.md",
+    "sources/Potapov2019_Trophicconsistency.md",
+    "concepts/biodiversity dynamics.md",
+    "concepts/horizontal gene transfer.md",
+    "concepts/use of abundance and richness for microorganisms diversity.md",
+    "concepts/Earth observation foundation model.md",
     "attachments/Pasted image 20250527115956.png",
     "attachments/Calderon-Sanou2022_betterunderstanding_theories.png",
     "attachments/Calderon-Sanou2022_betterunderstanding_trophic_groups.png",
@@ -242,9 +275,6 @@
     "attachments/LeGuillarme2023_SoilFood_gratin.png",
     "attachments/WCSorg_ecosystem_integrity_3.png",
     "attachments/PREDICTS_taxon_representativeness.jpg",
-    "attachments/Burg2025_nematode_exploration_fr_map.png",
-    "attachments/Jung2020_globalmap_habitat_classes.png",
-    "attachments/CES OSO  THEIA_land_classes.png",
     "New Text Document.txt",
     "misc/setup/sidenote-callout.css",
     "concepts.zip",

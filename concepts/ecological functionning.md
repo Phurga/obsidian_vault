@@ -2,8 +2,9 @@
 tags:
   - concept/definition
 ---
-[[Noss1990_IndicatorsMonitoring]]
-> Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutrient cycling.
+In [[composition, structure, function]], **ecological functionning** is about processes occuring in an ecosystem.
+
+![[Noss1990_IndicatorsMonitoring#^e1909c]]
 
 at ecosystem level
 - [[ecosystem function]]

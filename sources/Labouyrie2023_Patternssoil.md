@@ -29,6 +29,8 @@ Use of [[shannon index]] as indicator for diversity (but i seems it is better su
 Finds an increase in microbial richness in managed land vs in natural land (forests).
 > Higher microbial richness and diversity in croplands and grassland compared to woodlands might result from increased niche availability at the local scale due to either soil perturbation or the presence of a heterogeneous environment with different plant species (e.g. in grasslands or when different crops are rotated in arable and vegetable fields).
 
+^924581
+
 >future studies should compare multiple sampling points within the same location, in order to account for micro-scale variability of the biota (i.e. changes over distances of few metres)
 
 ![[Labouyrie2023_Patternssoil_results_richness.png|300]]

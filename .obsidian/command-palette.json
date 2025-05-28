@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "obsidian-zotero-desktop-connector:zdc-exp-new zotero note"
+    "obsidian-zotero-desktop-connector:zdc-exp-new zotero note",
+    "obsidian-text-format:merge-line"
   ]
 }

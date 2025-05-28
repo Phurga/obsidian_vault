@@ -15,6 +15,12 @@ eDNA techniques allowed for rapid calculation of species richness for arthropods
 #todo/question could we use eDNA databases only at the OTU level (with BINs in the BOLD database) to calculate richness values (at regional scale rather than at local scale - ie gamme vs alpha diversity).
 
 eDNA datasets were used in [[deep species distribution model]]s to derive soil organisms abundance maps using[[soil food web#soil multi-trophic classification]] ([[Calderon-Sanou2022_betterunderstanding]] and [[Cerna2025_Limitspromises]]).
+
+#todo/question 
+creation of eDNA maps from eDNA samples for species distribution models (SDM)
+eDNA data are still sparse and are highly local (points)
+SDM require rasters and there is a need to convert eDNA data into rasters by, i suggest, creating buffers around sampled points
+deep learning methods could be used to generate eDNA maps based on environmental conditions ? Is it not training by masking ?
 ## Handles
 [[environmental DNA]]
 [[species richness]]

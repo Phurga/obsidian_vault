@@ -27,6 +27,9 @@ Refers to an old definition of biodiversity in :
 
 ![[Noss1990_IndicatorsMonitoring_biodiversity_multi_dimensional.png|400]]
 
+> Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutrient cycling.
+
+^e1909c
 
 %% end notes %%
 

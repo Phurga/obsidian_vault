@@ -8,7 +8,7 @@ Related:
 [[biological interaction]]
 - [[food web]]
 - [[symbiosis]]
-[[spatial patterns in biodiversity]]
+[[community ecology]]
 - [[habitat fragmentation]]
 [[temporal patterns]]
 - [[biodiversity dynamics]]

@@ -25,7 +25,11 @@ itemKey: CQEANHGR
 
 > Species are being transported and introduced to new places around the world, so that **regional diversity often increases, even as global diversity declines**.
 
+^fc5ea7
+
 > The net result of human activities in recent centuries thus appears on average to have been an increase, or at least no change, in species richness at the regional scale. If biodiversity is good, this news ought to be good, but one would be hard-pressed to find an ecologist who would say that. So, **at the local or regional scale, perhaps it is not really biodiversity per se that we value**.
+
+^9354e7
 
 > For decades, environmental historians and conservation biologists have been discussing the reasons people value nature—and biodiversity. Some values are profoundly personal, such as feelings of moral obligation to protect nonhuman life or a spiritual connection with wild nature.
 

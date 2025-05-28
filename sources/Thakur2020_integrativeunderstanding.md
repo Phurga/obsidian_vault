@@ -19,7 +19,7 @@ itemKey: QX6V5ZV7
 [[mechanisms leading to high soil species richness]]
 >Anderson ([1975](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12567#brv12567-bib-0004)) highlighted that greater diversity of soil organisms is due to their lack of trophic specialization combined with widespread micro-scale abiotic heterogeneity
 
-[[spatial patterns in biodiversity]]
+[[community ecology]]
 > Here, we consider five biodiversity theories: (i) species–energy relationships, (ii) theory of island biogeography, (iii) metacommunity theory, (iv) niche theory, and (v) neutral theory.
 
 ^dee5e2
