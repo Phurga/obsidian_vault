@@ -12,7 +12,7 @@ Soil can be described and characterized in several aspects [[Cousin2025_Preserve
 - soil as identity (e.g. terroir in winemaking)
 
 
-- [[soil quality]] #todo/question how does soil quality links with all the above, is it mainly soil physical properties ?
+- [[soil quality]]
 	- [[soil physical property]]
 		- [[soil aggregate]]
 		- [[soil compaction]]

@@ -14,7 +14,7 @@ itemKey: R84GMCAP
 
 
 # Notes %% begin notes %%
-Longer version of [[Cousin2024_Preserverqualite]]
+Longer version of [[Cousin2024_Preserverqualite]], synthesis of [[Cousin2025_Preserverqualitea]]
 ### metric choice
 Indicateurs basés sur les fonctions écologiques des sols
 

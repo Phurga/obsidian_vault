@@ -1,8 +1,6 @@
 ---
 aliases:
-  - soils quality
   - soil health
-  - soils health
 tags:
   - concept/definition
 ---
