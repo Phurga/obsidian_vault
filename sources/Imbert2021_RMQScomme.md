@@ -14,6 +14,8 @@ itemKey: T28383MZ
 
 # Notes %% begin notes %%
 ![[Imbert2021_RMQScomme_methods.png]]
+
+![[Imbert2021_RMQScomme_results.png]]
 %% end notes %%
 
 

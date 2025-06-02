@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "sources/Imbert2021_RMQScomme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "measures of biodiversity"
+              "title": "Imbert2021_RMQScomme"
             }
           }
         ]
@@ -101,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "sources/Imbert2021_RMQScomme.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of measures of biodiversity"
+              "title": "Outline of Imbert2021_RMQScomme"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "sources/Imbert2021_RMQScomme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for measures of biodiversity"
+              "title": "Backlinks for Imbert2021_RMQScomme"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/measures of biodiversity.md",
+                "file": "sources/Imbert2021_RMQScomme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from measures of biodiversity"
+              "title": "Outgoing links from Imbert2021_RMQScomme"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/measures of biodiversity.md"
+                "file": "sources/Imbert2021_RMQScomme.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for measures of biodiversity"
+              "title": "File properties for Imbert2021_RMQScomme"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "116b812bce23366f",
   "lastOpenFiles": [
-    "sources/Doolittle2006_Genomicsbacterial.md",
+    "attachments/Imbert2021_RMQScomme_results.png",
     "concepts/measures of biodiversity.md",
+    "sources/Doolittle2006_Genomicsbacterial.md",
     "sources/Doolittle1999_PhylogeneticClassification.md",
     "concepts/species richness.md",
     "concepts/use of soil eDNA sequencing methods to measure soil species richness.md",
@@ -218,7 +219,6 @@
     "sources/Imbert2021_RMQScomme.md",
     "attachments/Imbert2021_RMQScomme_methods.png",
     "sources/Vincent2022_Soilbiodiversity.md",
-    "concepts/soil food web.md",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/Pasted image 20250602083554.png",
     "attachments/Cousin2025_Preserverqualite_history.png",
