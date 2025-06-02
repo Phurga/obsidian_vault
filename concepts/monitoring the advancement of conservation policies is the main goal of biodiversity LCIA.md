@@ -3,7 +3,7 @@ tags:
   - concept/idea
 aliases:
 ---
-Monitoring the advancement of [[nature conservation]] policies is the main goal of [[LCIA method on ecosystem quality]].
+Monitoring the advancement of [[environmental policy|nature conservation policies]] is the main goal of [[LCIA method on ecosystem quality]].
 
 [[Vrasdonk2020_inclusionBiodiversity]]
 > We recommend that reference situations for biodiversity in LCIA models should be developed based on biodiversity targets aligned with society’s conservation frameworks. Only measurements of deviation away from or closer to a desired reference situation make it possible for decision makers to distinguish the varying biodiversity-related costs and benefits that are associated with different production systems.

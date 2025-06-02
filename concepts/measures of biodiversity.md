@@ -4,6 +4,7 @@ tags:
 aliases:
   - biodiversity indicators
   - biodiversity metrics
+  - measuring biodiversity
 ---
 Because of the complexity and multiple dimensions of [[biodiversity]], there cannot be a single indicator for biodiversity, quoting [[Hedde2025_Diversityroles]], but following the complexity of its definition.
 [[McGill2015_Fifteenforms]]  proposes 15 trends/indicators for biodiversity monitoring.
@@ -32,9 +33,11 @@ On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuit
 	- ecological networks
 	- trophic groups abundances
 	- todo ?
+- see also [[naturalness]]
 
 [[Santini2017_Assessingsuitability]] seems to advise for using sorensen index and species richness as simple yet effective indicators for composition changes.
-### references
+
+>[!quote] references
 [[Pyron2010_CharacterizingCommunities]]
 [[Santini2017_Assessingsuitability]]
 [[DeBaan2013_LandUse]]
@@ -47,14 +50,14 @@ Species diversity can be measured at different spatial scales:
 >[!warning] should you use alpha or gamma diversity ?
 >[[anthropisation of land leads to habitat homogeneity]]
 
-### References
+>[!quote] References
 [[Godet2017_Notiondebat]]
 [[Pyron2010_CharacterizingCommunities]]
 [[Andermann2022_EstimatingAlpha]]
-## measures for biodiversity as nature
-see [[naturalness]]
 ## implementations in LCIA
-In [[LCA]] compositional indicators are recommended, especially species richness ([[Woods2018_Ecosystemquality]]), but they can be used to derive more complex indicators when data is available ([[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] and more: see [[LCIA method for land use impacts on ecosystem quality]].
+The current recommendation for an [[ecosystem quality]] indicator in LCIA is biodiversity loss and in particular [[relative species loss]] ([[UNEP2016_GlobalGuidance]]). This is known to be an imperfect metric but the best available due to data availability limitations ([[LCIA method development is limited by data availability]]).
 
->[!note] limitation
->Species richness are recommended as a pragramatic answer to challenges related to data availability with global coverage.
+Species richness, but they can be used to derive more complex indicators when data is available such as [[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] ([[Woods2018_Ecosystemquality]]).
+
+Existing implementations for impacts from land use : [[LCIA method for land use impacts on ecosystem quality]].
+However, these derivates require additional data, with limited coverage (geography, taxon) making them difficult to scale globally.
