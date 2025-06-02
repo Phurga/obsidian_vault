@@ -1,3 +1,7 @@
+---
+tags:
+  - concept/idea
+---
 [[occupancy-abundance relationship]]
 [[species-area relationship]]
 

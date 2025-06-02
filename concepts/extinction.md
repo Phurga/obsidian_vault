@@ -5,6 +5,7 @@ aliases:
   - local extinction
   - global extinction
   - microbial extinction
+  - endangered
 ---
 A species is considered **extinct** when the last individual of this [[taxonomy]] disappears.
 

@@ -16,7 +16,7 @@ itemKey: FQZRW34W
 >The soil represents a very special ecosystem since it constitutes one of the most important reservoirs of biodiversity on the planet.
 
 # Notes %% begin notes %%
-
+Recap of soil biodiversity concepts.
 %% end notes %%
 
 

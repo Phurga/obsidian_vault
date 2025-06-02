@@ -1,0 +1,22 @@
+---
+tags:
+  - source/journalArticle
+  - zotero
+doi: 
+itemKey: T28383MZ
+---
+>[!metadata]+
+> Le RMQS comme support de suivi de la biodiversité des sols : les programmes passés, présents et futurs
+> [[Imbert, Camille]], [[Santorufo, Lucia]], [[Ortega C.]], [[Jolivet, Clody]], [[Bougon N.]], [[Cheviron N.]], [[Cluzeau D.]], [[Cortet J.]], [[Lévêque A.]], [[Mougin C.]], [[Murat C.]], [[Pérès G.]], [[Pottier J.]], [[Ranjard L.]], [[Villenave C.]], [[Bispo, Antonio]], 
+> [[Étude et Gestion des Sols]] (2021)
+> 
+> [Online link](https://hal.inrae.fr/hal-03484172v1/document), [Zotero Item](zotero://select/library/items/T28383MZ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LEL4YKR5/_document.pdf), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LLWRUBW9/Biodiv.pdf), 
+
+# Notes %% begin notes %%
+![[Imbert2021_RMQScomme_methods.png]]
+%% end notes %%
+
+
+
+
+%% Import Date: 2025-06-02T17:28:42.499+02:00 %%

@@ -9,7 +9,7 @@ itemKey: ZG92ELWW
 > Soil health in agricultural systems
 > [[Kibblewhite, M.g]], [[Ritz, K]], [[Swift, M.j]], 
 > [[Philosophical Transactions of the Royal Society B: Biological Sciences]] (2007)
-> [[soil quality]], [[important]], [[ecosystem services]], [[agricultural impact]], [[biological processes and functions]], [[indicators]], [[soil health]], 
+> [[soil quality]], [[important]], [[ecosystem service]], [[agricultural impact]], [[biological processes and functions]], [[indicators]], [[soil health]], 
 > [Online link](https://royalsocietypublishing.org/doi/10.1098/rstb.2007.2178), [Zotero Item](zotero://select/library/items/ZG92ELWW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YSW99K4Q/Kibblewhite2007_Soilhealth.pdf), 
 
 >[!abstract]-

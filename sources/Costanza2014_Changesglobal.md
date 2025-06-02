@@ -9,7 +9,7 @@ itemKey: ASXMXKDA
 > Changes in the global value of ecosystem services
 > [[Costanza, Robert]], [[de Groot, Rudolf]], [[Sutton, Paul]], [[van der Ploeg, Sander]], [[Anderson, Sharolyn J.]], [[Kubiszewski, Ida]], [[Farber, Stephen]], [[Turner, R. Kerry]], 
 > [[Global Environmental Change]] (2014)
-> [[Ecosystem services]], [[Global value]], [[Monetary units]], [[Natural capital]], 
+> [[ecosystem service]], [[Global value]], [[Monetary units]], [[Natural capital]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0959378014000685), [Zotero Item](zotero://select/library/items/ASXMXKDA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/CH6YRI46/Costanza2014_Changesglobal.pdf), 
 
 >[!abstract]-

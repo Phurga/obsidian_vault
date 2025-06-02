@@ -36,7 +36,7 @@ On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuit
 - [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
 
 On using simple metrics:
-![[Santini2017_Assessingsuitability#^b04846]]
+![[Santini2017_Assessingsuitability#^b4e371]]
 
 >[!quote] references
 [[Pyron2010_CharacterizingCommunities]]
@@ -62,3 +62,6 @@ Species richness, but they can be used to derive more complex indicators when da
 
 Existing implementations for impacts from land use : [[LCIA method for land use impacts on ecosystem quality]].
 However, these derivates require additional data, with limited coverage (geography, taxon) making them difficult to scale globally.
+## indicators to investigate
+[[Cluzeau2012_Integrationbiodiversity]] and the [[Réseau de Mesures de la Qualité des Sols]]
+genetic indicators based on the concept that [[prokaryote]] exchange genes too frequently to have relevant descriptions of species and it is more useful to focus on genes prenence (or combination of genes leading to combination of functions enable ecosystem function) [[Doolittle1999_PhylogeneticClassification]] and [[Doolittle2006_Genomicsbacterial]].

@@ -9,7 +9,7 @@ itemKey: VFJHQIAR
 > Intensive agriculture reduces soil biodiversity across Europe
 > [[Tsiafouli, Maria A.]], [[Thébault, Elisa]], [[Sgardelis, Stefanos P.]], [[de Ruiter, Peter C.]], [[van der Putten, Wim H.]], [[Birkhofer, Klaus]], [[Hemerik, Lia]], [[de Vries, Franciska T.]], [[Bardgett, Richard D.]], [[Brady, Mark Vincent]], [[Bjornlund, Lisa]], [[Jørgensen, Helene Bracht]], [[Christensen, Sören]], [[Hertefeldt, Tina D’]], [[Hotes, Stefan]], [[Gera Hol, W.h.]], [[Frouz, Jan]], [[Liiri, Mira]], [[Mortimer, Simon R.]], [[Setälä, Heikki]], [[Tzanopoulos, Joseph]], [[Uteseny, Karoline]], [[Pižl, Václav]], [[Stary, Josef]], [[Wolters, Volkmar]], [[Hedlund, Katarina]], 
 > [[Global Change Biology]] (2015)
-> [[ecosystem services]], [[agricultural intensification]], [[body mass]], [[functional groups]], [[soil food web]], [[taxonomic breadth]], [[taxonomic distinctness]], [[terrestrial ecosystems]], 
+> [[ecosystem service]], [[agricultural intensification]], [[body mass]], [[functional groups]], [[soil food web]], [[taxonomic breadth]], [[taxonomic distinctness]], [[terrestrial ecosystems]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12752), [Zotero Item](zotero://select/library/items/VFJHQIAR), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/9YG9BWS6/Tsiafouli2015_Intensiveagriculture.pdf), 
 
 >[!abstract]-

@@ -2,7 +2,7 @@
 aliases:
   - weekly
 tags:
-  - concept/index
+  - meeting
 ---
 # weekly amandine/arnaud
 

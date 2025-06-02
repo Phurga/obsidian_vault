@@ -4,3 +4,6 @@
 ```query
 tag:todo/consolidate
 ```
+```query
+tag:todo/read
+```

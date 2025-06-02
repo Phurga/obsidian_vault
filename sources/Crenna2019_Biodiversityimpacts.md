@@ -7,7 +7,7 @@ itemKey: CQ5CQT3C
 ---
 >[!metadata]+
 > Biodiversity impacts due to food consumption in Europe
-> [[Crenna, E.]], [[Sinkko, T.]], [[Sala, S.]], 
+> [[Crenna, Eleonora]], [[Sinkko, T.]], [[Sala, Serenella]], 
 > [[Journal of Cleaner Production]] (2019)
 > [[biodiversity]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S095965261931131X), [Zotero Item](zotero://select/library/items/CQ5CQT3C), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/8AX6PR56/Crenna2019_Biodiversityimpacts.pdf), 
@@ -22,4 +22,4 @@ itemKey: CQ5CQT3C
 
 
 
-%% Import Date: 2025-05-26T13:45:42.266+02:00 %%
+%% Import Date: 2025-06-02T17:49:27.161+02:00 %%

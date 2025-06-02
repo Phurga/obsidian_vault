@@ -9,7 +9,7 @@ itemKey: QX6V5ZV7
 > Towards an integrative understanding of soil biodiversity
 > [[Thakur, Madhav P.]], [[Phillips, Helen R. P.]], [[Brose, Ulrich]], [[De Vries, Franciska T.]], [[Lavelle, Patrick]], [[Loreau, Michel]], [[Mathieu, Jerome]], [[Mulder, Christian]], [[Van der Putten, Wim H.]], [[Rillig, Matthias C.]], [[Wardle, David A.]], [[Bach, Elizabeth M.]], [[Bartz, Marie L. C.]], [[Bennett, Joanne M.]], [[Briones, Maria J. I.]], [[Brown, George]], [[Decaëns, Thibaud]], [[Eisenhauer, Nico]], [[Ferlian, Olga]], [[Guerra, Carlos António]], [[König-Ries, Birgitta]], [[Orgiazzi, Alberto]], [[Ramirez, Kelly S.]], [[Russell, David J.]], [[Rutgers, Michiel]], [[Wall, Diana H.]], [[Cameron, Erin K.]], 
 > [[Biological Reviews]] (2020)
-> [[soil biodiversity]], [[alpha diversity]], [[beta diversity]], [[spatial scale]], [[biodiversity theory]], [[metacommunity theory]], [[neutral theory]], [[niche theory]], [[species–energy relationship]], [[theory of island biogeography]], 
+> [[soil biodiversity]], [[alpha diversity]], [[beta diversity]], [[spatial scale]], [[biodiversity theory]], [[metacommunity theory]], [[neutral theory]], [[niche theory]], [[species–energy relationship]], [[island biogeography]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12567), [Zotero Item](zotero://select/library/items/QX6V5ZV7), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/Q7ZNG8Y7/Thakur2020_integrativeunderstanding.pdf), 
 
 >[!abstract]-

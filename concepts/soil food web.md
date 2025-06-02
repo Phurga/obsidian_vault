@@ -5,7 +5,7 @@ aliases:
 ---
 The soil [[food web]] is a simplified model representing the trophic relationships between [[soil biodiversity|soil organisms]].
 
-In this model, organisms can be grouped by [[taxonomy|species]] but since species definitions are challenging for microorganisms, organisms can also be grouped by functional roles, by taxon (clades) and by trophic groups.
+In this model, organisms can be grouped by [[taxonomy|species]] but since species definitions are challenging for microorganisms, organisms can also be grouped by functional roles, by taxon (clades) and by trophic groups, as is done in [[FAO2020_Stateknowledge]].
 ## functional roles
 In this model, several classes are defined related to the function of species in the soil:
 1. [[autotroph|primary producers]] are plants, and plant biomass is accessed through roots, but also some algae and bacteria. Plants produce sugar for their own direct function, but also send a portion of this energetic molecules as [[exudates]] through their roots to attract microorganisms for [[symbiosis|symbiotic relationship]]s.
@@ -30,8 +30,10 @@ The concept of **channels** is related to flows of energy, supposedly following 
 [[Calderon-Sanou2022_betterunderstanding]] combines high level taxonomic classification with trophic groups to obtain a soil multi-trophic classification shown below:
 ![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png|400]]
 
-This classification was used in [[Cerna2025_Limitspromises]], 
+This classification was used in [[Cerna2025_Limitspromises]], based on the work done in [[Hedde2022_commonframework]].
 
-## References
+## data
+The Soil Food Web Ontology (SFWO) is a wide database ( #data ) of trophic relationship between soil organisms ([[LeGuillarme2023_SoilFood]]). It can be combined with the classification from [[Calderon-Sanou2022_betterunderstanding]].
+## general references
 [[FAO2020_Stateknowledge]]
 [[Vincent2022_Soilbiodiversity]]

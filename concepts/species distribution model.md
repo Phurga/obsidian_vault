@@ -54,7 +54,7 @@ There is ongoing development of [[metaweb]] data (regional biotic interaction ne
 ## Deep SDM
 see [[deep species distribution model]]
 ## INVEST
-**state of the art in [[ecosystem services]]**
+**state of the art in [[ecosystem service]]**
 
 https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib69
 > Habitat quality is a proxy for biodiversity and refers to the ability of ecosystems to provide suitable conditions for individual and population (i.e., animals or plants) survival ([Hall et al., 1997](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib40)). The habitat quality is calculated for the three scenarios applying Equation [(4)](https://www.sciencedirect.com/science/article/pii/S0301479725006097#fd4), with the parameters shown in [Table S4](https://www.sciencedirect.com/science/article/pii/S0301479725006097#appsec1). This equation is based on the INVEST habitat quality model ([Sharp et al., 2014](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib69)), adapted to Norwegian conditions ([Hu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0301479725006097#bib47)).Eq. 4

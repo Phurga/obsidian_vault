@@ -3,10 +3,6 @@ tags:
   - production/abstract
 aliases:
 ---
-# Final version
-Title: 
-Characterization of land use impacts on soil biodiversity
-
 Authors:
 Burg Adrien, Pastor Amandine, Hélias Arnaud
 a ITAP, Univ Montpellier, INRAE, Institut Agro, Montpellier, France
@@ -25,8 +21,3 @@ Work objectives include:
 This work aims to bridge the gap between soil ecology and environmental assessment by integrating soil organisms into life cycle impact assessment methods. Such cross- disciplinary approach improves decision making for environmental impact assessment and sustainable soil management. Finally, this new approach could inform agricultural and forestry policies and support corporate sustainability reporting.
 
 Keywords: biodiversity, LCIA, soil ecology, species, microorganisms
-
----
-[Shared version link](https://onedrive.live.com/personal/1c223345594608b7/_layouts/15/doc2.aspx?resid=38823d91-613a-4a62-898b-13858558a615&cid=1c223345594608b7&action=editnew&wdNewAndOpenCt=1744099038149&ct=1744099038842&wdOrigin=OFFICECOM-WEB.MAIN.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=28cd48da-224e-4407-be2c-5b09257d0a32)
-
-

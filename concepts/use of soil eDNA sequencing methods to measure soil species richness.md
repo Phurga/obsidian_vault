@@ -16,6 +16,8 @@ eDNA techniques allowed for rapid calculation of species richness for arthropods
 
 eDNA datasets were used in [[deep species distribution model]]s to derive soil organisms abundance maps using[[soil food web#soil multi-trophic classification]] ([[Calderon-Sanou2022_betterunderstanding]] and [[Cerna2025_Limitspromises]]).
 
+#todo/read [[Orgiazzi2015_Soilbiodiversity]]
+
 #todo/question 
 creation of eDNA maps from eDNA samples for species distribution models (SDM)
 eDNA data are still sparse and are highly local (points)

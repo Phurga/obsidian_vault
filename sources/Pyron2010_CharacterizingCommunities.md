@@ -26,7 +26,6 @@ itemKey: D74IAQS4
 > Species diversity tends to increase with habitat heterogeneity. Communities that have increased habitat variation have an increased number of ways to divide up the available niches. The number or variation of available niches varies by organism-type. Plant niches tend to be defined by different variables than animal niches. Plant species richness may vary with variation in local soil properties. Animal species richness may vary with the complexity of the habitat form, for example vegetation structure. Thus habitat heterogeneity is both context and species dependent.
 
 ![[Pyron2010_CharacterizingCommunities_composition.png|600]]
-#todo/read the other articles on the topic (bottom of the article).
 %% end notes %%
 
 

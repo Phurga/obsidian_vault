@@ -11,7 +11,7 @@ The 3 main variables representing functional diversity are ([[Mason2005_Function
 - [[functional eveness]]
 - [[functional divergence]]
 # Use in LCA
-Implementing functional diversity (FD) in LCA methods is tricky since it requires additional data linking species with their functional traits in order to measure FD.
+Implementing functional diversity (FD) in LCA methods is tricky since it requires additional data linking species with their functional traits in order to measure FD. An overview of its use is done in [[Ahmed2019_Evaluationselection]].
 
 There are two known implementation of FD in the LCA framework:
 - [[Scherer2020_CharacterizingLand]], covering plants only, globally.

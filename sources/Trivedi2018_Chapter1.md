@@ -9,7 +9,7 @@ itemKey: PG5GXPFD
 > Soil Carbon Storage, Chapter 1 - Soil Carbon: Introduction, Importance, Status, Threat, and Mitigation
 > [[Trivedi, Pankaj]], [[Singh, Bhupinder P.]], [[Singh, Brajesh K.]], [[Singh, Brajesh K.]], 
 > [[Academic Press]] (2018)
-> [[Soil organic carbon]], [[sustainable agriculture]], [[ecosystem services]], [[carbon policy]], [[climate regulation]], [[land degradation]], [[sustainable development goals]], 
+> [[Soil organic carbon]], [[sustainable agriculture]], [[ecosystem service]], [[carbon policy]], [[climate regulation]], [[land degradation]], [[sustainable development goals]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/B9780128127667000019), [Zotero Item](zotero://select/library/items/PG5GXPFD), 
 
 >[!abstract]-
