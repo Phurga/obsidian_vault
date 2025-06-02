@@ -2,7 +2,7 @@
   "showRibbon": false,
   "baseFontSize": 14,
   "showViewHeader": false,
-  "accentColor": "#bea6f7",
+  "accentColor": "",
   "enabledCssSnippets": [
     "bolder_bold",
     "heading_size",

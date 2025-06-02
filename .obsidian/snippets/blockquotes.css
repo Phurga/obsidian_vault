@@ -6,9 +6,8 @@
 .markdown-embed::before { 
     content: attr(alt);
     font-size: 0.9em; 
-    font-weight: 600; 
-    color: rgb(190, 166, 247); 
-    font-style: bold;
+    font- 
+    color: rgb(74, 118, 200);
 }
 
 .markdown-embed {

@@ -14,15 +14,13 @@ itemKey: ISC4NDBJ
 
 # Notes %% begin notes %%
 
-> While metrics such as phylogenetic and functional diversity may also be useful, scientists should consider whether they provide added value in terms of conveying useful information to end-users such as conservation managers. For example, phylogenetic diversity and functional richness are often correlated with species richness ([Schipper et al., 2016](https://www.sciencedirect.com/science/article/pii/S0006320716303305?ref=pdf_download&fr=RR-2&rr=935e09b06db3d159#bb0275)). Generally, a small set of complementary and conceptually simple metrics is more transparent, intuitive and informative for policy makers on the underlying causes of changes in biodiversity (e.g. [Latombe et al., 2016](https://www.sciencedirect.com/science/article/pii/S0006320716303305?ref=pdf_download&fr=RR-2&rr=935e09b06db3d159#bb0175) for invasive species).
+> While metrics such as phylogenetic and functional diversity may also be useful, scientists should consider whether they provide added value in terms of conveying useful information to end-users such as conservation managers. For example, phylogenetic diversity and functional richness are often correlated with species richness ([Schipper et al., 2016](https://www.sciencedirect.com/science/article/pii/S0006320716303305?ref=pdf_download&fr=RR-2&rr=935e09b06db3d159#bb0275)).  Generally, a small set of complementary and conceptually simple metrics is more transparent, intuitive and informative for policy makers on the underlying causes of changes in biodiversity (e.g. [Latombe et al., 2016](https://www.sciencedirect.com/science/article/pii/S0006320716303305?ref=pdf_download&fr=RR-2&rr=935e09b06db3d159#bb0175) for invasive species).
 
-^417914
+^b4e371
 
-^ce9006
 [[sorensen similarity index]]
 ![[Santini2017_Assessingsuitability_sorensen formula.png]]
 
-^5b1aa3
 %% end notes %% 
 
 

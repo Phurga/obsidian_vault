@@ -23,3 +23,8 @@ List of symbioses types:
 
 [[wikipedia]]
 ![[wikipedia_Symbiotic_relationships_diagram.svg.png]]
+## noteworthy examples
+lichen
+[[mycorrhiza]]
+coral reefs
+[source](https://hal.science/hal-03946899v1/document)

@@ -13,9 +13,8 @@ Three facets for biodiversity [[Godet2017_Notiondebat]]:
 - [[taxonomy|taxonomic]] (species)
 - [[functional diversity]] (ecological functions, [[food web]])
 - [[phylogenetic diversity]] (evolutionary history)
-- [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
 
-On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuitability#^417914]]
+On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuitability#^b4e371]]
 ## indicators
 - [[ecological composition|composition]]
 	- [[species richness]]
@@ -34,8 +33,10 @@ On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuit
 	- trophic groups abundances
 	- todo ?
 - see also [[naturalness]]
+- [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
 
-[[Santini2017_Assessingsuitability]] seems to advise for using sorensen index and species richness as simple yet effective indicators for composition changes.
+On using simple metrics:
+![[Santini2017_Assessingsuitability#^b04846]]
 
 >[!quote] references
 [[Pyron2010_CharacterizingCommunities]]
