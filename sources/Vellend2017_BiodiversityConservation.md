@@ -43,6 +43,9 @@ itemKey: CQEANHGR
 
 > Saving the concept of biodiversity might require more clearly circumscribing the role of science in conservation. If, for example, an endangered species has no scientifically known or even plausibly hypothesized unique benefit to human well-being, we should be honest that **the motivation for protection is driven by ethical values**. It is important to note that such honesty requires acknowledging that the question of **what society should do about a given situation (for example, a species at risk of extinction) is outside the realm of science**, and so a scientist’s values carry no more weight than anyone else’s. In contrast, **scientists do have a special standing when it comes to giving advice on how to achieve conservation policy** or management goals and on predicting the possible consequences of action or inaction on a range of issues, including pollution, global warming, and land-use change.
 
+
+> Personally, I find value in the naturalness of a given ecosystem, flora, or fauna, with the benchmark for _natural_ being the absence or at least minimization of human influence. I also have a love of variety in and of itself, which prompts me to seek out the unique, mysterious, and beautiful plants and animals in different corners of the globe.
+
 %% end notes %%
 
 

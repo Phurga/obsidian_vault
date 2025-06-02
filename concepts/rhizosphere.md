@@ -36,7 +36,7 @@ Plants compete for resources, but also compliment each other ([[facilitation]], 
 
 Roots grow at their apex, and have high exsudation at these locations. 
 ## Biomass
-Plant below ground [[biomass]] is 40% of of total plant biomass (20-80%), highly variable depending on the species, [[soil types]] and environmental conditions (the plant will not put energy in roots if there is no need for nutrients due to mineral fertilisation). The plant will put energy in the most effective compartments, based on what limits its growth the most. When plants need energy (light and carbon) they grow leaf, if they need nutrient and water, they grow roots. But they always need leaf t Matières organiques des sols et services écosystémiques<br>[[Chevallier2025_Organicmatters]]<br>]]iphaine Chevallier (IRD)_ ere_plant_biomass.png|600]]
+Plant below ground [[biomass]] is 40% of of total plant biomass (20-80%), highly variable depending on the species, [[soil type]] and environmental conditions (the plant will not put energy in roots if there is no need for nutrients due to mineral fertilisation). The plant will put energy in the most effective compartments, based on what limits its growth the most. When plants need energy (light and carbon) they grow leaf, if they need nutrient and water, they grow roots. But they always need leaf t Matières organiques des sols et services écosystémiques<br>[[Chevallier2025_Organicmatters]]<br>]]iphaine Chevallier (IRD)_ ere_plant_biomass.png|600]]
 
 Most of soil biomass is [[rhizodeposition]]. But most plant biomass is above ground. But my assumption is that litter is incorporated in soil with a lower efficiency, as there are more intermediate organisms mineralizing the biomass. See [[Chevallier2025_Organicmatters]].
 

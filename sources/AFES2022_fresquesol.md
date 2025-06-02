@@ -7,7 +7,7 @@ itemKey: JEVD5FWM
 ---
 >[!metadata]+
 > La fresque du sol
-> [[AFES]], 
+> [[Association Francaise pour l'étude des sols]], 
 > [[La fresque du sol]] (2022)
 > [[soil]], [[soil ecology]], [[fresque]], 
 > [Online link](https://fresquedusol.com/), [Zotero Item](zotero://select/library/items/JEVD5FWM), 

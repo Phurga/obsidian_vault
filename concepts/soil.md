@@ -6,27 +6,17 @@ aliases:
   - soils
 ---
 Soil can be described and characterized in several aspects [[Cousin2025_Preserverqualite#^ff63e1]]:
-- soil as a surface (e.g. to build or cultivate on)
+- soil as a surface (e.g. to build or cultivate on, [[land use]])
 - soil as a resource (e.g. fertility, ecoystem services)
 - soil as natural heritage (conservation)
-- soil as identity (e.g. terroir in winemaking)
-
+- [[nature as identity|soil as identity]] (e.g. terroir in winemaking)
 
 - [[soil quality]]
 	- [[soil physical property]]
-		- [[soil aggregate]]
-		- [[soil compaction]]
 	- [[soil chemical properties]]
-		- ph
-		- [[soil organic matter]]
-		- [[soil types]] (soil mineral composition)
 	- [[soil biodiversity|soil biology]]
-		- [[soil temporal variability]]
-	- [[soil function]] and [[soil ecosystem service]]
+	- [[soil function]]s and [[soil ecosystem service]]s
 	- [[pressures on soils]]
 
 Related:
 - [[soil formation]]
-
-References
-[[Cousin2025_Preserverqualite]]

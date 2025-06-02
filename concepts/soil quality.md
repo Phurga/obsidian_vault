@@ -4,11 +4,13 @@ aliases:
 tags:
   - concept/definition
 ---
-**Soil quality** (or **soil health**) is the ability of the soil to sustain the productivity, diversity, and environmental services of terrestrial ecosystems ([[FAO2020_definitionsoil]])
+**Soil quality** (or **soil health**) is the ability of the [[soil]] to sustain the productivity, diversity, and environmental services of terrestrial ecosystems ([[FAO2020_definitionsoil]])
+## multiple definitions
+Soil fertility, soil productivity, soil quality, soil health, soil security: several evolving terms characterizing what we value in soils and our understanding of this complex medium. Blurry definitions disentangled in [[Cousin2025_Preserverqualite]] and [[FAOandITPS2015_Statusworlds]].
+
+![[Cousin2025_Preserverqualite_history.png|400]]
 
 Soil health mentions tend to refer more on the biological dimension of soils, considering soils beyond productive or even utilitarian values.
-## other definitions
-Soil fertility, soil productivity, soil quality, soil health, soil security: several evolving terms characterizing what we value in soils and our understanding of this complex medium.
 
  [[Doran2002_Soilhealth]] and [[Vidal-Legaz2017_Soilquality]]: 
 >  **Soil quality** (or **soil health**) is the capacity of a living soil to:
@@ -19,6 +21,8 @@ Soil fertility, soil productivity, soil quality, soil health, soil security: sev
 
 [[Marsden2025_Introductionsoil]]
 > soil quality is soil's capacity to deliver [[soil ecosystem service]]s.
+
+[[Cousin2025_Preserverqualite]] do not provide a clear definition but state they refer to soil health based on achieve soil functions.
 ## the three components of soil quality
 Soil quality depends on biological, chemical and physical components ([[Marsden2025_Introductionsoil]], [[Cousin2025_Preserverqualite]])
 ![[Marsden2025_Introduction_soil_quality.png|600]]
@@ -35,12 +39,3 @@ Conversely to air or water, there is no "pure" soils and it is impossible to hav
 ![[Cousin2025_Preserverqualite_indicateurs_fonctions_menaces.png]]
 Gerard et al 2024 (prep) soil quality indicators (from [[Hedde2025_Diversityroles]])
 ![[Hedde2025_SoilFauna_Gerard_bioindicators.png|600]]
-
-## soil quality, soil health and more
-[[Cousin2025_Preserverqualite]] gives an extended history of soil consideration (from a resources in 1970's to an ecosystem in 2010's). See box 3.1 pp64 of main report for extended definitions.
-[[FAOandITPS2015_Statusworlds]] also gives important milestones and similar outcomes.
-
-![[Cousin2025_Preserverqualite_history.png|400]]
-
-## reference
-[[Cousin2025_Preserverqualite]]

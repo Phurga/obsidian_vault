@@ -12,5 +12,5 @@ Soil can be described and characterized in several aspects:
 	- [[soil species diversity]]
 	- [[soil functional diversity]]
 - [[soil mineral composition]]
-	- [[soil types]]
+	- [[soil type]]
 

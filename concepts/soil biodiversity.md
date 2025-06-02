@@ -153,5 +153,7 @@ Soil biodiversity is also highly dynamic over time, responding to various driver
         
 
 In essence, the soil's incredible complexity and dynamism, coupled with its role as the foundation for terrestrial life, make it a unparalleled reservoir of biodiversity, intricately structured both in space and time to fulfill its critical ecosystem functions.
+## temporal variability
+[[soil temporal variability]]
 ## see also
 [[protecting above-ground biodiversity is not always sufficient to protect soil biodiversity]]

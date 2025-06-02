@@ -13,7 +13,6 @@ Three facets for biodiversity [[Godet2017_Notiondebat]]:
 - [[functional diversity]] (ecological functions, [[food web]])
 - [[phylogenetic diversity]] (evolutionary history)
 - [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
-Each facet should be quantified using different indicators.
 
 On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuitability#^417914]]
 ## indicators
@@ -52,6 +51,10 @@ Species diversity can be measured at different spatial scales:
 [[Godet2017_Notiondebat]]
 [[Pyron2010_CharacterizingCommunities]]
 [[Andermann2022_EstimatingAlpha]]
+## measures for biodiversity as nature
+see [[naturalness]]
 ## implementations in LCIA
-In [[LCA]] compositional indicators are recommended, especially species richness ([[Woods2018_Ecosystemquality]]), but they can be used to derive more complex indicators when data is available ([[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] and more: see [[LCIA method on ecosystem quality]].
-Species richness are recommended as a pragramatic answer to challenges related to data availability with global coverage.
+In [[LCA]] compositional indicators are recommended, especially species richness ([[Woods2018_Ecosystemquality]]), but they can be used to derive more complex indicators when data is available ([[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] and more: see [[LCIA method for land use impacts on ecosystem quality]].
+
+>[!note] limitation
+>Species richness are recommended as a pragramatic answer to challenges related to data availability with global coverage.

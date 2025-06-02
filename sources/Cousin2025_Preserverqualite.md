@@ -15,15 +15,19 @@ itemKey: R84GMCAP
 
 # Notes %% begin notes %%
 Longer version of [[Cousin2024_Preserverqualite]], synthesis of [[Cousin2025_Preserverqualitea]]
+
+**consolidé**
 ### metric choice
 Indicateurs basés sur les fonctions écologiques des sols
 
+[[soil quality]]
 "Qualité des sols" ou "santé des sols"
 "santé des sols" plus proche de la biologie des sols que la "qualité des sols"
 différence aussi entre une description d'état intrinseque et état lié à un usage
 qualité: description de ce qu'il est
 santé: description de ce qu'il devrait etre (par rapport a un potentiel)
 
+[[soil]]
 Le sol comme une surface (foncier)
 Le sol comme un potentiel de ressources (production etc)
 Le sol comme patrimoine (conservation)
@@ -32,10 +36,11 @@ Le sol comme identité (terroir en viticulture) ^ff63e1
 Sol comme ressource ou comme partenaire (conventionel vs biologique)
 Normes sociales influencant la perception du sol
 
-[Referentiel pédologique](https://www.afes.fr/les-sols/referentiel-pedologique/) classification des sols
+[[Référentiel pédologique Français]]
 
 Evaluation de la santé des sols par les fonctions ou les degradations
 
+[[pressures on soils]]
 Degradations/menaces pour le sol:
 - artificialisation
 - perte de biodiversité
@@ -58,44 +63,16 @@ fonctions du sol, definition: assemblage de proprietes et processus biochimiques
 ![[Cousin2024_fonctions_sol_ecologie_ringsabell.png]]
 
 Fonctions du sol retenues (à comparer à celles définies par FAO2020)
-- entretenir la structure du sol (see [[soil structure]])
-- supporter la biodiversité (habitat?) du sol (see [[biological regulation]])
-	- et supporter la biodiversité au dessus du sol
-- réguler la quantité de l'eau
-	- et réguler la qualité de l'eau #todo/question doublon contaminants ?
-- réguler les contaminants
-- fournir des nutriments à la biocénose (see [[nutrient cycling]])
-- stocker du carbone (see [[carbon transformation]])
+
 
 ![[Cousin2025_Preserverqualite_indicateurs_fonctions_menaces.png]]
 
 Indicateur PLFA: l'analyse des acides gras phospholipidiques permet d'obtenir le ratio champignon/bacteries (non selectionné finalement)
 Indicateur biodiversité matures: 16s rRNA et 18s rRNA (identification d'especes differentes prokaryote et eukaryotes resp)
 ### what is an indicator
-valeurs mesurées d'un indicateur:
-- un indicateur est associé à une méthode de mesure ou de calcul
-- un indicateur a des valeurs de références auxquelles se comparer pour permettre une évaluation
-	- choix de la valeur cible, exemple: si l'objectif est d'évaluer une pratique, il faut avoir des valeurs de comparaisons a conditions pedoclimatiques equivalents, mais on aura des references differentes si on a des objectifs differents (evolution dans le temps, impact de pressions specifiques)
-	- on retrouve la discussion sur les etats de reference de [[Vrasdonk2019_Referencesituations]]
-	- additionellement, la discussion va au dela de valeurs de refencences (pour calculer des valeurs relatives) mais estime des valeurs seuils et mentionne des valeurs ecologiques seuil, qui impliquent des pertes de fonctions du sol
+ [[chosing relevant indicators]]
 
-agregation:
-- lisibilité ameliorée
-- perte d'info
-	- risque de redondance
-	- risque de compensations
-	- evaluation de la dynamique moins pertinente
-- alternative: critere déclassant
 
-criteres de choix d'indicateurs
-- pertinence scientifique
-- capacité a informer
-- légitimité (acceptance)
-- faisabilité technique et economique
-
-certains indicateurs ne sont pas opérationnels (en développement) ou pas utilisables par manque de données de fond.
-
-history:
 ![[Cousin2025_Preserverqualite_history.png]]
 
 > la qualité étant définie par la capacité du sol à fonctionner (Larson et Pierce, 1994)

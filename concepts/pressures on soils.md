@@ -5,7 +5,7 @@ aliases:
   - soil threats
   - soils threats
 ---
-[[Soil]]s are currently facing pressures leading to their fast degradation (loss of [[soil quality]]) on a global scale ([[FAOandITPS2015_Statusworlds]]).
+**Soils are currently facing pressures** leading to their fast degradation (loss of [[soil quality]]) on a global scale ([[FAOandITPS2015_Statusworlds]]).
 
 [[FAO2020_Stateknowledge]] identifies a list of key pressures:
 - [[habitat transformation|land use change]] such as [[deforestation]] and [[urbanization]].
@@ -22,15 +22,14 @@ aliases:
 - [[erosion]] and landslides
 - [[invasive alien species]]
 
-The [[potential threats to biological functions]] method considers also:
+The list of [[potential threats to biological functions]], led by the [[European Union Soil Observatory|EUSO]] considers also:
  - [[habitat fragmentation]]
  - use of [[GMO]]
 
-[[Cousin2025_Preserverqualite]] proposes a classification without double counting
-- [[artificialization]]
-	- similar as [[soil sealing]]
-- loss of biodiversity
-- loss of SOC
+[[Cousin2025_Preserverqualite]] proposes a classification, without double counting ( #todo/notsure )
+- [[artificialization]] ([[soil sealing]])
+- loss of [[biodiversity]]
+- loss of [[soil organic matter|SOC]]
 - [[pollution]]
 - [[nutrient cycling|nutrient imbalance]]
 - [[soil compaction]]
@@ -39,7 +38,7 @@ The [[potential threats to biological functions]] method considers also:
 
 "[[La fresque du sol]]" is a way of classifying and representing the causal effects from human activities on soil quality and their consequences:
 ![[AFES2022_fresquesol_FresqueSolsAmandine.png]]
-
+## above ground and below ground pressures
 [[Cameron2019_Globalmismatches]] (quoted in [[FAO2020_Stateknowledge]])
 >[[protecting above-ground biodiversity is not always sufficient to protect soil biodiversity]]
 

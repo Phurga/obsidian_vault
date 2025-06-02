@@ -13,6 +13,11 @@ itemKey: HB8RSKGV
 > [Online link](https://www.lifecycleinitiative.org/wp-content/uploads/dlm_uploads/2017/01/global-guidance-lcia-v.1-1.pdf), [Zotero Item](zotero://select/library/items/HB8RSKGV), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4HW6JR85/UNEP2016_GlobalGuidance.pdf), 
 
 # Notes %% begin notes %%
+[[ecosystem quality]]
+> Ecosystem quality is an area of protection dealing with terrestrial, freshwater, and marine ecosystems and biodiversity, focusing on the intrinsic value of ecosystems. Impacts from land or water use, eutrophication, acidification or toxic effects are impacting these different ecosystems. Currently, the majority of operational methods addressing ecosystem quality are related to species disappearance due to data availability. Due to data availability and the intrinsic character of this area of protection, the recommended metric for this AoP is biodiversity loss.
+
+^7e28de
+
 %% end notes %%
 
 

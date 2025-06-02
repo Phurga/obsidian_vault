@@ -42,6 +42,12 @@ equitable sharing of benefits arising from the use of genetic resources.
 
 # Notes %% begin notes %%
 [[convention on biological diversity]]
+
+defines [[biodiversity]]
+> “Biological diversity” means the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems.
+
+^9ce896
+
 %% end notes %%
 
 
