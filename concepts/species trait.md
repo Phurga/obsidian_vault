@@ -8,17 +8,16 @@ aliases:
 tags:
   - concept/definition
 ---
-**Species traits** are measurable features (characteristics) of organisms. [[Violle2007_Letconcept]], [[Bonfanti2025_Linkingeffect]]. 
+**Species traits** are measurable features (characteristics) of organisms ([[Violle2007_Letconcept]]). 
 
-[[Violle2007_Letconcept]]
-> “Functional traits” are defined as morpho-physio-phenological traits which impact fitness indirectly via their effects on growth, reproduction and survival, the three components of individual performance.
+![[Violle2007_Letconcept#^b3e808]]
 
-Examples:
+Heart of functional ecology ([[functional diversity]]).
+
+Example of traits:
 - for plants: leaf size, root depth. 
-- for animals : body size, respiration rate. f
+- for animals : body size, respiration rate.
 - for fungi ? 
-- for bacteriae ?
-
-Fundament for [[functional diversity]].
+- for bacteria ?
 ## from species trait to ecosystem role
 [[Bonfanti2025_Linkingeffect]]: "Linking effect traits of soil fauna to processes of organic matter transformation"

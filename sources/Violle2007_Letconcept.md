@@ -19,6 +19,8 @@ itemKey: RYQMH3QX
 [[species trait|functional traits]]
 > “Functional traits” are defined as morpho-physio-phenological traits which impact fitness indirectly via their effects on growth, reproduction and survival, the three components of individual performance.
 
+^b3e808
+
 %% end notes %%
 
 

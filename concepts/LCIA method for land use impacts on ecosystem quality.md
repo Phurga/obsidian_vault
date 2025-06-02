@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 ## List of methods
-- species composition methods
-	- species richness methods, based on [[species-area relationship]]
+- [[ecological composition|species composition]] methods
+	- [[species richness]] methods, based on [[species-area relationship]]
 		- apex
 			- [[Scherer2023_BiodiversityImpact]]
 		- outdated but important
@@ -17,16 +17,16 @@ aliases:
 			- [[Kuipers2021_Consideringhabitat]] ([[species-habitat relationship]] to refine species affinity, [[equivalent connected area]] for fragmentation)
 		- kind of outdated but still relevant since it has an interesting impact pathway through [[species distribution model]].
 			- [[deBaan2015_HighResolutionAssessment]]
-	- species diversity methods
+	- [[species diversity]] methods
 		- [[DeBaan2013_LandUsea]] ([[mean species abundance|MSA]], [[shannon index]])
 		- [[PBL2016_GLOBIOMODEL]] (beyond LCA, [[mean species abundance|MSA]])
-	- functional diversity methods
+	- [[functional diversity]] methods
 		- [[Scherer2020_CharacterizingLand]] (global coverage of plants)
 		- [[MaiaDeSouza2013_Landuse]] (american coverage of multiple taxon)
-	- phylogenetic diversity methods
+	- [[phylogenetic diversity]] methods
 		- [[Chaudhary2018_Projectingglobal]] ([[loss of years of evolutionary history]])
 - environmental conditions methods
-	- naturalness
+	- [[naturalness]]
 		- apex
 			- [[Lindner2019_ValuingBiodiversity]] ([[biodiversity value increment]])
 		- outdated but important

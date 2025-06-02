@@ -1,7 +1,6 @@
 ---
 tags:
   - concept/idea
-  - todo/draft
 ---
 As recommended in by the UNEP SETAC Life Cycle Initiative, species richness is the recommended metric for measuring biodiversity, and relative species loss (RSL, usually named potentially disappeared fraction of species, or PDF) is the recommended metric for impacts on ecosystem quality ([[Woods2018_Ecosystemquality]]).
 
