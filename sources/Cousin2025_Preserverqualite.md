@@ -94,6 +94,13 @@ criteres de choix d'indicateurs
 - faisabilité technique et economique
 
 certains indicateurs ne sont pas opérationnels (en développement) ou pas utilisables par manque de données de fond.
+
+history:
+![[Cousin2025_Preserverqualite_history.png]]
+
+> la qualité étant définie par la capacité du sol à fonctionner (Larson et Pierce, 1994)
+
+
 %% end notes %%
 
 %% Import Date: 2025-04-23T17:38:16.208+02:00 %%

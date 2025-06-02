@@ -1,5 +1,6 @@
 ---
 tags:
   - creator/organisation
+aliases:
+  - UN
 ---
-Part of [[United Nations]]

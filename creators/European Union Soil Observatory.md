@@ -4,8 +4,7 @@ tags:
 aliases:
   - EUSO
 ---
-The **European Union Soil Observatory (EUSO)** is an organism under the [[EU JRC]].
-Part of the ESDAC ([[European Soil Data Center]])
+The **European Union Soil Observatory (EUSO)** is an organism under the [[EU JRC]], responsible of maintaining the [[European Soil Data Center]] (ESDAC).
 
 Produces maps on soil quality in Europe #data 
 https://esdac.jrc.ec.europa.eu/euso 

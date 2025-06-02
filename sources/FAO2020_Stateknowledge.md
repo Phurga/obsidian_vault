@@ -7,8 +7,8 @@ itemKey: 5VX2NLTU
 ---
 >[!metadata]+
 > State of knowledge of soil biodiversity - Status, challenges and potentialities
-> [[FAO]], [[ITPS]], [[GBSI]], [[SCBD]], [[EC]], 
-> [[FAO]] (2020)
+> [[Food and Agriculture Organisation]], [[Intergovernmental Technical Panel on Soil]], [[GBSI]], [[SCBD]], [[EC]], 
+> [[Food and Agriculture Organisation]] (2020)
 > [[biodiversity]], [[important]], [[soil]], 
 > [Online link](http://www.fao.org/documents/card/en/c/cb1928en), [Zotero Item](zotero://select/library/items/5VX2NLTU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LL57S7CQ/FAO2020_Stateknowledge.pdf), 
 
