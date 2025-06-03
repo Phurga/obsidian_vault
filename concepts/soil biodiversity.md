@@ -26,11 +26,11 @@ List of the main taxon present in the soil are the following, usually classified
 	- [[protist|protists]] ([[algae]] and [[protozoae]])
 	- [[virus]],
 - soil fauna
-	- microfauna, mainly [[nematodes]], [[tardigrade]]
+	- microfauna, mainly [[nematode]], [[tardigrade]]
 	- mesofauna, mainly [[soil microarthropod]]
 	- macrofauna
 		- [[soil macroarthropod]],
-		- [[earthworms]],
+		- [[earthworm]],
 	- megafauna, mainly [[soil vertebrate]],
 - plant, via their roots and the [[rhizosphere]].
 

@@ -9,7 +9,7 @@ itemKey: NUGXT6SI
 > Reference situations for biodiversity in life cycle assessments: conceptual bridging between LCA and conservation biology
 > [[Vrasdonk, Emke]], [[Palme, Ulrika]], [[Lennartsson, Tommy]], 
 > [[The International Journal of Life Cycle Assessment]] (2019)
-> [[Land use]], [[biodiversity]], [[Biodiversity]], [[Biodiversity conservation]], [[Environmental Chemistry]], [[Reference situation]], [[important]], [[LCIA]], 
+> [[Land use]], [[biodiversity]], [[Biodiversity]], [[Biodiversity conservation]], [[Environmental Chemistry]], [[Reference situation]], [[important]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-019-01594-x), [Zotero Item](zotero://select/library/items/NUGXT6SI), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/8Y7KLZEW/Vrasdonk2019_Referencesituations.pdf), 
 
 >[!abstract]-

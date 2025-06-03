@@ -21,7 +21,7 @@ Conclusions The integration of soil quality aspects in life cycle impact assessm
 # Notes %% begin notes %% 
 Partially consolidated in [[LCIA method on soil quality]] (only the context, not the core of the article #todo/consolidate )
 
-Presentation of a [[LCIA]] method based on modelling (extrapolating land degradation with soil organic carbon stocks)
+Presentation of a [[life cycle impact assessment]] method based on modelling (extrapolating land degradation with soil organic carbon stocks)
 
 Values of SOC are taken from [[IPCC2019_2019Refinement]].
 

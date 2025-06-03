@@ -3,7 +3,7 @@ tags:
   - concept/definition
 aliases:
 ---
-**Algae** are [[prokaryotes]] able to perform photosynthesis, and can be of many taxons. Definition seems fuzzy.
+**Algae** are [[prokaryote]] able to perform photosynthesis, and can be of many taxons. Definition seems fuzzy.
 Prokaryotes so [[cyanobacteria]] are supposed to be no algae.
 
 There are many algae in [[soil|soils]] and they are the source of a significant portion of photosynthetic carbon and also source of oxygen inside the soil. They only live in the first few milimeters. [[O2 production]], [[carbon transformation]].

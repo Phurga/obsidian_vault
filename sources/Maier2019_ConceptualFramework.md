@@ -9,7 +9,7 @@ itemKey: IFZFQYW9
 > Conceptual Framework for Biodiversity Assessments in Global Value Chains
 > [[Maier, Stephanie D.]], [[Lindner, Jan Paul]], [[Francisco, Javier]], 
 > [[Sustainability]] (2019)
-> [[biodiversity]], [[unread]], [[land use]], [[irreplaceability]], [[land management parameter]], [[methodology]], [[occupation]], [[proactive]], [[reactive]], [[regionalization]], [[transformation]], [[vulnerability]], [[intro]], [[LCIA]], [[LCA]], 
+> [[biodiversity]], [[unread]], [[land use]], [[irreplaceability]], [[land management parameter]], [[methodology]], [[occupation]], [[proactive]], [[reactive]], [[regionalization]], [[transformation]], [[vulnerability]], [[intro]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://www.mdpi.com/2071-1050/11/7/1841), [Zotero Item](zotero://select/library/items/IFZFQYW9), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KK8DWS98/Maier2019_ConceptualFramework.pdf), 
 
 >[!abstract]-

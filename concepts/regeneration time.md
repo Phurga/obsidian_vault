@@ -8,4 +8,4 @@ tags:
 - 85 years for artificial land use (sealed land such as urban area).
 #todo/refneeded pasture should regenerate faster than arable land because it is already closer to its natural state than a monoculture.
 
-It is used in [[LCA]] to calculate [[habitat transformation|land transformation]] impacts based on [[land use|land occupation]] impacts.
+It is used in [[life cycle assessment]] to calculate [[habitat transformation|land transformation]] impacts based on [[land use|land occupation]] impacts.

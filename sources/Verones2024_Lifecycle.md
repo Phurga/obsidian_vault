@@ -9,7 +9,7 @@ itemKey: B4ABTRCC
 > Life cycle assessment and biodiversity impacts - basics and updates
 > [[Verones, Francesca]], 
 > [[LCN Seminar series]] (2024)
-> [[biodiversity]], [[LCIA]], [[LCA]], 
+> [[biodiversity]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://www.youtube.com/watch?v=g-80BoRrId4), [Zotero Item](zotero://select/library/items/B4ABTRCC), 
 
 # Notes %% begin notes %%

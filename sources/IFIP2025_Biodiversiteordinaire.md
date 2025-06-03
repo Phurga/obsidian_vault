@@ -14,7 +14,7 @@ itemKey: V7EIK5NJ
 
 # Notes %% begin notes %%
 [[biodiversity]]
-[[LCA]]
+[[life cycle assessment]]
 %% end notes %%
 
 

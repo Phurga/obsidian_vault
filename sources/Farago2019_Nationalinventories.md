@@ -9,7 +9,7 @@ itemKey: 82B29WR7
 > National inventories of land occupation and transformation flows in the world for land use impact assessment
 > [[Faragò, Maria]], [[Benini, Lorenzo]], [[Sala, Serenella]], [[Secchi, Michela]], [[Laurent, Alexis]], 
 > [[The International Journal of Life Cycle Assessment]] (2019)
-> [[Environmental Chemistry]], [[LANCA]], [[Life cycle analysis]], [[Normalisation reference]], [[Soil quality indicator]], [[Spatial differentiation]], [[Urban area]], [[LCIA]], [[LCA]], 
+> [[Environmental Chemistry]], [[LANCA]], [[Life cycle analysis]], [[Normalisation reference]], [[Soil quality indicator]], [[Spatial differentiation]], [[Urban area]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-018-01581-8), [Zotero Item](zotero://select/library/items/82B29WR7), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/SSIELWV6/Farago2019_Nationalinventories.pdf), 
 
 >[!abstract]-

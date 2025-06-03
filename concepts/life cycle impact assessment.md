@@ -2,7 +2,6 @@
 tags:
   - concept/definition
 aliases:
-  - life cycle impact assessment
   - characterization factors
   - AOP
   - safeguard subject
@@ -10,15 +9,16 @@ aliases:
   - midpoint
   - impact pathway
   - area of protection
+  - lcia
 ---
-**Life cycle impact assessment** is one of the four stages in the process of performing a [[LCA]]. In that stage, the [[LCI]] is translated into environmental impacts through an **impact pathway**.
+**Life cycle impact assessment (LCIA)** is one of the four stages in the process of performing a [[life cycle assessment]]. In that stage, the [[life cycle inventory]] is translated into environmental impacts through an **impact pathway**.
 # impact pathway
 [[Verones2017_LCIAframework]] (with mention to damage level which I am not confortable with)
 ![[Verones2017_impact_pathway 1.png|600]]
 
 A **characterization factor** links a quantity of a given elementary flow to a quantity of a given environmental impact, measured with a defined indicator. 
 
-In [[LCA]], an **area of protection (AOP)** refers to the ultimate safeguard subject of the study.
+In [[life cycle assessment]], an **area of protection (AOP)** refers to the ultimate safeguard subject of the study.
 
 There are 3 **area of protections** (**AOP**) in conventional LCA:
 - [[ecosystem quality]]

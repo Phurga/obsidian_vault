@@ -9,7 +9,7 @@ itemKey: 7DFF9TQU
 > Marginal and average considerations in LCA and their role for defining emission factors and characterization factors
 > [[Heijungs, Reinout]], 
 > [[The International Journal of Life Cycle Assessment]] (2025)
-> [[Environmental Chemistry]], [[Average data]], [[Average impact]], [[Average process]], [[Linear LCA]], [[Marginal data]], [[Marginal impact]], [[Marginal process]], [[Non-linear LCA]], [[methodology]], [[LCIA]], 
+> [[Environmental Chemistry]], [[Average data]], [[Average impact]], [[Average process]], [[Linear LCA]], [[Marginal data]], [[Marginal impact]], [[Marginal process]], [[Non-linear LCA]], [[methodology]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-025-02430-1), [Zotero Item](zotero://select/library/items/7DFF9TQU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/9ZB6SXI8/Heijungs2025_Marginalaverage.pdf), 
 
 >[!abstract]-

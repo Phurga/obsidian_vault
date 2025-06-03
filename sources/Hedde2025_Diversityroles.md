@@ -9,7 +9,7 @@ itemKey: FJURPEDV
 > Diversity and roles in soil fauna (Diversité et rôles de la faune du sol)
 > [[Hedde, Mickael]], 
 > [[formation ecologie des sols]] (2025)
-> [[biodiversity]], [[soil]], [[earthworms]], [[arthropods]], [[soil microfauna]], [[soil macrofauna]], [[soil mesofauna]], 
+> [[biodiversity]], [[soil]], [[earthworm]], [[arthropods]], [[soil microfauna]], [[soil macrofauna]], [[soil mesofauna]], 
 > [Online link](), [Zotero Item](zotero://select/library/items/FJURPEDV), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/3L7BEGXS/Hedde_Diversiteroles.pdf), 
 
 # Notes %% begin notes %%

@@ -4,7 +4,7 @@ tags:
 aliases:
   - GEP
 ---
-The **global extinction probability (GEP)** is a method used in [[LCA]] to measure [[species extinction risk]], i.e. converting a local or regional [[relative species loss]] (RSL) value into a global RSL value. 
+The **global extinction probability (GEP)** is a method used in [[life cycle assessment]] to measure [[species extinction risk]], i.e. converting a local or regional [[relative species loss]] (RSL) value into a global RSL value. 
 
 It accounts for species distribution, endemism and threat levels, at ecoregion levels.
 For a given RSL in two regions, the region having the most species with the highest threat levels will have higher global RSL than the other.

@@ -8,7 +8,7 @@ tags:
 > Land use impacts on biodiversity in LCA: a global approach
 > [[De Baan, Laura]], [[Alkemade, Rob]], [[Koellner, Thomas]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[Land use]], [[biodiversity]], [[biodiversity]], [[Environmental Chemistry]], [[LCIA]], [[Regionalization]], [[Global characterization factors]], [[BDP]], [[biodiversity damage potential]], 
+> [[Land use]], [[biodiversity]], [[biodiversity]], [[Environmental Chemistry]], [[life cycle impact assessment]], [[Regionalization]], [[Global characterization factors]], [[BDP]], [[biodiversity damage potential]], 
 > [Online link](http://link.springer.com/10.1007/s11367-012-0412-0), [Zotero Item](zotero://select/library/items/UDQBZAXQ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/IRM223KQ/s11367-012-0412-0.pdf), 
 
 

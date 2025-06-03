@@ -12,7 +12,7 @@ The soil aggregated based organisation of soils allow for [[biotope|habitat]] fo
 
 [[clay]] is at the foundation of soil's organo-mineral aggregates, when combined with [[soil organic matter|organic matter]].
 
-Formation of soil aggregate is favoured by the production of [[earthworms]] mucus, and other organic substances providing binding properties.
+Formation of soil aggregate is favoured by the production of [[earthworm]] mucus, and other organic substances providing binding properties.
 
 Smaller aggregates (microaggregates) are increasingly aquatic habitats, hosting most [[microorganism]] (who are then aquatic organisms). This is water is difficult to evaporate, and is an important source of medium term soil humidity.
 

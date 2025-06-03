@@ -7,6 +7,6 @@ aliases:
 [[birds]]
 [[mammals]]
 [[insects]] [[soil arthropod]]
-[[worms]] [[earthworms]] [[nematodes]] 
+[[worms]] [[earthworm]] [[nematode]] 
 [[reptiles]]
 [[amphibious]]

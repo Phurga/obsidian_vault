@@ -9,7 +9,7 @@ itemKey: VGTIVR96
 > Hemeroby as an impact category indicator for the integration of land use into life cycle (impact) assessment
 > [[Fehrenbach, Horst]], [[Grahl, Birgit]], [[Giegrich, Jürgen]], [[Busch, Mirjam]], 
 > [[The International Journal of Life Cycle Assessment]] (2015)
-> [[Land use]], [[Environmental Chemistry]], [[Biological diversity]], [[Characterisation]], [[Distant-to-nature]], [[Hemeroby]], [[Impact assessment]], [[Naturalness]], [[LCA]], 
+> [[Land use]], [[Environmental Chemistry]], [[Biological diversity]], [[Characterisation]], [[Distant-to-nature]], [[Hemeroby]], [[Impact assessment]], [[Naturalness]], [[life cycle assessment]], 
 > [Online link](https://link.springer.com/article/10.1007/s11367-015-0955-y), [Zotero Item](zotero://select/library/items/VGTIVR96), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/2QVZGJW8/s11367-015-0955-y.pdf), 
 
 >[!abstract]-

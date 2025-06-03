@@ -5,5 +5,5 @@ aliases:
   - macrofauna
 ---
 In [[soil biodiversity|soil biodiversity]], the soil **macrofauna** consists of:
-- [[earthworms]]
+- [[earthworm]]
 -  [[soil macroarthropod]], such as [[ant]], [[termite]] and more.

@@ -13,7 +13,7 @@ itemKey: 24YFBJJ8
 > [Online link](), [Zotero Item](zotero://select/library/items/24YFBJJ8), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/RTHZ76SP/Baize2009_Referentielpedologique.pdf), 
 
 # Notes %% begin notes %%
-[[Référentiel pédologique Français]]
+[[Référentiel Pédologique Français]]
 %% end notes %%
 
 

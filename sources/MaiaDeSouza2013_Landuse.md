@@ -9,7 +9,7 @@ itemKey: FB96DLQ2
 > Land use impacts on biodiversity in LCA: proposal of characterization factors based on functional diversity
 > [[Maia De Souza, Danielle]], [[Flynn, Dan F. B.]], [[DeClerck, Fabrice]], [[Rosenbaum, Ralph K.]], [[de Melo Lisboa, Henrique]], [[Koellner, Thomas]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[Land use]], [[biodiversity]], [[Environmental Chemistry]], [[Regionalization]], [[Global characterization factors]], [[functional diversity]], [[Functional diversity]], [[Biodiversity indicator]], [[LCIA]], 
+> [[Land use]], [[biodiversity]], [[Environmental Chemistry]], [[Regionalization]], [[Global characterization factors]], [[functional diversity]], [[Functional diversity]], [[Biodiversity indicator]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-013-0578-0), [Zotero Item](zotero://select/library/items/FB96DLQ2), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/SW73Z6PU/s11367-013-0578-0.pdf), 
 
 >[!abstract]-

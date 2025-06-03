@@ -9,7 +9,7 @@ itemKey: NDLLSHF2
 > Assessment of land use impact on biodiversity
 > [[Michelsen, Ottar]], 
 > [[The International Journal of Life Cycle Assessment]] (2008)
-> [[biodiversity]], [[Biodiversity]], [[Environmental Chemistry]], [[ecoregion]], [[forestry]], [[key factors]], [[land quality]], [[land use impacts]], [[LCIA]], [[LCA]], 
+> [[biodiversity]], [[Biodiversity]], [[Environmental Chemistry]], [[ecoregion]], [[forestry]], [[key factors]], [[land quality]], [[land use impacts]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://doi.org/10.1065/lca2007.04.316), [Zotero Item](zotero://select/library/items/NDLLSHF2), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/JKCQ5CUM/Michelsen2008_Assessmentlanda.pdf), 
 
 >[!abstract]-

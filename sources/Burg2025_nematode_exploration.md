@@ -3,7 +3,7 @@ tags:
   - production/calculation
 ---
 ## Context
-[[nematodes]] are the most abundant taxon for soil animals, currently not covered in existing biodiversity indicators.
+[[nematode]] are the most abundant taxon for soil animals, currently not covered in existing biodiversity indicators.
 nematodes are well studied and there are lots of data points in many global [[biome]] and [[ecoregion]], under several [[land use]], and could lead to the definition of LCA CFs.
 ## Materials
 [files](file:\\\C:\Users\aburg\Documents\calculations\nematode_exploration)

@@ -9,7 +9,7 @@ itemKey: CGTK6MSZ
 > Linking land use inventories to biodiversity impact assessment methods
 > [[Scherer, Laura]], [[De Laurentiis, Valeria]], [[Marques, Alexandra]], [[Michelsen, Ottar]], [[Alejandre, Elizabeth Migoni]], [[Pfister, Stephan]], [[Rosa, Francesca]], [[Rugani, Benedetto]], 
 > [[The International Journal of Life Cycle Assessment]] (2021)
-> [[Environmental Chemistry]], [[land use]], [[lci]], [[land use class]], [[LCIA]], 
+> [[Environmental Chemistry]], [[land use]], [[life cycle inventory]], [[land use class]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-021-02003-y), [Zotero Item](zotero://select/library/items/CGTK6MSZ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LNE3AS5D/Scherer2021_Linkingland.pdf), 
 
 >[!abstract]-

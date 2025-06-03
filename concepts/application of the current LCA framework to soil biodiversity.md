@@ -3,11 +3,11 @@ tags:
   - concept/idea
 ---
 #todo/refactor
-[[soil biodiversity|soil biodiversity]] [[LCA]] [[biodiversity]] 
+[[soil biodiversity|soil biodiversity]] [[life cycle assessment]] [[biodiversity]] 
 [[LCIA method for land use impacts on ecosystem quality]]
 
 opportunities
-- [[nematodes]]: a well-characterized taxon and important indicator of [[soil quality]], to be investigated
+- [[nematode]]: a well-characterized taxon and important indicator of [[soil quality]], to be investigated
 - operational [[metagenomics]] and [[DNA metabarcoding]] methods to list soil [[DNA]]
 - [[biodiversity]] through interactions ([[coocurrence]] networks)
 - differentiation of practices

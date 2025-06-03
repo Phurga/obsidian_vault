@@ -9,7 +9,7 @@ itemKey: I43FW7ZU
 > A spatially explicit data-driven approach to assess the effect of agricultural land occupation on species groups
 > [[Elshout, Pieter M. F.]], [[van Zelm, Rosalie]], [[Karuppiah, Ramkumar]], [[Laurenzi, Ian J.]], [[Huijbregts, Mark A. J.]], 
 > [[The International Journal of Life Cycle Assessment]] (2014)
-> [[Biodiversity]], [[Environmental Chemistry]], [[Species richness]], [[Characterization factor]], [[Crop cultivation]], [[Land occupation]], [[LCIA]], 
+> [[Biodiversity]], [[Environmental Chemistry]], [[Species richness]], [[Characterization factor]], [[Crop cultivation]], [[Land occupation]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-014-0701-x), [Zotero Item](zotero://select/library/items/I43FW7ZU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/EZWN59FU/Elshout2014_spatiallyexplicit.pdf), 
 
 >[!abstract]-

@@ -10,7 +10,7 @@ aliases:
 tags:
   - concept/definition
 ---
-In [[LCA]], impact on [[biodiversity]] is usually measured relative to a **reference situation**. The choice of the reference situation is important and will affect the results.
+In [[life cycle assessment]], impact on [[biodiversity]] is usually measured relative to a **reference situation**. The choice of the reference situation is important and will affect the results.
 
 [[Vrasdonk2019_Referencesituations]] defines different types of reference situations:
 - **reference situation**: any situation against which we can quantitatively compare another situation.

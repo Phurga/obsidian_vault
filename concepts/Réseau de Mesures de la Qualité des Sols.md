@@ -8,13 +8,14 @@ aliases:
 The **Network of soil quality measurements, in French the Réseau de Mesures de la Qualité des Sols (RMQS)** is a French initiative led by the [[GIS Sol]] to collect data on [[soil biodiversity]].
 
 This includes #data on:
-- [[nematodes]]
-- [[earthworms]]
+- [[nematode]]
+- [[earthworm]]
 - [[springtail]]s
 - [[microorganism]]s ([[environmental DNA]])
 
-![[Imbert2021_RMQScomme_methods.png]]
+![[Imbert2021_RMQScomme_methods.png|400]]
 
-There is a classification of results based on [[land use]] (arable land, meadows, forests).
+Results based on [[land use]] (arable land, meadows, forests).
+![[Imbert2021_RMQScomme_results.png|400]]
 
 More information in [[Imbert2021_RMQScomme]].

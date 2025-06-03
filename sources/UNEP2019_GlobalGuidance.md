@@ -13,7 +13,7 @@ itemKey: FJP2ND2X
 > [Online link](https://www.lifecycleinitiative.org/wp-content/uploads/2019/11/UNEP-294-Life-Cycle-2nd-Report_16.pdf), [Zotero Item](zotero://select/library/items/FJP2ND2X), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/7B8CF2WT/UNEP2019_GlobalGuidance.pdf), 
 
 # Notes %% begin notes %% 
-Part of the [[GLAM]]. This is a global guideline for [[LCA]] practicioners and method developers. The 2019 report focused on [[biodiversity]] and required developments.
+Part of the [[GLAM]]. This is a global guideline for [[life cycle assessment]] practicioners and method developers. The 2019 report focused on [[biodiversity]] and required developments.
 
 Focusing here on two chapters: 
 - chapter 6 focuses on land use impacts on soil quality

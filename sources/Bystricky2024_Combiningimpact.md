@@ -9,7 +9,7 @@ itemKey: TDC6IEZS
 > Combining the impact on biodiversity of agricultural management practices at local scale with land use at global scale
 > [[Bystricky, Maria]], [[Jeanneret, Philippe]], 
 > [[87th LCA Discussion Forum]] (2024)
-> [[biodiversity]], [[LCA Discussion Forum]], [[agricultural management practices]], [[agricultural practices]], [[SALCA]], [[LCIA]], 
+> [[biodiversity]], [[LCA Discussion Forum]], [[agricultural management practices]], [[agricultural practices]], [[SALCA]], [[life cycle impact assessment]], 
 > [Online link](https://lca-forum.ch/fileadmin/generic_lib/Resources/Public/Downloads/DF87/5_LCA-DF_Bystricky_SALCA-BD.pdf), [Zotero Item](zotero://select/library/items/TDC6IEZS), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/XXC97KGN/Bystricky_Combiningimpact.pdf), 
 
 # Notes %% begin notes %%

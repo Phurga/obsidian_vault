@@ -9,7 +9,7 @@ itemKey: URM7L2AA
 > Large variations in readily-available phosphorus in casts of eight earthworm species are linked to cast properties
 > [[Vos, Hannah M. J.]], [[Koopmans, Gerwin F.]], [[Beezemer, Lieke]], [[de Goede, Ron G. M.]], [[Hiemstra, Tjisse]], [[van Groenigen, Jan Willem]], 
 > [[Soil Biology and Biochemistry]] (2019)
-> [[Community composition]], [[Earthworms]], [[Phosphorus]], [[Physico-chemical cast properties]], 
+> [[Community composition]], [[earthworm]], [[Phosphorus]], [[Physico-chemical cast properties]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0038071719302470), [Zotero Item](zotero://select/library/items/URM7L2AA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/HXMTPVSA/Vos2019_Largevariationsa.pdf), 
 
 >[!abstract]-

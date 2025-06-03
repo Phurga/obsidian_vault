@@ -15,7 +15,7 @@ itemKey: JSWRZ454
 # Notes %% begin notes %%
 Origin of push for [[relative species loss|potential disappeared fraction of species]] for [[ecosystem quality|ecosystem quality]].
 Mentions an [[intrinsic value of nature]]
-Seems to be annoyed that some [[LCIA]] methods are going straight to endpoints without midpoints. I interpret it as: the real problem is that there is no clear damage pathway (causality between inventory to damage through cause effect mechanisms).
+Seems to be annoyed that some [[life cycle impact assessment]] methods are going straight to endpoints without midpoints. I interpret it as: the real problem is that there is no clear damage pathway (causality between inventory to damage through cause effect mechanisms).
 %% end notes %%
 
 

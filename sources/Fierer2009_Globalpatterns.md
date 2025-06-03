@@ -9,7 +9,7 @@ itemKey: QEXXUUMK
 > Global patterns in belowground communities
 > [[Fierer, Noah]], [[Strickland, Michael S.]], [[Liptzin, Daniel]], [[Bradford, Mark A.]], [[Cleveland, Cory C.]], 
 > [[Ecology Letters]] (2009)
-> [[16S rRNA]], [[Acari]], [[Collembola]], [[nematodes]], [[soil bacteria]], [[soil faunal biomass]], [[soil food webs]], [[soil fungi]], [[soil microbial biomass]], 
+> [[16S rRNA]], [[Acari]], [[Collembola]], [[nematode]], [[soil bacteria]], [[soil faunal biomass]], [[soil food webs]], [[soil fungi]], [[soil microbial biomass]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2009.01360.x), [Zotero Item](zotero://select/library/items/QEXXUUMK), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4YKFL7AK/Ecology%20Letters%20-%202009%20-%20Fierer%20-%20Global%20patterns%20in%20belowground%20communities.pdf), 
 
 >[!abstract]-

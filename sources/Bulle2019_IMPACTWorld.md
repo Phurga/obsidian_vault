@@ -9,7 +9,7 @@ itemKey: 2W22CJG4
 > IMPACT World+: a globally regionalized life cycle impact assessment method
 > [[Bulle, Cécile]], [[Margni, Manuele]], [[Patouillard, Laure]], [[Boulay, Anne-Marie]], [[Bourgault, Guillaume]], [[De Bruille, Vincent]], [[Cao, Viêt]], [[Hauschild, Michael]], [[Henderson, Andrew]], [[Humbert, Sebastien]], [[Kashef-Haghighi, Sormeh]], [[Kounina, Anna]], [[Laurent, Alexis]], [[Levasseur, Annie]], [[Liard, Gladys]], [[Rosenbaum, Ralph K.]], [[Roy, Pierre-Olivier]], [[Shaked, Shanna]], [[Fantke, Peter]], [[Jolliet, Olivier]], 
 > [[The International Journal of Life Cycle Assessment]] (2019)
-> [[Environmental Chemistry]], [[unread]], [[IMPACT World+]], [[Midpoint-damage framework]], [[Regionalized life cycle impact assessment]], [[LCIA]], [[LCA]], 
+> [[Environmental Chemistry]], [[unread]], [[IMPACT World+]], [[Midpoint-damage framework]], [[Regionalized life cycle impact assessment]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://doi.org/10.1007/s11367-019-01583-0), [Zotero Item](zotero://select/library/items/2W22CJG4), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/964RTL67/Bulle2019_IMPACTWorld.pdf), 
 
 >[!abstract]-

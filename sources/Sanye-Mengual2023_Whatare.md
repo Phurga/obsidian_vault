@@ -9,7 +9,7 @@ itemKey: 5N47CGQD
 > What are the main environmental impacts and products contributing to the biodiversity footprint of EU consumption? A comparison of life cycle impact assessment methods and models
 > [[Sanyé-Mengual, Esther]], [[Biganzoli, Fabrizio]], [[Valente, Antonio]], [[Pfister, Stephan]], [[Sala, Serenella]], 
 > [[The International Journal of Life Cycle Assessment]] (2023)
-> [[biodiversity]], [[LCIA]], 
+> [[biodiversity]], [[life cycle impact assessment]], 
 > [Online link](https://link.springer.com/10.1007/s11367-023-02169-7), [Zotero Item](zotero://select/library/items/5N47CGQD), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4RM4D3GL/Sanye-Mengual2023_Whatare.pdf), 
 
 >[!abstract]-

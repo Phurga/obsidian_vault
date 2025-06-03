@@ -6,7 +6,7 @@ aliases:
   - consequential life cycle assessment
   - attributional life cycle assessment
 ---
-**Consequential life cycle assessment** is an alternative to the dominant approach to [[LCA|life cycle assessement]], attributional LCA.
+**Consequential life cycle assessment** is an alternative to the dominant approach to [[life cycle assessment|life cycle assessement]], attributional LCA.
 
 Attributional LCA aims at estimating the impacts of a product based on a value chain responsibility paradigm. If one considers the total impacts of the global economy, attributional LCA will attempt to attribute a share of these impacts to the studied system based on direct relationships with the system (with allocation rules for multifunctional processes). For this reason attributional LCA is widespread in contexts where the goal is to measure and attribute impacts to a product or an organisation, i.e. environmental footprinting.
 Consequential LCA aims at estimating the change in impacts derived from a decision. The decision being for instance the use of a specific (new) product. It would not only consider the production impacts of the product, but also side effects related to the introduction of the product. Important side effects are market effects: increased production of product A might lead to decreased production of product B, or induce rebound effects increasing consumption of A or a third linked product C. For instance in [[Schmidt2015_Lifecycle]], esp. section 2.3.

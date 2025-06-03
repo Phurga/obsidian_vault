@@ -15,7 +15,7 @@ itemKey: D3K4SQJS
 # Notes %% begin notes %%
 [[recipe]] 
 [[Goedkoop2013_ReCiPe2008]]
-[[LCIA]]
+[[life cycle impact assessment]]
 %% end notes %%
 
 

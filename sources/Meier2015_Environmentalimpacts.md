@@ -17,7 +17,7 @@ itemKey: X6HW8J2V
 
 # Notes %% begin notes %%
 additional keywords:
-- [[LCA]]
+- [[life cycle assessment]]
 - [[organic farming]]
 - [[agriculture]]
 

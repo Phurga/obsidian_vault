@@ -3,7 +3,7 @@ tags:
   - concept/definition
 aliases:
 ---
-**LANCA** is a [[LCA]] method to assess [[soil quality]].
+**LANCA** is a [[life cycle assessment]] method to assess [[soil quality]].
 
 >[!warning]
 > Superseded with the [[soil quality index]]

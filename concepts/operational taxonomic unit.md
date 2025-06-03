@@ -11,7 +11,7 @@ A **molecular operational taxonomic unit (MOTU)**, generally called **OTU**^[OTU
 
 The definition of the OTU is determined by the threshold used in similarity calculations (stricter thresholds leads to lower OTU count in a DNA sequence for the same sample), historically 97%, but more optimal thresholds vary depending on the [[marker]] and reach 99%+.
 
-> [!warning] [[Interpretation of OTU results is apparently not straightforward]]
+> [!warning] [[interpreting OTU results is apparently not straightforward]]
 ## history
 OTU: Sokal, R. R., Sneath, P. H. A. 1963. Principles of Numerical Taxonomy. San Francisco : Free man. 359 pp. (33th from [[Vandermeer1972_NicheTheory]])
 

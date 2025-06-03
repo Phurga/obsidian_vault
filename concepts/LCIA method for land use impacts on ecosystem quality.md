@@ -39,10 +39,10 @@ aliases:
 The main driver of [[biodiversity]] loss is [[habitat transformation|habitat loss]], occuring when human tranform natural land for its own benefit (agriculture for food production, forestry for timber production, urban for living space etc).
 
 #todo/draft
-This is a hot topic in [[LCA]]. There is extended litterature on how to account for habitat loss through a LCA compliant [[impact pathway]] "[[elementary flow]]" (EF) > "[[midpoint]]" > "[[endpoint]]" framework ([[Horn2022_LandUse]], [[UNEP2019_GlobalGuidance]], [[Koellner2013_Principleslife]], [[MilaiCanals2007_KeyElements]], [[Koellner2013_UNEPSETACguideline]]).
+This is a hot topic in [[life cycle assessment]]. There is extended litterature on how to account for habitat loss through a LCA compliant [[impact pathway]] "[[elementary flow]]" (EF) > "[[midpoint]]" > "[[endpoint]]" framework ([[Horn2022_LandUse]], [[UNEP2019_GlobalGuidance]], [[Koellner2013_Principleslife]], [[MilaiCanals2007_KeyElements]], [[Koellner2013_UNEPSETACguideline]]).
 
 ## Framework for land use inventories and impacts
-Currently, habitat loss is modeled in [[LCI]] through [[land use elementary flows]] ("land transformation" flows and "land occupation" flows). They represent a change in [[ecosystem quality]] over time and space, leading to biodiversity impacts.
+Currently, habitat loss is modeled in [[life cycle inventory]] through [[land use elementary flows]] ("land transformation" flows and "land occupation" flows). They represent a change in [[ecosystem quality]] over time and space, leading to biodiversity impacts.
 
 ![[Lindner2019_ValuingBiodiversity_land_use_framework.png|600]]
 

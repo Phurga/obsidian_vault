@@ -9,7 +9,7 @@ itemKey: WXA2HJWI
 > ReCiPe 2008, A life cycle impact assessment method which comprises harmonised category indicators at the midpoint and the endpoint level, First edition (version 1.08)
 > [[Goedkoop, Mark]], [[Heijungs, Reinout]], [[Huijbregts, Mark]], 
 > [[]] (2013)
-> [[LCIA]], 
+> [[life cycle impact assessment]], 
 > [Online link](https://www.rivm.nl/sites/default/files/2018-11/ReCiPe%202008_A%20lcia%20method%20which%20comprises%20harmonised%20category%20indicators%20at%20the%20midpoint%20and%20the%20endpoint%20level_First%20edition%20Characterisation.pdf), [Zotero Item](zotero://select/library/items/WXA2HJWI), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/9VWZ6CDL/Goedkoop2013_ReCiPe2008.pdf), 
 
 >[!abstract]-

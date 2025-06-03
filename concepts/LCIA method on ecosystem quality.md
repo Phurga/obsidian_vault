@@ -6,9 +6,9 @@ aliases:
   - biodiversity indicators
   - biodiversity indicator
 ---
-[[LCIA]] method on [[ecosystem quality]]
+[[life cycle impact assessment]] method on [[ecosystem quality]]
 ## pressures
-Quantifying impacts on [[ecosystem quality]] in the [[LCA]] framework requires accounting for the [[main pressures on biodiversity]].
+Quantifying impacts on [[ecosystem quality]] in the [[life cycle assessment]] framework requires accounting for the [[main pressures on biodiversity]].
 
 Habitat transformation is the main driver of biodiversity loss and an active field of methodological development in LCIA.
 

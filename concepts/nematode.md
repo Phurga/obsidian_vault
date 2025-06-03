@@ -1,8 +1,7 @@
 ---
 tags:
   - concept/definition
-aliases:
-  - nematode
+aliases: []
 ---
 **Nematodes** are small, thin worms, of lenght between micrometer to few milimeters (excepted some parasitic in the cms range, but not in soils). 
 They mainly feed on soil's [[microorganism]] ([[fungus]], [[bacteria]], [[protozoae]]) but can also be herbivores, insectivores etc.
@@ -10,17 +9,16 @@ They mainly feed on soil's [[microorganism]] ([[fungus]], [[bacteria]], [[protoz
 A nematode.
 ![[wikipedia_nematode.jpg]]
 
-# Classification
-## [[Phylogenetic]]
-Nematodes are not [[annelids]] (and thus not [[earthworms]]), but have a worm shape. Worm shapes are very common in soils since they provide capacity to move inside soil porosity while allowing for room for internal organs.
+## Classification
+### phylogeny
+Nematodes are not [[earthworm|annelid]]s (and thus not [[earthworm]]), but have a worm shape. Worm shapes are very common in soils since they provide capacity to move inside soil porosity while allowing for room for internal organs.
 [[VanDenHoogen2019_Soilnematode]]
 ![[Trap2025_Nematodes_distribution.png]]
 Nematodes are everywhere (soil, marine, freshwater animal microbiota). On land their are especially abundant in temperate and boreal biomes.. They represent up to [80% of the individual animals on earth]((https://doi.org/10.1038%2Fs41586-019-1418-6)) and [90% of all animals in the ocean floor]((https://doi.org/10.1038%2Fs41586-019-1418-6)) ! Nematodes is a highly diverse taxon (trophic groups, size, mouth morphology).
-
-## [[trophic chain]]
+### trophic chain
 ![[Trap2025_Nematodes_trophic_chain_nematodes.png]]
 
-# Anatomy
+## Anatomy
 Nematode biology is simple: one external membrane containing a cytoplasme under pressure giving shape to the nematode, with muscles, with a digestive system and a reproduction system. No respiratory or circulatory system.
 
 Their mouth have high diversity because it is specialised on the food it eats.
@@ -28,13 +26,13 @@ Their mouth have high diversity because it is specialised on the food it eats.
 Important references:
 [[Trap2025_Soilnematodes]]
 
-# reproduction
+## reproduction
 Reproduction is variable: between 40 and 1000 eggs per cycle, cycle between few days to 1 year.
 Nematodes are slow in soils but can put their eggs on the surface where they will be dispersed via wind.
-# nematodes in the [[ecosystem]]
+## cp groups
 cp groups is a classification of nematodes indicating the maturity/stability of an ecosystem: cp1 is for new ecosystems while cp5 is for steady ecosystems 
 ![[Trap2025_Nematodes_cp_groups.png|600]]
-
+## ecological functions
 Nematodes are known for adverse functions in [[agriculture]] ([[parasite]]s for plants), but they are also important ecosystem members, favouring [[nutrient cycling]], part of the trophic chain ([[carbon transformation]]).
 Nematodes have detrimental effects only when they overshoot a specific density (function of species and ecosystem variables).
 Nematodes can stimulate plants and their exsudates.
@@ -42,6 +40,7 @@ Nematodes can regulate microbes communities (by eating them, or helping them whe
 Nematodes are very [[endemic]] (specific to local conditions).
 Omnivore nematodes are a good indicator of healthy soils.
 Some nematodes were found [[dormancy|dormant]] after decades and even milenia.
+## use in agronomy and indicators
 Nematodes can be used as indicators for soil quality:
 - total nematode [[mean species abundance|species abundance]]
 - abundance per trophic group

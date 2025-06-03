@@ -9,7 +9,7 @@ itemKey: EBS2G4SM
 > Including biodiversity in life cycle assessment – State of the art, gaps and research needs
 > [[Winter, Lisa]], [[Lehmann, Annekatrin]], [[Finogenova, Natalia]], [[Finkbeiner, Matthias]], 
 > [[Environmental Impact Assessment Review]] (2017)
-> [[biodiversity]], [[Biodiversity]], [[Environment]], [[Indicators]], [[Pressures]], [[LCIA]], [[LCA]], 
+> [[biodiversity]], [[Biodiversity]], [[Environment]], [[Indicators]], [[Pressures]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0195925516303389), [Zotero Item](zotero://select/library/items/EBS2G4SM), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KJN5CWZI/Winter2017_Includingbiodiversitya.pdf), 
 
 >[!abstract]-

@@ -18,10 +18,10 @@ Plants use the mineral form - transforming it to an organic form. For instance f
 
 [[DNA]] is a stable phosphorus rich, compound (but there is little DNA per organism) and thus an important P sink. Proteins are rich in nitrogen.
 
-Organisms have a defined [[C to N ratio]], and they tend to look for food that correspond to this ratio. They need to expulse excess nutrients in their excretions to maintain their C to N ratio. This means that organisms eating too rich food will produce rich excrements, food for other organisms. [[earthworms]] turricles are for instance richer than the rest of the soil.
+Organisms have a defined [[C to N ratio]], and they tend to look for food that correspond to this ratio. They need to expulse excess nutrients in their excretions to maintain their C to N ratio. This means that organisms eating too rich food will produce rich excrements, food for other organisms. [[earthworm]] turricles are for instance richer than the rest of the soil.
 
 Example of nitrogen cycling: (N2 > NH3 > NO2 > NO3 > Norg cycle) [[Marsden2025_Introductionsoil]]
 Example of phosphorus cycling: (P rock > HPO4 > phytate > Porg) phytate: P storing molecule for plants (in grain)
 ## biological stimulation
-[[microfauna]] can stimulate the cycling of these nutrients via predation (e.g. [[nematodes]] can increase a lot nutrient availability in soil via their activity).
+[[microfauna]] can stimulate the cycling of these nutrients via predation (e.g. [[nematode]] can increase a lot nutrient availability in soil via their activity).
 There are important concentrations of nutrients in soils, but it is not always available to organisms. Eg for plants, phosphate is not mobile and is only absorbed at the surrounding of roots, leading to important exploration strategies for roots.

@@ -9,7 +9,7 @@ itemKey: LV6MFCU4
 > Biodiversity Impact Assessment Considering Land Use Intensities and Fragmentation
 > [[Scherer, Laura]], [[Rosa, Francesca]], [[Sun, Zhongxiao]], [[Michelsen, Ottar]], [[De Laurentiis, Valeria]], [[Marques, Alexandra]], [[Pfister, Stephan]], [[Verones, Francesca]], [[Kuipers, Koen J. J.]], 
 > [[Environmental Science & Technology]] (2023)
-> [[biodiversity]], [[important]], [[unread]], [[LCIA]], 
+> [[biodiversity]], [[important]], [[unread]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1021/acs.est.3c04191), [Zotero Item](zotero://select/library/items/LV6MFCU4), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/K98INF3F/Scherer2023_BiodiversityImpact.pdf), 
 
 >[!abstract]-

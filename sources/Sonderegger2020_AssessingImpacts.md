@@ -9,7 +9,7 @@ itemKey: 7CAVYET9
 > Assessing Impacts on the Natural Resource Soil in Life Cycle Assessment: Methods for Compaction and Water Erosion
 > [[Sonderegger, Thomas]], [[Pfister, Stephan]], [[Hellweg, Stefanie]], 
 > [[Environmental Science & Technology]] (2020)
-> [[soil quality]], [[characterisation factors]], [[erosion]], [[soil compaction]], [[LCIA]], 
+> [[soil quality]], [[characterisation factors]], [[erosion]], [[soil compaction]], [[life cycle impact assessment]], 
 > [Online link](https://doi.org/10.1021/acs.est.0c01553), [Zotero Item](zotero://select/library/items/7CAVYET9), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/WJPVLC9U/Sonderegger2020_AssessingImpacts.pdf), 
 
 >[!abstract]-

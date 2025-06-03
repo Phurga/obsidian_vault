@@ -9,7 +9,7 @@ itemKey: 73TKCETV
 > Critical review of methods and models for biodiversity impact assessment and their applicability in the LCA context
 > [[Damiani, Mattia]], [[Sinkko, Taija]], [[Caldeira, Carla]], [[Tosches, Davide]], [[Robuchon, Marine]], [[Sala, Serenella]], 
 > [[Environmental Impact Assessment Review]] (2023)
-> [[biodiversity]], [[important]], [[LCIA]], 
+> [[biodiversity]], [[important]], [[life cycle impact assessment]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0195925523001002), [Zotero Item](zotero://select/library/items/73TKCETV), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4NUJG7UF/Damiani2023_Criticalreviewa.pdf), 
 
 >[!abstract]-

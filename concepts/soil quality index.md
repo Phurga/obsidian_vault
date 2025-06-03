@@ -4,7 +4,7 @@ tags:
 aliases:
   - SQI
 ---
-The **soil quality index (SQI)** is a [[LCA]] to account for [[soil quality]].
+The **soil quality index (SQI)** is a [[life cycle assessment]] to account for [[soil quality]].
 
 It is defined in [[DeLaurentiis2019_Soilquality]], building on the previous method [[LANCA]].
 The main outcomes are :

@@ -36,7 +36,7 @@ Le sol comme identité (terroir en viticulture) ^ff63e1
 Sol comme ressource ou comme partenaire (conventionel vs biologique)
 Normes sociales influencant la perception du sol
 
-[[Référentiel pédologique Français]]
+[[Référentiel Pédologique Français]]
 
 Evaluation de la santé des sols par les fonctions ou les degradations
 

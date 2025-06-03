@@ -31,9 +31,9 @@ The concept of **channels** is related to flows of energy, supposedly following 
 ![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png|400]]
 
 This classification was used in [[Cerna2025_Limitspromises]], based on the work done in [[Hedde2022_commonframework]].
-
 ## data
-The Soil Food Web Ontology (SFWO) is a wide database ( #data ) of trophic relationship between soil organisms ([[LeGuillarme2023_SoilFood]]). It can be combined with the classification from [[Calderon-Sanou2022_betterunderstanding]].
+[[Soil Food Web Ontology]]
+[[GLOBI]] ?
 ## general references
 [[FAO2020_Stateknowledge]]
 [[Vincent2022_Soilbiodiversity]]

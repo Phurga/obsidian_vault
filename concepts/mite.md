@@ -7,7 +7,7 @@ aliases:
 
 Mites and springtails are not [[ecosystem engineer]]: they cannot create pores in the soil but only use them as [[biotope|habitat]]. They are classified as [[litter transformer]].
 
-Predatory mites feed of [[nematodes]] and other microarthropods. They in particular eat nematodes that feed on plant roots, and so predatory mites improve plant growth, and are used as [[bioaction]]. Predatory mites generally regulate herbivorous fauna in the [[litter]].
+Predatory mites feed of [[nematode]] and other microarthropods. They in particular eat nematodes that feed on plant roots, and so predatory mites improve plant growth, and are used as [[bioaction]]. Predatory mites generally regulate herbivorous fauna in the [[litter]].
 
 ![[FAO2020_Stateknowledge_mite.png|500]]
 

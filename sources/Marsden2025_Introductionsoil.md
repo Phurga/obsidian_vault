@@ -25,7 +25,7 @@ Overview of soil ecology concepts which will be refined in the other modules of 
 [[soil organic matter availability]]
 [[nutrient cycling]]
 [[dormancy]]
-[[nematodes]]
+[[nematode]]
 [[microbial loop]]
 %% end notes %%
 

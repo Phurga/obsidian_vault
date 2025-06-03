@@ -22,7 +22,7 @@ These classes are usually subclassified depending on [[land use intensity]], for
 
 Some land show heterogeneous patterns and are difficult to classify, or lead to new mixed classes, such as mozaic agriculture, used for agroforestry or landscapes including arable land and hedgerows.
 
->[!warning] Some land use class systems include non used land, such as primary forest or natural land. This is correct for general use but should not appear in any [[LCI]] because by definition, if it appears in the LCI, it is used for human systems. Semi-natural land can appear in LCIs.
+>[!warning] Some land use class systems include non used land, such as primary forest or natural land. This is correct for general use but should not appear in any [[life cycle inventory]] because by definition, if it appears in the LCI, it is used for human systems. Semi-natural land can appear in LCIs.
 ## land cover classes
 Land can also be classified according to its bio-physical coverage rather than its socioeconomic use. In that case, non-used land are classified and we are talking about land cover.
 Land cover classes include:

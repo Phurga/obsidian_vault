@@ -34,7 +34,7 @@ But not all original SOM is respired and a fraction is incorporated into the soi
 **Soil organic matter can be available** to living organisms or not. The available part is also named "**labile**" fraction. It can be absorbed by organisms (microorganisms for instance). A fraction cannot be absorbed, the **stabilized** part, it is surrounded by [[clay]] particles. 
 Some organic compounds are too complex to be metabolized by organisms and are retained in soils for decades.
 
-[[earthworms]] or other [[ecosystem engineer]] can disturb stabilized [[soil organic matter]] pockets, cycling them back to the [[ecosystem]].
+[[earthworm]] or other [[ecosystem engineer]] can disturb stabilized [[soil organic matter]] pockets, cycling them back to the [[ecosystem]].
 # SOM as an indicator
 High SOM concentrations are correlated with positive characteristics of soil quality, see [[LCIA method on soil quality]].
 Outside of LCIA, correlation with generic characteristics include:

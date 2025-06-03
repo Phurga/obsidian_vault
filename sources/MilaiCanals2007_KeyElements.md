@@ -9,7 +9,7 @@ itemKey: WDWVU7NT
 > Key Elements in a Framework for Land Use Impact Assessment Within LCA
 > [[Milà i Canals, Llorenç]], [[Bauer, Christian]], [[Depestele, Jochen]], [[Dubreuil, Alain]], [[Freiermuth Knuchel, Ruth]], [[Gaillard, Gérard]], [[Michelsen, Ottar]], [[Müller-Wenk, Ruedi]], [[Rydgren, Bernt]], 
 > [[The International Journal of Life Cycle Assessment]] (2007)
-> [[soil quality]], [[biodiversity]], [[Environmental Chemistry]], [[important]], [[land use]], [[land quality]], [[land use impacts]], [[bio-geographical differentiation]], [[dynamic reference situation]], [[natural environment]], [[natural resources]], [[site-dependency]], [[LCIA]], [[LCA]], 
+> [[soil quality]], [[biodiversity]], [[Environmental Chemistry]], [[important]], [[land use]], [[land quality]], [[land use impacts]], [[bio-geographical differentiation]], [[dynamic reference situation]], [[natural environment]], [[natural resources]], [[site-dependency]], [[life cycle impact assessment]], [[life cycle assessment]], 
 > [Online link](https://doi.org/10.1065/lca2006.05.250), [Zotero Item](zotero://select/library/items/WDWVU7NT), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/9GISJG7P/MilaICanals2007_KeyElementsa.pdf), 
 
 >[!abstract]-

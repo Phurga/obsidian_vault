@@ -9,7 +9,7 @@ itemKey: 4B7T8AYH
 > Review of impact categories and environmental indicators for life cycle assessment of geotechnical systems
 > [[Raymond, Alena J.]], [[Tipton, James R.]], [[Kendall, Alissa]], [[DeJong, Jason T.]], 
 > [[Journal of Industrial Ecology]] (2020)
-> [[environmental indicator]], [[geotechnical engineering]], [[impact categories]], [[industrial ecology]], [[soil quality]], [[LCA]], 
+> [[environmental indicator]], [[geotechnical engineering]], [[impact categories]], [[industrial ecology]], [[soil quality]], [[life cycle assessment]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12946), [Zotero Item](zotero://select/library/items/4B7T8AYH), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/87BYNVDL/J%20of%20Industrial%20Ecology%20-%202019%20-%20Raymond%20-%20Review%20of%20impact%20categories%20and%20environmental%20indicators%20for%20life%20cycle.pdf), 
 
 >[!abstract]-

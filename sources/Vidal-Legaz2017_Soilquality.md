@@ -9,7 +9,7 @@ itemKey: 435JRW8H
 > Soil quality, properties, and functions in life cycle assessment: an evaluation of models
 > [[Vidal-Legaz, Beatriz]], [[Maia De Souza, Danielle]], [[Teixeira, Ricardo F. M.]], [[Antón, Assumpció]], [[Putman, B.]], [[Sala, Serenella]], 
 > [[Journal of Cleaner Production]] (2017)
-> [[Land use]], [[Midpoint indicators]], [[soil quality]], [[soil functions]], [[important]], [[soil]], [[LCA]], 
+> [[Land use]], [[Midpoint indicators]], [[soil quality]], [[soil functions]], [[important]], [[soil]], [[life cycle assessment]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652616305418), [Zotero Item](zotero://select/library/items/435JRW8H), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/347KMHJL/VidalLegaz2017_Soilquality.pdf), 
 
 >[!abstract]-

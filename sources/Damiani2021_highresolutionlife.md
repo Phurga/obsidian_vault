@@ -9,7 +9,7 @@ itemKey: 645NX5X2
 > A high-resolution life cycle impact assessment model for continental freshwater habitat change due to water consumption
 > [[Damiani, Mattia]], [[Roux, Philippe]], [[Loiseau, Eléonore]], [[Lamouroux, Nicolas]], [[Pella, Hervé]], [[Morel, Maxime]], [[Rosenbaum, Ralph K.]], 
 > [[Science of The Total Environment]] (2021)
-> [[Biodiversity]], [[LCIA]], [[Freshwater habitat]], [[Water consumption]], 
+> [[Biodiversity]], [[life cycle impact assessment]], [[Freshwater habitat]], [[Water consumption]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0048969721017320), [Zotero Item](zotero://select/library/items/645NX5X2), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/3ZHDXRP6/Damiani2021_highresolutionlife.pdf), 
 
 >[!abstract]-

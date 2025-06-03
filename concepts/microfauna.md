@@ -4,5 +4,5 @@ tags:
 aliases:
 ---
 In [[soil biodiversity|soil biodiversity]], the soil **microfauna** consists of:
-- [[nematodes]]
+- [[nematode]]
 - [[protozoae]]

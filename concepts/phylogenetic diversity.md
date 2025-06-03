@@ -5,7 +5,7 @@ aliases:
 tags:
   - concept/definition
 ---
-**Phylogenetic diversity** represents how different [[taxonomy]] are based on their common ancestors. High [[taxonomy|phylogeny]] diversity involves numerous branches in the evolutionary tree with long period of times between branches. It is used in [[LCIA]], see [[loss of years of evolutionary history]].
+**Phylogenetic diversity** represents how different [[taxonomy]] are based on their common ancestors. High [[taxonomy|phylogeny]] diversity involves numerous branches in the evolutionary tree with long period of times between branches. It is used in [[life cycle impact assessment]], see [[loss of years of evolutionary history]].
 
 [[Chaudhary2018_LandUse]]
 > More phylogenetic diversity offers the region both more functional diversity (and so, e.g., more resilience) and more options to respond to a changing world.

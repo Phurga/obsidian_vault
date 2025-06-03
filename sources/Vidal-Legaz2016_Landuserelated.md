@@ -14,7 +14,7 @@ itemKey: IBAZRZBM
 
 # Notes %% begin notes %%
 [[land use]]
-[[LCA]]
+[[life cycle assessment]]
 [[LCIA method for land use impacts on ecosystem quality]]
 %% end notes %%
 
