@@ -16,6 +16,8 @@ eDNA techniques allowed for rapid calculation of species richness for arthropods
 
 eDNA datasets were used in [[deep species distribution model]]s to derive soil organisms abundance maps using[[soil food web#soil multi-trophic classification]] ([[Calderon-Sanou2022_betterunderstanding]] and [[Cerna2025_Limitspromises]]).
 
+there is a temporal variability in soil microbiome, leading to challenges when using eDNA databases that do not sample at the same period of the year ([[ORCHAMP]])
+
 #todo/read [[Orgiazzi2015_Soilbiodiversity]]
 
 #todo/question 

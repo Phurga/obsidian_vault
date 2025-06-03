@@ -1,0 +1,59 @@
+> **Use of indicator species in soil assessment missing**
+Indicator species can reflect the ecological condition of soil systems. They are particularly relevant in land use impact studies, yet are not clearly represented in your current concept framework.
+**Papers developing this insight:**
+- [[Bystricky2024_Combiningimpact]]
+- [[Jeanneret2014_expertsystem]]
+**Link with existing notes:**
+- *(None clearly found)*
+
+> **Taxonomic resolution and uncertainty in soil biodiversity missing**
+Molecular identification methods often result in coarse or uncertain taxonomic data, which impacts modeling and biodiversity assessments. Addressing this is key for robust LCA integration.
+**Papers developing this insight:**
+- [[Jones2021_TaxonomicIdentification]]
+**Link with existing notes:**
+- *(None clearly found)*
+
+> **Microbial diversity and its metrics missing**
+Soil microbial diversity is a foundational aspect of soil health and ecosystem function. It includes bacteria, archaea, and fungi and is typically assessed using molecular techniques (e.g., 16S rRNA, ITS). Despite some concept notes like [[16S rRNA]], the broader implications of microbial metrics are underdeveloped.
+**Papers developing this insight:**
+- [[Anthony2023_Enumeratingsoil]]
+- [[Belaud2024_situsoil]]
+- [[Breznak2000_EcologyProkaryotic]]
+- [[Briones2021_SoilBiodiversity]]
+- [[Burton2022_Landuse]]
+- [[Burton2023_Effectsland]]
+- [[Calderon-Sanou2022_betterunderstanding]]
+- [[Cameron2019_Globalmismatches]]
+- [[Cerna2025_Limitspromises]]
+- [[Cluzeau2012_Integrationbiodiversity]]
+- [[Crowther2019_globalsoil]]
+- [[Dixit2024_Changessoil]]
+- [[FAO2020_Stateknowledge]]
+- [[Gardi2013_estimatepotential]]
+- [[Geisen2019_ChallengesOpportunities]]
+- [[Giller1997_Agriculturalintensification]]
+- [[Guerra2020_Blindspots]]
+- [[Hedde2022_commonframework]]
+- [[Hedde2024_Cropmanagement]]
+- [[Jeffery2010_Europeanatlas]]
+- [[Kibblewhite2007_Soilhealth]]
+- [[Kirse2021_UnearthingPotential]]
+- [[Labouyrie2023_Patternssoil]]
+- [[LeGuillarme2023_SoilFood]]
+- [[Marsden2025_Introductionsoil]]
+- [[Orgiazzi2015_Soilbiodiversity]]
+- [[Orgiazzi2016_Globalsoil]]
+- [[Orgiazzi2016_knowledgebasedapproach]]
+- [[Orgiazzi2022_LUCASSoil]]
+- [[Prosser2015_Dispersingmisconceptions]]
+- [[Ramirez2015_globalplatform]]
+- [[Santellanez-Arreola2025_SoilHealth]]
+- [[Semenov2021_MetabarcodingMetagenomics]]
+- [[Skidmore2022_Mappingrelative]]
+- [[Skidmore2025_eDNAbiodiversity]]
+- [[Thakur2020_integrativeunderstanding]]
+- [[Tsiafouli2015_Intensiveagriculture]]
+- [[Vincent2022_Soilbiodiversity]]
+- [[Zhou2020_Metaanalysisimpacts]]
+**Link with existing notes:**
+- [[16S rRNA]]

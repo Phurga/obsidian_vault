@@ -24,7 +24,7 @@ Extended documentation on effects of perturbations of environmental conditions (
 > We propose guidelines for environmental policy actions and argue that taxonomical and functional diversity should be considered simultaneously for monitoring purposes.
 
 Use of [[beta diversity]] as indicator for community structure.
-Use of [[shannon index]] as indicator for diversity (but i seems it is better suited with eveness)
+Use of [[shannon index]] as indicator for diversity (but it seems it is better suited with eveness)
 
 Finds an increase in microbial richness in managed land vs in natural land (forests).
 > Higher microbial richness and diversity in croplands and grassland compared to woodlands might result from increased niche availability at the local scale due to either soil perturbation or the presence of a heterogeneous environment with different plant species (e.g. in grasslands or when different crops are rotated in arable and vegetable fields).
@@ -41,7 +41,7 @@ Finds an increase in microbial richness in managed land vs in natural land (fore
 > The functional traits databases FAPROTAX[96](https://www.nature.com/articles/s41467-023-37937-4#ref-CR96 "Louca, S., Parfrey, L. W. & Doebeli, M. Decoupling function and taxonomy in the global ocean microbiome. Science 353, 1272–1277 (2016).") and FungalTraits[97](https://www.nature.com/articles/s41467-023-37937-4#ref-CR97 "Põlme, S. et al. FungalTraits: a user-friendly traits database of fungi and fungus-like stramenopiles. Fungal Diversity 105, 1–16 (2020).") were used to associate potential functions to bacterial zOTUs and fungal OTUs based on their taxonomy. Taxonomically unannotated bacterial zOTUs and fungal OTUs were not associated to any function and left as unknowns. For bacteria, FAPROTAX confidently associates a function to zOTUs identified at family, genus or species levels (i.e. a zOTU identified down to the order level is usually ignored by FAPROTAX, see the _Instructions_ section on [http://www.loucalab.com](http://www.loucalab.com)). For fungi, as described in Tedersoo et al.[7](https://www.nature.com/articles/s41467-023-37937-4#ref-CR7 "Hunt, H. W. & Wall, D. H. Modelling the effects of loss of soil biodiversity on ecosystem function: BIODIVERSITY and ECOSYSTEM FUNCTION. Glob. Change Biol. 8, 33–50 (2002)."), functional annotation of OTUs was performed at the level of genera for most fungal guilds.
 
 #data https://www.ncbi.nlm.nih.gov/sra?LinkName=bioproject_sra_all&from_uid=952168
-# References
+## References
 [[Tsiafouli2015_Intensiveagriculture]]
 [[Gardi2013_estimatepotential]]
 

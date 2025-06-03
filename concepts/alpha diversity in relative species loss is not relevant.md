@@ -8,3 +8,8 @@ Several LCIA methods have been developped to account for this loss of species ([
 
 1. One method is to use a collection of species inventories, compiling these inventories to derive average alpha richness values associated to a given land occupation (land use class and geographical location). Land occupation characterization factors are then derived comparing this value to a reference value (usually, the value of the local natural counterfactual state ([[Vrasdonk2019_Referencesituations]]). This method is for instance used in [[DeBaan2013_Landuse]].
 2. The other method is based on the species-area relationship.
+
+## handles
+[[relative species loss]]
+[[alpha diversity]]
+[[species richness]]

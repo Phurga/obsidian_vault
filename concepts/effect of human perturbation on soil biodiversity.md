@@ -3,6 +3,7 @@ tags:
   - concept/idea
 aliases:
 ---
+In LCA, impact on ecosystem quality is considered through the metric relative species loss. This metric is calculated using the species-area relationship.
 ## favorable
 Human use land as a resource and modify the natural environment to increase the value of this resource. These modications lead to the destruction of some [[biotope|ecological niches]], and the creation of others. There is usually a net destruction of niches since human favour specialisation, hence homogeneisation of the environment.
 

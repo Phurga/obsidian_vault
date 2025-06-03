@@ -150,13 +150,13 @@ In LCA, the most widely used indicator is:
 
 ## 🔷 3. Candidate Indicators for Your CFs (Ranked)
 
-|Candidate Indicator|Ecological Relevance|Data Availability (via eDNA)|LCA Compatibility|Comment|
-||||||
-|**Multitrophic Gene Diversity** (e.g. ASV richness across bacteria, fungi, invertebrates)|✅✅|✅✅|✅|Strong eDNA fit, can calculate PDF-like metrics|
-|**Functional Group Richness** (annotated from taxonomy)|✅✅✅|✅|✅|Ecologically strong; depends on functional assignment databases|
-|**Shannon Diversity Index (per group)**|✅|✅✅|✅|Use with care; needs contextualization|
-|**Soil Function Proxy (e.g. decomposition rate)**|✅✅✅|❌|❌|Good for validation, not ideal as CF input|
-|**Indicator Taxa Abundance or Presence** (e.g. earthworms, AMF)|✅✅|✅|✅|Might be simple, but narrow scope|
+| Candidate Indicator                                                                       | Ecological Relevance | Data Availability (via eDNA) | LCA Compatibility | Comment                                                         |
+| ----------------------------------------------------------------------------------------- | -------------------- | ---------------------------- | ----------------- | --------------------------------------------------------------- |
+| **Multitrophic Gene Diversity** (e.g. ASV richness across bacteria, fungi, invertebrates) | ✅✅                   | ✅✅                           | ✅                 | Strong eDNA fit, can calculate PDF-like metrics                 |
+| **Functional Group Richness** (annotated from taxonomy)                                   | ✅✅✅                  | ✅                            | ✅                 | Ecologically strong; depends on functional assignment databases |
+| **Shannon Diversity Index (per group)**                                                   | ✅                    | ✅✅                           | ✅                 | Use with care; needs contextualization                          |
+| **Soil Function Proxy (e.g. decomposition rate)**                                         | ✅✅✅                  | ❌                            | ❌                 | Good for validation, not ideal as CF input                      |
+| **Indicator Taxa Abundance or Presence** (e.g. -earthworms, AMF)                          | ✅✅                   | ✅                            | ✅                 | Might be simple, but narrow scope                               |
 
 
 
