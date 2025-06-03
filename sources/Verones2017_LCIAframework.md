@@ -13,10 +13,20 @@ itemKey: JSWRZ454
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652617311587), [Zotero Item](zotero://select/library/items/JSWRZ454), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/3QX2SPSR/Verones2017_LCIAframework.pdf), 
 
 # Notes %% begin notes %%
+[[ecosystem quality]] and [[intrinsic value of nature]]
+>The area of protection “Ecosystem Quality” deals with damages on the intrinsic value of natural ecosystems; to date, most models focus on compositional attributes of biodiversity only, such as species richness (e.g. [Goedkoop et al., 2009](https://www.sciencedirect.com/science/article/pii/S0959652617311587?via%3Dihub#bib24), [Curran et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959652617311587?via%3Dihub#bib14), [Teixeira, 2016](https://www.sciencedirect.com/science/article/pii/S0959652617311587?via%3Dihub#bib64)).
+
+^d66dba
+
+[[alpha diversity in relative species loss is not relevant]]
+>the currently-used PDFs only seemingly represent a single metric, while representing sometimes (widely) different meanings, e.g., when they have been derived from models based on data from different scales (local, regional, global) or from effects data on different species groups for different stressors (discussed in [Curran et al. (2011)](https://www.sciencedirect.com/science/article/pii/S0959652617311587?via%3Dihub#bib13)).
+
+^105c8f
+
 Origin of push for [[relative species loss|potential disappeared fraction of species]] for [[ecosystem quality|ecosystem quality]].
 Mentions an [[intrinsic value of nature]]
 Seems to be annoyed that some [[life cycle impact assessment]] methods are going straight to endpoints without midpoints. I interpret it as: the real problem is that there is no clear damage pathway (causality between inventory to damage through cause effect mechanisms).
-%% end notes %%
+%% end notes %% 
 
 
 

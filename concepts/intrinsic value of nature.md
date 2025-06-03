@@ -3,7 +3,15 @@ tags:
   - concept/definition
 aliases:
 ---
-Some authors mention an intrinsic value of nature, that would not be affected by human considerations and utilitarian aspects. Valuing nature for what it is, rather than for what it provides us, would be a goal in "pure" study of biodiversity.
+objectivist vision: value in nature especially in species due to heritage in evolutionary process (natural historical value) or inherent value
+subjectivist vision: anthropogenic value although not anthropocentric
+
+There are three school of thought:
+- the subjectivist vision, considering 
+- the objectivist vision of intrinsic value 
+
+importance in LCA: 
+![[Verones2017_LCIAframework#^d66dba]]
 
 >[!warning] opinion
 > I cannot conceptualize intrinsic value of things, assuming that nature has a value beyond our relationship with it (i.e. we give it value). For nature, I believe that the intrinsic value of nature is only beyond materialistic valuing of nature, a mixture of cultural and spiritual value.

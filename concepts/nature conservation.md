@@ -2,10 +2,12 @@
 tags:
   - concept/definition
 aliases:
+  - nature preservation
+  - conservationism
+  - nature protection
+  - conservation biology
 ---
-**Nature conservation** is a form of [[environmental ethics]] based on the respect and valuation of nature for what it is ([[intrinsic value of nature]]) and what is provides humans. It can be multidimensional.
+**Nature conservation** is a form of [[environmental ethics]] based on biocentrism the respect and valuation of nature for what it is ([[intrinsic value of nature]]) and what it provides humans. It can be multidimensional.
 
-[[Depraz2013_Notionproteger]]
-![[Depraz2013_Notionproteger_protection_nature.png|600]]
-
-![[Godet2017_Notiondebat#^4498dc]]
+>[!warning] translation
+>in french, conservationism is better translated 'préservationisme' as shown below
