@@ -3,7 +3,7 @@
   display: none;
 }
 
-.markdown-embed::before { 
+.markdown-embed::after { 
     content: attr(alt);
     font-size: 0.9em; 
     font-weight: bold; 

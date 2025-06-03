@@ -49,7 +49,7 @@ Species diversity can be measured at different spatial scales:
 - [[gamma diversity]] corresponds to the total species richness found in a region, e.g. an ecoregion or a country making this value the most representative of species richness when communicating results and using values for [[life cycle assessment]]. It is difficult to measure empirically and is generally the result of an extrapolation using a model, such as [[species distribution model]]s or the [[species-area relationship]].
 
 >[!warning] should you use alpha or gamma diversity ?
->[[effect of human perturbation on soil biodiversity]]
+>[[impacts of land use on biodiversity]]
 
 >[!quote] References
 [[Godet2017_Notiondebat]]

@@ -136,17 +136,10 @@ In LCA, the most widely used indicator is:
     
 
 ### 2.5. **Multitrophic Diversity Indices**
-
 - What: Aggregate richness or functional diversity across several groups (e.g. bacteria + fungi + nematodes).
-    
 - ✅ Captures broad community-level effects of land use.
-    
 - ❌ Requires consistent sampling and marker coverage across groups.
-    
 - ✅ Can be done from single eDNA sample with multiple primers.
-    
-
-
 
 ## 🔷 3. Candidate Indicators for Your CFs (Ranked)
 

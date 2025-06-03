@@ -30,4 +30,4 @@ Land management practices used in [[agriculture]]:
 - field grazing
 - residue management, such as composting
 ### see also
-[[effect of land management practices on soil biodiversity]]
+[[impacts of land use on biodiversity]]

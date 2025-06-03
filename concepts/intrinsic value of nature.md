@@ -19,6 +19,10 @@ There is a materialistic "use value" of nature, which we want to capture and mea
 ![[deBenoist2004_naturesa#^a0790e]]
 
 See:
+- [[Sandler2012_IntrinsicValue]]
+- [[Rea2017_valuenature]]
+- [[Piccolo2017_Intrinsicvalues]]
+- [[Himes2024_Whynature]]
 - [[Ness, Arne]] (philosopher on [[deep ecology]])
 - [wikipedia](https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)#Total_intrinsic_value)
 - [reddit](https://www.reddit.com/r/askphilosophy/comments/1416hlc/how_could_there_ever_been_such_a_thing_as_an/)

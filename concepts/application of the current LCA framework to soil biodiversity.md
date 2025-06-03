@@ -19,7 +19,7 @@ challenges
 - remanent dna in soil: does not indicate living or dead species (high risk of dead dna for several years)
 	- recrossing with [[RNA]]?
 - [[dormancy]]: problem identifying the disappearance of a species?
-- homogenization of communities (e.g. earthworms) linked to [[effect of human perturbation on soil biodiversity|homogeneisation of landscapes]]: gamma biodiversity out of scope?
+- homogenization of communities (e.g. earthworms) linked to [[impacts of land use on biodiversity|homogeneisation of landscapes]]: gamma biodiversity out of scope?
 - concept of [[taxonomy]] complicated for [[bacteria]]
 - concept of individual (and therefore [[mean species abundance|species abundance]]) complicated for bacteria (colonies) and especially [[fungus]] (decentralization of the organism, one dna can be shared by several mycelia)
 - take [[rhizosphere|roots]] into account?

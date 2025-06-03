@@ -9,7 +9,7 @@ itemKey: FLTJ23CP
 > The ethical foundations of biodiversity metrics
 > [[Nobles, Eliza C]], 
 > [[Current Opinion in Environmental Sustainability]] (2025)
-> [[biodiversity]], [[intrinsinc value of nature]], [[ethics]], 
+> [[biodiversity]], [[intrinsic value of nature]], [[ethics]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S1877343524000903), [Zotero Item](zotero://select/library/items/FLTJ23CP), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/Z2F4C58W/Nobles2025_ethicalfoundations.pdf), 
 
 # Notes %% begin notes %%
