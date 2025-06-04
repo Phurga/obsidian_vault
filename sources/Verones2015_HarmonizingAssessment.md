@@ -8,7 +8,7 @@ itemKey: 946XBCAU
 >[!metadata]+
 > Harmonizing the Assessment of Biodiversity Effects from Land and Water Use within LCA
 > [[Verones, Francesca]], [[Huijbregts, Mark A. J.]], [[Chaudhary, Abhishek]], [[de Baan, Laura]], [[Koellner, Thomas]], [[Hellweg, Stefanie]], 
-> [[Environmental Science & Technology]] (2015)
+> [[Environmental Science & Technology (journal)]] (2015)
 > [[biodiversity]], 
 > [Online link](https://doi.org/10.1021/es504995r), [Zotero Item](zotero://select/library/items/946XBCAU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/NNP6WPME/Verones2015_HarmonizingAssessment.pdf), 
 

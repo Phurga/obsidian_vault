@@ -8,7 +8,7 @@ itemKey: 4UMFL43Z
 >[!metadata]+
 > Global land use changes are four times greater than previously estimated
 > [[Winkler, Karina]], [[Fuchs, Richard]], [[Rounsevell, Mark]], [[Herold, Martin]], 
-> [[Nature Communications]] (2021)
+> [[Nature Communications (journal)]] (2021)
 > [[Agriculture]], [[Climate-change mitigation]], [[Environmental impact]], [[Geography]], 
 > [Online link](https://www.nature.com/articles/s41467-021-22702-2), [Zotero Item](zotero://select/library/items/4UMFL43Z), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/VDWIFU8G/Winkler2021_Globalland.pdf), 
 

@@ -8,7 +8,7 @@ itemKey: LVXIX59J
 >[!metadata]+
 > Global Biodiversity Conservation Priorities
 > [[Brooks, T. M.]], [[Mittermeier, R. A.]], [[da Fonseca, G. A. B.]], [[Gerlach, J.]], [[Hoffmann, M.]], [[Lamoreux, J. F.]], [[Mittermeier, C. G.]], [[Pilgrim, J. D.]], [[Rodrigues, A. S. L.]], 
-> [[Science]] (2006)
+> [[Science (journal)]] (2006)
 > [[biodiversity]], 
 > [Online link](https://www.science.org/doi/10.1126/science.1127609), [Zotero Item](zotero://select/library/items/LVXIX59J), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/U6P8PP5B/science.1127609.pdf), 
 

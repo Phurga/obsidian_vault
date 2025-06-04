@@ -8,7 +8,7 @@ itemKey: CJWSWXJR
 >[!metadata]+
 > Land cover change or land-use intensification: simulating land system change with a global-scale land change model
 > [[van Asselen, Sanneke]], [[Verburg, Peter H.]], 
-> [[Global Change Biology]] (2013)
+> [[Global Change Biology (journal)]] (2013)
 > [[agricultural intensification]], [[global model]], [[integrated assessment models]], [[land change]], [[land systems]], [[livestock]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12331), [Zotero Item](zotero://select/library/items/CJWSWXJR), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/3QUNPVMD/vanAsselen2013_Landcover.pdf), 
 

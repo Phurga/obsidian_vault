@@ -8,7 +8,7 @@ itemKey: AZHKUJW3
 >[!metadata]+
 > Micro- and nanoplastics in soil: Linking sources to damage on soil ecosystem services in life cycle assessment
 > [[Li, Tong]], [[Cui, Lizhen]], [[Xu, Zhihong]], [[Liu, Hongdou]], [[Cui, Xiaoyong]], [[Fantke, Peter]], 
-> [[Science of The Total Environment]] (2023)
+> [[Science of The Total Environment (journal)]] (2023)
 > [[soil]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S004896972305550X), [Zotero Item](zotero://select/library/items/AZHKUJW3), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/V4QZDGDF/Li2023_Micronanoplastics.pdf), 
 

@@ -8,7 +8,7 @@ itemKey: SN4CUW8H
 >[!metadata]+
 > Correlation between Fitness and Genetic Diversity
 > [[Reed, David H.]], [[Frankham, Richard]], 
-> [[Conservation Biology]] (2003)
+> [[Conservation Biology (journal)]] (2003)
 > [[biodiversity]], [[genetic diversity]], 
 > [Online link](https://conbio.onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.2003.01236.x), [Zotero Item](zotero://select/library/items/SN4CUW8H), 
 

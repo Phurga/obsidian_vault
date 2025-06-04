@@ -8,7 +8,7 @@ itemKey: EAG5D9A3
 >[!metadata]+
 > A Matrix-Calibrated Species-Area Model for Predicting Biodiversity Losses Due to Land-Use Change
 > [[Koh, Lian Pin]], [[Ghazoul, Jaboury]], 
-> [[Conservation Biology]] (2010)
+> [[Conservation Biology (journal)]] (2010)
 > [[biodiversity]], [[agriculture]], [[biodiversity crisis]], [[countryside biogeography]], [[equilibrium theory]], [[forest regeneration]], [[modelo de poder]], [[power model]], [[reconciliation ecology]], [[secondary succession]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1523-1739.2010.01464.x), [Zotero Item](zotero://select/library/items/EAG5D9A3), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/DGG8EQVE/Koh2010_MatrixCalibratedSpeciesArea.pdf), 
 

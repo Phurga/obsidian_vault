@@ -8,7 +8,7 @@ itemKey: QRLTFXFZ
 >[!metadata]+
 > Mapping ecosystem service supply, demand and budgets
 > [[Burkhard, Benjamin]], [[Kroll, Franziska]], [[Nedkov, Stoyan]], [[Müller, Felix]], 
-> [[Ecological Indicators]] (2012)
+> [[Ecological Indicators (journal)]] (2012)
 > 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S1470160X11001907), [Zotero Item](zotero://select/library/items/QRLTFXFZ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KJ4K7HHP/Burkhard2012_Mappingecosystema.pdf), 
 

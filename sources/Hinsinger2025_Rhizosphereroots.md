@@ -9,7 +9,7 @@ itemKey: XTPG869U
 > Rhizosphere - roots and symbiosis (Rhizosphère – Racines et Symbioses)
 > [[Hinsinger, Philippe]], 
 > [[formation ecologie des sols]] (2025)
-> [[soil]], [[mycorrhiza]], [[ecology]], [[rhizosphere]], 
+> [[soil]], [[mycorrhiza]], [[Ecology (journal)]], [[rhizosphere]], 
 > [Online link](), [Zotero Item](zotero://select/library/items/XTPG869U), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/C7RJ54LL/Hinsinger_RhizosphereRacines.pdf), 
 
 # Notes %% begin notes %%

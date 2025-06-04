@@ -2,13 +2,22 @@
 tags:
   - concept/definition
 aliases:
+  - intrinsic value
 ---
+It is debatted whereas **nature has intrinsic value**. This is a question related to [[environmental ethics]]: considering an intrinsic value of nature involves a [[environmental ethics|non-anthropocentric]] moral.
+
 objectivist vision: value in nature especially in species due to heritage in evolutionary process (natural historical value) or inherent value
 subjectivist vision: anthropogenic value although not anthropocentric
 
 There are three school of thought:
 - the subjectivist vision, considering 
 - the objectivist vision of intrinsic value 
+
+Important reference for debates:
+[[Himes2024_Whynature]] for [[IPBES]]
+## quantification of the intrinsic value of nature
+Besides acknowleding the existence of intrinsic value or of the intrinsic value of nature, an additional challenges arises when one is tempted to quantify this value.
+![[Debarre2025_RevampingLCIA#^4ca4cc]]
 
 importance in LCA: 
 ![[Verones2017_LCIAframework#^d66dba]]

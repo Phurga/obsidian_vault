@@ -7,4 +7,5 @@ aliases:
 
 Genetic diversity is important to ecosystems for two main reasons: the necessity of genetic diversity for evolution to occur (evolutionary potential), and the expected relationship between heterozygosity and population fitness ([[Reed2003_CorrelationFitness]], [[Soule1985_WhatConservation#^4d3f94]]).
 # Indicators
-Indicator for genetic diversity, targetting at evolutionary potential, based on [[Kunming-Montreal Global Biodiversity Framework|GBF]]: [[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]].
+Indicator for genetic diversity, targetting at evolutionary potential, based on [[Kunming-Montreal Global Biodiversity Framework|GBF]]:
+[[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]].

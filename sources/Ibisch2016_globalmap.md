@@ -8,7 +8,7 @@ itemKey: P7Y5VL45
 >[!metadata]+
 > A global map of roadless areas and their conservation status
 > [[Ibisch, Pierre L.]], [[Hoffmann, Monika T.]], [[Kreft, Stefan]], [[Pe’er, Guy]], [[Kati, Vassiliki]], [[Biber-Freudenberger, Lisa]], [[DellaSala, Dominick A.]], [[Vale, Mariana M.]], [[Hobson, Peter R.]], [[Selva, Nuria]], 
-> [[Science]] (2016)
+> [[Science (journal)]] (2016)
 > 
 > [Online link](https://www.science.org/doi/10.1126/science.aaf7166), [Zotero Item](zotero://select/library/items/P7Y5VL45), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4TK3QWZE/Ibisch2016_globalmapa.pdf), 
 

@@ -8,7 +8,7 @@ itemKey: X5PXT2BX
 >[!metadata]+
 > Planetary boundaries: Guiding human development on a changing planet
 > [[Steffen, Will]], [[Richardson, Katherine]], [[Rockström, Johan]], [[Cornell, Sarah E.]], [[Fetzer, Ingo]], [[Bennett, Elena M.]], [[Biggs, Reinette]], [[Carpenter, Stephen R.]], [[de Vries, Wim]], [[de Wit, Cynthia A.]], [[Folke, Carl]], [[Gerten, Dieter]], [[Heinke, Jens]], [[Mace, Georgina M.]], [[Persson, Linn M.]], [[Ramanathan, Veerabhadran]], [[Reyers, Belinda]], [[Sörlin, Sverker]], 
-> [[Science]] (2015)
+> [[Science (journal)]] (2015)
 > [[planetary boundaries]], 
 > [Online link](https://www.science.org/doi/10.1126/science.1259855), [Zotero Item](zotero://select/library/items/X5PXT2BX), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/AY7GGIY3/Steffen2015_Planetaryboundaries.pdf), 
 

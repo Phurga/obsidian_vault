@@ -8,7 +8,7 @@ itemKey: WQHQLV4Y
 >[!metadata]+
 > A predictive indicator assessing effect of cropping system and surrounding landscape on biodiversity
 > [[Soulé, Emma]], [[Hawes, Cathy]], [[Young, Mark]], [[Henckel, Laura]], [[Michel, Nadia]], [[Michonneau, Philippe]], [[Bockstaller, Christian]], 
-> [[Ecological Indicators]] (2023)
+> [[Ecological Indicators (journal)]] (2023)
 > [[biodiversity]], [[Biodiversity]], [[Agricultural system]], [[Assessment]], [[Impact]], [[Indicator]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S1470160X23004314), [Zotero Item](zotero://select/library/items/WQHQLV4Y), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/EDM4MYUP/Soule2023_predictiveindicator.pdf), 
 

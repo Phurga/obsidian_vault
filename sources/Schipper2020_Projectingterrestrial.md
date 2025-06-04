@@ -8,7 +8,7 @@ itemKey: 4EVRDSPP
 >[!metadata]+
 > Projecting terrestrial biodiversity intactness with GLOBIO 4
 > [[Schipper, Aafke M.]], [[Hilbers, Jelle P.]], [[Meijer, Johan R.]], [[Antão, Laura H.]], [[Benítez-López, Ana]], [[de Jonge, Melinda M. J.]], [[Leemans, Luuk H.]], [[Scheper, Eddy]], [[Alkemade, Rob]], [[Doelman, Jonathan C.]], [[Mylius, Sido]], [[Stehfest, Elke]], [[van Vuuren, Detlef P.]], [[van Zeist, Willem-Jan]], [[Huijbregts, Mark A. J.]], 
-> [[Global Change Biology]] (2020)
+> [[Global Change Biology (journal)]] (2020)
 > [[biodiversity]], [[important]], [[GLOBIO]], [[anthropocene]], [[biodiversity scenarios]], [[global environmental change]], [[GLOBIO 4]], [[land-use downscaling]], [[mean species abundance]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14848), [Zotero Item](zotero://select/library/items/4EVRDSPP), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/GID5NZM4/Schipper2020_Projectingterrestrial.pdf), 
 

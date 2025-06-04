@@ -8,7 +8,7 @@ itemKey: 3U5E4S96
 >[!metadata]+
 > Functional richness, functional evenness and functional divergence: the primary components of functional diversity
 > [[Mason, Norman W. H.]], [[Mouillot, David]], [[Lee, William G.]], [[Wilson, J. Bastow]], 
-> [[Oikos]] (2005)
+> [[Oikos (journal)]] (2005)
 > [[important]], [[functional diversity]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0030-1299.2005.13886.x), [Zotero Item](zotero://select/library/items/3U5E4S96), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/DRINFJ2M/Mason2005_Functionalrichnessa.pdf), 
 

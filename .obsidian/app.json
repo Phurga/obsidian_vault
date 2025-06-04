@@ -8,5 +8,6 @@
   "promptDelete": false,
   "showInlineTitle": true,
   "readableLineLength": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": false
 }

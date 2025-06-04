@@ -8,7 +8,7 @@ itemKey: UHNT785F
 >[!metadata]+
 > Indicators for Monitoring Biodiversity: A Hierarchical Approach
 > [[Noss, Reed F.]], 
-> [[Conservation Biology]] (1990)
+> [[Conservation Biology (journal)]] (1990)
 > [[biodiversity]], [[important]], 
 > [Online link](https://conbio.onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.1990.tb00309.x), [Zotero Item](zotero://select/library/items/UHNT785F), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YP4FZD6M/Noss1990_IndicatorsMonitoring.pdf), 
 

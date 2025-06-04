@@ -8,7 +8,7 @@ itemKey: JYLL2YLU
 >[!metadata]+
 > Toward a global platform for linking soil biodiversity data
 > [[Ramirez, Kelly S.]], [[Döring, Markus]], [[Eisenhauer, Nico]], [[Gardi, Ciro]], [[Ladau, Josh]], [[Leff, Jonathan W.]], [[Lentendu, Guillaume]], [[Lindo, Zoë]], [[Rillig, Matthias C.]], [[Russell, David]], [[Scheu, Stefan]], [[St. John, Mark G.]], [[de Vries, Franciska T.]], [[Wubet, Tesfaye]], [[van der Putten, Wim H.]], [[Wall, Diana H.]], 
-> [[Frontiers in Ecology and Evolution]] (2015)
+> [[Frontiers in Ecology and Evolution (journal)]] (2015)
 > [[biodiversity]], [[soil]], [[soil ecology]], [[Belowground biodiversity]], [[biogeography]], [[Data synthesis]], [[ecological theory]], [[sequence data]], [[Taxonomy]], 
 > [Online link](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2015.00091/full), [Zotero Item](zotero://select/library/items/JYLL2YLU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/ATWK3X7R/Ramirez2015_globalplatform.pdf), 
 

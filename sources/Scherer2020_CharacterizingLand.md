@@ -8,7 +8,7 @@ itemKey: 9HGWJUUN
 >[!metadata]+
 > Characterizing Land Use Impacts on Functional Plant Diversity for Life Cycle Assessments
 > [[Scherer, Laura]], [[van Baren, Sven A.]], [[van Bodegom, Peter M.]], 
-> [[Environmental Science & Technology]] (2020)
+> [[Environmental Science & Technology (journal)]] (2020)
 > [[important]], [[functional diversity]], 
 > [Online link](https://doi.org/10.1021/acs.est.9b07228), [Zotero Item](zotero://select/library/items/9HGWJUUN), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/R2NNHP35/Scherer2020_CharacterizingLand.pdf), 
 

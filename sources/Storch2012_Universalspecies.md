@@ -8,7 +8,7 @@ itemKey: 4YH985VA
 >[!metadata]+
 > Universal species–area and endemics–area relationships at continental scales
 > [[Storch, David]], [[Keil, Petr]], [[Jetz, Walter]], 
-> [[Nature]] (2012)
+> [[Nature (journal)]] (2012)
 > [[Macroecology]], [[habitat suitability modeling]], [[species area relationship]], [[data]], [[z-values]], 
 > [Online link](https://www.nature.com/articles/nature11226), [Zotero Item](zotero://select/library/items/4YH985VA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KI45QZVR/Storch2012_Universalspecies.pdf), 
 

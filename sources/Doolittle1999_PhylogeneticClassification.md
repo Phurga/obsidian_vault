@@ -8,7 +8,7 @@ itemKey: U9FWNPD8
 >[!metadata]+
 > Phylogenetic Classification and the Universal Tree
 > [[Doolittle, W. Ford]], 
-> [[Science]] (1999)
+> [[Science (journal)]] (1999)
 > [[phylogenetic diversity]], [[microorganisms]], [[classification]], [[prokaryote]], 
 > [Online link](https://www.science.org/doi/10.1126/science.284.5423.2124), [Zotero Item](zotero://select/library/items/U9FWNPD8), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/HKI9TWX7/Doolittle1999_PhylogeneticClassification.pdf), 
 

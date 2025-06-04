@@ -8,7 +8,7 @@ itemKey: Q7QUSDUA
 >[!metadata]+
 > New Multidimensional Functional Diversity Indices for a Multifaceted Framework in Functional Ecology
 > [[Villéger, Sébastien]], [[Mason, Norman W. H.]], [[Mouillot, David]], 
-> [[Ecology]] (2008)
+> [[Ecology (journal)]] (2008)
 > [[important]], [[functional diversity]], [[competitive filtering]], [[environmental filtering]], [[functional divergence]], [[functional evenness]], [[functional niche]], [[functional richness]], [[functional traits]], [[null model]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1890/07-1206.1), [Zotero Item](zotero://select/library/items/Q7QUSDUA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/X39X9TT3/Ecology%20-%202008%20-%20Villéger%20-%20NEW%20MULTIDIMENSIONAL%20FUNCTIONAL%20DIVERSITY%20INDICES%20FOR%20A%20MULTIFACETED%20FRAMEWORK%20IN%20FUNCTIONAL.pdf), 
 

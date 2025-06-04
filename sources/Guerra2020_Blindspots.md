@@ -8,7 +8,7 @@ itemKey: AUYA429J
 >[!metadata]+
 > Blind spots in global soil biodiversity and ecosystem function research
 > [[Guerra, Carlos A.]], [[Heintz-Buschart, Anna]], [[Sikorski, Johannes]], [[Chatzinotas, Antonis]], [[Guerrero-Ramírez, Nathaly]], [[Cesarz, Simone]], [[Beaumelle, Léa]], [[Rillig, Matthias C.]], [[Maestre, Fernando T.]], [[Delgado-Baquerizo, Manuel]], [[Buscot, François]], [[Overmann, Jörg]], [[Patoine, Guillaume]], [[Phillips, Helen R. P.]], [[Winter, Marten]], [[Wubet, Tesfaye]], [[Küsel, Kirsten]], [[Bardgett, Richard D.]], [[Cameron, Erin K.]], [[Cowan, Don]], [[Grebenc, Tine]], [[Marín, César]], [[Orgiazzi, Alberto]], [[Singh, Brajesh K.]], [[Wall, Diana H.]], [[Eisenhauer, Nico]], 
-> [[Nature Communications]] (2020)
+> [[Nature Communications (journal)]] (2020)
 > [[biodiversity]], [[soil]], 
 > [Online link](https://www.nature.com/articles/s41467-020-17688-2), [Zotero Item](zotero://select/library/items/AUYA429J), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/JAP2WBRQ/Guerra2020_Blindspots.pdf), 
 

@@ -8,7 +8,7 @@ itemKey: QDI9D7SP
 >[!metadata]+
 > Enumerating soil biodiversity
 > [[Anthony, Mark A.]], [[Bender, S. Franz]], [[van der Heijden, Marcel G. A.]], 
-> [[Proceedings of the National Academy of Sciences]] (2023)
+> [[Proceedings of the National Academy of Sciences (journal)]] (2023)
 > [[important]], 
 > [Online link](https://www.pnas.org/doi/10.1073/pnas.2304663120), [Zotero Item](zotero://select/library/items/QDI9D7SP), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/XHXDIVK2/Anthony2023_Enumeratingsoil.pdf), 
 

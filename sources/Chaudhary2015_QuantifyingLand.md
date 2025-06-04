@@ -8,7 +8,7 @@ itemKey: X8T2SVWE
 >[!metadata]+
 > Quantifying Land Use Impacts on Biodiversity: Combining Species–Area Models and Vulnerability Indicators
 > [[Chaudhary, Abhishek]], [[Verones, Francesca]], [[de Baan, Laura]], [[Hellweg, Stefanie]], 
-> [[Environmental Science & Technology]] (2015)
+> [[Environmental Science & Technology (journal)]] (2015)
 > [[biodiversity]], [[important]], 
 > [Online link](https://doi.org/10.1021/acs.est.5b02507), [Zotero Item](zotero://select/library/items/X8T2SVWE), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/WK2F4ULA/de-baan-et-al-2015-quantifying-land-use-impacts-on-biodiversity-combining-species-area-models-and-vulnerability.pdf), 
 

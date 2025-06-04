@@ -8,7 +8,7 @@ itemKey: K8SXFW2R
 >[!metadata]+
 > Patterns in soil microbial diversity across Europe
 > [[Labouyrie, Maëva]], [[Ballabio, Cristiano]], [[Romero, Ferran]], [[Panagos, Panos]], [[Jones, Arwyn]], [[Schmid, Marc W.]], [[Mikryukov, Vladimir]], [[Dulya, Olesya]], [[Tedersoo, Leho]], [[Bahram, Mohammad]], [[Lugato, Emanuele]], [[van der Heijden, Marcel G. A.]], [[Orgiazzi, Alberto]], 
-> [[Nature Communications]] (2023)
+> [[Nature Communications (journal)]] (2023)
 > [[Biodiversity]], [[Microbial ecology]], 
 > [Online link](https://www.nature.com/articles/s41467-023-37937-4), [Zotero Item](zotero://select/library/items/K8SXFW2R), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/MKPVX8BI/Labouyrie2023_Patternssoil.pdf), 
 

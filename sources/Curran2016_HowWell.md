@@ -8,7 +8,7 @@ itemKey: NF92Z972
 >[!metadata]+
 > How Well Does LCA Model Land Use Impacts on Biodiversity?—A Comparison with Approaches from Ecology and Conservation
 > [[Curran, Michael]], [[Maia de Souza, Danielle]], [[Antón, Assumpció]], [[Teixeira, Ricardo F. M.]], [[Michelsen, Ottar]], [[Vidal-Legaz, Beatriz]], [[Sala, Serenella]], [[Milà i Canals, Llorenç]], 
-> [[Environmental Science & Technology]] (2016)
+> [[Environmental Science & Technology (journal)]] (2016)
 > [[biodiversity]], [[important]], 
 > [Online link](https://doi.org/10.1021/acs.est.5b04681), [Zotero Item](zotero://select/library/items/NF92Z972), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/FF7Q7T6G/Curran2016_HowWell.pdf), 
 

@@ -21,7 +21,7 @@ The main paradigms of environmental ethics are ([[Sandler2012_IntrinsicValue]]):
 	- theocentrism, considering nature as god's creation ?
 
 Anthropocentrism leads to "resourcism" and the valuation of [[ecosystem service]]s.
-Biocentrism leads to conservationism (and [[conservation biology (ecology)]]) [[intrinsic value of nature]].
+Biocentrism leads to conservationism (and [[conservation biology]]) [[intrinsic value of nature]].
 
 ![[Depraz2013_Notionproteger_protection_nature.png|600]]
 

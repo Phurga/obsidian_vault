@@ -9,7 +9,7 @@ itemKey: {{itemKey}}
 > {% if itemType == "bookSection" %}{{bookTitle}}, {% endif %}{{title}}
 > {% for creator in creators %}[[{% if creator.name %}{{creator.name}}{% else %}{{creator.lastName}}, {{creator.firstName}}{% endif %}]], {% endfor %}
 > {% switch itemType -%}
-    {%- case "journalArticle" -%}[[{{publicationTitle}}]]
+    {%- case "journalArticle" -%}[[{{publicationTitle}}{% if publicationTitle.indexOf("ournal") == -1 %} (journal){% endif %}]]
     {%- case "presentation" -%}[[{{meetingName}}]]
     {%- case "book" -%}[[{{publisher}}]]
     {%- case "bookSection" -%}[[{{publisher}}]]
@@ -18,6 +18,7 @@ itemKey: {{itemKey}}
     {%- case "webpage" -%}[[{{websiteTitle}}]]
     {%- case "conferencePaper" -%}[[{{conferenceName}}]]
     {%- case "dataset" -%}[[{{repository}}]]
+    {%- case "preprint" -%}Preprint
 {%- endswitch %} ({{date | format("YYYY")}})
 > {% for tag in tags %}[[{{tag.tag}}]], {% endfor %}
 > [Online link]({{url}}), [Zotero Item]({{desktopURI}}), {% for attachment in attachments | filterby("path", "endswith", ".pdf") %}[Local pdf](file://{{attachment.path | replace(" ", "%20") | replace("\\", "/")}}), {% endfor %}{% if abstractNote %}

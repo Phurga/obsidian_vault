@@ -8,7 +8,7 @@ itemKey: X7FH6SM8
 >[!metadata]+
 > Land Use Intensity-Specific Global Characterization Factors to Assess Product Biodiversity Footprints
 > [[Chaudhary, Abhishek]], [[Brooks, Thomas M.]], 
-> [[Environmental Science & Technology]] (2018)
+> [[Environmental Science & Technology (journal)]] (2018)
 > [[biodiversity]], 
 > [Online link](https://pubs.acs.org/doi/10.1021/acs.est.7b05570), [Zotero Item](zotero://select/library/items/X7FH6SM8), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/569TDA63/chaudhary-brooks-2018-land-use-intensity-specific-global-characterization-factors-to-assess-product-biodiversity.pdf), 
 

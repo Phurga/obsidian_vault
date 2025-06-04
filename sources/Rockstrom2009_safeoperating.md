@@ -8,8 +8,8 @@ itemKey: GP3AYTDH
 >[!metadata]+
 > A safe operating space for humanity
 > [[Rockström, Johan]], [[Steffen, Will]], [[Noone, Kevin]], [[Persson, Åsa]], [[Chapin, F. Stuart]], [[Lambin, Eric F.]], [[Lenton, Timothy M.]], [[Scheffer, Marten]], [[Folke, Carl]], [[Schellnhuber, Hans Joachim]], [[Nykvist, Björn]], [[de Wit, Cynthia A.]], [[Hughes, Terry]], [[van der Leeuw, Sander]], [[Rodhe, Henning]], [[Sörlin, Sverker]], [[Snyder, Peter K.]], [[Costanza, Robert]], [[Svedin, Uno]], [[Falkenmark, Malin]], [[Karlberg, Louise]], [[Corell, Robert W.]], [[Fabry, Victoria J.]], [[Hansen, James]], [[Walker, Brian]], [[Liverman, Diana]], [[Richardson, Katherine]], [[Crutzen, Paul]], [[Foley, Jonathan A.]], 
-> [[Nature]] (2009)
-> [[Humanities and Social Sciences]], [[multidisciplinary]], [[Science]], [[planetary boundaries]], 
+> [[Nature (journal)]] (2009)
+> [[Humanities and Social Sciences]], [[multidisciplinary]], [[Science (journal)]], [[planetary boundaries]], 
 > [Online link](https://www.nature.com/articles/461472a), [Zotero Item](zotero://select/library/items/GP3AYTDH), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/YX48V5RV/Rockstrom2009_safeoperating.pdf), 
 
 >[!abstract]-

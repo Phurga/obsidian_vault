@@ -8,7 +8,7 @@ itemKey: QPW8GB5F
 >[!metadata]+
 > Using an expert system to assess biodiversity in life cycle assessment of vegetable crops
 > [[Pépin, Antonin]], [[Guidoboni, Maria Vittoria]], [[Jeanneret, Philippe]], [[Van Der Werf, Hayo M.G.]], 
-> [[Ecological Indicators]] (2023)
+> [[Ecological Indicators (journal)]] (2023)
 > [[biodiversity]], 
 > [Online link](https://linkinghub.elsevier.com/retrieve/pii/S1470160X23002406), [Zotero Item](zotero://select/library/items/QPW8GB5F), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/HFLZ44QG/Pepin2023_Usingexperta.pdf), 
 

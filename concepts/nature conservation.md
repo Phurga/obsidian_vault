@@ -11,3 +11,4 @@ aliases:
 
 >[!warning] translation
 >in french, conservationism is better translated 'préservationisme' as shown below
+![[Depraz2013_Notionproteger_protection_nature.png]]

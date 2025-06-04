@@ -8,7 +8,7 @@ itemKey: FZUV9Z73
 >[!metadata]+
 > The internal structure of metacommunities
 > [[Leibold, Mathew A.]], [[Rudolph, F. Javiera]], [[Blanchet, F. Guillaume]], [[Meester, Luc De]], [[Gravel, Dominique]], [[Hartig, Florian]], [[Peres-Neto, Pedro]], [[Shoemaker, Lauren]], [[Chase, Jonathan M.]], 
-> [[Oikos]] (2022)
+> [[Oikos (journal)]] (2022)
 > 
 > [Online link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.08618), [Zotero Item](zotero://select/library/items/FZUV9Z73), 
 

@@ -8,7 +8,7 @@ itemKey: ZTL38DG7
 >[!metadata]+
 > Accelerating extinction risk from climate change
 > [[Urban, Mark C.]], 
-> [[Science]] (2015)
+> [[Science (journal)]] (2015)
 > [[climate change]], [[extinction]], 
 > [Online link](https://www.science.org/doi/10.1126/science.aaa4984), [Zotero Item](zotero://select/library/items/ZTL38DG7), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LVPVC4EM/Urban2015_Acceleratingextinction.pdf), 
 

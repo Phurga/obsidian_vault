@@ -8,7 +8,7 @@ itemKey: 236AJJTC
 >[!metadata]+
 > Roots and Associated Fungi Drive Long-Term Carbon Sequestration in Boreal Forest
 > [[Clemmensen, K. E.]], [[Bahr, A.]], [[Ovaskainen, O.]], [[Dahlberg, A.]], [[Ekblad, A.]], [[Wallander, H.]], [[Stenlid, J.]], [[Finlay, R. D.]], [[Wardle, D. A.]], [[Lindahl, B. D.]], 
-> [[Science]] (2013)
+> [[Science (journal)]] (2013)
 > 
 > [Online link](https://www.science.org/doi/10.1126/science.1231923), [Zotero Item](zotero://select/library/items/236AJJTC), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/ATZAXYQU/science.1231923.pdf), 
 

@@ -8,7 +8,7 @@ itemKey: YLEC35VY
 >[!metadata]+
 > Assessing biodiversity loss due to land use with Life Cycle Assessment: are we there yet?
 > [[Maia De Souza, Danielle]], [[Teixeira, Ricardo F.M.]], [[Ostermann, Ole P.]], 
-> [[Global Change Biology]] (2015)
+> [[Global Change Biology (journal)]] (2015)
 > [[biodiversity]], [[land use]], [[biodiversity indicators]], [[ecological models]], [[global change]], [[life cycle analysis]], [[life cycle impact assessment]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12709), [Zotero Item](zotero://select/library/items/YLEC35VY), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/XXALEAQH/Souza2015_Assessingbiodiversity.pdf), 
 

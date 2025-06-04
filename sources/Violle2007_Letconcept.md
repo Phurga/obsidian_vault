@@ -8,7 +8,7 @@ itemKey: RYQMH3QX
 >[!metadata]+
 > Let the concept of trait be functional!
 > [[Violle, Cyrille]], [[Navas, Marie-Laure]], [[Vile, Denis]], [[Kazakou, Elena]], [[Fortunel, Claire]], [[Hummel, Irène]], [[Garnier, Eric]], 
-> [[Oikos]] (2007)
+> [[Oikos (journal)]] (2007)
 > 
 > [Online link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/j.0030-1299.2007.15559.x), [Zotero Item](zotero://select/library/items/RYQMH3QX), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/69NKHFKX/Violle2007_Letconcept.pdf), 
 

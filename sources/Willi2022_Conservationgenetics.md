@@ -8,7 +8,7 @@ itemKey: KYI5NM6L
 >[!metadata]+
 > Conservation genetics as a management tool: The five best-supported paradigms to assist the management of threatened species
 > [[Willi, Yvonne]], [[Kristensen, Torsten N.]], [[Sgrò, Carla M.]], [[Weeks, Andrew R.]], [[Ørsted, Michael]], [[Hoffmann, Ary A.]], 
-> [[Proceedings of the National Academy of Sciences]] (2022)
+> [[Proceedings of the National Academy of Sciences (journal)]] (2022)
 > 
 > [Online link](https://www.pnas.org/doi/10.1073/pnas.2105076119), [Zotero Item](zotero://select/library/items/KYI5NM6L), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/Q9YYQ5NV/Willi2022_Conservationgenetics.pdf), 
 

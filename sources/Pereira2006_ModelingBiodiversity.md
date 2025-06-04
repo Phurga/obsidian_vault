@@ -8,7 +8,7 @@ itemKey: XHNFFFKP
 >[!metadata]+
 > Modeling Biodiversity Dynamics in Countryside Landscapes
 > [[Pereira, Henrique M.]], [[Daily, Gretchen C.]], 
-> [[Ecology]] (2006)
+> [[Ecology (journal)]] (2006)
 > [[biodiversity]], [[countryside biogeography]], [[biased random-walk]], [[critical patch]], [[extinction]], [[population growth rate]], [[PVA]], [[reaction-diffusion PDE]], [[species–area relationship]], 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658%282006%2987%5B1877%3AMBDICL%5D2.0.CO%3B2), [Zotero Item](zotero://select/library/items/XHNFFFKP), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/XQAG83LA/Ecology%20-%202006%20-%20Pereira%20-%20MODELING%20BIODIVERSITY%20DYNAMICS%20IN%20COUNTRYSIDE%20LANDSCAPES.pdf), 
 

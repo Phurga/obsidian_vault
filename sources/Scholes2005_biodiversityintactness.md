@@ -8,8 +8,8 @@ itemKey: 3FACZ9YW
 >[!metadata]+
 > A biodiversity intactness index
 > [[Scholes, R. J.]], [[Biggs, R.]], 
-> [[Nature]] (2005)
-> [[biodiversity]], [[Humanities and Social Sciences]], [[multidisciplinary]], [[Science]], [[planetary boundaries]], 
+> [[Nature (journal)]] (2005)
+> [[biodiversity]], [[Humanities and Social Sciences]], [[multidisciplinary]], [[Science (journal)]], [[planetary boundaries]], 
 > [Online link](https://www.nature.com/articles/nature03289), [Zotero Item](zotero://select/library/items/3FACZ9YW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/5TCF7X4Q/Scholes2005_biodiversityintactness.pdf), 
 
 >[!abstract]-

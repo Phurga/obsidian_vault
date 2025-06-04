@@ -8,7 +8,7 @@ itemKey: ZTHFNB4V
 >[!metadata]+
 > A knowledge-based approach to estimating the magnitude and spatial patterns of potential threats to soil biodiversity
 > [[Orgiazzi, Alberto]], [[Panagos, Panos]], [[Yigini, Yusuf]], [[Dunbar, Martha B.]], [[Gardi, Ciro]], [[Montanarella, Luca]], [[Ballabio, Cristiano]], 
-> [[Science of The Total Environment]] (2016)
+> [[Science of The Total Environment (journal)]] (2016)
 > [[biodiversity]], [[soil]], [[Risk assessment]], [[Land-use planning]], [[Soil biodiversity]], [[Soil biota conservation]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S004896971531247X), [Zotero Item](zotero://select/library/items/ZTHFNB4V), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/IC2M9PM8/Orgiazzi2016_knowledgebasedapproacha.pdf), 
 

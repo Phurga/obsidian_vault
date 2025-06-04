@@ -8,7 +8,7 @@ itemKey: HPUWZ39E
 >[!metadata]+
 > Global diversity and geography of soil fungi
 > [[Tedersoo, Leho]], [[Bahram, Mohammad]], [[Põlme, Sergei]], [[Kõljalg, Urmas]], [[Yorou, Nourou S.]], [[Wijesundera, Ravi]], [[Ruiz, Luis Villarreal]], [[Vasco-Palacios, Aída M.]], [[Thu, Pham Quang]], [[Suija, Ave]], [[Smith, Matthew E.]], [[Sharp, Cathy]], [[Saluveer, Erki]], [[Saitta, Alessandro]], [[Rosas, Miguel]], [[Riit, Taavi]], [[Ratkowsky, David]], [[Pritsch, Karin]], [[Põldmaa, Kadri]], [[Piepenbring, Meike]], [[Phosri, Cherdchai]], [[Peterson, Marko]], [[Parts, Kaarin]], [[Pärtel, Kadri]], [[Otsing, Eveli]], [[Nouhra, Eduardo]], [[Njouonkou, André L.]], [[Nilsson, R. Henrik]], [[Morgado, Luis N.]], [[Mayor, Jordan]], [[May, Tom W.]], [[Majuakim, Luiza]], [[Lodge, D. Jean]], [[Lee, Su See]], [[Larsson, Karl-Henrik]], [[Kohout, Petr]], [[Hosaka, Kentaro]], [[Hiiesalu, Indrek]], [[Henkel, Terry W.]], [[Harend, Helery]], [[Guo, Liang-dong]], [[Greslebin, Alina]], [[Grelet, Gwen]], [[Geml, Jozsef]], [[Gates, Genevieve]], [[Dunstan, William]], [[Dunk, Chris]], [[Drenkhan, Rein]], [[Dearnaley, John]], [[De Kesel, André]], [[Dang, Tan]], [[Chen, Xin]], [[Buegger, Franz]], [[Brearley, Francis Q.]], [[Bonito, Gregory]], [[Anslan, Sten]], [[Abell, Sandra]], [[Abarenkov, Kessy]], 
-> [[Science]] (2014)
+> [[Science (journal)]] (2014)
 > 
 > [Online link](https://www.science.org/doi/10.1126/science.1256688), [Zotero Item](zotero://select/library/items/HPUWZ39E), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/RQEU5URX/Tedersoo2014_Globaldiversity.pdf), 
 

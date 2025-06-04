@@ -1,8 +1,7 @@
 ---
 tags:
   - concept/definition
-aliases:
-  - conservation biology
+aliases: []
 ---
 **Conservation biology** is a discipline part of ecology focusing on the most effective approaches to preserve nature.
 

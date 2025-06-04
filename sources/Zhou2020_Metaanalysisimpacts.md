@@ -8,7 +8,7 @@ itemKey: MQ4ZQKC5
 >[!metadata]+
 > Meta-analysis of the impacts of global change factors on soil microbial diversity and functionality
 > [[Zhou, Zhenghu]], [[Wang, Chuankuan]], [[Luo, Yiqi]], 
-> [[Nature Communications]] (2020)
+> [[Nature Communications (journal)]] (2020)
 > [[soil]], 
 > [Online link](https://www.nature.com/articles/s41467-020-16881-7), [Zotero Item](zotero://select/library/items/MQ4ZQKC5), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/GBYN7FQW/Zhou2020_Metaanalysisimpacts.pdf), 
 

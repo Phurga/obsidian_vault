@@ -8,7 +8,7 @@ itemKey: XUWLJ5HL
 >[!metadata]+
 > More losses than gains during one century of plant biodiversity change in Germany
 > [[Jandt, Ute]], [[Bruelheide, Helge]], [[Jansen, Florian]], [[Bonn, Aletta]], [[Grescho, Volker]], [[Klenke, Reinhard A.]], [[Sabatini, Francesco Maria]], [[Bernhardt-Römermann, Markus]], [[Blüml, Volker]], [[Dengler, Jürgen]], [[Diekmann, Martin]], [[Doerfler, Inken]], [[Döring, Ute]], [[Dullinger, Stefan]], [[Haider, Sylvia]], [[Heinken, Thilo]], [[Horchler, Peter]], [[Kuhn, Gisbert]], [[Lindner, Martin]], [[Metze, Katrin]], [[Müller, Norbert]], [[Naaf, Tobias]], [[Peppler-Lisbach, Cord]], [[Poschlod, Peter]], [[Roscher, Christiane]], [[Rosenthal, Gert]], [[Rumpf, Sabine B.]], [[Schmidt, Wolfgang]], [[Schrautzer, Joachim]], [[Schwabe, Angelika]], [[Schwartze, Peter]], [[Sperle, Thomas]], [[Stanik, Nils]], [[Storm, Christian]], [[Voigt, Winfried]], [[Wegener, Uwe]], [[Wesche, Karsten]], [[Wittig, Burghard]], [[Wulf, Monika]], 
-> [[Nature]] (2022)
+> [[Nature (journal)]] (2022)
 > [[Biodiversity]], [[Biodiversity conservation]], [[important]], 
 > [Online link](https://www.nature.com/articles/s41586-022-05320-w), [Zotero Item](zotero://select/library/items/XUWLJ5HL), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/75SHKHRD/Jandt2022_Morelosses.pdf), 
 

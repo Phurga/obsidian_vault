@@ -8,7 +8,7 @@ itemKey: S23AE5E8
 >[!metadata]+
 > Ecosystem Integrity Index, an innovative environmental evaluation tool for agricultural production systems
 > [[Blumetto, Oscar]], [[Castagna, Andrés]], [[Cardozo, Gerónimo]], [[García, Felipe]], [[Tiscornia, Guadalupe]], [[Ruggia, Andrea]], [[Scarlato, Santiago]], [[Albicette, María Marta]], [[Aguerre, Verónica]], [[Albin, Alfredo]], 
-> [[Ecological Indicators]] (2019)
+> [[Ecological Indicators (journal)]] (2019)
 > [[Biodiversity]], [[Sustainability]], [[ecosystem service]], [[Grazing management]], [[Riparian ecosystem]], [[Vegetation structure]], [[convention on biological diversity]], [[EII]], [[ecosystem integrity index]], 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S1470160X19300962), [Zotero Item](zotero://select/library/items/S23AE5E8), 
 

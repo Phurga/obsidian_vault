@@ -8,7 +8,7 @@ itemKey: JS5KYZMS
 >[!metadata]+
 > Biodiversity Assessment of Value Chains: State of the Art and Emerging Challenges
 > [[Crenna, Eleonora]], [[Marques, Alexandra]], [[La Notte, Alessandra]], [[Sala, Serenella]], 
-> [[Environmental Science & Technology]] (2020)
+> [[Environmental Science & Technology (journal)]] (2020)
 > [[biodiversity]], 
 > [Online link](https://pubs.acs.org/doi/10.1021/acs.est.9b05153), [Zotero Item](zotero://select/library/items/JS5KYZMS), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/HPR2YXPM/crenna-et-al-2020-biodiversity-assessment-of-value-chains-state-of-the-art-and-emerging-challenges.pdf), 
 

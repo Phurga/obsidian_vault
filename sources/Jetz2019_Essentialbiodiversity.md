@@ -9,7 +9,7 @@ itemKey: AA27MZEQ
 > Essential biodiversity variables for mapping and monitoring species populations
 > [[Jetz, Walter]], [[McGeoch, Melodie A.]], [[Guralnick, Robert]], [[Ferrier, Simon]], [[Beck, Jan]], [[Costello, Mark J.]], [[Fernandez, Miguel]], [[Geller, Gary N.]], [[Keil, Petr]], [[Merow, Cory]], [[Meyer, Carsten]], [[Muller-Karger, Frank E.]], [[Pereira, Henrique M.]], [[Regan, Eugenie C.]], [[Schmeller, Dirk S.]], [[Turak, Eren]], 
 > [[Nature Ecology & Evolution]] (2019)
-> [[biodiversity]], [[Ecology]], [[Evolution]], 
+> [[biodiversity]], [[Ecology (journal)]], [[Evolution]], 
 > [Online link](https://www.nature.com/articles/s41559-019-0826-1), [Zotero Item](zotero://select/library/items/AA27MZEQ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/FLRR75FG/Jetz2019_Essentialbiodiversity.pdf), 
 
 >[!abstract]-

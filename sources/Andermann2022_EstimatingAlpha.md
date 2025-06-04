@@ -8,7 +8,7 @@ itemKey: 2NDMRWWW
 >[!metadata]+
 > Estimating Alpha, Beta, and Gamma Diversity Through Deep Learning
 > [[Andermann, Tobias]], [[Antonelli, Alexandre]], [[Barrett, Russell L.]], [[Silvestro, Daniele]], 
-> [[Frontiers in Plant Science]] (2022)
+> [[Frontiers in Plant Science (journal)]] (2022)
 > [[Biodiversity]], [[Australia]], [[species richness]], [[deep learning]], [[Diversity pattern]], [[machine learning]], [[neural   network]], [[plant]], 
 > [Online link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full), [Zotero Item](zotero://select/library/items/2NDMRWWW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/RTTWGNSL/Andermann2022_EstimatingAlpha.pdf), 
 

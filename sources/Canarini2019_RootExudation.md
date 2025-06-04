@@ -8,7 +8,7 @@ itemKey: 47WWRGMJ
 >[!metadata]+
 > Root Exudation of Primary Metabolites: Mechanisms and Their Roles in Plant Responses to Environmental Stimuli
 > [[Canarini, Alberto]], [[Kaiser, Christina]], [[Merchant, Andrew]], [[Richter, Andreas]], [[Wanek, Wolfgang]], 
-> [[Frontiers in Plant Science]] (2019)
+> [[Frontiers in Plant Science (journal)]] (2019)
 > [[mycorrhiza]], [[nutrient sensing]], [[priming effect]], [[root architecture]], [[root exudates]], [[Soil microorgamisms]], 
 > [Online link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00157/full), [Zotero Item](zotero://select/library/items/47WWRGMJ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/3N69Q57F/Canarini2019_RootExudation.pdf), 
 

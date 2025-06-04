@@ -8,7 +8,7 @@ itemKey: AGG724AG
 >[!metadata]+
 > Adaptive differentiation and rapid evolution of a soil bacterium along a climate gradient
 > [[Chase, Alexander B.]], [[Weihe, Claudia]], [[Martiny, Jennifer B. H.]], 
-> [[Proceedings of the National Academy of Sciences]] (2021)
+> [[Proceedings of the National Academy of Sciences (journal)]] (2021)
 > 
 > [Online link](https://www.pnas.org/doi/full/10.1073/pnas.2101254118), [Zotero Item](zotero://select/library/items/AGG724AG), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/HNX2XJY5/Chase2021_Adaptivedifferentiation.pdf), 
 

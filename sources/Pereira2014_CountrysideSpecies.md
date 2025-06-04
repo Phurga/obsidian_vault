@@ -8,7 +8,7 @@ itemKey: A6FGR4VE
 >[!metadata]+
 > Countryside Species–Area Relationship as a Valid Alternative to the Matrix-Calibrated Species–Area Model
 > [[Pereira, Henrique Miguel]], [[Ziv, Guy]], [[Miranda, Murilo]], 
-> [[Conservation Biology]] (2014)
+> [[Conservation Biology (journal)]] (2014)
 > 
 > [Online link](https://pmc.ncbi.nlm.nih.gov/articles/PMC4262074/), [Zotero Item](zotero://select/library/items/A6FGR4VE), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/42M7GGVN/Pereira2014_CountrysideSpecies.pdf), 
 

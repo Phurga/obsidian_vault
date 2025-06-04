@@ -9,7 +9,7 @@ itemKey: PR9ATA4G
 > Conceptual Synthesis in Community Ecology
 > [[Vellend, Mark]], 
 > [[The Quarterly Review of Biology]] (2010)
-> [[community ecology]], [[ecology]], 
+> [[community ecology]], [[Ecology (journal)]], 
 > [Online link](https://www.journals.uchicago.edu/doi/10.1086/652373), [Zotero Item](zotero://select/library/items/PR9ATA4G), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/AT7T4B9L/Vellend2010_ConceptualSynthesis.pdf), 
 
 >[!abstract]-

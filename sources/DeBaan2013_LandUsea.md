@@ -7,7 +7,7 @@ tags:
 >[!metadata]+
 > Land Use in Life Cycle Assessment: Global Characterization Factors Based on Regional and Global Potential Species Extinction
 > [[De Baan, Laura]], [[Mutel, Christopher L.]], [[Curran, Michael]], [[Hellweg, Stefanie]], [[Koellner, Thomas]], 
-> [[Environmental Science & Technology]] (2013)
+> [[Environmental Science & Technology (journal)]] (2013)
 > 
 > [Online link](https://pubs.acs.org/doi/10.1021/es400592q), [Zotero Item](zotero://select/library/items/H4ACB8FH), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/6ITEJWXR/de-baan-et-al-2013-land-use-in-life-cycle-assessment-global-characterization-factors-based-on-regional-and-global.pdf), 
 

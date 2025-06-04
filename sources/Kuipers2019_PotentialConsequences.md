@@ -8,7 +8,7 @@ itemKey: QVX7K7DI
 >[!metadata]+
 > Potential Consequences of Regional Species Loss for Global Species Richness: A Quantitative Approach for Estimating Global Extinction Probabilities
 > [[Kuipers, Koen J. J.]], [[Hellweg, Stefanie]], [[Verones, Francesca]], 
-> [[Environmental Science & Technology]] (2019)
+> [[Environmental Science & Technology (journal)]] (2019)
 > 
 > [Online link](https://doi.org/10.1021/acs.est.8b06173), [Zotero Item](zotero://select/library/items/QVX7K7DI), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/CWGWUU5U/Kuipers2019_PotentialConsequencesa.pdf), 
 

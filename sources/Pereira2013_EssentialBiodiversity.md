@@ -8,7 +8,7 @@ itemKey: ZMMIRU33
 >[!metadata]+
 > Essential Biodiversity Variables
 > [[Pereira, H. M.]], [[Ferrier, S.]], [[Walters, M.]], [[Geller, G. N.]], [[Jongman, R. H. G.]], [[Scholes, R. J.]], [[Bruford, M. W.]], [[Brummitt, N.]], [[Butchart, S. H. M.]], [[Cardoso, A. C.]], [[Coops, N. C.]], [[Dulloo, E.]], [[Faith, D. P.]], [[Freyhof, J.]], [[Gregory, R. D.]], [[Heip, C.]], [[Höft, R.]], [[Hurtt, G.]], [[Jetz, W.]], [[Karp, D. S.]], [[McGeoch, M. A.]], [[Obura, D.]], [[Onoda, Y.]], [[Pettorelli, N.]], [[Reyers, B.]], [[Sayre, R.]], [[Scharlemann, J. P. W.]], [[Stuart, S. N.]], [[Turak, E.]], [[Walpole, M.]], [[Wegmann, M.]], 
-> [[Science]] (2013)
+> [[Science (journal)]] (2013)
 > [[biodiversity]], 
 > [Online link](https://www.science.org/doi/10.1126/science.1229931), [Zotero Item](zotero://select/library/items/ZMMIRU33), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/JZLYE749/science.1229931.pdf), 
 

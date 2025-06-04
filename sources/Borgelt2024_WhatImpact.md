@@ -8,7 +8,7 @@ itemKey: SWK2WMQ9
 >[!metadata]+
 > What Is the Impact of Accidentally Transporting Terrestrial Alien Species? A New Life Cycle Impact Assessment Model
 > [[Borgelt, Jan]], [[Dorber, Martin]], [[Géron, Charly]], [[Kuipers, Koen J. J.]], [[Huijbregts, Mark A. J.]], [[Verones, Francesca]], 
-> [[Environmental Science & Technology]] (2024)
+> [[Environmental Science & Technology (journal)]] (2024)
 > 
 > [Online link](https://doi.org/10.1021/acs.est.3c08500), [Zotero Item](zotero://select/library/items/SWK2WMQ9), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/VLWTQES6/Borgelt2024_WhatImpact.pdf), 
 

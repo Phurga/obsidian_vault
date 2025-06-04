@@ -8,7 +8,7 @@ itemKey: EFE2RYBD
 >[!metadata]+
 > Atmosphere–soil carbon transfer as a function of soil depth
 > [[Balesdent, Jérôme]], [[Basile-Doelsch, Isabelle]], [[Chadoeuf, Joël]], [[Cornu, Sophie]], [[Derrien, Delphine]], [[Fekiacova, Zuzana]], [[Hatté, Christine]], 
-> [[Nature]] (2018)
+> [[Nature (journal)]] (2018)
 > [[Carbon cycle]], [[Ecosystem ecology]], [[Stable isotope analysis]], 
 > [Online link](https://www.nature.com/articles/s41586-018-0328-3), [Zotero Item](zotero://select/library/items/EFE2RYBD), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/WYLQRNW7/Balesdent2018_Atmospheresoil.pdf), 
 

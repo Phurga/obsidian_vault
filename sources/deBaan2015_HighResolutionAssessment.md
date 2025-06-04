@@ -8,7 +8,7 @@ itemKey: 4JXRCMA6
 >[!metadata]+
 > High-Resolution Assessment of Land Use Impacts on Biodiversity in Life Cycle Assessment Using Species Habitat Suitability Models
 > [[de Baan, Laura]], [[Curran, Michael]], [[Rondinini, Carlo]], [[Visconti, Piero]], [[Hellweg, Stefanie]], [[Koellner, Thomas]], 
-> [[Environmental Science & Technology]] (2015)
+> [[Environmental Science & Technology (journal)]] (2015)
 > [[biodiversity]], 
 > [Online link](https://doi.org/10.1021/es504380t), [Zotero Item](zotero://select/library/items/4JXRCMA6), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/ZZ8JKTB5/DeBaan2015_HighResolutionAssessmenta.pdf), 
 

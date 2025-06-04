@@ -8,8 +8,8 @@ itemKey: LJ8RX7Z7
 >[!metadata]+
 > Species-Energy Theory: An Extension of Species-Area Theory
 > [[Wright, David Hamilton]], 
-> [[Oikos]] (1983)
-> [[ecology]], [[species-area relationship]], [[ecology theory]], [[species-energy relationship]], 
+> [[Oikos (journal)]] (1983)
+> [[Ecology (journal)]], [[species-area relationship]], [[ecology theory]], [[species-energy relationship]], 
 > [Online link](https://www.jstor.org/stable/3544109), [Zotero Item](zotero://select/library/items/LJ8RX7Z7), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/XBWA55VZ/Wright1983_SpeciesEnergyTheory.pdf), 
 
 >[!abstract]-

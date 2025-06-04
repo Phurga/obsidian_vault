@@ -18,6 +18,6 @@ conventions
 - resource exploitation and environmental liberalism
 - nature as vector of identity
 tools for environmental policies
-- [[conservation biology (ecology)]]
+- [[conservation biology]]
 - [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]]
 - [[Cousin2025_Preserverqualite]] on how to select indicators for policy making
