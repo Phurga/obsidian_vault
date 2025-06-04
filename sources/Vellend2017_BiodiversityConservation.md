@@ -21,7 +21,12 @@ itemKey: CQEANHGR
 
 > The first objective of the CBD is simply “the conservation of biological diversity,” and individual countries have pursued this objective in various ways, perhaps most often by providing legal protection to species at risk of extinction.
 
-> Since the term biodiversity became widespread only in the late 1980s, ecologists have also been busy with the more mundane task of developing and calculating old and new indices to quantify it. The most straightforward index is species richness: the number of species in a given place and time. Indices of evenness aim to reflect the idea that, for example, a community with two equally abundant species is more diverse than one in which one of the species is dominant and the other very rare. Still other indices aim to capture phylogenetic or functional trait diversity, whereby a forest with both pine trees and maple trees is considered more diverse than one with only two species of pine (or maple) trees (see the figure at left). **Species richness is the only metric that has been reported often enough, and in a sufficiently standardized way, to allow general comparisons across different regions, habitats, taxa, or scales of space and time.**
+> Since the term biodiversity became widespread only in the late 1980s, ecologists have also been busy with the more mundane task of developing and calculating old and new indices to quantify it. The most straightforward index is species richness: the number of species in a given place and time. Indices of evenness aim to reflect the idea that, for example, a community with two equally abundant species is more diverse than one in which one of the species is dominant and the other very rare. Still other indices aim to capture phylogenetic or functional trait diversity, whereby a forest with both pine trees and maple trees is considered more diverse than one with only two species of pine (or maple) trees (see the figure at left). 
+
+[[species richness]] and its use in LCA
+> Species richness is the only metric that has been reported often enough, and in a sufficiently standardized way, to allow general comparisons across different regions, habitats, taxa, or scales of space and time.
+
+^763919
 
 > Species are being transported and introduced to new places around the world, so that **regional diversity often increases, even as global diversity declines**.
 

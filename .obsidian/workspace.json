@@ -38,6 +38,51 @@
             }
           },
           {
+            "id": "f5d8f3e72e4327a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Curran2011_MeaningfulEnd.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Curran2011_MeaningfulEnd"
+            }
+          },
+          {
+            "id": "004c3f4823ccd834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creators/Conservation Biology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Conservation Biology"
+            }
+          },
+          {
+            "id": "1c597ea2a69b0373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/genetic diversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "genetic diversity"
+            }
+          },
+          {
             "id": "2b9d01206454299b",
             "type": "leaf",
             "state": {
@@ -68,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,8 +171,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/deBenoist2004_naturesa.md",
+                "file": "creators/Conservation Biology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +216,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for deBenoist2004_naturesa"
+              "title": "Backlinks for Conservation Biology"
             }
           },
           {
@@ -216,10 +260,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/deBenoist2004_naturesa.md"
+                "file": "creators/Conservation Biology.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for deBenoist2004_naturesa"
+              "title": "File properties for Conservation Biology"
             }
           }
         ]
@@ -236,36 +280,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "821b7aabef029215",
+  "active": "004c3f4823ccd834",
   "lastOpenFiles": [
+    "concepts/environmental policy.md",
+    "sources/Soule1985_WhatConservation.md",
+    "sources/Curran2011_MeaningfulEnd.md",
+    "concepts/species richness.md",
+    "sources/Vellend2017_BiodiversityConservation.md",
+    "creators/American Scientist.md",
+    "concepts/conservation biology (ecology).md",
+    "concepts/migration.md",
+    "concepts/genetic diversity.md",
+    "sources/Verones2017_LCIAframework.md",
+    "sources/deBenoist2004_naturesa.md",
+    "sources/Verones2020_LCIMPACTregionalized.md",
     "misc/TODO.md",
     "concepts/nature conservation.md",
-    "concepts/conservation biology (ecology).md",
     "concepts/common species.md",
     "concepts/environmental ethics.md",
     "concepts/anthropocentrism.md",
-    "sources/deBenoist2004_naturesa.md",
     "sources/Depraz2013_Notionproteger.md",
     "concepts/intrinsic value of nature.md",
     "sources/Sandler2012_IntrinsicValue.md",
     "sources/Godet2017_Notiondebat.md",
     "creators/Nature Education Knowledge.md",
-    "sources/Verones2017_LCIAframework.md",
     "sources/Woods2018_Ecosystemquality.md",
     "concepts/alpha diversity in relative species loss is not relevant.md",
     "sources/Rea2017_valuenature.md",
     "sources/Piccolo2017_Intrinsicvalues.md",
-    "sources/Himes2024_Whynature.md",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
-    "concepts/impacts of land use on biodiversity.md",
-    "sources/Nobles2025_ethicalfoundations.md",
-    "concepts/effect of land management practices on soil biodiversity.md",
-    "concepts/comparison of two soil biodiversity land use study.md",
-    "concepts/what would be a good indicator for degradation of ecosystem quality applicable to soil organisms.md",
-    "concepts/organic farming reduces impacts on biodiversity.md",
-    "concepts/LCIA method for direct exploitation impacts on ecosystem quality.md",
-    "misc/IDEAS.md",
     "concepts.zip",
     "sources.zip",
     "attachments/Imbert2021_RMQScomme_results.png",
