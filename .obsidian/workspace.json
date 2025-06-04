@@ -13,13 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/intrinsic value of nature.md",
+                "file": "concepts/conservation biology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "intrinsic value of nature"
+              "title": "conservation biology"
+            }
+          },
+          {
+            "id": "0d07a56ce8539885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Soule1985_WhatConservation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Soule1985_WhatConservation"
+            }
+          },
+          {
+            "id": "709c25c6392b8428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Himes2024_Whynature.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Himes2024_Whynature"
+            }
+          },
+          {
+            "id": "770dd7946f655563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Debarre2025_RevampingLCIA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Debarre2025_RevampingLCIA"
+            }
+          },
+          {
+            "id": "e6b959d8dc40f099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Soule1985_WhatConservation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Soule1985_WhatConservation"
             }
           },
           {
@@ -52,8 +112,7 @@
               "title": "IPBES2022_Summarypolicymakers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +170,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/IPBES2022_Summarypolicymakers.md",
+                "file": "concepts/conservation biology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +215,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IPBES2022_Summarypolicymakers"
+              "title": "Backlinks for conservation biology"
             }
           },
           {
@@ -201,10 +259,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/IPBES2022_Summarypolicymakers.md"
+                "file": "concepts/conservation biology.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for IPBES2022_Summarypolicymakers"
+              "title": "File properties for conservation biology"
             }
           }
         ]
@@ -221,35 +279,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f610c6ecb2bdbd4c",
+  "active": "155dc5f8c53f49d7",
   "lastOpenFiles": [
-    "creators/IPBES.md",
-    "sources/IPBES2022_Summarypolicymakers.md",
-    "attachments/IPBES2022_Summarypolicymakers_values.png",
-    "sources/Debarre2025_RevampingLCIA.md",
+    "sources/Soule1985_WhatConservation.md",
+    "concepts/conservation biology.md",
+    "creators/Frontiers in Plant Science (journal).md",
+    "socio.md",
+    "creators/Frontiers in Ecology and Evolution (journal).md",
     "concepts/intrinsic value of nature.md",
+    "concepts/environmental ethics.md",
+    "sources/Himes2024_Whynature.md",
+    "concepts/values assessment.md",
+    "attachments/Pasted image 20250604154556.png",
+    "attachments/Himes2024_Whynature_values.png",
+    "sources/Debarre2025_RevampingLCIA.md",
+    "concepts/Kantian ethics.md",
+    "ethical postulates in conservation biology.md",
+    "Soule1985_WhatConservation^.md",
+    "sources/IPBES2022_Summarypolicymakers.md",
+    "creators/IPBES.md",
+    "attachments/IPBES2022_Summarypolicymakers_values.png",
     "concepts/environmental policy.md",
     "creators/United Nations.md",
-    "sources/Himes2024_Whynature.md",
     "sources/UnitedNations2023_Transformingour.md",
-    "concepts/environmental ethics.md",
     "concepts/soil function.md",
     "concepts/ecosystem function.md",
     "concepts/ecological functionning.md",
     "concepts/social-ecological system.md",
     "concepts/activity data.md",
     "misc/templates/new literature note (zotero).md",
-    "socio.md",
     "concepts/species richness.md",
     "concepts/nature conservation.md",
-    "misc/TODO.md",
-    "concepts/conservation biology.md",
-    "sources/deBenoist2004_naturesa.md",
-    "sources/Curran2011_MeaningfulEnd.md",
-    "concepts/life cycle impact assessment.md",
-    "concepts/natural resource.md",
-    "concepts/main pressures on biodiversity.md",
-    "sources/ISO2006_ISO14044.md",
     "attachments/ISO2006_ISO14044_example.png",
     "attachments/ISO2006_ISO14044_pathway.png",
     "attachments/Debarre2025_RevampingLCIA_pathway.png",
@@ -261,8 +321,6 @@
     "attachments/Imbert2021_RMQScomme_methods.png",
     "attachments/Pasted image 20250602083554.png",
     "attachments/Cousin2025_Preserverqualite_history.png",
-    "attachments/Vellend2010_ConceptualSynthesis_theories.png",
-    "attachments/Vellend2010_ConceptualSynthesis_processes_patterns.png",
     "misc/meetings",
     "New Text Document.txt",
     "misc/setup/sidenote-callout.css",

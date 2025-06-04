@@ -18,6 +18,12 @@ itemKey: NVDR6ZN5
 # Notes %% begin notes %%
 >Intergovernmental SciencePolicy Platform on Biodiversity and Ecosystem Services (IPBES) commissioned and approved the Methodological Assessment of the Diverse Values and Valuations of Nature
 
+![[Himes2024_Whynature_values.png]]
+
+> intrinsic value: “values of other-than-human beings expressed independently of any reference to humans as valuers, including values associated with entities worth protecting as ends in and of themselves.
+
+^f2d6b6
+
 
 %% end notes %%
 

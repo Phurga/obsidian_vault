@@ -24,6 +24,8 @@ itemKey: AEX22A5K
 [[no inherent value in species]]
 >The difficulty with this **ecocentrism** view is that it is not clear that there is anything that could be considered the species' or ecosystem's good above and beyond (or distinct from) the good of the individual organisms that comprise them. What appears to be the good of species and ecosystems often is only a by-product, average, or aggregate of that of individual organisms (and some collectives, such as ant colonies or bee hives). Therefore, even if individual wolves have a good of their own and inherent worth, _Canis lupus_, the species, may not (Cahen 1988, Sandler 2007).
 
+^65b2ed
+
 %% end notes %%
 
 

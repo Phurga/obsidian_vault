@@ -22,6 +22,21 @@ itemKey: WWPHT6KA
 [[genetic diversity]]
 >The next three corollaries are genetic. First, populations of outbreeding organisms will suffer a chronic loss of fitness from inbreeding depression at effective population sizes of less than 50 to 100 (Franklin 1980, Soule 1980). Second, genetic drift in small populations (less than a few hundred individuals) will cause a progressive loss of genetic variation; in turn, such genetic erosion will reduce immediate fitness because multilocus heterozygosity is generally advantageous in outbreeding species (Beardmore 1983, Soule 1980, and references cited below). (The genetic bases of these two corollaries may be the same: homozygosity for deleterious, recessive alleles.) Finally, natural selection will be less effective in small populations because of genetic drift and the loss of potentially adaptive genetic variation (Franklin 1980)
 
+[[intrinsic value of nature|intrinsic value of species]]
+>"Species have value in themselves, a value neither conferred nor revocable, but springing from a species' long evolutionary heritage and potential or even from the mere fact of its existence"
+
+^50ef53
+
+other normative postulates of conservation biology
+>biotic diversity has intrinsic value (...) this postulate is the most fundamental
+>ecological complexity is good
+>diversity of organisms is good
+>evolution is good
+
+^13cd75
+
+
+
 ^4d3f94
 [[island biogeography]] and [[environmental policy]] : reserve = no [[immigration]] while [[extinction]] is natural and is not replaced by natural [[speciation]]
 >  nature reserves are inherently disequilibrial for large, rare organisms

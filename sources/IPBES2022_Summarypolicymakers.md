@@ -9,7 +9,7 @@ itemKey: ZS6PBYIH
 > Summary for policymakers of the methodological assessment of the diverse values and valuation of nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)
 > [[IPBES]], 
 > [[IPBES]] (2022)
-> [[Valuation]], [[IPBES]], [[Decision making]], [[Diverse values]], [[Methods]], [[Summary for policymakers]], [[Values assessment]], 
+> [[Valuation]], [[IPBES]], [[Decision making]], [[Diverse values]], [[Methods]], [[Summary for policymakers]], [[environmental ethics]], 
 > [Online link](https://zenodo.org/records/7410287), [Zotero Item](zotero://select/library/items/ZS6PBYIH), local: [PDF.pdf](file://C:/Users/aburg/Documents/references/zotero/storage/QZY64BWP/IPBES2022_Summarypolicymakers.pdf), 
 
 >[!abstract]-
