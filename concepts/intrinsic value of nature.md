@@ -5,7 +5,6 @@ aliases:
   - intrinsic value
 ---
 It is debatted whereas **nature has intrinsic value**. This is a question related to [[environmental ethics]]: considering an intrinsic value of nature involves a [[environmental ethics|non-anthropocentric]] moral.
-
 objectivist vision: value in nature especially in species due to heritage in evolutionary process (natural historical value) or inherent value
 subjectivist vision: anthropogenic value although not anthropocentric
 

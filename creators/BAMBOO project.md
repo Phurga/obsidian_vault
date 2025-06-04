@@ -10,7 +10,7 @@ Important [[Horizon project]] focusing on improving biodiversity impact assessme
 WP1 : Quantify [[species diversity]] impacts
 WP2 : Quantify impacts on [[ecosystem function]]
 WP3 : Impacts of trade in raw and processed non-food biomass
-WP4 : Assess leverage points for [[nature conservation|biodiversity conservation]]
+WP4 : Assess leverage points for [[environmental ethics|biodiversity conservation]]
 WP5 : Exploitation & Dissemination
 WP6 : Coordination & Management
 WP7 : Retail Case Studies

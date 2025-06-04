@@ -9,9 +9,9 @@ It aims at capturing the "[[intrinsic value of nature]]", i.e. considers [[biodi
 
 ![[UNEP2016_GlobalGuidance#^7e28de]]
 
-
 See also:
-- [[LCIA method on ecosystem quality]].
+- [[LCIA method on ecosystem quality]]
+- [[life cycle impact assessment]]
 
 References:
 - [[Koellner2013_UNEPSETACguideline]]

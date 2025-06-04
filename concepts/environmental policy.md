@@ -13,10 +13,11 @@ conventions
 	- [[Kunming-Montreal Global Biodiversity Framework]]
 - [[Global Soil Partnership]]
 - [[UNEP]]
+- [[UnitedNations2023_Transformingour]]
+- [[IPBES]]
 [[environmental ethics]]
-- [[nature conservation]]
 - resource exploitation and environmental liberalism
-- nature as vector of identity
+- [[nature as identity]]
 tools for environmental policies
 - [[conservation biology]]
 - [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]]

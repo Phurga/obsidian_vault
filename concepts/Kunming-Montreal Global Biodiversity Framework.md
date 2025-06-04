@@ -6,7 +6,7 @@ aliases:
   - Global Biodiversity Framework
 ---
 The **Kunming-Montreal Global Biodiversity Framework** is a framework signed via the [[convention on biological diversity]] in 2022.
-It has a 2050 mission (vague) and many 2030 operational targets for nations related to [[nature conservation]].
+It has a 2050 mission (vague) and many 2030 operational targets for nations related to [[environmental ethics]].
 
 Main targets include:
 

@@ -17,6 +17,7 @@ itemKey: HB8RSKGV
 > Ecosystem quality is an area of protection dealing with terrestrial, freshwater, and marine ecosystems and biodiversity, focusing on the intrinsic value of ecosystems. Impacts from land or water use, eutrophication, acidification or toxic effects are impacting these different ecosystems.
 
 ^7e28de
+
 [[indicator for ecosystem quality]]
 > Currently, the majority of operational methods addressing ecosystem quality are related to species disappearance due to data availability. Due to data availability and the intrinsic character of this area of protection, the recommended metric for this AoP is biodiversity loss.
 
