@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conservation ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -170,7 +170,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,8 +282,9 @@
   },
   "active": "155dc5f8c53f49d7",
   "lastOpenFiles": [
-    "sources/Soule1985_WhatConservation.md",
+    "sources/Godet2017_Notiondebat.md",
     "concepts/conservation biology.md",
+    "sources/Soule1985_WhatConservation.md",
     "creators/Frontiers in Plant Science (journal).md",
     "socio.md",
     "creators/Frontiers in Ecology and Evolution (journal).md",
@@ -309,7 +311,6 @@
     "concepts/activity data.md",
     "misc/templates/new literature note (zotero).md",
     "concepts/species richness.md",
-    "concepts/nature conservation.md",
     "attachments/ISO2006_ISO14044_example.png",
     "attachments/ISO2006_ISO14044_pathway.png",
     "attachments/Debarre2025_RevampingLCIA_pathway.png",

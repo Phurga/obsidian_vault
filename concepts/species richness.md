@@ -7,4 +7,4 @@ tags:
 
 Note: [[species diversity]] is different from species richness: diversity indices account for both richness and abundance to derive compositional similarity indices.
 
-On the widespread use of richness as a [[measures of biodiversity]]:![[Vellend2017_BiodiversityConservation#^763919]]
+On the widespread use of richness as a [[measures of biodiversity]]:![[Vellend2017_BiodiversityConservation#^763919]] ^65e023
