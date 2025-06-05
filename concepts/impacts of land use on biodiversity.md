@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea
+  - concept/idea/important
 aliases:
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea
+  - concept/idea/important
 ---
 FIRST
 
@@ -14,3 +14,9 @@ AND
 
 IDEAS:
 use functions or genes as a basis for soil biodiversity (not species composition but what species provide: genetic pool and ecosystem functions)
+
+## current tracks
+[[chosing relevant indicators]]
+[[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]]
+[[protecting above-ground biodiversity is not always sufficient to protect soil biodiversity]]
+[[alpha diversity in relative species loss is not relevant]]

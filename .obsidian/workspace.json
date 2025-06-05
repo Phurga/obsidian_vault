@@ -21,23 +21,60 @@
               "icon": "lucide-file",
               "title": "Orgiazzi2015_Soilbiodiversity"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9b36512e3b83ef9e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "882175b2fba2cf8a",
+            "id": "95d693cc5e330f32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Semenov2021_MetabarcodingMetagenomics.md",
+                "file": "concepts/using soil eDNA to study soil biodiversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Semenov2021_MetabarcodingMetagenomics"
+              "title": "using soil eDNA to study soil biodiversity"
+            }
+          },
+          {
+            "id": "01e4b9c3432fb2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/impacts of land use on biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "impacts of land use on biodiversity"
+            }
+          },
+          {
+            "id": "33bac7f9ea78d963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/what would be a good indicator for degradation of ecosystem quality applicable to soil organisms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "what would be a good indicator for degradation of ecosystem quality applicable to soil organisms"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,10 +106,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metagenomics metagenetics",
+                "query": "tag:#concept/idea",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -100,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 536.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -131,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Orgiazzi2015_Soilbiodiversity.md",
+                "file": "concepts/what would be a good indicator for degradation of ecosystem quality applicable to soil organisms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +178,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orgiazzi2015_Soilbiodiversity"
+              "title": "Backlinks for what would be a good indicator for degradation of ecosystem quality applicable to soil organisms"
             }
           },
           {
@@ -185,18 +222,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Orgiazzi2015_Soilbiodiversity.md"
+                "file": "concepts/what would be a good indicator for degradation of ecosystem quality applicable to soil organisms.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Orgiazzi2015_Soilbiodiversity"
+              "title": "File properties for what would be a good indicator for degradation of ecosystem quality applicable to soil organisms"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +242,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "155dc5f8c53f49d7",
+  "active": "02350dbab455fbf7",
   "lastOpenFiles": [
-    "sources/Semenov2021_MetabarcodingMetagenomics.md",
-    "confusing metagenomics and metagenetics.md",
+    "concepts/impacts of land use on biodiversity.md",
+    "concepts/chosing relevant indicators.md",
+    "concepts/application of the current LCA framework to soil biodiversity.md",
+    "concepts/using soil eDNA to study soil biodiversity.md",
     "sources/Orgiazzi2015_Soilbiodiversity.md",
+    "use of DNA to study soil biodiversity.md",
     "attachments/Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png",
+    "sources/Semenov2021_MetabarcodingMetagenomics.md",
+    "concepts/BOLD Systems.md",
+    "concepts/barcode of life consortium.md",
+    "confusing metagenomics and metagenetics.md",
     "concepts/metagenomics.md",
     "sources/IPBES2022_Summarypolicymakers.md",
     "sources/Debarre2025_RevampingLCIA.md",
@@ -228,15 +271,9 @@
     "creators/Frontiers in Ecology and Evolution (journal).md",
     "concepts/intrinsic value of nature.md",
     "concepts/environmental ethics.md",
-    "concepts/values assessment.md",
     "attachments/Pasted image 20250604154556.png",
     "attachments/Himes2024_Whynature_values.png",
-    "concepts/Kantian ethics.md",
-    "ethical postulates in conservation biology.md",
-    "Soule1985_WhatConservation^.md",
-    "creators/IPBES.md",
     "attachments/IPBES2022_Summarypolicymakers_values.png",
-    "concepts/environmental policy.md",
     "attachments/ISO2006_ISO14044_example.png",
     "attachments/ISO2006_ISO14044_pathway.png",
     "attachments/Debarre2025_RevampingLCIA_pathway.png",

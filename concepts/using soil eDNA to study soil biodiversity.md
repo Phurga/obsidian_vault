@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea
+  - concept/idea/important
 ---
 eDNA methods for invertebrates communities is not mature yet, different markers lead to different results, and taxon specific results (annelids vs arthropods), and anyway most OTU remain unidentified ([[Kirse2021_UnearthingPotential]])
 
@@ -18,7 +18,9 @@ eDNA datasets were used in [[deep species distribution model]]s to derive soil o
 
 there is a temporal variability in soil microbiome, leading to challenges when using eDNA databases that do not sample at the same period of the year ([[ORCHAMP]])
 
-#todo/read [[Orgiazzi2015_Soilbiodiversity]]
+[[Orgiazzi2015_Soilbiodiversity]]:
+
+
 
 #todo/question 
 creation of eDNA maps from eDNA samples for species distribution models (SDM)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea
+  - concept/idea/important
 ---
 #todo/refactor
 [[soil biodiversity|soil biodiversity]] [[life cycle assessment]] [[biodiversity]] 

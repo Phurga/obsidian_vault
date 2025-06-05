@@ -45,7 +45,7 @@ disturbance gradients: [[land use intensity]]
 [[food web networks metrics]]
 > For this, one approach consists of summarising the structure of the food web through network metrics (e.g. connectance, modularity, vulnerability, etc) and related them to ecological processes (Braga et al. 2019), but the real meaning of these metrics or the ecological information they provide still in debate (Thompson et al. 2012).
 
-[[use of soil eDNA sequencing methods to measure soil species richness]]
+[[using soil eDNA to study soil biodiversity]]
 > The detection of DNA in a soil sample may occur because the living organism is present in the sample in an active or dormant stage (e.g. bacteria), or because traces remain to attest to the presence of the organism in the sample or in its vicinity revealing its presence in the community (e.g. carcasses, skin, faeces, body fluid, etc) (Barnes & Turner 2016)
 
 [[low correlation between OTU read abundance and species true abundance]]

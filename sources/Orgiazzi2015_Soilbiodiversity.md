@@ -22,9 +22,10 @@ Metabarcoding (identification of gene sequences and deriving OTU)
 Metagenomics (identification of full genome of organisms, with genes and associated morpho and functional characteristics)
 
 [[confusing metagenomics and metagenetics]]
-![[Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png]]
+[[Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png]]
 
-
+[[using soil eDNA to study soil biodiversity]]
+>This increasing interest must be taken into account and will entail facing challenges including: (i) moving towards a complete study of soil organisms (ii) standardization of operating procedures and continuing methodological developments, (iii) creation and sharing databases and referential procedures, and (iv) preventing the loss of data derived from metabarcoding.
 
 %% end notes %%
 
