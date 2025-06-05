@@ -7,3 +7,5 @@ The diversity of biological systems is **dynamic** : its composition, structure 
 Rapid, powerful changes can break the system's ability to find an equilibrium, leading to reduced functionality, or collapse (e.g. desertification). 
 
 An ecosystem's biocenose is continuously changing, even without external (human) interventions. Biodiversity conservation does not consist in halting species extinction, but avoiding causing it. It is estimated that over 99 percent of all species that ever lived on Earth are now extinct #todo/refneeded.
+
+![[Byers2024_Landuse#^d9787f]]

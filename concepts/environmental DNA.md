@@ -21,13 +21,19 @@ It is used to detect the presence of organisms, living or recently dead due to [
 
 metagenomics vs DNA metabarcoding [wikipedia](https://en.wikipedia.org/wiki/Metagenomics)
 > The main difference is the underlying methodology, since metagenomics targets all DNA in a sample, while \[barcoding or metabarcoding] amplifies and sequences one or multiple specific genes.
+
+### sequencing procedure
+[[Byers2024_Landuse#^cea6c2]]
 ## External resources
 definitions [[Prosser2015_Dispersingmisconceptions]]
 [iucn - eDNA](https://iucn.org/resources/issues-brief/environmental-dna)
 [wikipedia - metabarcoding](https://en.wikipedia.org/wiki/Metabarcoding)
 [[drive5 - Robert C. Edgar Blog]]
 Taberlet, P., Bonin, A., Zinger, L., & Coissac, E. (2018). Environmental DNA: for biodiversity research and monitoring. New York: Oxford University Press (from [[Calderon-Sanou2022_betterunderstanding]])
-
+## soil sampling
+Example procedure:
+[[Byers2024_Landuse#^a45e7f]]
 ## data sources
-[[BOLD Systems]] is a source of DNA barcodes
+[[BOLD Systems]] is a source of DNA barcodes (but not a source of environmental DNA sampling !)
 [[GlobNets ]](incl. [[ORCHAMP]])
+[[LUCAS#soil module]]
