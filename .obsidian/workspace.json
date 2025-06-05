@@ -13,103 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/conservation biology.md",
+                "file": "sources/Orgiazzi2015_Soilbiodiversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conservation biology"
+              "title": "Orgiazzi2015_Soilbiodiversity"
             }
           },
           {
-            "id": "0d07a56ce8539885",
+            "id": "882175b2fba2cf8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Soule1985_WhatConservation.md",
+                "file": "sources/Semenov2021_MetabarcodingMetagenomics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Soule1985_WhatConservation"
-            }
-          },
-          {
-            "id": "709c25c6392b8428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Himes2024_Whynature.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Himes2024_Whynature"
-            }
-          },
-          {
-            "id": "770dd7946f655563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Debarre2025_RevampingLCIA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Debarre2025_RevampingLCIA"
-            }
-          },
-          {
-            "id": "e6b959d8dc40f099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Soule1985_WhatConservation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Soule1985_WhatConservation"
-            }
-          },
-          {
-            "id": "1c35087a722b47ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Debarre2025_RevampingLCIA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Debarre2025_RevampingLCIA"
-            }
-          },
-          {
-            "id": "f610c6ecb2bdbd4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/IPBES2022_Summarypolicymakers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "IPBES2022_Summarypolicymakers"
+              "title": "Semenov2021_MetabarcodingMetagenomics"
             }
           }
         ]
@@ -144,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conservation ",
+                "query": "metagenomics metagenetics",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -206,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/conservation biology.md",
+                "file": "sources/Orgiazzi2015_Soilbiodiversity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conservation biology"
+              "title": "Backlinks for Orgiazzi2015_Soilbiodiversity"
             }
           },
           {
@@ -260,17 +185,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/conservation biology.md"
+                "file": "sources/Orgiazzi2015_Soilbiodiversity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for conservation biology"
+              "title": "File properties for Orgiazzi2015_Soilbiodiversity"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,35 +208,35 @@
   },
   "active": "155dc5f8c53f49d7",
   "lastOpenFiles": [
-    "sources/Godet2017_Notiondebat.md",
-    "concepts/conservation biology.md",
+    "sources/Semenov2021_MetabarcodingMetagenomics.md",
+    "confusing metagenomics and metagenetics.md",
+    "sources/Orgiazzi2015_Soilbiodiversity.md",
+    "attachments/Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png",
+    "concepts/metagenomics.md",
+    "sources/IPBES2022_Summarypolicymakers.md",
+    "sources/Debarre2025_RevampingLCIA.md",
     "sources/Soule1985_WhatConservation.md",
+    "sources/Himes2024_Whynature.md",
+    "creators/European Union Soil Observatory.md",
+    "concepts/organisations related to soil biodiversity.md",
+    "misc/TODO.md",
+    "sources/ISO2006_ISO14044.md",
+    "concepts/conservation biology.md",
+    "sources/Godet2017_Notiondebat.md",
     "creators/Frontiers in Plant Science (journal).md",
     "socio.md",
     "creators/Frontiers in Ecology and Evolution (journal).md",
     "concepts/intrinsic value of nature.md",
     "concepts/environmental ethics.md",
-    "sources/Himes2024_Whynature.md",
     "concepts/values assessment.md",
     "attachments/Pasted image 20250604154556.png",
     "attachments/Himes2024_Whynature_values.png",
-    "sources/Debarre2025_RevampingLCIA.md",
     "concepts/Kantian ethics.md",
     "ethical postulates in conservation biology.md",
     "Soule1985_WhatConservation^.md",
-    "sources/IPBES2022_Summarypolicymakers.md",
     "creators/IPBES.md",
     "attachments/IPBES2022_Summarypolicymakers_values.png",
     "concepts/environmental policy.md",
-    "creators/United Nations.md",
-    "sources/UnitedNations2023_Transformingour.md",
-    "concepts/soil function.md",
-    "concepts/ecosystem function.md",
-    "concepts/ecological functionning.md",
-    "concepts/social-ecological system.md",
-    "concepts/activity data.md",
-    "misc/templates/new literature note (zotero).md",
-    "concepts/species richness.md",
     "attachments/ISO2006_ISO14044_example.png",
     "attachments/ISO2006_ISO14044_pathway.png",
     "attachments/Debarre2025_RevampingLCIA_pathway.png",
@@ -321,7 +247,6 @@
     "attachments/Imbert2021_RMQScomme_results.png",
     "attachments/Imbert2021_RMQScomme_methods.png",
     "attachments/Pasted image 20250602083554.png",
-    "attachments/Cousin2025_Preserverqualite_history.png",
     "misc/meetings",
     "New Text Document.txt",
     "misc/setup/sidenote-callout.css",

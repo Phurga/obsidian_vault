@@ -10,7 +10,6 @@ A metagenome is built using high throughput [[environmental DNA]]s.
 ![[wikipedia_metagenomics_method.jpg]]
 
 Note:
-[[Semenov2021_MetabarcodingMetagenomics]]
-> Metagenomics studies collections of genomes, while metagenetics studies collections of individual genes (D’Amore et al., 2016; Bohan et al., 2017)
+[[confusing metagenomics and metagenetics]]
 
 [[Prosser2015_Dispersingmisconceptions]] provides a list of limitations in the use of the metagenome as a tool for soil ecology.
