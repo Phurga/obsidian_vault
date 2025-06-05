@@ -29,7 +29,9 @@ Important references:
 ## reproduction
 Reproduction is variable: between 40 and 1000 eggs per cycle, cycle between few days to 1 year.
 Nematodes are slow in soils but can put their eggs on the surface where they will be dispersed via wind.
-## cp groups
+## maturity index, cp groups
+The maturity index [[Bongers1990_maturityindex]] is an index based on nematode composition to define the maturity of an ecosystem.
+
 cp groups is a classification of nematodes indicating the maturity/stability of an ecosystem: cp1 is for new ecosystems while cp5 is for steady ecosystems 
 ![[Trap2025_Nematodes_cp_groups.png|600]]
 ## ecological functions

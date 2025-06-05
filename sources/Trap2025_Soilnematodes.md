@@ -13,7 +13,7 @@ itemKey: Q8LTHF2H
 > [Online link](), [Zotero Item](zotero://select/library/items/Q8LTHF2H), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/RPN2GL59/_04_Nematodes_JTrap_FormationEcologieDuSol_2024.pdf), 
 
 # Notes %% begin notes %%
-Key concepts on [nematodes](app://obsidian.md/nematodes), their anatomy, diversity, functions.
+Key concepts on [[nematode]], their anatomy, diversity, functions.
 %% end notes %%
 
 

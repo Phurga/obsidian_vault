@@ -16,7 +16,7 @@ itemKey: 8XXALQKE
 Introduction can be reused for context on soil biodiversity.
 
 [[use of abundance and richness for microorganisms diversity]]
->For soil organisms, the traditional measures of abundance can vary across taxonomic subfields and can represent a real challenge for some organisms, e.g., delimiting fungal individuals. Biomass or relative abundances retrieved form DNA sequencing methods could be more adequate measures of abundance to be compare across soil organisms from different kingdoms (Fierer et al. 2009; Shade et al. 2018)
+>For soil organisms, the traditional measures of abundance can vary across taxonomic subfields and can represent a real challenge for some organisms, e.g., delimiting fungal individuals. Biomass or relative abundances retrieved form DNA sequencing methods could be more adequate measures of abundance to be compare across soil organisms from different kingdoms (Fierer et al. 2009; Shade et al. 2018).
 
 ^b92ab3
 

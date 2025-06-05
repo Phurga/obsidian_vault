@@ -7,6 +7,16 @@ tags:
 # weekly amandine/arnaud
 
 ## Next
+- sujets actuels
+	- [[what would be a good indicator for degradation of ecosystem quality applicable to soil organisms]] (indicator)
+	- [[using soil eDNA to study soil biodiversity]] (data)
+	- [[impacts of land use on biodiversity]] (method)
+	- [[application of the current LCA framework to soil biodiversity]] (state )
+- comité de thèse (voir adum et doctorants)
+	- itap ()
+	- gaia (cecile bessou)
+	- externe (mickael hedde ? guido ?)
+## Archive
 - tase bullet point [file](file:///C:\Users\aburg\Documents\communication_interne\TASE_slide_WPleaders_2025_INRAE.pptx)
 - inscription TASE
 - [[Burg2025_nematode_exploration]]
@@ -24,11 +34,6 @@ tags:
 
 
 - ecole chercheur https://clapas.umontpellier.fr/ecoles-chercheur-es-et-ateliers-clapas/ecole-chercheur-sur-la-biodiversite-fonctionnelle-dans-les-agrosystemes/
-- comité de thèse (voir adum et doctorants)
-	- itap ()
-	- gaia (cecile bessou)
-	- externe ()
-## Archive
 - abstract MCV
 -  [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]] > choice of indicator should be driven by conservation policies so i must know more about conservation policies
 - meier 2019 extension biomaps

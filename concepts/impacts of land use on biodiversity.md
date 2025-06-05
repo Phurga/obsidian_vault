@@ -3,9 +3,8 @@ tags:
   - concept/idea/important
 aliases:
 ---
-
+## current knowledge
 Human use land as a resource and modify the natural environment to increase the value of this resource. These modications lead to the destruction of some [[biotope|ecological niches]], and the creation of others. There is usually a net destruction of niches since human favour specialisation, hence homogeneisation of the environment.
-
 
 Example with [[earthworm]] in France: local taxonomic richness of earthworms has increased ([[Hedde2025_Diversityroles]]).
 ![[Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png|200]]
@@ -41,3 +40,4 @@ Soil work ([[tillage]]) leads to [[soil compaction]] which destroys soil [[soil 
 It is possible to study and represent [[food web|trophic chains]] in an ecosystem and assess the response to a perturbation (before after network) [[Hedde2025_Diversityroles]], to be published.
 
 Cultivated ecosystems show more (soil) biodiversity than non cultivated ([[Hedde, Mickael]], [[Labouyrie2023_Patternssoil]]).
+

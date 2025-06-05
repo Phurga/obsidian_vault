@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea/important
+  - concept/idea
 ---
 Extract of [[Cousin2025_Preserverqualite]]
 

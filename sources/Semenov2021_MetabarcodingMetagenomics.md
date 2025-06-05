@@ -19,6 +19,9 @@ itemKey: X8T3QGM7
 [[confusing metagenomics and metagenetics]]
 > Metagenomics studies collections of genomes, while metagenetics studies collections of individual genes (D’Amore et al., 2016; Bohan et al., 2017)
 
+^8f148b
+
+
 %% end notes %%
 
 
