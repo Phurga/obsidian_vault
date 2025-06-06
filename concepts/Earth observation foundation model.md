@@ -13,7 +13,7 @@ For instance, a global coverage of climate data and land cover data could be use
 SatDINO
 Others mentionned in [[DeepSDM 4 - Selene Cerna]]
 ## embeddings
-An **embedding** is a key concept in EOF. When an EOF models is trained, it produces embeddings, ie signatures of specific abstract patterns, translated into vectors combining the multiple layers fed in inputs. One can work with the embeddings instead of working with the original hyperspectral
+An **embedding** is a key concept in EOF. When an EOF models is trained, it produces embeddings, ie signatures of specific environmental patterns. Embeddings are stored as vectors which are combinations of the multiple input layers. One can work with the embeddings instead of working with the original hyperspectral data (lighter).
 ## Application for soil biodiversity
 [[Cerna, Selene]] has been using EOF to derive soil biodiversity coverage (at taxon level, granularity is 51 taxonomic group based on large taxonomic families and trophic mode - e.g. fungal feeding nematodes).
 

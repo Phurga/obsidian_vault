@@ -3,7 +3,9 @@ tags:
   - creator/event
 ---
 [[Earth observation foundation model]] such as DOFA
-
+[[remote sensing data sources]]:
+- MSI: multi-spectral imagery (from Sentinel 2)
+- SAR: radar data (from Sentinel 1)
 ![[Deep SDM 4_models_EOF.png]]
 
 ![[Deep SDM 4_soil_biodiversity_prediction.png]]

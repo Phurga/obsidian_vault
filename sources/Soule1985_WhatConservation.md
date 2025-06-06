@@ -2,7 +2,7 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.2307/1310054
+doi: "10.2307/1310054"
 itemKey: WWPHT6KA
 ---
 >[!metadata]+
@@ -10,7 +10,7 @@ itemKey: WWPHT6KA
 > [[Soulé, Michael E.]], 
 > [[BioScience (journal)]] (1985)
 > [[ecology]], [[conservation biology]], 
-> [Online link](https://www.jstor.org/stable/1310054), [Zotero Item](zotero://select/library/items/WWPHT6KA), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/D4WVWAAY/Soule1985_WhatConservation.pdf), 
+> [Online link](https://www.jstor.org/stable/1310054), [Zotero Item](zotero://select/library/items/WWPHT6KA), local: [JSTOR Full Text PDF.pdf](file://C:/Users/aburg/Documents/references/zotero/storage/D4WVWAAY/Soule1985_WhatConservation.pdf), 
 
 # Notes %% begin notes %%
 [[environmental ethics]] and [[conservation biology]]
@@ -46,4 +46,4 @@ other normative postulates of conservation biology
 
 
 
-%% Import Date: 2025-06-04T11:02:47.870+02:00 %%
+%% Import Date: 2025-06-06T11:45:15.877+02:00 %%

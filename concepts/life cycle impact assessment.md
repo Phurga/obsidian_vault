@@ -57,3 +57,7 @@ Midpoint categories can have the same name as endpoints categories. The differen
 Some methods avoid calculating impact down to AOPs, and thus consider some midpoints as endpoints, leading to confusions in the LCA community.
 ## single score
 The use of a single score is allowed in the [[ISO2006_ISO14044]] but is generally discouraged due to increased uncertainty and value choices introduced by normalization and weighting procedures.
+## other pathways
+![[MaiaDeSouza2015_Assessingbiodiversity_pathway.png]]
+
+![[Debarre2025_RevampingLCIA_pathway.png]]

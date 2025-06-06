@@ -20,7 +20,7 @@ Using deep SDM is found to provide better results than classical statistical mod
 ## existing deep sdm models
 See the [[LifeCLEF]] benchmark
 ## References
-[[Deep SDM conference]]
+[[DeepSDM 2025]]
 Some general references: 
 - B. Kellenberger et al .. Training techniques for presence-only habitat suitability mapping with deep learning. In IEEE IGARSS, 2022.
 - N. van Tiel, et al. Multi-scale and multi- modal species distribution modelling. In ECCV workshops, Computer Vision for Ecology, 2024.

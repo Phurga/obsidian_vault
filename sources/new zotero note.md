@@ -1,8 +1,8 @@
 ---
 tags:
-  - source/{% if itemType %}{{itemType}}{% endif %}
+  - source{% if itemType %}/{{itemType}}{% endif %}
   - zotero
-doi: {% if DOI %}{{DOI}}{% endif %}
+doi: {% if DOI %}"{{DOI}}"{% endif %}
 itemKey: {{itemKey}}
 ---
 >[!metadata]+
@@ -21,25 +21,13 @@ itemKey: {{itemKey}}
     {%- case "preprint" -%}Preprint
 {%- endswitch %} ({{date | format("YYYY")}})
 > {% for tag in tags %}[[{{tag.tag}}]], {% endfor %}
-> [Online link]({{url}}), [Zotero Item]({{desktopURI}}), local: {% for attachment in attachments | filterby("path", "endswith", ".pdf") %}[{{attachment.title}}.pdf](file://{{attachment.path | replace(" ", "%20") | replace("\\", "/")}}), {% endfor %}{% if abstractNote %}
+> [Online link]({{url}}), [Zotero Item]({{desktopURI}}), local: {% for attachment in attachments | filterby("path", "endswith", ".pdf") %}[{{attachment.title}}.pdf](file://{{attachment.path | replace(" ", "%20") | replace("\\", "/")}}), {% endfor %}
 
+{% if abstractNote -%}
 >[!abstract]-
->{{abstractNote}}{%- endif %}
+>{{abstractNote}}
+{%- endif %}
 
-# Notes {% persist "notes" %}
+## Notes {% persist "notes" %}
 
 {% endpersist %}
-
-{% if annotations|length %}# Zotero notes{% endif %}
-{% for annotation in annotations -%}
-{%- switch annotation.type %}
-{% case "text" %}> {{annotation.comment}}
-
-{% case "note" %}> {{annotation.comment}}
-	
-{% case "highlight" %}> {{annotation.annotatedText}}
-	
-{% case "image" %}![[{{annotation.imageRelativePath}}|600]]
-	
-{% endswitch -%}
-{%- endfor -%}
