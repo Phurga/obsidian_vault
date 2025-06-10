@@ -8,7 +8,7 @@ law
 	- [[FranceGouvernement2021_LOIndeg|loi climat et résilience]]
 - land beyond soil ("foncier", landscape)
 - air and water policy
-conventions
+institutions
 - [[convention on biological diversity]]
 	- [[Kunming-Montreal Global Biodiversity Framework]]
 - [[Global Soil Partnership]]

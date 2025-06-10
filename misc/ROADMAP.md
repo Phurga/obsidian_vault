@@ -21,11 +21,12 @@ Questions to answer
 2. proposal of an alternative indicator
 	- reduction in soil function (ecosytem quality as ecosytem functioning,use of soil quality framework)
 	- reduction in mean multi-trophic group abundance (MGA)
-	- reduction in unique habitat area (ecosystem diversity)
+	- reduction in unique habitat area (ecosystem diversity, [[red list of ecosystems]], [[EUNIS]] classification, ecoregion loss)
 	- stress on evolutionary potential (genetic diversity)
 ### main trends in soil biodiversity to account for
--  [[Labouyrie2023_Patternssoil]]
-- [[Cameron2019_Globalmismatches]]
+- patterns of land use and land use intensity [[Labouyrie2023_Patternssoil]]
+- geographical patterns [[Cameron2019_Globalmismatches]]
+- adjusted to conservation policies
 ### calculation of the indicator
 1. 
 2. estimate average MGA for a given ecoregion under a given land use

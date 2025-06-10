@@ -17,7 +17,22 @@ itemKey: 3FACZ9YW
 
 # Notes %% begin notes %%
 definition of [[biodiversity intactness index]]
+
+> The BII is an indicator of the average abundance of a large and diverse set of organisms in a given geographical area, relative to their reference populations. ^b08fcb
+
+> We recommend calculating the BII across all species within the broad taxonomic groups that are reasonably well described. For most parts of the world this **includes plants and vertebrates, and excludes invertebrates and microbes**, which are diverse but poorly documented. We exclude alien species in the calculation of the index. ^b3f06c
+
+> In the case of biodiversity, we estimate the impacts of a set of land use activities on the population sizes of groups of ecologically similar species (‘functional types’).
+
+> A total of 4,650 estimates of _I__ijk_ were made, comprising five broad taxonomic groups, each with at least three experts, six ecosystem types, an average of six land use activities and eight functional types.
+
+^9c5bef
+
+
+
+
 %% end notes %%
+
 
 
 

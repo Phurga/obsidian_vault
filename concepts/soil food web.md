@@ -8,8 +8,8 @@ The soil [[food web]] is a simplified model representing the trophic relationshi
 In this model, organisms can be grouped by [[taxonomy|species]] but since species definitions are challenging for microorganisms, organisms can also be grouped by functional roles, by taxon (clades) and by trophic groups, as is done in [[FAO2020_Stateknowledge]].
 ## functional roles
 In this model, several classes are defined related to the function of species in the soil:
-1. [[autotroph|primary producers]] are plants, and plant biomass is accessed through roots, but also some algae and bacteria. Plants produce sugar for their own direct function, but also send a portion of this energetic molecules as [[exudates]] through their roots to attract microorganisms for [[symbiosis|symbiotic relationship]]s.
-2. The microfood web, composed of [[microorganism]] (bacteria, fungi), decompose these exudates and store nutrients in the [[rhizosphere]]. [[microfauna]] (protozoa and nematodes) feeds of these microorganisms.
+1. [[autotroph|primary producers]] are plants, and plant biomass is accessed through roots, but also some algae and bacteria. Plants produce sugar for their own direct function, but also send a portion of this energetic molecules as exudates through their roots to attract microorganisms for [[symbiosis|symbiotic relationship]]s.
+2. The **microfood web**, composed of [[microorganism]] (bacteria, fungi), decompose these exudates and store nutrients in the [[rhizosphere]]. [[microfauna]] (protozoa and nematodes) feeds of these microorganisms.
 3. [[litter transformer]], composed of [[soil mesofauna]] (microarthropods), breaking down litter into smaller parts, increasing active surface for microorganisms activity and enabling the microfood web.
 4. [[ecosystem engineer]], composed of [[soil macrofauna]] (eg worms, macroarthropods) and [[megafauna]] (eg mammals) modify [[soil structure]] at larger scale by moving through the soil, creating habitat for litter transformers.
 5. Other [[predation]]y arthropods feed of the micro and mesofauna, with increased mobility, favouring the cycling and spreading of energy and nutrients.

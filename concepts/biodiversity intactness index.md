@@ -3,12 +3,24 @@ tags:
   - concept/definition
 ali: BII
 ---
-The **Biodiversity Intactness Index (BII)** is biodiversity indicator a measure of ecosystem intactness compared to a reference situation baesd on organisms abundance and diversity.
+The **Biodiversity Intactness Index (BII)** is a biodiversity indicator, measuring ecosystem intactness compared to a reference situation based on organisms abundance and diversity.
 
-[[Scholes2005_biodiversityintactness]]
-> The BII is an indicator of the average abundance of a large and diverse set of organisms in a given geographical area, relative to their reference populations.
+Defined in [[Scholes2005_biodiversityintactness]]
+![[Scholes2005_biodiversityintactness#^b08fcb]]
+## coverage
+![[Scholes2005_biodiversityintactness#^9c5bef]]
+### taxonomic
+![[Scholes2005_biodiversityintactness#^b3f06c]]
+
+Functional taxonomic groups are:
+- plants
+- mammals
+- reptiles
+- bids
+- amphibia
 
 ## Formula
+The BII depends on the taxon richness, 
 > The BII gives the average richness- and area-weighted impact of a set of activities on the populations of a given group of organisms in a specific area. The population impact (_I__ijk_) is defined as the population of species group _i_ under land use activity _k_ in ecosystem _j_, relative to a reference population in the same ecosystem type. The BII is calculated as:
 > ![](https://media.springernature.com/lw427/springer-static/image/art%3A10.1038%2Fnature03289/MediaObjects/41586_2005_Article_BFnature03289_Equa_HTML.gif)
 > where $R_{ij}$ = richness (number of species) of taxon $i$ in ecosystem $j$, and $A_{jk}$ = area of land use $k$ in ecosystem $j$.

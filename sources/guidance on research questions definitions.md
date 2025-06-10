@@ -1,3 +1,9 @@
+---
+tags:
+  - source/LLMoutput
+---
+ChatGPT
+03 june
 # q1
 identify my main thematics and identify research questions that can bring new scientific knowledge.
 my phd thesis is "better integration of soil biodiversity in life cycle assessment" i need to create a set of characterization factors accounting for human damage on soil organisms from land use. I have consolidated data on soil ecology and lcia on biodiversity, and on environmental dna and remote sensing. The files in the zip are my notes. I am doing a PHD and need a first article.

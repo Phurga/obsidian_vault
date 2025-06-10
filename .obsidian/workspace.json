@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/IUCN global ecosystem typology.md",
+                "file": "sources/guidance on research questions definitions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IUCN global ecosystem typology"
+              "title": "guidance on research questions definitions"
+            }
+          },
+          {
+            "id": "0eddfb9143951ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/biodiversity intactness index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "biodiversity intactness index"
+            }
+          },
+          {
+            "id": "71b188f47c08f176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/taxonomy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "taxonomy"
+            }
+          },
+          {
+            "id": "19662a033e85bc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Scholes2005_biodiversityintactness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Scholes2005_biodiversityintactness"
             }
           },
           {
@@ -67,7 +112,8 @@
               "title": "setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "above ground",
+                "query": "multi-trophic",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/IUCN global ecosystem typology.md",
+                "file": "concepts/biodiversity intactness index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +217,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IUCN global ecosystem typology"
+              "title": "Backlinks for biodiversity intactness index"
             }
           },
           {
@@ -215,10 +261,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/IUCN global ecosystem typology.md"
+                "file": "concepts/biodiversity intactness index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for IUCN global ecosystem typology"
+              "title": "File properties for biodiversity intactness index"
             }
           }
         ]
@@ -235,9 +281,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4373436394081ad7",
+  "active": "0eddfb9143951ff2",
   "lastOpenFiles": [
+    "concepts/taxonomy.md",
+    "sources/Scholes2005_biodiversityintactness.md",
     "sources/Keith2022_functionbasedtypology.md",
+    "concepts/biodiversity intactness index.md",
+    "sources/global nature conservation institutions.md",
+    "sources/guidance on research questions definitions.md",
+    "concepts/environmental policy.md",
+    "Untitled",
+    "misc/ROADMAP.md",
+    "concepts/soil food web.md",
+    "concepts/biome.md",
+    "concepts/ecoregion.md",
+    "concepts/red list of ecosystems.md",
     "concepts/IUCN global ecosystem typology.md",
     "attachments/Keith2022_functionbasedtypology_classification.webp",
     "attachments/Keith2022_functionbasedtypology_functional_group.webp",
@@ -245,12 +303,8 @@
     "attachments/IUCN global ecosystem typology_classification.webp",
     "attachments/IUCN global ecosystem typology_method.webp",
     "sources/Keith2020_IUCNGlobal.md",
-    "concepts/red list of ecosystems.md",
-    "concepts/ecoregion.md",
-    "concepts/biome.md",
     "sources/Dinerstein2017_EcoregionBasedApproach.md",
     "attachments/Dinerstein2017_EcoregionBasedApproach_ecoregion_map.png",
-    "misc/ROADMAP.md",
     "misc/IDEAS.md",
     "misc/setup/setup.md",
     "sources/Newbold2016_Globalpatterns.md",
@@ -262,13 +316,6 @@
     "concepts/EUNIS.md",
     "discours.md",
     "sources/DeBaan2013_LandUsea.md",
-    "sources/deBaan2013_Landuse.md",
-    "sources/new zotero note.md",
-    "sources/MaiaDeSouza2015_Assessingbiodiversity.md",
-    "sources/Soule1985_WhatConservation.md",
-    "sources/DeBaan2013_Landuse.md",
-    "sources/Ryo2021_Explainableartificial.md",
-    "sources/Koellner2013_Principleslife.md",
     "attachments/DeBaan2013_Landuse_indicators.png",
     "attachments/MaiaDeSouza2015_Assessingbiodiversity_pathway.png",
     "attachments/Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png",
@@ -282,7 +329,6 @@
     "misc/setup/sidenote-callout.css",
     "misc/checks",
     "resources",
-    "writing",
     "home canvas.canvas",
     "concept/test.canvas"
   ]
