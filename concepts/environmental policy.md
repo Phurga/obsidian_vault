@@ -9,6 +9,7 @@ law
 - land beyond soil ("foncier", landscape)
 - air and water policy
 institutions
+- [[global nature conservation institutions]]
 - [[convention on biological diversity]]
 	- [[Kunming-Montreal Global Biodiversity Framework]]
 - [[Global Soil Partnership]]

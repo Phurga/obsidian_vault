@@ -32,8 +32,11 @@ On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuit
 	- ecological networks
 	- trophic groups abundances
 	- todo ?
-- see also [[naturalness]]
-- [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
+- human disturbance of natural state
+	- [[naturalness]]
+- function
+	- [[biomass]]
+		- note: could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
 		- it is used in the [[planetary boundaries]] framework through [[HANPP]] as a "functional component of biosphere integrity"
 - evolutionary history
 	- [[species extinction risk]]
