@@ -28,92 +28,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/biodiversity intactness index.md",
+                "file": "concepts/measures of biodiversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "biodiversity intactness index"
+              "title": "measures of biodiversity"
             }
           },
           {
-            "id": "71b188f47c08f176",
+            "id": "9419330db9a739c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/taxonomy.md",
+                "file": "concepts/simpson index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "taxonomy"
+              "title": "simpson index"
             }
           },
           {
-            "id": "19662a033e85bc35",
+            "id": "b3a64cef5dfc7f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Scholes2005_biodiversityintactness.md",
+                "file": "sources/Simpson1949_MeasurementDiversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scholes2005_biodiversityintactness"
+              "title": "Simpson1949_MeasurementDiversity"
             }
           },
           {
-            "id": "91db34fd4bee0a68",
+            "id": "ad652a494273dd53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Keith2022_functionbasedtypology.md",
+                "file": "sources/Richardson2023_Earthsix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Keith2022_functionbasedtypology"
+              "title": "Richardson2023_Earthsix"
             }
           },
           {
-            "id": "d407445c949acdc7",
+            "id": "22712d28eca11138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/IDEAS.md",
+                "file": "sources/Rockstrom2009_safeoperating.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IDEAS"
-            }
-          },
-          {
-            "id": "e899a519521d1a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/setup/setup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "setup"
+              "title": "Rockstrom2009_safeoperating"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -207,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/biodiversity intactness index.md",
+                "file": "sources/Simpson1949_MeasurementDiversity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for biodiversity intactness index"
+              "title": "Backlinks for Simpson1949_MeasurementDiversity"
             }
           },
           {
@@ -261,17 +247,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/biodiversity intactness index.md"
+                "file": "sources/Simpson1949_MeasurementDiversity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for biodiversity intactness index"
+              "title": "File properties for Simpson1949_MeasurementDiversity"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,13 +268,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0eddfb9143951ff2",
+  "active": "b3a64cef5dfc7f0c",
   "lastOpenFiles": [
-    "concepts/taxonomy.md",
-    "sources/Scholes2005_biodiversityintactness.md",
+    "concepts/simpson index.md",
+    "sources/Simpson1949_MeasurementDiversity.md",
+    "concepts/environmental labelling.md",
+    "concepts/measures of biodiversity.md",
+    "sources/Richardson2023_Earthsix.md",
+    "creators/Rockström, Johan.md",
+    "concepts/ecosystem integrity.md",
+    "sources/Rockstrom2009_safeoperating.md",
+    "misc/setup/setup.md",
+    "misc/IDEAS.md",
     "sources/Keith2022_functionbasedtypology.md",
-    "concepts/biodiversity intactness index.md",
+    "sources/Scholes2005_biodiversityintactness.md",
+    "concepts/taxonomy.md",
     "sources/global nature conservation institutions.md",
+    "concepts/biodiversity intactness index.md",
+    "concepts/HANPP.md",
+    "concepts/brightway.md",
     "sources/guidance on research questions definitions.md",
     "concepts/environmental policy.md",
     "Untitled",
@@ -303,19 +302,7 @@
     "attachments/IUCN global ecosystem typology_classification.webp",
     "attachments/IUCN global ecosystem typology_method.webp",
     "sources/Keith2020_IUCNGlobal.md",
-    "sources/Dinerstein2017_EcoregionBasedApproach.md",
     "attachments/Dinerstein2017_EcoregionBasedApproach_ecoregion_map.png",
-    "misc/IDEAS.md",
-    "misc/setup/setup.md",
-    "sources/Newbold2016_Globalpatterns.md",
-    "concepts/PREDICTS.md",
-    "sources/Hudson2017_databasePREDICTS.md",
-    "sources/Cameron2019_Globalmismatches.md",
-    "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
-    "creators/European Commission.md",
-    "concepts/EUNIS.md",
-    "discours.md",
-    "sources/DeBaan2013_LandUsea.md",
     "attachments/DeBaan2013_Landuse_indicators.png",
     "attachments/MaiaDeSouza2015_Assessingbiodiversity_pathway.png",
     "attachments/Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png",

@@ -18,7 +18,8 @@ Functional taxonomic groups are:
 - reptiles
 - bids
 - amphibia
-
+### geographic
+6 ecosystem types are adressed (population impact is per ecosystem type) but richness data is associated to ecoregions
 ## Formula
 The BII depends on the taxon richness, 
 > The BII gives the average richness- and area-weighted impact of a set of activities on the populations of a given group of organisms in a specific area. The population impact (_I__ijk_) is defined as the population of species group _i_ under land use activity _k_ in ecosystem _j_, relative to a reference population in the same ecosystem type. The BII is calculated as:
@@ -27,5 +28,5 @@ The BII depends on the taxon richness,
 
 >[!warning] While [[species richness]] and area of [[land use]] are based readily available data, population impact $I_{ijk}$ is defined by experts based on field studies and is subject to expert opinions and misses data to be robust.
 ## Use
-Used in [[planetary boundaries]] framework until 2023 for functional diversity, then replaced by another metric.
+Used in [[planetary boundaries]] framework until 2023 for functional diversity ([[Richardson2023_Earthsix#^7c4021]]) now replaced with [[HANPP]] ([[Richardson2023_Earthsix#^8944cc]])
 Used in [[PREDICTS]], as biodiversity indicator to estimates impacts of increasing [[land use intensity]].

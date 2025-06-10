@@ -16,7 +16,7 @@ Three facets for biodiversity [[Godet2017_Notiondebat]]:
 
 On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuitability#^b4e371]]
 ## indicators
-- [[ecological composition|composition]]
+- taxonomic ([[ecological composition|composition]]) 
 	- [[species richness]]
 		- [[relative species loss ]](PDF)
 	- [[species abudance]]
@@ -26,7 +26,7 @@ On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuit
 	- compositional similarity
 		- [[sorensen similarity index]]
 		- fischer alpha
-		- simpson indicators
+		- [[simpson index]]
 		- [[Chao2005_newstatistical]]
 - [[biological interaction]]
 	- ecological networks
@@ -34,6 +34,12 @@ On the choice of the biodiversity indicator to use: ![[Santini2017_Assessingsuit
 	- todo ?
 - see also [[naturalness]]
 - [[biomass]] could be added, although it is also a measure of quantity and not diversity, it is statistically linked to it since increased number and mass of organisms leads to increase of genes and species.
+		- it is used in the [[planetary boundaries]] framework through [[HANPP]] as a "functional component of biosphere integrity"
+- evolutionary history
+	- [[species extinction risk]]
+		- and the derived [[loss of years of evolutionary history]]
+	- species extinction rate relative to 
+	- capacity to maintain evolutionary potential ([[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]])
 
 On using simple metrics:
 ![[Santini2017_Assessingsuitability#^b4e371]]

@@ -17,9 +17,19 @@ itemKey: W3NXAFSZ
 
 # Notes %% begin notes %%
 
+>Previously, Steffen _et al._ ([_2_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R2)) proposed using the Biodiversity Intactness Index (BII) ([_27_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R27)), an empirically based metric of human impacts on population abundances, as an interim proxy for functional biosphere integrity. It was noted, however, that the link of BII to Earth system functions remains poorly understood and BII cannot be directly linked to the planetary biogeochemical and energy flows relevant for establishing Earth system state. In addition, BII relies on expert elicitation to estimate temporal changes in species abundances/distributions, and this knowledge is not readily available for many regions, including the oceans. Martin _et al._ ([_28_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R28)) have also recently suggested that BII only partially reflects human impacts on Earth system.
+^7c4021
+
+> We therefore now replace this metric with a computable proxy for photosynthetic energy and materials flow into the biosphere ([_29_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R29)), i.e., net primary production (NPP), and define the functional component of the biosphere integrity boundary as a limit to the human appropriation of the biosphere's NPP (HANPP) as a fraction of its Holocene NPP. NPP is fundamental for both ecosystems and human societies as it supports their maintenance, reproduction, differentiation, networking, and growth. Biomes depend on the energy flow associated with NPP to maintain their planetary ecological functions as integral parts of Earth system. NPP-based energy flows into human societies should therefore not substantially compromise the energy flow to the biosphere ([_30_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R30)). The proxy complements the diversity-based dimensions of biosphere integrity, covered by the genetic component, which captures the importance of variability in living organisms for the functioning of ecosystems. The suitability of NPP and HANPP for defining a planetary boundary has previously been discussed by Running ([_31_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R31)) and Haberl _et al._ ([_32_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R32)).
+^8944cc
+
+> The planetary functioning of the biosphere ultimately rests on its genetic diversity, inherited from natural selection not only during its dynamic history of coevolution with the geosphere but also on its functional role in regulating the state of Earth system. Genetic diversity and planetary function, each measured through suitable proxies, are therefore the two dimensions that form the basis of a planetary boundary for biosphere integrity. As applied here, “integrity” does not imply an absence of biosphere change but, rather, change that preserves the overall dynamic and adaptive character of the biosphere.
+^f2c4f8
+
+> [[Rockstrom2009_safeoperating#^e416c8]] ([_1_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R1)) defined the planetary boundary for change in genetic diversity as the maximum extinction rate compatible with preserving the genetic basis of the biosphere’s ecological complexity. We retain the boundary level of <10 E/MSY (extinctions per million species-years).
+
+
 %% end notes %%
-
-
 
 
 %% Import Date: 2025-05-26T13:45:45.464+02:00 %%

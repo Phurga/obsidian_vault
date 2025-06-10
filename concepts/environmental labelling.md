@@ -23,7 +23,7 @@ The method for foods is based on the [[PEF method|EF method]] (single score), wi
 	- Hedgerows: refuges and sources of biodiversity
 	- Permanent grasslands: refuge zones and source of floral biodiversity in particular
 	- Plot size: smaller plots increase buffer zones and landscape diversity
-	- Territorial diversity: calculated using Simpson's index, reflects the integration of crops into diversified landscape mosaics favorable to biodiversity or, on the contrary, into homogeneous areas (e.g. monocultures).
+	- Territorial diversity: calculated using Simpson index, reflects the integration of crops into diversified landscape mosaics favorable to biodiversity or, on the contrary, into homogeneous areas (e.g. monocultures).
 	- Territorial balance: reflects the balance between animal and plant production on a departmental scale, with balanced production coupling contributing to the closing of nutrient cycles. In other words, the presence of a small amount of livestock is valued at the end of the circularity, while areas with "overload" are penalized.
 The principle of calculation goes as follows:
 1. calculate the LCA impacts using the PEF method,
