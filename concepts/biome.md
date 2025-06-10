@@ -4,6 +4,7 @@ tags:
 aliases:
   - habitat type
   - major habitat type
+  - biogeographic realm
 ---
 A biome is a set of [[ecosystem]]s with consistent a [[biotope]] and [[ecological composition]], it is also named "habitat type" or "major habitat type".
 

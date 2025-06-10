@@ -7,13 +7,25 @@ Questions to answer
 [[indicator for ecosystem quality applicable to soil biodiversity]]
 1. rationale on why the current indicator (PDF) cannot be used for soil biodiversity loss
 	- species based concept application to soil
+		- horizontal gene transfer, genetic pool
+		- orders of magnitude of species count
+		- identification of species
 	- speciation and population dynamics in microbial communities
-	- everything is everywhere : no extinction
+		- fast population dynamics for microbial communities
+		- reference situtation temporal dynamics
+		- reference situation climax vs land use
+	- everything is everywhere : 
+		- endemism, reference situation list of species
+		- the species area relationship, alpha diversity or gamma diversity
+		- extinction, dormancy
 2. proposal of an alternative indicator
 	- reduction in soil function (ecosytem quality as ecosytem functioning,use of soil quality framework)
 	- reduction in mean multi-trophic group abundance (MGA)
 	- reduction in unique habitat area (ecosystem diversity)
 	- stress on evolutionary potential (genetic diversity)
+### main trends in soil biodiversity to account for
+-  [[Labouyrie2023_Patternssoil]]
+- [[Cameron2019_Globalmismatches]]
 ### calculation of the indicator
 1. 
 2. estimate average MGA for a given ecoregion under a given land use

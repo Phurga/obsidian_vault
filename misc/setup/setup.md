@@ -12,6 +12,7 @@ tags:
 	- thunderbird
 - Instant messages on discord
 - Reference management
+	- access to reference using REVELEC (moz-proxy://revelec.inrae.fr:3128 and INRAE credentials)
 	- Zotero (account to store reference and metadata, note files)
 	- betterbibtex for custom short names of references
 	- search for new articles: web of science for complex searches
