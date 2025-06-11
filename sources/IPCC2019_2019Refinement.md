@@ -10,14 +10,11 @@ itemKey: 3VGH5NLJ
 > [[IPCC]], 
 > [[Intergovernmental Panel on Climate Change]] (2019)
 > 
-> [Online link](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch05_Cropland.pdf), [Zotero Item](zotero://select/library/items/3VGH5NLJ), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/8QBM3WVZ/IPCC2019_2019Refinement.pdf), 
+> [Online link](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch05_Cropland.pdf), [Zotero Item](zotero://select/library/items/3VGH5NLJ),[Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/8QBM3WVZ/IPCC2019_2019Refinement.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 There might be a calculation error promoting tillage importance.
 SOC cannot be used to discriminate agricultural practices in forestry.
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.108+02:00 %%
+%% Import Date: 2025-06-11T14:41:46.446+02:00 %%

@@ -2,15 +2,16 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1016/j.eiar.2017.08.006
+doi: "10.1016/j.eiar.2017.08.006"
 itemKey: EBS2G4SM
 ---
 >[!metadata]+
 > Including biodiversity in life cycle assessment – State of the art, gaps and research needs
 > [[Winter, Lisa]], [[Lehmann, Annekatrin]], [[Finogenova, Natalia]], [[Finkbeiner, Matthias]], 
-> [[Environmental Impact Assessment Review]] (2017)
-> [[biodiversity]], [[Biodiversity]], [[Environment]], [[Indicators]], [[Pressures]], [[life cycle impact assessment]], [[life cycle assessment]], 
-> [Online link](https://www.sciencedirect.com/science/article/pii/S0195925516303389), [Zotero Item](zotero://select/library/items/EBS2G4SM), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KJN5CWZI/Winter2017_Includingbiodiversitya.pdf), 
+> [[Environmental Impact Assessment Review (journal)]] (2017)
+> biodiversity, Biodiversity, Environment, Indicators, Pressures, life cycle assessment, life cycle impact assessment, 
+> [Online link](https://www.sciencedirect.com/science/article/pii/S0195925516303389), [Zotero Item](zotero://select/library/items/EBS2G4SM),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/KJN5CWZI/Winter2017_Includingbiodiversitya.pdf), 
+
 
 >[!abstract]-
 >Purpose
@@ -22,11 +23,8 @@ The analysis of 119 indicators shows that 4% of indicators represent genetic div
 Conclusion
 Further research is required to devise new options (e.g. impact assessment models) for integrating biodiversity into LCA. The final goal is to cover all levels of biodiversity and include all missing pressures in LCA. Tentative approaches to achieve this goal are outlined.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:46.856+02:00 %%
+%% Import Date: 2025-06-11T14:41:50.767+02:00 %%

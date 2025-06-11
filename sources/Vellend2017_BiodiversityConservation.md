@@ -2,21 +2,21 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1511/2017.105.2.94
+doi: "10.1511/2017.105.2.94"
 itemKey: CQEANHGR
 ---
 >[!metadata]+
 > The Biodiversity Conservation Paradox
 > [[Vellend, Mark]], 
 > [[American Scientist (journal)]] (2017)
-> [[biodiversity]], [[Biodiversity conservation]], [[important]], [[Conservation Biology (journal)]], [[wildnerness]], 
-> [Online link](https://www.americanscientist.org/article/the-biodiversity-conservation-paradox), [Zotero Item](zotero://select/library/items/CQEANHGR), 
-
+> biodiversity, Biodiversity conservation, important, Conservation biology, wildnerness, 
+> [Online link](https://www.americanscientist.org/article/the-biodiversity-conservation-paradox), [Zotero Item](zotero://select/library/items/CQEANHGR),
 >[!abstract]-
 >Even in places where nature is perceptibly altered by human actions, the number of species does not necessarily decline.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 #favourite 
+### key concepts
 [[biodiversity conservation paradox]]
 ### CBD and species extinction
 The first objective of the CBD is simply “the conservation of biological diversity,” and individual countries have pursued this objective in various ways, perhaps most often by providing legal protection to species at risk of extinction.
@@ -24,12 +24,8 @@ The first objective of the CBD is simply “the conservation of biological diver
 Since the term biodiversity became widespread only in the late 1980s, ecologists have also been busy with the more mundane task of developing and calculating old and new indices to quantify it. The most straightforward index is species richness: the number of species in a given place and time. Indices of evenness aim to reflect the idea that, for example, a community with two equally abundant species is more diverse than one in which one of the species is dominant and the other very rare. Still other indices aim to capture phylogenetic or functional trait diversity, whereby a forest with both pine trees and maple trees is considered more diverse than one with only two species of pine (or maple) trees (see the figure at left). 
 ### species richness as a metric for ecosystem quality
 Species richness is the only metric that has been reported often enough, and in a sufficiently standardized way, to allow general comparisons across different regions, habitats, taxa, or scales of space and time.
-
-^763919
 ### regional and global diversity
 Species are being transported and introduced to new places around the world, so that **regional diversity often increases, even as global diversity declines**.
-
-^fc5ea7
 ### the [[biodiversity conservation paradox]], chosing between global and regional diversity
 The net result of human activities in recent centuries thus appears on average to have been an increase, or at least no change, in species richness at the regional scale. If biodiversity is good, this news ought to be good, but one would be hard-pressed to find an ecologist who would say that. So, **at the local or regional scale, perhaps it is not really biodiversity per se that we value**.
 ### spiritual moral protection
@@ -49,7 +45,4 @@ Personally, I find value in the naturalness of a given ecosystem, flora, or faun
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:46.461+02:00 %%
+%% Import Date: 2025-06-11T14:41:50.255+02:00 %%

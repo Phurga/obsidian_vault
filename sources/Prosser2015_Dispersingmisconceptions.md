@@ -2,20 +2,21 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1038/nrmicro3468
+doi: "10.1038/nrmicro3468"
 itemKey: VKAUNQ6C
 ---
 >[!metadata]+
 > Dispersing misconceptions and identifying opportunities for the use of 'omics' in soil microbial ecology
 > [[Prosser, James I.]], 
-> [[Nature Reviews Microbiology]] (2015)
-> [[Metagenomics]], [[Microbial ecology]], [[Microbiome]], [[Soil microbiology]], 
-> [Online link](https://www.nature.com/articles/nrmicro3468), [Zotero Item](zotero://select/library/items/VKAUNQ6C), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/T4PH35WQ/Prosser2015_Dispersingmisconceptions.pdf), 
+> [[Nature Reviews Microbiology (journal)]] (2015)
+> Metagenomics, Microbial ecology, Microbiome, Soil microbiology, 
+> [Online link](https://www.nature.com/articles/nrmicro3468), [Zotero Item](zotero://select/library/items/VKAUNQ6C),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/T4PH35WQ/Prosser2015_Dispersingmisconceptions.pdf), 
+
 
 >[!abstract]-
 >In this Opinion article, James Prosser considers the conceptual limitations of metagenomics and metatranscriptomics in contributing to our understanding of soil microbial ecology, and also explores potential opportunities for using these techniques to address specific ecological questions.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 [[environmental DNA]]
 
 ## Quotes
@@ -44,7 +45,4 @@ Gpb: giga pair bases (bilions of pairs of DNA nucleotides)
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:45.397+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.506+02:00 %%

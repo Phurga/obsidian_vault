@@ -2,17 +2,17 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1016/j.tree.2007.11.001
+doi: "10.1016/j.tree.2007.11.001"
 itemKey: IEUCY8SH
 ---
 >[!metadata]+
 > Commonness, population depletion and conservation biology
 > [[Gaston, K]], [[Fuller, R]], 
-> [[Trends in Ecology & Evolution]] (2008)
+> [[Trends in Ecology & Evolution (journal)]] (2008)
 > 
-> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0169534707003205), [Zotero Item](zotero://select/library/items/IEUCY8SH), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/SSUQRUP8/Gaston2008_Commonnesspopulation.pdf), 
+> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0169534707003205), [Zotero Item](zotero://select/library/items/IEUCY8SH),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/SSUQRUP8/Gaston2008_Commonnesspopulation.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 > Common species contribute a disproportionately large number of individuals and biomass to assemblages
 
 ![[Gaston2008_Commonnesspopulation_species_biomass_abundance_common.png]]
@@ -20,7 +20,4 @@ itemKey: IEUCY8SH
 Linked to [[Kuipers2025_Relationshipsmean]]
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:43.300+02:00 %%
+%% Import Date: 2025-06-11T14:41:45.821+02:00 %%

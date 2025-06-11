@@ -9,10 +9,8 @@ itemKey: D74IAQS4
 > Characterizing Communities
 > [[Pyron, Mark]], 
 > [[Nature Education Knowledge]] (2010)
-> [[biodiversity]], [[important]], [[species richness]], [[species diversity]], [[species abundance]], 
-> [Online link](https://www.nature.com/scitable/knowledge/library/characterizing-communities-13241173/), [Zotero Item](zotero://select/library/items/D74IAQS4), 
-
-# Notes %% begin notes %%
+> biodiversity, important, species richness, species diversity, species abundance, 
+> [Online link](https://www.nature.com/scitable/knowledge/library/characterizing-communities-13241173/), [Zotero Item](zotero://select/library/items/D74IAQS4),## notes %% begin notes %%
 [[measures of biodiversity]]
 > Three levels of diversity have been studied by community ecologists. Alpha diversity is within-habitat diversity. Beta diversity is between-habitat diversity. This refers to changes in diversity along an environmental gradient. Gamma diversity or large-scale landscape diversity combines alpha diversity and beta diversity.
 
@@ -28,7 +26,4 @@ itemKey: D74IAQS4
 ![[Pyron2010_CharacterizingCommunities_composition.png|600]]
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:45.412+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.518+02:00 %%

@@ -9,17 +9,13 @@ itemKey: EN4E8L2W
 > Favoriser la biodiversité et renforcer les réseaux de services écosystémiques
 > [[INRAE]], 
 > [[BIOSEFAIR]] (2025)
-> [[biodiversity]], [[ecosystem service]], 
-> [Online link](https://biosefair.hub.inrae.fr/), [Zotero Item](zotero://select/library/items/EN4E8L2W), 
-
+> biodiversity, ecosystem services, 
+> [Online link](https://biosefair.hub.inrae.fr/), [Zotero Item](zotero://select/library/items/EN4E8L2W),
 >[!abstract]-
 >BIOSEFAIR
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.052+02:00 %%
+%% Import Date: 2025-06-11T14:41:46.412+02:00 %%

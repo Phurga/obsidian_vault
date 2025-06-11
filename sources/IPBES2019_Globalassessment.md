@@ -2,7 +2,6 @@
 tags:
   - source/report
   - zotero
-  - source/book
 doi: 
 itemKey: 6UTXLH68
 ---
@@ -10,9 +9,10 @@ itemKey: 6UTXLH68
 > Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
 > [[IPBES]], 
 > [[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services]] (2019)
-> [[biodiversity]], [[important]], [[IPBES]], 
-> [Online link](https://www.ipbes.net/system/files/2021-06/2020%20IPBES%20GLOBAL%20REPORT(FIRST%20PART)_V3_SINGLE.pdf), [Zotero Item](zotero://select/library/items/6UTXLH68), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4D78YYHC/Brondizio2019_globalassessment.pdf), 
-# Notes %% begin notes %% 
+> biodiversity, important, IPBES, 
+> [Online link](https://www.ipbes.net/system/files/2021-06/2020%20IPBES%20GLOBAL%20REPORT(FIRST%20PART)_V3_SINGLE.pdf), [Zotero Item](zotero://select/library/items/6UTXLH68),[Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/4D78YYHC/Brondizio2019_globalassessment.pdf), 
+
+## notes %% begin notes %% 
 
 [[IPBES]]
 
@@ -25,7 +25,4 @@ Direct exploitation, including [[soil quality]] degradation, is another 20%.
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-04-30T11:27:52.833+02:00 %%
+%% Import Date: 2025-06-11T14:41:46.424+02:00 %%

@@ -9,14 +9,9 @@ itemKey: J6QMXTH9
 > 
 > [[France Gouvernement]], 
 >  (2021)
-> [[climante change]], [[resilience]], 
-> [Online link](), [Zotero Item](zotero://select/library/items/J6QMXTH9), 
-
-# Notes %% begin notes %%
+> climante change, resilience, 
+> [Online link](), [Zotero Item](zotero://select/library/items/J6QMXTH9),## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-06-02T09:58:40.195+02:00 %%
+%% Import Date: 2025-06-11T14:41:45.566+02:00 %%

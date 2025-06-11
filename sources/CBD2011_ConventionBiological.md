@@ -9,8 +9,9 @@ itemKey: KKZ9E5B6
 > Convention on Biological Diversity - Text and annexes
 > [[CBD]], 
 > [[Secretariat of the Convention on Biological Diversity]] (2011)
-> [[biodiversity]], 
-> [Online link](https://www.cbd.int/doc/legal/cbd-en.pdf), [Zotero Item](zotero://select/library/items/KKZ9E5B6), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/NAVYC2CM/_cbden.pdf), 
+> biodiversity, 
+> [Online link](https://www.cbd.int/doc/legal/cbd-en.pdf), [Zotero Item](zotero://select/library/items/KKZ9E5B6),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/NAVYC2CM/_cbden.pdf), 
+
 
 >[!abstract]-
 >The Earth’s biological resources are vital to humanity’s economic and social development.
@@ -40,7 +41,7 @@ commitment to sustainable development. It represents a dramatic step forward in 
 conservation of biological diversity, the sustainable use of its components, and the fair and
 equitable sharing of benefits arising from the use of genetic resources.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 [[convention on biological diversity]]
 
 defines [[biodiversity]]
@@ -50,7 +51,4 @@ defines [[biodiversity]]
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:46.008+02:00 %%
+%% Import Date: 2025-06-11T14:41:44.242+02:00 %%

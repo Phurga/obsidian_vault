@@ -6,7 +6,11 @@
   "enabledCssSnippets": [
     "heading_size",
     "notitle",
-    "bolder_bold"
+    "image",
+    "blockquotes",
+    "max_size_embed_image",
+    "bolder_bold",
+    "embed_blockquotes - Copy"
   ],
   "cssTheme": "Atom"
 }

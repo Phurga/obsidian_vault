@@ -10,13 +10,10 @@ itemKey: BFBLQA85
 > [[Pellerin, Sylvain]], [[Bamière, Laure]], [[Réchauchère, Olivier]], 
 > [[INRAE]] (2019)
 > 
-> [Online link](https://www.inrae.fr/sites/default/files/pdf/4pM-Synth%C3%A8se-Novembre2020.pdf), [Zotero Item](zotero://select/library/items/BFBLQA85), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/NEZM63NP/_4pMSyntheseNovembre2020.pdf), 
+> [Online link](https://www.inrae.fr/sites/default/files/pdf/4pM-Synth%C3%A8se-Novembre2020.pdf), [Zotero Item](zotero://select/library/items/BFBLQA85),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/NEZM63NP/_4pMSyntheseNovembre2020.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:45.300+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.382+02:00 %%

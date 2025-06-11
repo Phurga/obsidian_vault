@@ -7,15 +7,16 @@ itemKey: 5VX2NLTU
 ---
 >[!metadata]+
 > State of knowledge of soil biodiversity - Status, challenges and potentialities
-> [[Food and Agriculture Organisation]], [[Intergovernmental Technical Panel on Soil]], [[GBSI]], [[SCBD]], [[EC]], 
-> [[Food and Agriculture Organisation]] (2020)
-> [[biodiversity]], [[important]], [[soil]], 
-> [Online link](http://www.fao.org/documents/card/en/c/cb1928en), [Zotero Item](zotero://select/library/items/5VX2NLTU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/LL57S7CQ/FAO2020_Stateknowledge.pdf), 
+> [[FAO]], [[ITPS]], [[GBSI]], [[SCBD]], [[EC]], 
+> [[FAO]] (2020)
+> biodiversity, important, soil, 
+> [Online link](http://www.fao.org/documents/card/en/c/cb1928en), [Zotero Item](zotero://select/library/items/5VX2NLTU),[Local (Submitted Version)](file://C:/Users/aburg/Documents/references/zotero/storage/LL57S7CQ/FAO2020_Stateknowledge.pdf), 
+
 
 >[!abstract]-
 >Our well-being and the livelihoods of human societies are highly dependent on biodiversity and the ecosystem services it provides. It is essential that we understand these links and the consequences of biodiversity loss for the various global challenges we currently face, including food insecurity and malnutrition, climate change, poverty and diseases. The Agenda 2030 for Sustainable Development sets out a transformative approach to achieve socio-economic development while conserving the environment.  There is increasing attention on the importance of biodiversity for food security and nutrition, especially above-ground biodiversity such as plants and animals. However, less attention is being paid to the biodiversity beneath our feet, soil biodiversity. Yet, the rich diversity of soil organisms drives many processes that produce food, regenerate soil or purify water.  In 2002, the Conference of the Parties (COP) to the Convention on Biological Diversity (CBD) decided at its 6th meeting to establish an International Initiative for the Conservation and Sustainable Use of Soil Biodiversity and since then, the Food and Agriculture Organization of the United Nations (FAO) has been facilitating this initiative. In 2012, FAO members established the Global Soil Partnership to promote sustainable soil management and increase attention to this hidden resource. The Status of the World’s Soil Resources (FAO, 2015) concluded that the loss of soil biodiversity is considered one of the main global threats to soils in many regions of the world.  The 14th Conference of the Parties invited FAO, in collaboration with other organizations, to consider the preparation of a report on the state of knowledge on soil biodiversity covering its current status, challenges and potentialities. This report is the result of an inclusive process involving 300 scientists from around the world under the auspices of the FAO’s Global Soil Partnership and its Intergovernmental Technical Panel on Soils, the Convention on Biological Diversity, the Global Soil Biodiversity Initiative and the European Commission. The report presents the state of knowledge on soil biodiversity, the threats to it, the solutions that soil biodiversity can provide to problems in different fields, including agriculture, environmental conservation, climate change adaptation and mitigation, nutrition, medicine and pharmaceuticals, remediation of polluted sites, and many others.
 
-# Notes %% begin notes %% 
+## notes %% begin notes %% 
 >[!Summary]
 >A 300 page book (plus 300 pages of appendices).
 > Has a summary version.
@@ -38,7 +39,4 @@ Many ideas here
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:42.981+02:00 %%
+%% Import Date: 2025-06-11T14:41:45.400+02:00 %%

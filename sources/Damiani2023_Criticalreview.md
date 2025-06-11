@@ -2,20 +2,21 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1016/j.eiar.2023.107134
+doi: "10.1016/j.eiar.2023.107134"
 itemKey: 73TKCETV
 ---
 >[!metadata]+
 > Critical review of methods and models for biodiversity impact assessment and their applicability in the LCA context
 > [[Damiani, Mattia]], [[Sinkko, Taija]], [[Caldeira, Carla]], [[Tosches, Davide]], [[Robuchon, Marine]], [[Sala, Serenella]], 
-> [[Environmental Impact Assessment Review]] (2023)
-> [[biodiversity]], [[important]], [[life cycle impact assessment]], 
-> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0195925523001002), [Zotero Item](zotero://select/library/items/73TKCETV), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4NUJG7UF/Damiani2023_Criticalreviewa.pdf), 
+> [[Environmental Impact Assessment Review (journal)]] (2023)
+> biodiversity, important, life cycle impact assessment, 
+> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0195925523001002), [Zotero Item](zotero://select/library/items/73TKCETV),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4NUJG7UF/Damiani2023_Criticalreviewa.pdf), 
+
 
 >[!abstract]-
 >Global biodiversity is in rapid decline and halting biodiversity loss is one of the most important challenges humanity must tackle now and in the immediate future. The five main direct drivers of biodiversity loss are climate change, pollution, land use, overexploitation of resources and the spread of invasive species, which result from indirect drivers such as unsustainable production and consumption. It is therefore of paramount importance that scientifically robust methods are developed to capture impacts on biodiversity from a value-chain perspective. Life Cycle Assessment (LCA) methodology allows to quantify the impact of products and organisations throughout their whole life cycle. In the LCA framework, several methods for biodiversity impact assessment have been developed. Building on previous reviews, this article aims to critically analyse methods and models for biodiversity impact assessment in LCA and beyond as comprehensively as possible, and to select those that may be most suitable for application in an LCA context. 64 methods were reviewed and 23 were selected for a detailed analysis based on availability of documentation, domain of application, geographical scope, potential to be used in LCA, and added value. The analysis addressed their goal and scope, data use and needs, and impact assessment characteristics, revealing strengths and weaknesses of the methods. There is currently no method that takes well into account at the same time the variety of pressures on biodiversity, ecosystems, taxonomic groups, essential biodiversity variables classes, and the fundamental aspects to consider in biodiversity impact assessments – but for each of these five criteria, we show which methods perform best. For the future development of biodiversity impact assessment, it is required to improve the coverage of drivers of biodiversity loss, increase ecosystem and taxonomic coverage, include the assessment of ecosystem services, and develop robust indicators that allow for complementary analysis of more essential biodiversity aspects.
 
-# Notes %% begin notes %% 
+## notes %% begin notes %% 
 #todo consolidation
 details state of the art for biodiv assessment in LCA (not specific to soils)
 provides a framework to assess the comprehensiveness of a method
@@ -46,7 +47,4 @@ Side notes
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:42.493+02:00 %%
+%% Import Date: 2025-06-11T14:41:44.647+02:00 %%

@@ -55,6 +55,24 @@ Endpoint indicators can be midpoints for other AOPs: for instance, damage on *ec
 Midpoint categories can have the same name as endpoints categories. The differences lies in the *indicator* chosen: climate change impacts measured as GWP is midpoint, while measured as PDF is endpoint (for ecosystem quality).
 
 Some methods avoid calculating impact down to AOPs, and thus consider some midpoints as endpoints, leading to confusions in the LCA community.
+
+### list of midpoints indicators commonly used in LCA
+- climate change
+- acidification
+- eutrophication
+- ecotoxicity
+- human toxicity (cancer or not cancer)
+- ionising radiation
+- water scarcity
+- land occupation
+- ozone layer depletion
+- photochemical ozone formation
+- particulate matter formation
+- mineral resource consumption
+- fossil resource consumption
+
+impact categories can be subdivided among realms (terrestrial, freshwater, marine)
+![[Bulle2019_IMPACTWorld#impact world+ pathway]]
 ## single score
 The use of a single score is allowed in the [[ISO2006_ISO14044]] but is generally discouraged due to increased uncertainty and value choices introduced by normalization and weighting procedures.
 ## other pathways

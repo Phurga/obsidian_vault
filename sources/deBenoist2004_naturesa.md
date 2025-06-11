@@ -9,10 +9,10 @@ itemKey: 767XF6SF
 > La nature et sa « valeur intrinseque »
 > [[de Benoist, Alain]], 
 > [[Alain de Benoist, Blog]] (2004)
-> [[biodiversity]], [[important]], [[ecosystem quality]], [[intrinsic]], 
-> [Online link](https://alaindebenoist.s3.amazonaws.com/pdf/la_nature_et_sa_valeur_intrinseque.pdf), [Zotero Item](zotero://select/library/items/767XF6SF), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/DFVXWDER/deBenoist_NATURESA.pdf), 
+> biodiversity, important, ecosystem quality, intrinsic, 
+> [Online link](https://alaindebenoist.s3.amazonaws.com/pdf/la_nature_et_sa_valeur_intrinseque.pdf), [Zotero Item](zotero://select/library/items/767XF6SF),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/DFVXWDER/deBenoist_NATURESA.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 >[!warning]
 >Alain de benoist est classifié comme auteur d'extreme droite. Cela n'a pas l'air d'influencer sa pensée écologique mais il est connu pour des positions nationalistes.
 
@@ -49,7 +49,4 @@ Captured in [[intrinsic value of nature]]
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:42.553+02:00 %%
+%% Import Date: 2025-06-11T14:41:44.737+02:00 %%

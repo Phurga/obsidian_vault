@@ -9,14 +9,11 @@ itemKey: XWMECL7B
 > THE GLOBIO MODEL  A technical description of version 3.5
 > [[PBL]], 
 > [[PBL]] (2016)
-> [[GLOBIO]], 
-> [Online link](), [Zotero Item](zotero://select/library/items/XWMECL7B), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/UJDEGT7B/pbl_publication_2369.pdf), 
+> GLOBIO, 
+> [Online link](), [Zotero Item](zotero://select/library/items/XWMECL7B),[Local (pbl_publication_2369)](file://C:/Users/aburg/Documents/references/zotero/storage/UJDEGT7B/pbl_publication_2369.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:45.285+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.371+02:00 %%

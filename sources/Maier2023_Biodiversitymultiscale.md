@@ -9,14 +9,11 @@ itemKey: IR5QNRNW
 > Biodiversity multi-scale assessments of product systems: the BioMAPS method
 > [[Maier, Stephanie]], [[Leistner, Philip]], [[Uusitalo, Ville]], [[Lindner, Jan Paul]], [[Universität Stuttgart]], [[Fraunhofer-Institut für Bauphysik]], 
 > [[Fraunhofer Verlag]] (2023)
-> [[biodiversity]], [[ecosystem quality]], [[BioMAPS]], [[life cycle impact assessment]], 
-> [Online link](), [Zotero Item](zotero://select/library/items/IR5QNRNW), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/7VI2DK93/Maier2023_Biodiversitymultiscale.pdf), 
+> biodiversity, ecosystem quality, BioMAPS, life cycle impact assessment, 
+> [Online link](), [Zotero Item](zotero://select/library/items/IR5QNRNW),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/7VI2DK93/Maier2023_Biodiversitymultiscale.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.841+02:00 %%
+%% Import Date: 2025-06-11T14:41:47.674+02:00 %%

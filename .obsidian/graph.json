@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#misc  -tag:#production  ",
+  "search": "tag:#concept OR tag:#source  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -20,16 +20,9 @@
         "a": 1,
         "rgb": 14725458
       }
-    },
-    {
-      "query": "tag:#creator  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.82734375,

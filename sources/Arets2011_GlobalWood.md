@@ -10,13 +10,10 @@ itemKey: SVWNUR4Y
 > [[Arets, Eric]], [[van der Meer, Peter]], [[Verwer, Caspar Carolus]], [[Hengeveld, Geerten]], [[Tolkamp, G. W.]], [[Nabuurs, G. J.]], [[van Oorschot, M.]], 
 > [[Alterra]] (2011)
 > 
-> [Online link](), [Zotero Item](zotero://select/library/items/SVWNUR4Y), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/4ZUU89PT/Verwer_68PUBLICATIONS.pdf), 
+> [Online link](), [Zotero Item](zotero://select/library/items/SVWNUR4Y),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4ZUU89PT/Verwer_68PUBLICATIONS.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 #data
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:41.006+02:00 %%
+%% Import Date: 2025-06-11T14:41:43.179+02:00 %%

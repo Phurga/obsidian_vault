@@ -9,8 +9,9 @@ itemKey: ZXY8WY87
 > Factors of soil formation: a system of quantitative pedology
 > [[Jenny, Hans]], 
 > [[Dover Publ]] (1994)
-> [[soil]], [[soil formation]], [[pedology]], [[pedogenesis]], 
-> [Online link](), [Zotero Item](zotero://select/library/items/ZXY8WY87), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/AHNPMWZJ/Jenny1994_Factorssoil.pdf), 
+> soil, soil formation, pedology, pedogenesis, 
+> [Online link](), [Zotero Item](zotero://select/library/items/ZXY8WY87),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/AHNPMWZJ/Jenny1994_Factorssoil.pdf), 
+
 
 >[!abstract]-
 >The vast importance of the soil in the development of various
@@ -52,11 +53,8 @@ satisfies the requirements of generality and rigidity of natural laws.
 For this reason the less presumptuous name, "functional relationship,"
 is chosen.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.248+02:00 %%
+%% Import Date: 2025-06-11T14:41:46.588+02:00 %%

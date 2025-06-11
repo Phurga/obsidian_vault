@@ -10,13 +10,8 @@ itemKey: CFBTAPEX
 > [[United Nations]], 
 > [[UN Department of Economic and Social Affairs]] (2023)
 > 
-> [Online link](https://sdgs.un.org/2030agenda), [Zotero Item](zotero://select/library/items/CFBTAPEX), local: 
-
-# Notes %% begin notes %%
+> [Online link](https://sdgs.un.org/2030agenda), [Zotero Item](zotero://select/library/items/CFBTAPEX),## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-06-04T14:13:22.660+02:00 %%
+%% Import Date: 2025-06-11T14:41:50.154+02:00 %%

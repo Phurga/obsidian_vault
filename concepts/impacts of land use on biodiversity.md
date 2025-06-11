@@ -4,16 +4,19 @@ tags:
 aliases:
 ---
 ## current knowledge
-Human use land as a resource and modify the natural environment to increase the value of this resource. These modications lead to the destruction of some [[biotope|ecological niches]], and the creation of others. There is usually a net destruction of niches since human favour specialisation, hence homogen**eisation of** the environment. ^ca62dc
+Human use land as a resource and modify the natural environment to increase the value of this resource. These modications lead to the destruction of some [[biotope|ecological niches]], and the creation of others. There is usually a net destruction of niches since human favour specialisation, hence homogeneisation of the environment.
 
-Example with [[earthworm]] in France: local taxonomic richness of earthworms has increased ([[Hedde2025_Diversityroles]]).
-![[Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png|200]]
+![[Hedde2025_Diversityroles#earthworm taxonomic richness over time in france]]
+
 There could be optimums in land use leading to maximized richness, see [[the intermediate disturbance hypothesis]]
 
-![[Labouyrie2023_Patternssoil#^924581]]
+[[Labouyrie2023_Patternssoil]]
+![[Labouyrie2023_Patternssoil#Finds an increase in microbial richness in managed land vs in natural land (forests).]]
 
+[[Vellend2017_BiodiversityConservation]]
 ![[Vellend2017_BiodiversityConservation#the biodiversity conservation paradox , chosing between global and regional diversity]]
 
+[[Tuck2014_Landuseintensity]]
 ![[Tuck2014_Landuseintensity#Species richness in organic farming]]
 
 ![[Tuck2014_Landuseintensity#organic farming effect on soil organisms diversity]]
@@ -33,4 +36,7 @@ It is possible to study and represent [[food web|trophic chains]] in an ecosyste
 
 Cultivated ecosystems show more (soil) biodiversity than non cultivated ([[Hedde, Mickael]], [[Labouyrie2023_Patternssoil]]).
 
-#todo review refs 16-19 and input in [[Bloor2021_Analysiscomplex#^9c0295]]
+#todo review refs 16-19 and input in
+![[Bloor2021_Analysiscomplex#intensification does not always lead to negative soil biodiversity response]]
+
+

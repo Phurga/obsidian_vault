@@ -2,17 +2,17 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1016/j.scitotenv.2023.166925
+doi: "10.1016/j.scitotenv.2023.166925"
 itemKey: AZHKUJW3
 ---
 >[!metadata]+
 > Micro- and nanoplastics in soil: Linking sources to damage on soil ecosystem services in life cycle assessment
 > [[Li, Tong]], [[Cui, Lizhen]], [[Xu, Zhihong]], [[Liu, Hongdou]], [[Cui, Xiaoyong]], [[Fantke, Peter]], 
 > [[Science of The Total Environment (journal)]] (2023)
-> [[soil]], 
-> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S004896972305550X), [Zotero Item](zotero://select/library/items/AZHKUJW3), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/V4QZDGDF/Li2023_Micronanoplastics.pdf), 
+> soil, 
+> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S004896972305550X), [Zotero Item](zotero://select/library/items/AZHKUJW3),[Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/V4QZDGDF/Li2023_Micronanoplastics.pdf), 
 
-# Notes %% begin notes %% 
+## notes %% begin notes %% 
 
 - Details a substance emissions to biodiversity and its damage pathway down.
 - Does not give CFs for LCA.
@@ -32,7 +32,4 @@ itemKey: AZHKUJW3
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.628+02:00 %%
+%% Import Date: 2025-06-11T14:41:47.427+02:00 %%

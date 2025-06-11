@@ -1,0 +1,26 @@
+
+/* Base styles for all embeds */
+.internal-embed {
+  background-color: rgb(51, 55, 63);
+  position: relative;
+  padding-right: 24px;  /* Space for the "open link" button */
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-left: none;
+}
+
+.internal-embed[src*="#"]::before {
+  content: attr(alt);
+  font-size: 1em;
+  font-weight: bold;
+  display: inline-block;
+  max-width: calc(100% - 24px);  /* Adjust for the button width */
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1.2em;
+  color: rgb(229, 192, 123);
+}
+/* remove h3 embed title for quotes */
+.markdown-preview-view .el-h3{
+  display: none;
+}

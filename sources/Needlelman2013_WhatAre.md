@@ -10,12 +10,11 @@ itemKey: BDH78L4K
 > [[Needlelman, Bryan]], 
 > [[Nature Education Knowledge]] (2013)
 > 
-> [Online link](https://www.nature.com/scitable/knowledge/library/what-are-soils-67647639/), [Zotero Item](zotero://select/library/items/BDH78L4K), 
-
+> [Online link](https://www.nature.com/scitable/knowledge/library/what-are-soils-67647639/), [Zotero Item](zotero://select/library/items/BDH78L4K),
 >[!abstract]-
 >In this article readers are introduced to the many facets of soils - their unique characteristics and diversity, the ecosystem services that soils provide, and their use and misuse.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 > Soil is a material composed of five ingredients — minerals, soil organic matter, living organisms, gas, and water.
 
@@ -26,7 +25,4 @@ itemKey: BDH78L4K
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:45.062+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.115+02:00 %%

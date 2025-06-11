@@ -9,10 +9,10 @@ itemKey: WT7XTCZN
 > Soil microorganisms (Les microorganismes du sol)
 > [[Bernard, Laetitia]], [[Robin, Agnès]], 
 > [[formation ecologie des sols]] (2025)
-> [[soil]], [[microorganisms]], [[bacteria]], [[fungi]], 
-> [Online link](), [Zotero Item](zotero://select/library/items/WT7XTCZN), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KZD2WZ6W/Bernard_MICROORGANISMESSOL.pdf), 
+> soil, microorganisms, bacteria, fungi, 
+> [Online link](), [Zotero Item](zotero://select/library/items/WT7XTCZN),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/KZD2WZ6W/Bernard_MICROORGANISMESSOL.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 Provides key concepts on microorganisms, especially bacteria. Their structure, functions and study.
 
 [[fungus]]
@@ -25,7 +25,4 @@ Provides key concepts on microorganisms, especially bacteria. Their structure, f
 [[biodiversity#The multi-dimensionality of biodiversity]]
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:41.230+02:00 %%
+%% Import Date: 2025-06-11T14:41:43.425+02:00 %%

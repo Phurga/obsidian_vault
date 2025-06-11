@@ -2,7 +2,7 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1007/s11367-013-0577-1
+doi: "10.1007/s11367-013-0577-1"
 itemKey: BUZLCTU9
 ---
 >[!metadata]+
@@ -10,13 +10,10 @@ itemKey: BUZLCTU9
 > [[Saad, Rosie]], [[Koellner, Thomas]], [[Margni, Manuele]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
 > 
-> [Online link](http://link.springer.com/10.1007/s11367-013-0577-1), [Zotero Item](zotero://select/library/items/BUZLCTU9), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/7JARRPUS/s11367-013-0577-1.pdf), 
+> [Online link](http://link.springer.com/10.1007/s11367-013-0577-1), [Zotero Item](zotero://select/library/items/BUZLCTU9),[Local (s11367-013-0577-1)](file://C:/Users/aburg/Documents/references/zotero/storage/7JARRPUS/s11367-013-0577-1.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:45.560+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.726+02:00 %%

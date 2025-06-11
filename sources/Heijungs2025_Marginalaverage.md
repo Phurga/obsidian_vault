@@ -2,24 +2,22 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1007/s11367-025-02430-1
+doi: "10.1007/s11367-025-02430-1"
 itemKey: 7DFF9TQU
 ---
 >[!metadata]+
 > Marginal and average considerations in LCA and their role for defining emission factors and characterization factors
 > [[Heijungs, Reinout]], 
 > [[The International Journal of Life Cycle Assessment]] (2025)
-> [[Environmental Chemistry]], [[Average data]], [[Average impact]], [[Average process]], [[Linear LCA]], [[Marginal data]], [[Marginal impact]], [[Marginal process]], [[Non-linear LCA]], [[methodology]], [[LCIA]], 
-> [Online link](https://doi.org/10.1007/s11367-025-02430-1), [Zotero Item](zotero://select/library/items/7DFF9TQU), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/9ZB6SXI8/Heijungs2025_Marginalaverage.pdf), 
+> Environmental Chemistry, Average data, Average impact, Average process, Linear LCA, Marginal data, Marginal impact, Marginal process, Non-linear LCA, methodology, life cycle impact assessment, 
+> [Online link](https://doi.org/10.1007/s11367-025-02430-1), [Zotero Item](zotero://select/library/items/7DFF9TQU),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/9ZB6SXI8/Heijungs2025_Marginalaverage.pdf), 
+
 
 >[!abstract]-
 >In the literature on LCA, one often finds the terms “marginal” and “average,” often in combination with words like “data,” “process,” “emission,” or “characterisation factor.” However, the meaning of these terms appears to differ between sources. This paper aims to clarify the situation.
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-06-04T11:03:10.452+02:00 %%
+%% Import Date: 2025-06-11T14:41:46.135+02:00 %%

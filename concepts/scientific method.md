@@ -4,3 +4,4 @@ tags:
 ---
 [[chosing relevant indicators]]
 [[statistics]]
+[[where to publish]]

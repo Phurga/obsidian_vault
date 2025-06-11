@@ -8,15 +8,12 @@ itemKey: Q86EU5IC
 >[!metadata]+
 > The Native Plant Enthusiasm: Ecological Panacea or Xenophobia?
 > [[Gröning, Gert]], [[Wolschke-Bulmahn, Joachim]], 
-> [[Arnoldia]] (2004)
+> [[Arnoldia (journal)]] (2004)
 > 
-> [Online link](), [Zotero Item](zotero://select/library/items/Q86EU5IC), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/PL3LD75Y/_NativePlant.pdf), 
+> [Online link](), [Zotero Item](zotero://select/library/items/Q86EU5IC),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/PL3LD75Y/_NativePlant.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 [[invasive alien species]] [[invasive alien species]]
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:43.503+02:00 %%
+%% Import Date: 2025-06-11T14:41:45.972+02:00 %%

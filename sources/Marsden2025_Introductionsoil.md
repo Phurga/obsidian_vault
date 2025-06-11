@@ -10,9 +10,9 @@ itemKey: M3XKWKCC
 > [[Marsden, Claire]], 
 > [[Formation ecologie des sols]] (2025)
 > 
-> [Online link](), [Zotero Item](zotero://select/library/items/M3XKWKCC), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/EYDMYY6N/_01_FormnEcoSols_2025_Intro_CMarsden.pdf), 
+> [Online link](), [Zotero Item](zotero://select/library/items/M3XKWKCC),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/EYDMYY6N/_01_FormnEcoSols_2025_Intro_CMarsden.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 Overview of soil ecology concepts which will be refined in the other modules of the training.
 [[ecosystem service]]
 [[soil quality]]
@@ -29,7 +29,4 @@ Overview of soil ecology concepts which will be refined in the other modules of 
 [[microbial loop]]
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.883+02:00 %%
+%% Import Date: 2025-06-11T14:41:47.726+02:00 %%

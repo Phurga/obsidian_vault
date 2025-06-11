@@ -2,20 +2,21 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1007/s11367-013-0578-0
+doi: "10.1007/s11367-013-0578-0"
 itemKey: FB96DLQ2
 ---
 >[!metadata]+
 > Land use impacts on biodiversity in LCA: proposal of characterization factors based on functional diversity
 > [[Maia De Souza, Danielle]], [[Flynn, Dan F. B.]], [[DeClerck, Fabrice]], [[Rosenbaum, Ralph K.]], [[de Melo Lisboa, Henrique]], [[Koellner, Thomas]], 
 > [[The International Journal of Life Cycle Assessment]] (2013)
-> [[Land use]], [[biodiversity]], [[Environmental Chemistry]], [[Regionalization]], [[Global characterization factors]], [[functional diversity]], [[Functional diversity]], [[Biodiversity indicator]], [[life cycle impact assessment]], 
-> [Online link](https://doi.org/10.1007/s11367-013-0578-0), [Zotero Item](zotero://select/library/items/FB96DLQ2), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/SW73Z6PU/s11367-013-0578-0.pdf), 
+> Land use, biodiversity, Environmental Chemistry, Regionalization, Global characterization factors, functional diversity, Functional diversity, Biodiversity indicator, life cycle impact assessment, 
+> [Online link](https://doi.org/10.1007/s11367-013-0578-0), [Zotero Item](zotero://select/library/items/FB96DLQ2),[Local (s11367-013-0578-0)](file://C:/Users/aburg/Documents/references/zotero/storage/SW73Z6PU/s11367-013-0578-0.pdf), 
+
 
 >[!abstract]-
 >The focus of land use modeling in life cycle impact assessment has been mainly on taxonomic measures of biodiversity, namely species richness (SR). However, increasing availability of trait data for species has led to the use of functional diversity (FD) as a promising metric to reflect the distinctiveness of species; this paper proposes the use of an FD index to calculate characterization factors (CFs) for land use impacts. Furthermore, we compare the results of the CFs to current practice and assess the increase in complexity introduced by the use of the new indicator.
 
-# Notes %% begin notes %% 
+## notes %% begin notes %% 
 
 This is the first LCIA method that derive CFs for functional diversity, before Scherer in 2020.
 
@@ -29,7 +30,4 @@ Following Petchey 2002 (Functional diversity (FD), species richness and communit
 - 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:44.784+02:00 %%
+%% Import Date: 2025-06-11T14:41:47.599+02:00 %%

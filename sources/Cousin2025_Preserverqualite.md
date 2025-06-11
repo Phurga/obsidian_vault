@@ -9,11 +9,12 @@ itemKey: R84GMCAP
 > Préserver la qualité des sols : vers un référentiel d'indicateurs. Synthèse du rapport scientifique de l'étude
 > [[Cousin, Isabelle]], [[Desrousseaux, Maylis]], [[Leenhardt, Sophie]], [[Angers, Denis]], [[Augusto, Laurent]], [[Ay, Jean-Sauveur]], [[Baysse-Lainé, Adrien]], [[Branchu, Philippe]], [[Brichler, Marie-Caroline]], [[Chemidlin, Prévost-Bouré]], [[Campagnone, Claude]], [[Froger, Claire]], [[Gros, Raphaël]], [[Hermon, Carole]], [[Itey, Julie]], [[Keller, Catherine]], [[Laroche, Bertrand]], [[Lelievre, Virginie]], [[de, Mareschal]], [[Meulemans, Germain]], [[Montagne, David]], [[Pérès, Guénola]], [[Saby, Nicolas]], [[Vaudour, Emmanuelle]], [[Villerd, Jean]], [[Violle, Cyrille]], 
 > [[INRAE]] (2025)
-> [[soil quality]], [[important]], [[Soil quality indicator]], 
-> [Online link](https://hal.inrae.fr/hal-04828558), [Zotero Item](zotero://select/library/items/R84GMCAP), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/JJMRFALA/Cousin2025_Preserverqualite.pdf), 
+> soil quality, important, Soil quality indicator, 
+> [Online link](https://hal.inrae.fr/hal-04828558), [Zotero Item](zotero://select/library/items/R84GMCAP),[Local (Cousin2025_Preserverqualite-OCR_out)](file://C:/Users/aburg/Documents/references/zotero/storage/VTLY2455/Cousin2025_Preserverqualite-OCR_out.pdf), 
 
+[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/JJMRFALA/Cousin2025_Preserverqualite.pdf), 
 
-# Notes %% begin notes %%
+## notes %% begin notes %%
 Longer version of [[Cousin2024_Preserverqualite]], synthesis of [[Cousin2025_Preserverqualitea]]
 
 **consolidé**
@@ -80,4 +81,4 @@ Indicateur biodiversité matures: 16s rRNA et 18s rRNA (identification d'especes
 
 %% end notes %%
 
-%% Import Date: 2025-04-23T17:38:16.208+02:00 %%
+%% Import Date: 2025-06-11T14:41:44.495+02:00 %%

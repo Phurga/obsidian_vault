@@ -8,67 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59aa59f7f285a8ae",
+            "id": "a95343cfb7a33768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/impacts of land use on biodiversity.md",
+                "file": "creators/Global Change Biology (journal).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "impacts of land use on biodiversity"
+              "title": "Global Change Biology (journal)"
             }
           },
           {
-            "id": "87ae6fb43dd4ecd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Labouyrie2023_Patternssoil.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Labouyrie2023_Patternssoil"
-            }
-          },
-          {
-            "id": "3b0d29683f9704a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Vellend2017_BiodiversityConservation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vellend2017_BiodiversityConservation"
-            }
-          },
-          {
-            "id": "cb06d6ac58cbafd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Calderon-Sanou2022_betterunderstanding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Calderon-Sanou2022_betterunderstanding"
-            }
-          },
-          {
-            "id": "24bb9bcc5cbcb50e",
+            "id": "a264e4a00ac85f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,9 +36,24 @@
               "icon": "lucide-file",
               "title": "new zotero note"
             }
+          },
+          {
+            "id": "a4f93e179b30cce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Debarre2025_RevampingLCIA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Debarre2025_RevampingLCIA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept/idea impact",
+                "query": "science ouvert",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -177,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Labouyrie2023_Patternssoil.md",
+                "file": "sources/Debarre2025_RevampingLCIA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Labouyrie2023_Patternssoil"
+              "title": "Backlinks for Debarre2025_RevampingLCIA"
             }
           },
           {
@@ -231,18 +201,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Labouyrie2023_Patternssoil.md"
+                "file": "sources/Debarre2025_RevampingLCIA.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Labouyrie2023_Patternssoil"
+              "title": "File properties for Debarre2025_RevampingLCIA"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,34 +221,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "87ae6fb43dd4ecd7",
+  "active": "a4f93e179b30cce5",
   "lastOpenFiles": [
-    "concepts/impacts of land use on biodiversity.md",
-    "sources/Vellend2017_BiodiversityConservation.md",
-    "test.md",
-    "sources/Calderon-Sanou2022_betterunderstanding.md",
-    "concepts/ecosystem diversity.md",
-    "sources/Tuck2014_Landuseintensity.md",
     "misc/templates/new zotero note.md",
-    "creators/Tuck, Sean L..md",
-    "concepts/the intermediate disturbance hypothesis.md",
-    "sources/Bloor2021_Analysiscomplex.md",
-    "creators/Si-moussi, Sara.md",
-    "sources/Si-Moussi2020_Contributiondata.md",
-    "concepts/extrapolation of species richness.md",
-    "concepts/alpha diversity in relative species loss is not relevant.md",
-    "misc/ROADMAP.md",
-    "sources/guidance on research questions definitions.md",
-    "concepts/environmental policy.md",
-    "sources/Richardson2023_Earthsix.md",
-    "sources/Rockstrom2009_safeoperating.md",
-    "creators/Godet, Laurent.md",
-    "sources/Godet2017_Notiondebat.md",
-    "concepts/measures of biodiversity.md",
-    "concepts/simpson index.md",
-    "sources/Simpson1949_MeasurementDiversity.md",
-    "concepts/environmental labelling.md",
-    "creators/Rockström, Johan.md",
+    "sources/Debarre2025_RevampingLCIA.md",
+    "creators/Global Change Biology (journal).md",
+    "sources/Vidal-Legaz2016_Landuserelated.md",
+    "sources/Horn2022_LandUse.md",
+    "concepts/a new framework for land use impacts on biodiversity.md",
+    "concepts/life cycle impact assessment.md",
+    "sources/Bulle2019_IMPACTWorld.md",
+    "concepts/major realms of life.md",
+    "concepts/IMPACT World+.md",
+    "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",
+    "sources/Scherer2023_BiodiversityImpact.md",
+    "creators/Michelsen, Ottar.md",
+    "sources/Labouyrie2023_Patternssoil.md",
+    "concepts/impacts of land use on biodiversity.md",
+    "sources/Tuck2014_Landuseintensity.md",
+    "misc/checks/check for duplicate itemkeys zotero.md",
+    "sources/Hedde2025_Diversityroles.md",
+    "sources/Wasserstein2019_MovingWorld.md",
+    "concepts/biodiversity.md",
+    "creators/Tedersoo, Leho.md",
+    "sources/Villeger2008_NewMultidimensional.md",
+    "concepts/functional diversity.md",
+    "concepts/statistics.md",
+    "concepts/scientific method.md",
+    "sources/Arbeille2025_Pratiquesintegres.md",
+    "concepts/where to publish.md",
+    "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
     "Untitled",
     "attachments/Keith2022_functionbasedtypology_classification.webp",
     "attachments/Keith2022_functionbasedtypology_functional_group.webp",
@@ -289,8 +260,6 @@
     "attachments/Dinerstein2017_EcoregionBasedApproach_ecoregion_map.png",
     "attachments/DeBaan2013_Landuse_indicators.png",
     "attachments/MaiaDeSouza2015_Assessingbiodiversity_pathway.png",
-    "attachments/Orgiazzi2015_Soilbiodiversity_metagenomics_vs_metagenetics.png",
-    "attachments/Pasted image 20250604154556.png",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
     "concepts.zip",

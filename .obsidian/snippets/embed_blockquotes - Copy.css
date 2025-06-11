@@ -1,0 +1,10 @@
+
+/* Base styles for all embeds */
+.internal-embed {
+  background-color: rgb(51, 55, 63);
+  position: relative;
+  padding-right: 24px;  /* Space for the "open link" button */
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-left: none;
+}

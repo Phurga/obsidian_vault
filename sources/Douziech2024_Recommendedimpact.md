@@ -10,13 +10,8 @@ itemKey: ZS5ZHULL
 > [[Douziech, Mélanie]], [[Bystricky, Maria]], [[Furrer, Cédric]], [[Gaillard, Gérard]], [[Lansche, Jens]], [[Roesch, Andreas]], [[Nemecek, Thomas]], 
 > [[Agroscope]] (2024)
 > 
-> [Online link](https://ira.agroscope.ch/en-US/publication/56332), [Zotero Item](zotero://select/library/items/ZS5ZHULL), 
-
-# Notes %% begin notes %%
+> [Online link](https://ira.agroscope.ch/en-US/publication/56332), [Zotero Item](zotero://select/library/items/ZS5ZHULL),## notes %% begin notes %%
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:42.779+02:00 %%
+%% Import Date: 2025-06-11T14:41:45.216+02:00 %%

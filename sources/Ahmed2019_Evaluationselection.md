@@ -2,20 +2,21 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1007/s11367-018-1470-8
+doi: "10.1007/s11367-018-1470-8"
 itemKey: XZ54H28T
 ---
 >[!metadata]+
 > Evaluation and selection of functional diversity metrics with recommendations for their use in life cycle assessments
 > [[Ahmed, Danish Ali]], [[van Bodegom, Peter M.]], [[Tukker, Arnold]], 
 > [[The International Journal of Life Cycle Assessment]] (2019)
-> [[Biodiversity]], [[Environmental Chemistry]], [[important]], [[functional diversity]], [[Ecosystem functioning]], [[Functional diversity]], [[Functional diversity metrics]], [[Life cycle model developer]], [[life cycle assessment]], 
-> [Online link](https://doi.org/10.1007/s11367-018-1470-8), [Zotero Item](zotero://select/library/items/XZ54H28T), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/7MQRZISG/Ahmed2019_Evaluationselection.pdf), 
+> Biodiversity, Environmental Chemistry, important, functional diversity, Ecosystem functioning, Functional diversity, Functional diversity metrics, Life cycle model developer, life cycle assessment, 
+> [Online link](https://doi.org/10.1007/s11367-018-1470-8), [Zotero Item](zotero://select/library/items/XZ54H28T),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/7MQRZISG/Ahmed2019_Evaluationselection.pdf), 
+
 
 >[!abstract]-
 >In life cycle assessments (LCAs), the focus of modelling the impact of human-induced pressures on biodiversity has been mainly on taxonomic diversity measures such as species richness. More recently, increasing availability of trait data and the understanding that functional diversity is more directly related to human-induced pressures suggests functional diversity as a promising metric. One major challenge relates to the selection process of the correct metric. Our purpose is to categorise and identify appropriate metrics of functional diversity for LCA model developers based on a justified choice of its structural properties and its links to human-induced pressures.
 
-# Notes %% begin notes %% 
+## notes %% begin notes %% 
 Review of functional diversity metrics in LCA
 
 Contextualize biodiv approch alternative to land use to species richness approaches
@@ -51,7 +52,4 @@ species traits: plants: leaf area, rooting depth ... animals: body size, respira
 
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:40.886+02:00 %%
+%% Import Date: 2025-06-11T14:41:43.066+02:00 %%

@@ -2,15 +2,16 @@
 tags:
   - source/journalArticle
   - zotero
-doi: 10.1007/s11367-024-02307-9
+doi: "10.1007/s11367-024-02307-9"
 itemKey: 84KT3J48
 ---
 >[!metadata]+
 > Soil organic carbon as an indicator of land use impacts in life cycle assessment
 > [[De Laurentiis, Valeria]], [[Maier, Stephanie]], [[Horn, Rafael]], [[Uusitalo, Ville]], [[Hiederer, Roland]], [[Chéron-Bessou, Cécile]], [[Morais, Tiago]], [[Grant, Tim]], [[Milà i Canals, Llorenç]], [[Sala, Serenella]], 
 > [[The International Journal of Life Cycle Assessment]] (2024)
-> [[important]], [[soil]], 
-> [Online link](https://link.springer.com/10.1007/s11367-024-02307-9), [Zotero Item](zotero://select/library/items/84KT3J48), [Local pdf](file://C:/Users/aburg/Documents/references/zotero/storage/KNJNRJRW/DeLaurentiis2024_Soilorganic.pdf), 
+> important, soil, 
+> [Online link](https://link.springer.com/10.1007/s11367-024-02307-9), [Zotero Item](zotero://select/library/items/84KT3J48),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/KNJNRJRW/DeLaurentiis2024_Soilorganic.pdf), 
+
 
 >[!abstract]-
 >Purpose Anthropogenic activities are a major driver of soil and land degradation. Due to the spatial heterogeneity of soil properties and the global nature of most value chains, the modelling of the impacts of land use on soil quality for application in life cycle assessment (LCA) requires a regionalised assessment with global coverage. This paper proposes an approach to quantify the impacts of land use on soil quality, using changes in soil organic carbon (SOC) stocks as a proxy, following the latest recommendation of the Life Cycle Initiative.
@@ -18,7 +19,7 @@ Methods An operational set of SOC-based characterisation factors for land occupa
 Results and discussion Global maps of characterisation factors are presented for the 56 land use types commonly used in LCA databases, together with national and global values. Urban and industrial land uses present the highest impacts on SOC stocks, followed by severely degraded pastures and intensively managed arable lands. Instead, values obtained for extensive pastures, flooded crops, and urban green areas often report an increase in SOC stocks. Results show that the ranking of impacts of the three energy systems considered in the case study analysis is not affected by the level of regionalisation of the analysis. In the case of biomethane energy supply, impacts assessed using national characterisation factors are more than double those obtained with local characterisation factors, with less significant differences in the other two cases.
 Conclusions The integration of soil quality aspects in life cycle impact assessment methods is a crucial challenge due to the key role of soil conservation in ensuring food security and environmental protection. This approach allows the quantification of land use impacts on SOC stocks, taken as a proxy of soil quality. Further research needs to improve the assessment of land use impacts in LCA are identified, such as the ability to reflect the effects of agricultural and forestry management practices.
 
-# Notes %% begin notes %% 
+## notes %% begin notes %% 
 Partially consolidated in [[LCIA method on soil quality]] (only the context, not the core of the article #todo/consolidate )
 
 Presentation of a [[life cycle impact assessment]] method based on modelling (extrapolating land degradation with soil organic carbon stocks)
@@ -52,7 +53,4 @@ Same for forestry (all forestry has 0 impacts on soils with IPCC T1).
 **Needs further work to refine IPCC caluclations to practices on forestry and non conventional farming.**
 %% end notes %%
 
-
-
-
-%% Import Date: 2025-05-26T13:45:42.606+02:00 %%
+%% Import Date: 2025-06-11T14:41:44.876+02:00 %%
