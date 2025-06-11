@@ -1,19 +1,8 @@
 strong,
-
 .cm-s-obsidian span.cm-formatting-strong,
-
-.cm-s-obsidian span.cm-strong {
-
-color: rgb(229, 192, 123);
-
-}
-
+.cm-s-obsidian span.cm-strong,
 em,
-
 .cm-s-obsidian span.cm-formatting-em,
-
 .cm-s-obsidian span.cm-em {
-
-color: rgb(229, 192, 123);
-
+color: rgb(152, 195, 121);
 }

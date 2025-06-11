@@ -4,10 +4,9 @@
   "showViewHeader": false,
   "accentColor": "",
   "enabledCssSnippets": [
-    "bolder_bold",
     "heading_size",
     "notitle",
-    "blockquotes"
+    "bolder_bold"
   ],
   "cssTheme": "Atom"
 }

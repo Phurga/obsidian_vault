@@ -22,7 +22,7 @@
       "outputPathTemplate": "sources/{{citekey}}.md",
       "imageOutputPathTemplate": "attachments/",
       "imageBaseNameTemplate": "{{citekey}}_",
-      "templatePath": "sources/new zotero note.md"
+      "templatePath": "misc/templates/new zotero note.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
