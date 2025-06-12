@@ -18,6 +18,7 @@ Key concepts about [earthworms](app://obsidian.md/earthworms), [tardigrades](a
 ![[Hedde2025_SoilFauna_reseau_interaction.png]]
 ### earthworm taxonomic richness over time in france
 ![[Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png]]
+[[Gerard2025_Vers202250year]] for data but no analysis published
 
 %% end notes %%
 
