@@ -28,7 +28,7 @@ Because of the complexity and multiple dimensions of [[biodiversity]], there can
 		- species extinction rate relative to sustainable rates
 		- capacity to maintain evolutionary potential ([[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]])
 	- [[biological interaction]]
-		- ecological networks (see [[Bloor2021_Analysiscomplex]])
+		- ecological networks (see [[Bloor2021_AnalysisComplex]])
 		- trophic groups abundances
 		- todo ?
 - ecosystem based

@@ -4,6 +4,7 @@ tags:
 aliases:
   - invasive species
   - exotic species
+  - native species
 ---
 An **invasive alien species** is a specie that is not orginating from a region and was introduced via human direct or indirect intervention (e.g. via trade, or thanks to modified environmental conditions such as climate change).
 

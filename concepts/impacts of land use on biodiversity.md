@@ -39,6 +39,6 @@ It is possible to study and represent [[food web|trophic chains]] in an ecosyste
 Cultivated ecosystems show more (soil) biodiversity than non cultivated ([[Hedde, Mickael]], [[Labouyrie2023_Patternssoil]]).
 
 #todo review refs 16-19 and input in
-![[Bloor2021_Analysiscomplex#intensification does not always lead to negative soil biodiversity response]]
+![[Bloor2021_AnalysisComplex#intensification does not always lead to negative soil biodiversity response]]
 
 

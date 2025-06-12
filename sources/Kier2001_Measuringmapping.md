@@ -17,7 +17,7 @@ itemKey: GSECCIYS
 >The adjustment of an existing index which combines endemism and species richness (Williams 1993) is proposed so that it requires markedly less data on the study area and its flora or fauna than was necessary with the conventional calculation method. Using this adjusted method, the resulting scores are calculated and mapped for the seed plant flora of the 20 African regions as delineated by White (1983). We argue that this index, here referred to as a measure of ‘endemism richness’, can be regarded as the specific contribution of an area to global biodiversity. We demonstrate that at a given sampling scale it shows a linear relation with area. We further demonstrate that, within certain limits, this linearity can also be observed in many cases when sampling scales vary which makes the comparison of differently sized geographic units easier than is the case for species richness. The two most important advantages over species richness are that this index is more suitable to measure both the conservation value of an area and the negative impact of invaders. The latter quality is due to the fact that it yields scores which usually do not rise substantially but can rather be expected to drop in many cases when an area is invaded by alien species.
 
 ## notes %% begin notes %%
-defines [[endemic richness]] as used in [[Chaudhary2015_QuantifyingLand]]
+defines [[endemism]] as used in [[Chaudhary2015_QuantifyingLand]]
 %% end notes %%
 
 %% Import Date: 2025-06-11T14:41:46.718+02:00 %%

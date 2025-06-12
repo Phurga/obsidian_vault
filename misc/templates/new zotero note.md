@@ -22,14 +22,12 @@ importDate: {{importDate | format("YYYY-MM-DD")}}
     {%- case "preprint" -%}Preprint
 {%- endswitch %} ({{date | format("YYYY")}})
 > {% for tag in tags %}{{tag.tag}}, {% endfor %}
-> [Online link]({{url}}), [Zotero Item]({{desktopURI}}),{%- for attachment in attachments | filterby("path", "endswith", ".pdf") %} [Local ({{attachment.title}})](file://{{attachment.path | replace(" ", "%20") | replace("\\", "/")}}), {% endfor -%}
+> [Online link]({{url}}), [Zotero Item]({{desktopURI}}),{%- for attachment in attachments | filterby("path", "endswith", ".pdf") %} [Local ({{attachment.title}})](file://{{attachment.path | replace(" ", "%20") | replace("\\", "/")}}), {% endfor %}
 
-{%- if abstractNote %}
-
+{% if abstractNote -%}
 >[!abstract]-
->{{abstractNote}}
+>{{abstractNote}}{% endif %}
 
-{% endif -%}
-## notes {% persist "notes" -%}
+{% persist "notes" -%}
 
 {%- endpersist %}

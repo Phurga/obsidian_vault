@@ -6,10 +6,6 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #3",
-      "format": "formatted-citation"
-    },
-    {
       "name": "Pandoc",
       "format": "pandoc",
       "cslStyle": "the-lancet",
