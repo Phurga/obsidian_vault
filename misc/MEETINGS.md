@@ -10,7 +10,7 @@ tags:
 - comité de thèse (voir adum et doctorants)
 	- itap ()
 	- gaia (cecile bessou)
-	- externe (mickael hedde ? guido ?)
+	- externe (mickael hedde ? narbonne ?)
 ## Archive
 - tase bullet point [file](file:///C:\Users\aburg\Documents\communication_interne\TASE_slide_WPleaders_2025_INRAE.pptx)
 - inscription TASE
