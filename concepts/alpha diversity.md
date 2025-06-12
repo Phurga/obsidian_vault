@@ -8,8 +8,7 @@ aliases: []
 It is measured by counting the species found in a delimited area (species inventories). 
 
 The area size is not defined and depends on the type of organism surveyed (e.g. birds vs bacteria). The choice of the area size will influence the results, as defined by the [[species-area relationship]].
-
-Reference:
-[[Andermann2022_EstimatingAlpha]] ***
+### Reference
+[[Andermann2022_EstimatingAlpha#alpha diversity]] 
 [[Godet2017_Notiondebat]]
 [[Pyron2010_CharacterizingCommunities]]

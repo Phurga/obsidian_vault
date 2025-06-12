@@ -11,13 +11,49 @@
             "id": "492b018333b0f78d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "concepts/impacts of land use on biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "impacts of land use on biodiversity"
+            }
+          },
+          {
+            "id": "369910803c229012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Hedde2025_Diversityroles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hedde2025_Diversityroles"
+            }
+          },
+          {
+            "id": "93c995f27648bd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/McGill2015_Fifteenforms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "McGill2015_Fifteenforms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "science ouvert",
+                "query": "file:(biodiversity OR ecosystem) tag:#concept  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -75,7 +111,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sources/Hedde2025_Diversityroles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +158,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Hedde2025_Diversityroles"
             }
           },
           {
@@ -163,9 +201,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "sources/Hedde2025_Diversityroles.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Hedde2025_Diversityroles"
             }
           }
         ]
@@ -176,17 +216,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "492b018333b0f78d",
+  "active": "369910803c229012",
   "lastOpenFiles": [
+    "concepts/impacts of land use on biodiversity.md",
+    "concepts/biodiversity.md",
+    "concepts/measures of biodiversity.md",
+    "sources/McGill2015_Fifteenforms.md",
+    "sources/Vellend2010_ConceptualSynthesis.md",
+    "concepts/community ecology.md",
+    "sources/Pyron2010_CharacterizingCommunities.md",
+    "attachments/McGill2015_Fifteenforms_summary.jpg",
+    "alpha, beta, gamma diversity.md",
+    "concepts/alpha diversity.md",
+    "concepts/beta diversity.md",
+    "concepts/gamma diversity.md",
+    "sources/Andermann2022_EstimatingAlpha.md",
+    "concepts/taxon, functional trait, evolutionary history.md",
+    "sources/CBD2011_ConventionBiological.md",
     "sources/Debarre2025_RevampingLCIA.md",
     "concepts/ecosystem function.md",
-    "concepts/measures of biodiversity.md",
     "concepts/phylogenetic diversity.md",
     "sources/Chaudhary2018_LandUse.md",
     "sources/Santini2017_Assessingsuitability.md",
@@ -197,20 +252,7 @@
     "soil biodiversity metrics.md",
     "creators/Global Change Biology (journal).md",
     "misc/templates/new zotero note.md",
-    "sources/Vidal-Legaz2016_Landuserelated.md",
-    "sources/Horn2022_LandUse.md",
-    "concepts/a new framework for land use impacts on biodiversity.md",
-    "concepts/life cycle impact assessment.md",
-    "sources/Bulle2019_IMPACTWorld.md",
-    "concepts/major realms of life.md",
-    "concepts/IMPACT World+.md",
     "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",
-    "sources/Scherer2023_BiodiversityImpact.md",
-    "creators/Michelsen, Ottar.md",
-    "sources/Labouyrie2023_Patternssoil.md",
-    "concepts/impacts of land use on biodiversity.md",
-    "sources/Tuck2014_Landuseintensity.md",
-    "misc/checks/check for duplicate itemkeys zotero.md",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
     "Untitled",
     "attachments/Keith2022_functionbasedtypology_classification.webp",
@@ -220,7 +262,6 @@
     "attachments/IUCN global ecosystem typology_method.webp",
     "attachments/Dinerstein2017_EcoregionBasedApproach_ecoregion_map.png",
     "attachments/DeBaan2013_Landuse_indicators.png",
-    "attachments/MaiaDeSouza2015_Assessingbiodiversity_pathway.png",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
     "concepts.zip",

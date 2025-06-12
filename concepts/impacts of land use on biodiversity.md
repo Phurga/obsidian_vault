@@ -3,7 +3,9 @@ tags:
   - concept/idea/important
 aliases:
 ---
-## current knowledge
+## trends in biodiversity
+![[McGill2015_Fifteenforms#15 trends in biodiversity]]
+There is a global decrease of species richness (species extinction) but no general observation of regional or local species richness decrease. There is a stabilisation of local richness (replacement) and an increase of regional richness.
 Human use land as a resource and modify the natural environment to increase the value of this resource. These modications lead to the destruction of some [[biotope|ecological niches]], and the creation of others. There is usually a net destruction of niches since human favour specialisation, hence homogeneisation of the environment.
 
 ![[Hedde2025_Diversityroles#earthworm taxonomic richness over time in france]]
@@ -39,4 +41,4 @@ Cultivated ecosystems show more (soil) biodiversity than non cultivated ([[Hedde
 #todo review refs 16-19 and input in
 ![[Bloor2021_Analysiscomplex#intensification does not always lead to negative soil biodiversity response]]
 
-
+### there is no basis for 

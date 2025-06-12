@@ -8,11 +8,6 @@ aliases:
 ---
 Because of the complexity and multiple dimensions of [[biodiversity]], there cannot be a single indicator for biodiversity, quoting [[Hedde2025_Diversityroles]], but following the complexity of its definition.
 [[McGill2015_Fifteenforms]]  proposes 15 trends/indicators for biodiversity monitoring.
-## facets of biodiversity
-Three facets for biodiversity ([[Godet2017_Notiondebat#facets of biodiversity]], [[Si-Moussi2020_Contributiondata]]):
-- [[taxonomy|taxonomic]] (species)
-- [[functional diversity]] (ecological functions, [[food web]])
-- [[phylogenetic diversity]] (evolutionary history)
 ## indicators
 - organism or species based
 	- taxonomic ([[ecological composition|composition]]) 
@@ -56,19 +51,6 @@ On using simple metrics:
 [[Pyron2010_CharacterizingCommunities]]
 [[Santini2017_Assessingsuitability]]
 [[DeBaan2013_LandUse]]
-## indicators at different spatial scales
-Species diversity can be measured at different spatial scales:
-- [[alpha diversity]] corresponds to the species richness found in a given [[ecological composition|ecological community]], i.e. measured for a local ecosystem. It is measured by counting the species found in a delimited area (species inventories). The area size depends on the type of organism surveyed (e.g. birds vs bacteria).
-- [[beta diversity]] is the differentiation of the communities with changing ecological communities. It was measured as the ratio between alpha and gamme diversity but is now measured using [[sorensen similarity index]] (ratio of species appearing in both communities and total number of species), avoiding considering two communities with different compositions but equal richness as having the same biodiversity. Beta diversity can be used to show the variation of diversity for a given changing variable (environmental gradient).
-- [[gamma diversity]] corresponds to the total species richness found in a region, e.g. an ecoregion or a country making this value the most representative of species richness when communicating results and using values for [[life cycle assessment]]. It is difficult to measure empirically and is generally the result of an extrapolation using a model, such as [[species distribution model]]s or the [[species-area relationship]].
-
->[!warning] should you use alpha or gamma diversity ?
->[[impacts of land use on biodiversity]]
-
->[!quote] References
-[[Godet2017_Notiondebat]]
-[[Pyron2010_CharacterizingCommunities]]
-[[Andermann2022_EstimatingAlpha]]
 ## implementations in LCIA
 The current recommendation for an [[ecosystem quality]] indicator in LCIA is biodiversity loss and in particular [[relative species loss]] ([[UNEP2016_GlobalGuidance]]). This is known to be an imperfect metric but the best available due to data availability limitations ([[LCIA method development is limited by data availability]]).
 
