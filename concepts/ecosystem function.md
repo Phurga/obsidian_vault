@@ -17,5 +17,6 @@ Ecosystem supporting services include:
 - [[O2 production]], 
 - [[habitat provision for all species]].
 
-# Application to soils
+## Application to soils
 [[FAO2020_Stateknowledge]] considers 4 main [[soil function]] (carbon transformations, nutrient cycling, soil structure, biological regulation).
+

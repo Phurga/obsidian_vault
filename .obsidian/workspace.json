@@ -4,56 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e10ee570bd041ddf",
+        "id": "c306e097dd430227",
         "type": "tabs",
         "children": [
           {
-            "id": "a95343cfb7a33768",
+            "id": "492b018333b0f78d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creators/Global Change Biology (journal).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Global Change Biology (journal)"
-            }
-          },
-          {
-            "id": "a264e4a00ac85f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/templates/new zotero note.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "new zotero note"
-            }
-          },
-          {
-            "id": "a4f93e179b30cce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Debarre2025_RevampingLCIA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Debarre2025_RevampingLCIA"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Debarre2025_RevampingLCIA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Debarre2025_RevampingLCIA"
+              "title": "Backlinks"
             }
           },
           {
@@ -200,11 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "sources/Debarre2025_RevampingLCIA.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Debarre2025_RevampingLCIA"
+              "title": "File properties"
             }
           }
         ]
@@ -221,11 +182,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a4f93e179b30cce5",
+  "active": "492b018333b0f78d",
   "lastOpenFiles": [
-    "misc/templates/new zotero note.md",
     "sources/Debarre2025_RevampingLCIA.md",
+    "concepts/ecosystem function.md",
+    "concepts/measures of biodiversity.md",
+    "concepts/phylogenetic diversity.md",
+    "sources/Chaudhary2018_LandUse.md",
+    "sources/Santini2017_Assessingsuitability.md",
+    "creators/Si-moussi, Sara.md",
+    "sources/Godet2017_Notiondebat.md",
+    "concepts/invasive alien species.md",
+    "concepts/endemic richness.md",
+    "soil biodiversity metrics.md",
     "creators/Global Change Biology (journal).md",
+    "misc/templates/new zotero note.md",
     "sources/Vidal-Legaz2016_Landuserelated.md",
     "sources/Horn2022_LandUse.md",
     "concepts/a new framework for land use impacts on biodiversity.md",
@@ -240,16 +211,6 @@
     "concepts/impacts of land use on biodiversity.md",
     "sources/Tuck2014_Landuseintensity.md",
     "misc/checks/check for duplicate itemkeys zotero.md",
-    "sources/Hedde2025_Diversityroles.md",
-    "sources/Wasserstein2019_MovingWorld.md",
-    "concepts/biodiversity.md",
-    "creators/Tedersoo, Leho.md",
-    "sources/Villeger2008_NewMultidimensional.md",
-    "concepts/functional diversity.md",
-    "concepts/statistics.md",
-    "concepts/scientific method.md",
-    "sources/Arbeille2025_Pratiquesintegres.md",
-    "concepts/where to publish.md",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
     "Untitled",
     "attachments/Keith2022_functionbasedtypology_classification.webp",
