@@ -10,7 +10,7 @@ This is the definition agreed on in the [[convention on biological diversity]]:
 
 One can also integrate [[landscape diversity]] above ecosystem diversity [[Noss1990_IndicatorsMonitoring]].
 ## practical consequences
-Considering biodiversity not as the diversity of species leads the redefinition of its measurement. [[species richness]] is not sufficient to monitor its dynamics. Concepts such as ecosystem quality, which could be derived into topcis such as [[ecosystem integrity]], [[ecosystem identity]]
+Considering biodiversity not as the diversity of species leads the redefinition of its measurement. [[species richness]] is not sufficient to monitor its dynamics. Concepts such as ecosystem quality, which could be derived into topcis such as [[ecosystem integrity]], [[nature as identity]]
 ## roots
 In [[Noss1990_IndicatorsMonitoring]], there is the mention of a popular source, [[OTA1987_TechnologiesMaintain]].
 > A widely cited definition of biological diversity is “the variety and variability among living organisms and the ecological complexes in which they occur” (OTA 1987).

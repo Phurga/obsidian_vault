@@ -4,6 +4,7 @@ tags:
   - zotero
 doi: "10.1511/2017.105.2.94"
 itemKey: CQEANHGR
+importDate: 2025-06-16
 ---
 >[!metadata]+
 > The Biodiversity Conservation Paradox
@@ -11,10 +12,11 @@ itemKey: CQEANHGR
 > [[American Scientist (journal)]] (2017)
 > biodiversity, Biodiversity conservation, important, Conservation biology, wildnerness, 
 > [Online link](https://www.americanscientist.org/article/the-biodiversity-conservation-paradox), [Zotero Item](zotero://select/library/items/CQEANHGR),
+
 >[!abstract]-
 >Even in places where nature is perceptibly altered by human actions, the number of species does not necessarily decline.
 
-## notes %% begin notes %%
+%% begin notes %%
 #favourite 
 ### key concepts
 [[biodiversity conservation paradox]]
@@ -45,4 +47,4 @@ Personally, I find value in the naturalness of a given ecosystem, flora, or faun
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:50.255+02:00 %%
+%% Import Date: 2025-06-16T13:05:36.236+02:00 %%
