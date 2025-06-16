@@ -4,8 +4,8 @@ tags:
 aliases:
   - proportion of populations within species with an effective population size over 500
 ---
-There is a minimum **population size to maintain genetic diversity and evolutionary potential**.
-This is an important field of research in evolution ecology.
+There is a minimum **population size to maintain [[genetic diversity]] and evolutionary potential**.
+This is an important field of research in [[evolutionary biology|evolutionary ecology]].
 
 One indicator selected as part of the [[Kunming-Montreal Global Biodiversity Framework|GBF]] is the **proportion of populations within species with an effective population size over 500**:
 Target 4 (https://www.gbf-indicators.org/metadata/headline/A-4)

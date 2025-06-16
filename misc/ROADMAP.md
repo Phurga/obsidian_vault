@@ -4,7 +4,9 @@ tags:
 ## phd main theme: characterization of the impacts of land use on soil biodiversity
 Soil hosts up to 60% of global species [[Anthony2023_Enumeratingsoil]], however current LCIA methods focusing on biodiversity omit soil biodiversity, due to data limitations and following the conservation efforts focusing on plants and vertebrates.
 
-In LCA, environmental impacts are grouped by 
+LCA is commonly used as a tool to measure damage on ecosystem quality, i.e. the natural world by human, regardless of its instrumental value.
+
+Ecosystem quality is one of the consensual area of protections grouped by environmental issues or area of protections.
 ## Article 1: assessment of land use impacts on soil biodiversity using environmental DNA and deep learning
 
 ### tasks

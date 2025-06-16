@@ -48,9 +48,11 @@ The climate change impacts on ecosystem quality is captured by a factor converti
 or
 ![[ISO2006_ISO14044_example.png]]
 ## midpoint indicator
-**Midpoint indicators** assess impact on topics different from the AOP, mostly as intermediate steps of the impact pathway to derive endpoint indicators. But midpoint impact can still provide useful information and be used as a final result.
+**Midpoint indicators** assess impact on topics different from the AOP, mostly as intermediate steps of the impact pathway to derive endpoint indicators. But midpoint impact can still provide useful information and be used as a final result. 
 
-Endpoint indicators can be midpoints for other AOPs: for instance, damage on *ecoystem* quality can be used to derive damage on human health.
+Most of the time, midpoint indicators are associated to an "*impact category*", i.e environmental issues of concern.
+
+Endpoint indicators can be midpoints for other AOPs: for instance, damage on ecoystem quality can be used to derive damage on human health.
 
 Midpoint categories can have the same name as endpoints categories. The differences lies in the *indicator* chosen: climate change impacts measured as GWP is midpoint, while measured as PDF is endpoint (for ecosystem quality).
 
@@ -79,3 +81,6 @@ The use of a single score is allowed in the [[ISO2006_ISO14044]] but is generall
 ![[MaiaDeSouza2015_Assessingbiodiversity_pathway.png]]
 
 ![[Debarre2025_RevampingLCIA_pathway.png]]
+
+## overarching references for LCA methodology
+[[Hauschild2018_LifeCycle]]
