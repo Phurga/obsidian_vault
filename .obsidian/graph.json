@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "tag:#concept",
+      "query": "tag:#concept/definition",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#concept/idea  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14623434258663134,
+  "scale": 0.15488010654679996,
   "close": false
 }

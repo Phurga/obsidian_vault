@@ -2,6 +2,7 @@
 aliases:
   - biological diversity
   - nature
+  - life diversity
 tags:
   - concept/index
 ---

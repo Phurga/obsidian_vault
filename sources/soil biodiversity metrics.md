@@ -1,3 +1,7 @@
+---
+tags:
+  - source/LLMoutput
+---
 Gemini
 11.06.2025
 prompt: if species richness or species diversity is a common metric for above ground biodiversity, what are useful metric for belowground biodiversity

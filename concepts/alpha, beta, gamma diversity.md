@@ -1,3 +1,7 @@
+---
+tags:
+  - concept/definition
+---
 Biodiversity can be measured at different **spatial scales**:
 - [[alpha diversity]] (local diversity, within habitat)
 - [[beta diversity]] (diversity change over an environmental gradient)

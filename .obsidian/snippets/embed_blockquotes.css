@@ -21,6 +21,6 @@
   color: rgb(229, 192, 123);
 }
 /* remove h3 embed title for quotes */
-.markdown-preview-view .el-h3{
+.internal-embed .el-h3{
   display: none;
 }
