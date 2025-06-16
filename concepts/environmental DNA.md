@@ -33,6 +33,9 @@ Taberlet, P., Bonin, A., Zinger, L., & Coissac, E. (2018). Environmental DNA: fo
 ## soil sampling
 Example procedure:
 [[Byers2024_Landuse#^a45e7f]]
+## air sampling
+Air sampling can be used and has been found to be very effective for mushrooms.
+![[Abrego2024_AirborneDNA#air DNA sampling]]
 ## data sources
 [[BOLD Systems]] is a source of DNA barcodes (but not a source of environmental DNA sampling !)
 [[GlobNets ]](incl. [[ORCHAMP]])

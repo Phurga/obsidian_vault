@@ -21,14 +21,14 @@ Longer version of [[Cousin2024_Preserverqualite]], synthesis of [[Cousin2025_Pre
 ### metric choice
 Indicateurs basés sur les fonctions écologiques des sols
 
-[[soil quality]]
+### [[soil quality]]
 "Qualité des sols" ou "santé des sols"
 "santé des sols" plus proche de la biologie des sols que la "qualité des sols"
 différence aussi entre une description d'état intrinseque et état lié à un usage
 qualité: description de ce qu'il est
 santé: description de ce qu'il devrait etre (par rapport a un potentiel)
 
-[[soil]]
+### [[soil]] perceptions
 Le sol comme une surface (foncier)
 Le sol comme un potentiel de ressources (production etc)
 Le sol comme patrimoine (conservation)
@@ -37,11 +37,10 @@ Le sol comme identité (terroir en viticulture) ^ff63e1
 Sol comme ressource ou comme partenaire (conventionel vs biologique)
 Normes sociales influencant la perception du sol
 
-[[Référentiel Pédologique Français]]
+### [[Référentiel Pédologique Français]]
 
-Evaluation de la santé des sols par les fonctions ou les degradations
-
-[[pressures on soils]]
+### Evaluation de la santé des sols par les fonctions ou les degradations
+### [[pressures on soils]]
 Degradations/menaces pour le sol:
 - artificialisation
 - perte de biodiversité
@@ -62,10 +61,7 @@ Contrairement à l'air (ou l'on mesure des quantités de polluants par rapport �
 fonctions du sol, definition: assemblage de proprietes et processus biochimiques permettant au sol de bien fonctionner (c'est a dire de delivrer des services ecosystemiques). une fonction = une action sur un objet (eg retenir -action- l'eau -objet).
 
 ![[Cousin2024_fonctions_sol_ecologie_ringsabell.png]]
-
-Fonctions du sol retenues (à comparer à celles définies par FAO2020)
-
-
+### soil quality indicators
 ![[Cousin2025_Preserverqualite_indicateurs_fonctions_menaces.png]]
 
 Indicateur PLFA: l'analyse des acides gras phospholipidiques permet d'obtenir le ratio champignon/bacteries (non selectionné finalement)
@@ -73,11 +69,9 @@ Indicateur biodiversité matures: 16s rRNA et 18s rRNA (identification d'especes
 ### what is an indicator
  [[chosing relevant indicators]]
 
-
 ![[Cousin2025_Preserverqualite_history.png]]
 
 > la qualité étant définie par la capacité du sol à fonctionner (Larson et Pierce, 1994)
-
 
 %% end notes %%
 

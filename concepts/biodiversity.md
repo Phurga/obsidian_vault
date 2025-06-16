@@ -1,23 +1,23 @@
 ---
-aliases:
-  - biological diversity
-  - nature
-  - life diversity
 tags:
   - concept/index
+aliases:
+  - biological diversity
+  - life diversity
+  - nature
 ---
 **Biodiversity** is the contraction of **biological diversity**: the diversity of life.
 
 Most standard definition, as part of the [[convention on biological diversity]]:
 ![[CBD2011_ConventionBiological#defines biodiversity]]
-### Biodiversity is a multi-dimensional concept
+### biodiversity is a multi-dimensional concept
 - [[genes, species, ecosystems]]
 - [[composition, structure, function]]
 - [[taxon, functional trait, evolutionary history]]
-### Biodiversity is everywhere
+### biodiversity is everywhere
 - [[major realms of life]]
 - [[soil biodiversity]]
-### Biodiversity as a process
+### biodiversity as a process
 - [[biodiversity dynamics]]
 - [[nature and biodiversity]]
 - [[nature as identity]]
