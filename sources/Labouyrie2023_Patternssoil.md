@@ -33,6 +33,8 @@ Use of [[shannon index]] as indicator for diversity (but it seems it is better s
 future studies should compare multiple sampling points within the same location, in order to account for micro-scale variability of the biota (i.e. changes over distances of few metres)
 ### land use intensity vs richness
 ![[Labouyrie2023_Patternssoil_results_richness.png]]
+### single effects
+![[Labouyrie2023_Patternssoil_single_effects.png]]
 ### sampling geography
 ![[Labouyrie2023_Patternssoil_sampling_land_use.webp]]
 ### increasing land use perturbation

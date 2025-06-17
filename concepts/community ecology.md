@@ -17,13 +17,14 @@ These four processes are analogous to the four main process in [[evolutionary bi
 ## patterns
 Patterns tend not to be explained by community ecology theory, but the main processes should be enough to explain these although not all the causal chain is known.
 
-[[Vellend2010_ConceptualSynthesis#the main patterns in community ecology]] provides a list of patterns, including:
 ![[Vellend2010_ConceptualSynthesis#black box of community ecology]]
 
-[[occupancy-abundance relationship]]
 [[species-area relationship]]
+[[species-abundance distribution|relative abundance distribution]]
+[[occupancy-abundance relationship]]
+
 [[food web]]
-[[beta diversity]] (changes under an environmental gradient)
+[[beta diversity]] (changes of diversity under an environmental gradient)
 ## previous theories
 Multiple unifying theories, relying on a list of assumptions [[Vellend2010_ConceptualSynthesis]] proposes a comparison:
 ![[Vellend2010_ConceptualSynthesis#comparison of theories in community ecology]]
