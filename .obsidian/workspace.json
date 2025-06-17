@@ -8,33 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f0ee958babc915c",
+            "id": "a937a1c3b479b2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Thakur2020_integrativeunderstanding.md",
+                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Thakur2020_integrativeunderstanding"
+              "title": "indicator for ecosystem quality applicable to soil biodiversity"
             }
           },
           {
-            "id": "f0a7731b0b71fa12",
+            "id": "701bedd13b889fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/intrinsic value of nature.md",
+                "file": "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "intrinsic value of nature"
+              "title": "protecting soil biodiversity, from a focus on species to a focus on ecosystem function"
+            }
+          },
+          {
+            "id": "c5d0ea4388063f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/FAO2025_HowConserve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "FAO2025_HowConserve"
             }
           }
         ]
@@ -69,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#concept/idea soil",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -96,11 +111,31 @@
             }
           },
           {
+            "id": "8b868b031f631fda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for indicator for ecosystem quality applicable to soil biodiversity"
+            }
+          },
+          {
             "id": "f11f227122b7524b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,15 +199,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of indicator for ecosystem quality applicable to soil biodiversity"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 248.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -181,7 +216,6 @@
       {
         "id": "5d061b06374cccb2",
         "type": "tabs",
-        "dimension": 36.36363636363637,
         "children": [
           {
             "id": "02350dbab455fbf7",
@@ -189,10 +223,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Thakur2020_integrativeunderstanding.md"
+                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Thakur2020_integrativeunderstanding"
+              "title": "File properties for indicator for ecosystem quality applicable to soil biodiversity"
             }
           },
           {
@@ -201,64 +235,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Thakur2020_integrativeunderstanding.md",
+                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thakur2020_integrativeunderstanding"
+              "title": "Outline of indicator for ecosystem quality applicable to soil biodiversity"
             }
           },
           {
-            "id": "04e9d5a930d8a39a",
+            "id": "58573b8b0048117a",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "Strange New Worlds",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "a1321e8c99f25c6e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a61e629d925333df",
-        "type": "tabs",
-        "dimension": 63.63636363636363,
-        "children": [
-          {
-            "id": "8b868b031f631fda",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "sources/Thakur2020_integrativeunderstanding.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Thakur2020_integrativeunderstanding"
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
             }
           },
           {
@@ -267,11 +260,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from indicator for ecosystem quality applicable to soil biodiversity"
             }
           }
         ]
@@ -289,9 +283,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4f0ee958babc915c",
+  "active": "a937a1c3b479b2b9",
   "lastOpenFiles": [
+    "concepts/soil function.md",
+    "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+    "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
+    "sources/FAO2025_HowConserve.md",
     "concepts/intrinsic value of nature.md",
+    "sources/FAO2020_definitionsoil.md",
+    "sources/FAO2020_Stateknowledge.md",
+    "creators/Global Soil Partnership.md",
+    "creators/FAO.md",
+    "sources/_PlantProduction.md",
+    "sources/Thakur2020_integrativeunderstanding.md",
+    "creators/Doka, Gabor.md",
     "sources/deBenoist2004_naturesa.md",
     "concepts/environmental ethics.md",
     "sources/Himes2024_Whynature.md",
@@ -303,21 +308,10 @@
     "sources/Vellend2010_ConceptualSynthesis.md",
     "concepts/species-abundance distribution.md",
     "concepts/biogeography of microorganisms.md",
-    "sources/Thakur2020_integrativeunderstanding.md",
     "concepts/bacteria.md",
     "sources/Labouyrie2023_Patternssoil.md",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "misc/ROADMAP.md",
-    "concepts/consequential LCA.md",
-    "sources/Weidema2018_Attributionalconsequential.md",
-    "concepts/territorial LCA.md",
-    "concepts/phylogenetic diversity.md",
-    "concepts/overexploitation.md",
-    "concepts/minimum population size to maintain evolutionary potential.md",
-    "concepts/evolutionary biology.md",
-    "concepts/life cycle impact assessment.md",
-    "sources/Hauschild2018_LifeCycle.md",
-    "creators/Hauschild, Michael Z..md",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
     "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",

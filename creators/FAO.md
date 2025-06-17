@@ -2,6 +2,6 @@
 tags:
   - creator/organisation
 aliases:
-  - FAO
+  - Food and Agriculture Organisation
 ---
 Part of [[United Nations]]

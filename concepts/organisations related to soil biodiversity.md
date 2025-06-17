@@ -4,7 +4,7 @@ tags:
 ---
 ## Soil
 [[Intergovernmental Technical Panel on Soil]] (ITPS)
-[[Food and Agriculture Organisation]] (FAO)
+[[FAO]] (FAO)
 [[Global Soil Partnership]] (GSP)
 [[European Soil Data Center]] (ESDAC)
 [[European Union Soil Observatory]] (EUSO)
