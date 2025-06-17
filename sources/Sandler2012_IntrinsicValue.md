@@ -15,12 +15,12 @@ itemKey: AEX22A5K
 >Do non-human organisms, species, and ecosystems have intrinsic value i.e., value in themselves, for what they are, or as ends? If so, what are the implications for conservation justification and practice?
 
 ## notes %% begin notes %%
-[[environmental ethics]]
+### sentientism vs biocentrism
 >Within nonanthropocentrism, **sentientism** is the view that only psychologically complex entities (e.g., those that experience pleasure and pain) need to have their interests considered (Singer 1977), while **biocentrism** is the view that the good of all living things need to be taken into account (Taylor 1986).
 
 ^bfb23c
 
-[[no inherent value in species]]
+### are species more important than organisms
 >The difficulty with this **ecocentrism** view is that it is not clear that there is anything that could be considered the species' or ecosystem's good above and beyond (or distinct from) the good of the individual organisms that comprise them. What appears to be the good of species and ecosystems often is only a by-product, average, or aggregate of that of individual organisms (and some collectives, such as ant colonies or bee hives). Therefore, even if individual wolves have a good of their own and inherent worth, _Canis lupus_, the species, may not (Cahen 1988, Sandler 2007).
 
 ^65b2ed

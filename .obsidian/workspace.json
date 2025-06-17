@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/community ecology.md",
+                "file": "concepts/intrinsic value of nature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "community ecology"
+              "title": "intrinsic value of nature"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consequential",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -190,10 +189,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/community ecology.md"
+                "file": "sources/Thakur2020_integrativeunderstanding.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for community ecology"
+              "title": "File properties for Thakur2020_integrativeunderstanding"
             }
           },
           {
@@ -202,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/community ecology.md",
+                "file": "sources/Thakur2020_integrativeunderstanding.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of community ecology"
+              "title": "Outline of Thakur2020_integrativeunderstanding"
             }
           },
           {
@@ -235,7 +234,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a61e629d925333df",
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/community ecology.md",
+                "file": "sources/Thakur2020_integrativeunderstanding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +258,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for community ecology"
+              "title": "Backlinks for Thakur2020_integrativeunderstanding"
             }
           },
           {
@@ -289,10 +289,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f0a7731b0b71fa12",
+  "active": "4f0ee958babc915c",
   "lastOpenFiles": [
-    "sources/Vellend2010_ConceptualSynthesis.md",
+    "concepts/intrinsic value of nature.md",
+    "sources/deBenoist2004_naturesa.md",
+    "concepts/environmental ethics.md",
+    "sources/Himes2024_Whynature.md",
+    "sources/Debarre2025_RevampingLCIA.md",
+    "sources/Sandler2012_IntrinsicValue.md",
+    "sources/Verones2017_LCIAframework.md",
+    "sources/Soule1985_WhatConservation.md",
     "concepts/community ecology.md",
+    "sources/Vellend2010_ConceptualSynthesis.md",
     "concepts/species-abundance distribution.md",
     "concepts/biogeography of microorganisms.md",
     "sources/Thakur2020_integrativeunderstanding.md",
@@ -310,14 +318,6 @@
     "concepts/life cycle impact assessment.md",
     "sources/Hauschild2018_LifeCycle.md",
     "creators/Hauschild, Michael Z..md",
-    "concepts/environmental DNA.md",
-    "concepts/soil.md",
-    "sources/Cousin2025_Preserverqualite.md",
-    "misc/checks/check for mistagged files.md",
-    "concepts/marginal and average characterization factors.md",
-    "misc/checks/check for source references in notes.md",
-    "sources/Heijungs2024_ProbabilityStatistics.md",
-    "misc/templates/new zotero note.md",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
     "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",

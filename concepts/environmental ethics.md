@@ -40,14 +40,14 @@ Paradigms are also named "knowledged systems" in IPBES value assessment ([[IPBES
 ## use in LCA
 It is useful to go back to when working on [[LCIA method on ecosystem quality]], what it should capture and how to quantify it, because [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]].
 
-![[deBenoist2004_naturesa#^70149c]]
+![[deBenoist2004_naturesa#history of environmental ethics]]
 ## instrumental, intrinsic, relational values
 In [[IPBES]]' **values assessment** ([[IPBES2022_Summarypolicymakers]]) are considered three types of values depending on situations. They are further defined in [[Himes2024_Whynature]] systematic review:
 - *instrumental value* of nature: nature is seen as a means to human satisfaction, natural entities are considered as a (substituable) resource 
 - *relational value* of nature: nature is seen as an object of (non-exploitative) relationship with humans, natural entities are considered as partners
 - *intrinsic value* of nature: nature is seen as valuable regardless of its relationship with humans, natural entities are considered as moral beings with a right to exist
 	- see [[intrinsic value of nature]]
-	- Himes definition: ![[Himes2024_Whynature#^f2d6b6]]
+	- Himes definition: ![[Himes2024_Whynature#proposed definition for intrinsic value of nature]]
 
 Three types of nature valuation is considered in [[Himes2024_Whynature]]
 ![[Himes2024_Whynature_values.png]]

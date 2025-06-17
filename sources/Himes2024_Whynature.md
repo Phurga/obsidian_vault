@@ -17,11 +17,12 @@ itemKey: NVDR6ZN5
 >In this article, we present results from a literature review of intrinsic, instrumental, and relational values of nature conducted for the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, as part of the Methodological Assessment of the Diverse Values and Valuations of Nature. We identify the most frequently recurring meanings in the heterogeneous use of different value types and their association with worldviews and other key concepts. From frequent uses, we determine a core meaning for each value type, which is sufficiently inclusive to serve as an umbrella over different understandings in the literature and specific enough to help highlight its difference from the other types of values. Finally, we discuss convergences, overlapping areas, and fuzzy boundaries between different value types to facilitate dialogue, reduce misunderstandings, and improve the methods for valuation of nature's contributions to people, including ecosystem services, to inform policy and direct future research.
 
 ## notes %% begin notes %%
+### context
 >Intergovernmental SciencePolicy Platform on Biodiversity and Ecosystem Services (IPBES) commissioned and approved the Methodological Assessment of the Diverse Values and Valuations of Nature
-
+### summary of views
 ![[Himes2024_Whynature_values.png]]
-
-> intrinsic value: “values of other-than-human beings expressed independently of any reference to humans as valuers, including values associated with entities worth protecting as ends in and of themselves.
+### proposed definition for intrinsic value of nature
+> values of other-than-human beings expressed independently of any reference to humans as valuers, including values associated with entities worth protecting as ends in and of themselves.
 
 ^f2d6b6
 

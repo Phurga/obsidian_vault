@@ -5,7 +5,7 @@
   border-left: none;
 }
 
-.internal-embed .el-h3{
+.internal-embed[src*="#"] .el-h3{
   display: none;
 }
 
