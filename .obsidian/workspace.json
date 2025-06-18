@@ -43,16 +43,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/FAO2025_HowConserve.md",
+                "file": "concepts/shannon index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FAO2025_HowConserve"
+              "title": "shannon index"
+            }
+          },
+          {
+            "id": "3d2866139e2174e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/bray-curtis dissimilarity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "bray-curtis dissimilarity"
+            }
+          },
+          {
+            "id": "d7f4dbd8a9a023ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "presentation ITAP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "presentation ITAP"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d11f0bbf082d057f",
@@ -158,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Newbold2016_Globalpatterns.md",
+                "file": "presentation ITAP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Newbold2016_Globalpatterns"
+              "title": "Backlinks for presentation ITAP"
             }
           },
           {
@@ -177,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/Newbold2016_Globalpatterns.md",
+                "file": "presentation ITAP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Newbold2016_Globalpatterns"
+              "title": "Graph of presentation ITAP"
             }
           }
         ],
@@ -249,7 +280,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -265,10 +297,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Newbold2016_Globalpatterns.md"
+                "file": "presentation ITAP.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Newbold2016_Globalpatterns"
+              "title": "File properties for presentation ITAP"
             }
           },
           {
@@ -277,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Newbold2016_Globalpatterns.md",
+                "file": "presentation ITAP.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Newbold2016_Globalpatterns"
+              "title": "Outline of presentation ITAP"
             }
           },
           {
@@ -302,12 +334,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/Newbold2016_Globalpatterns.md",
+                "file": "presentation ITAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Newbold2016_Globalpatterns"
+              "title": "Outgoing links from presentation ITAP"
             }
           }
         ]
@@ -325,15 +357,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "595e8c7040bd972b",
+  "active": "d7f4dbd8a9a023ad",
   "lastOpenFiles": [
+    "concepts/bray-curtis dissimilarity.md",
+    "presentation ITAP.md",
+    "concepts/sorensen similarity index.md",
+    "sources/Newbold2016_Globalpatterns.md",
+    "Ecological Monographs (journal).md",
+    "sources/Bray1957_OrdinationUpland.md",
+    "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
+    "concepts/shannon index.md",
+    "sources/FAO2025_HowConserve.md",
+    "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
     "sources/Newbold2015_Globaleffects.md",
     "sources/McGill2015_Fifteenforms.md",
     "concepts/land use intensity.md",
     "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
     "concepts/soil function.md",
-    "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
-    "sources/FAO2025_HowConserve.md",
     "concepts/intrinsic value of nature.md",
     "sources/FAO2020_definitionsoil.md",
     "sources/FAO2020_Stateknowledge.md",
@@ -346,13 +386,6 @@
     "concepts/environmental ethics.md",
     "sources/Himes2024_Whynature.md",
     "sources/Debarre2025_RevampingLCIA.md",
-    "sources/Sandler2012_IntrinsicValue.md",
-    "sources/Verones2017_LCIAframework.md",
-    "sources/Soule1985_WhatConservation.md",
-    "concepts/community ecology.md",
-    "sources/Vellend2010_ConceptualSynthesis.md",
-    "concepts/species-abundance distribution.md",
-    "concepts/biogeography of microorganisms.md",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
     "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",
@@ -363,7 +396,6 @@
     "attachments/41586_2022_5318_Fig3_HTML.webp",
     "attachments/IUCN global ecosystem typology_classification.webp",
     "attachments/IUCN global ecosystem typology_method.webp",
-    "attachments/Dinerstein2017_EcoregionBasedApproach_ecoregion_map.png",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
     "concepts.zip",

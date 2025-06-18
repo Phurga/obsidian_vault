@@ -2,8 +2,8 @@
 tags:
   - concept/definition
 authors:
-  - sorensen index
-  - sørensen index
+  - sorensen
+  - sørensen
   - sorensen dissimilarity
 ---
 The **Sorensen similarity index** is a metric used to assess the similarity between two sets of data, especially species abundance in a community. It is an index whose value ranges between 0 and 1, reaching 1 when both datasets are identical.

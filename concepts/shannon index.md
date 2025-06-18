@@ -5,7 +5,7 @@ aliases:
   - shannon diversity
   - H'
 ---
-The **Shannon index** is an indicator of [[ecological composition]], measuring species [[eveness]]. This measure accounts for richness and abundance, and reaches a maximum value when all species occur equally abundant.
+The **Shannon index** is an indicator of [[ecological composition]], measuring species [[functional eveness|eveness]]. This measure accounts for richness and abundance, and reaches a maximum value when all species occur equally abundant.
 
 $H = - \sum{p_k*ln p_k}$ 
 where $p_k$ is the number of organisms of species $k$ relative to the total number of organisms $N$ across all species ($p_k=\frac{N_k}{\sum_k{N_k}}$.
