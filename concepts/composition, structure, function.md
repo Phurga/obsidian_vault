@@ -26,3 +26,6 @@ see
 see [[noss indicators]] for operational indicators related to this classification
 >[!warning] 
 >[[Franklin1981_Ecologicalcharacteristics]] focused on forests, to which structure would make much more common sense (than the expanded meaning for concepts such as genetic structure).
+
+### modern use of the concept
+[[ecosystem integrity]] retrieves this three dimensions
