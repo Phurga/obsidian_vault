@@ -28,107 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "protecting soil biodiversity, from a focus on species to a focus on ecosystem function"
-            }
-          },
-          {
-            "id": "c5d0ea4388063f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/shannon index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "shannon index"
-            }
-          },
-          {
-            "id": "3d2866139e2174e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/bray-curtis dissimilarity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "bray-curtis dissimilarity"
-            }
-          },
-          {
-            "id": "d7f4dbd8a9a023ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creators/CBD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CBD"
-            }
-          },
-          {
-            "id": "f0980d00dc9d860f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/ecosystem integrity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ecosystem integrity"
-            }
-          },
-          {
-            "id": "9dc6be52a3df64e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/ecosystem integrity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ecosystem integrity"
-            }
-          },
-          {
-            "id": "18f48686447a08ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/composition, structure, function.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "composition, structure, function"
+              "title": "Labouyrie2023_Patternssoil"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "d11f0bbf082d057f",
@@ -148,8 +58,39 @@
               "icon": "lucide-file",
               "title": "Newbold2016_Globalpatterns"
             }
+          },
+          {
+            "id": "8f2962ec95e9d044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/impacts of land use on biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "impacts of land use on biodiversity"
+            }
+          },
+          {
+            "id": "d4957965415ec3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/beta diversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "beta diversity"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b0733121531dbb26",
@@ -202,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"geo bon\"",
+                "query": "2050",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -234,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "concepts/ecosystem integrity.md",
+                "file": "concepts/beta diversity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ecosystem integrity"
+              "title": "Graph of beta diversity"
             }
           }
         ],
@@ -306,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -324,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/ecosystem integrity.md"
+                "file": "concepts/beta diversity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ecosystem integrity"
+              "title": "File properties for beta diversity"
             }
           },
           {
@@ -336,23 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/ecosystem integrity.md",
+                "file": "concepts/beta diversity.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ecosystem integrity"
-            }
-          },
-          {
-            "id": "58573b8b0048117a",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
+              "title": "Outline of beta diversity"
             }
           },
           {
@@ -361,12 +291,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/ecosystem integrity.md",
+                "file": "concepts/beta diversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ecosystem integrity"
+              "title": "Outgoing links from beta diversity"
             }
           }
         ]
@@ -382,17 +312,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/ecosystem integrity.md",
+                "file": "concepts/beta diversity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "tag:source",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ecosystem integrity"
+              "title": "Backlinks for beta diversity"
             }
           }
         ]
@@ -410,35 +340,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9dc6be52a3df64e7",
+  "active": "d4957965415ec3e3",
   "lastOpenFiles": [
+    "concepts/impacts of land use on biodiversity.md",
+    "sources/Labouyrie2023_Patternssoil.md",
+    "sources/McGill2015_Fifteenforms.md",
+    "creators/Trends in Ecology & Evolution (journal).md",
+    "sources/Newbold2016_Globalpatterns.md",
+    "concepts/composition, structure, function.md",
+    "concepts/beta diversity.md",
+    "sources/Hansen2021_MonitoringForest.md",
     "concepts/species habitat index.md",
     "concepts/ecosystem integrity.md",
-    "concepts/composition, structure, function.md",
-    "sources/Blumetto2019_EcosystemIntegrity.md",
-    "creators/CBD.md",
-    "concepts/bray-curtis dissimilarity.md",
-    "concepts/shannon index.md",
     "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
+    "concepts/shannon index.md",
+    "concepts/bray-curtis dissimilarity.md",
+    "creators/CBD.md",
+    "creators/Newbold, Tim.md",
+    "sources/CBDandUNEP2021_IndicatorMetadata.md",
+    "concepts/convention on biological diversity.md",
+    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
+    "sources/UNEP2025_Indicatorsrepository.md",
+    "sources/Blumetto2019_EcosystemIntegrity.md",
     "sources/CBD2000_Sustaininglife.md",
     "sources/Richardson2023_Earthsix.md",
     "presentation ITAP.md",
     "concepts/sorensen similarity index.md",
-    "sources/Newbold2016_Globalpatterns.md",
     "Ecological Monographs (journal).md",
     "sources/Bray1957_OrdinationUpland.md",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
-    "sources/FAO2025_HowConserve.md",
-    "sources/Newbold2015_Globaleffects.md",
-    "sources/McGill2015_Fifteenforms.md",
-    "concepts/land use intensity.md",
-    "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
-    "concepts/soil function.md",
-    "concepts/intrinsic value of nature.md",
-    "sources/FAO2020_definitionsoil.md",
-    "sources/FAO2020_Stateknowledge.md",
-    "creators/Global Soil Partnership.md",
-    "creators/FAO.md",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
     "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",

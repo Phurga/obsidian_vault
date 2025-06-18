@@ -11,15 +11,16 @@ itemKey: HT5YEXXW
 > [[Indicators for the Kunming – Montreal Global Biodiversity Framework]] (2025)
 > Indicator, convention on biological diversity, Global biodiversity framework, GBF, CBD, 
 > [Online link](https://www.gbf-indicators.org/), [Zotero Item](zotero://select/library/items/HT5YEXXW),
+
 >[!abstract]-
 >The indicators on this website aim to inform the process to develop the monitoring framework for the Kunming – Montreal Global Biodiversity Framework.
 
 ## notes %% begin notes %%
+### recap
 Indicators for the [[Kunming-Montreal Global Biodiversity Framework]], linked to targets.
-[[Kunming-Montreal Global Biodiversity Framework]]
+### ecosystem redlist
 ![[UNEP2025_Indicatorsrepository_ecosystem_redlist.png]]
-
-[[Kunming-Montreal Global Biodiversity Framework]]
+### genetic diversity threshold
 ![[UNEP2025_Indicatorsrepository_genetic_diversity.png]]
 %% end notes %%
 

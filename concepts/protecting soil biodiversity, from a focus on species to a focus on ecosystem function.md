@@ -9,5 +9,8 @@ tags:
 [[soil biodiversity]]
 [[soil function]]
 [[species richness]]
+### or use both ? ecosystem integrity
+>[!!] 
+>[[ecosystem integrity]] wants to focus on both !
 
-For a focus
+ecosystem integrity is adressed by assessing the dynamics of suitable habitat ranges for species. 

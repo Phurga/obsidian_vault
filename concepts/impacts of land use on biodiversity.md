@@ -14,6 +14,8 @@ There could be optimums in land use leading to maximized richness, see [[the int
 
 [[Labouyrie2023_Patternssoil]]
 ![[Labouyrie2023_Patternssoil#Finds an increase in microbial richness in managed land vs in natural land (forests).]]
+and worse
+![[Labouyrie2023_Patternssoil#no link between microbial richness and ecosystem functioning]]
 
 [[Vellend2017_BiodiversityConservation]]
 ![[Vellend2017_BiodiversityConservation#the biodiversity conservation paradox , chosing between global and regional diversity]]
