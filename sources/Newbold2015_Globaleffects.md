@@ -18,10 +18,10 @@ itemKey: LB99VPJ2
 
 ## notes %% begin notes %%
 
-[[land use intensity]]
+### land use intensity definitions
 ![[Newbold2015_Globaleffects_intensity_definition.png]]
-
-![[Newbold2015_Globaleffects_intensity_richness.webp|600]]
+### land use effect on terrestrial biodiversity
+![[Newbold2015_Globaleffects_intensity_richness.webp]]
 %% end notes %%
 
 %% Import Date: 2025-06-11T14:41:48.131+02:00 %%

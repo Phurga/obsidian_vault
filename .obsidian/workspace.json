@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+                "file": "sources/Newbold2015_Globaleffects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "indicator for ecosystem quality applicable to soil biodiversity"
+              "title": "Newbold2015_Globaleffects"
             }
           },
           {
@@ -50,6 +50,48 @@
               },
               "icon": "lucide-file",
               "title": "FAO2025_HowConserve"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d11f0bbf082d057f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "595e8c7040bd972b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Newbold2016_Globalpatterns.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Newbold2016_Globalpatterns"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0733121531dbb26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fb8963610e01cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/McGill2015_Fifteenforms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "McGill2015_Fifteenforms"
             }
           }
         ]
@@ -116,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+                "file": "sources/Newbold2016_Globalpatterns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +168,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for indicator for ecosystem quality applicable to soil biodiversity"
+              "title": "Backlinks for Newbold2016_Globalpatterns"
             }
           },
           {
@@ -135,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+                "file": "sources/Newbold2016_Globalpatterns.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of indicator for ecosystem quality applicable to soil biodiversity"
+              "title": "Graph of Newbold2016_Globalpatterns"
             }
           }
         ],
@@ -223,10 +265,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md"
+                "file": "sources/Newbold2016_Globalpatterns.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for indicator for ecosystem quality applicable to soil biodiversity"
+              "title": "File properties for Newbold2016_Globalpatterns"
             }
           },
           {
@@ -235,13 +277,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+                "file": "sources/Newbold2016_Globalpatterns.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of indicator for ecosystem quality applicable to soil biodiversity"
+              "title": "Outline of Newbold2016_Globalpatterns"
             }
           },
           {
@@ -260,12 +302,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+                "file": "sources/Newbold2016_Globalpatterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from indicator for ecosystem quality applicable to soil biodiversity"
+              "title": "Outgoing links from Newbold2016_Globalpatterns"
             }
           }
         ]
@@ -283,10 +325,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a937a1c3b479b2b9",
+  "active": "595e8c7040bd972b",
   "lastOpenFiles": [
-    "concepts/soil function.md",
+    "sources/Newbold2015_Globaleffects.md",
+    "sources/McGill2015_Fifteenforms.md",
+    "concepts/land use intensity.md",
     "concepts/indicator for ecosystem quality applicable to soil biodiversity.md",
+    "concepts/soil function.md",
     "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
     "sources/FAO2025_HowConserve.md",
     "concepts/intrinsic value of nature.md",
@@ -308,10 +353,7 @@
     "sources/Vellend2010_ConceptualSynthesis.md",
     "concepts/species-abundance distribution.md",
     "concepts/biogeography of microorganisms.md",
-    "concepts/bacteria.md",
-    "sources/Labouyrie2023_Patternssoil.md",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
-    "misc/ROADMAP.md",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
     "attachments/Bulle2019_IMPACTWorld_impact_pathway.png",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
