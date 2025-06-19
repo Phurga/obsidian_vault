@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of beta diversity"
+              "title": "Graph of Labouyrie2023_Patternssoil"
             }
           }
         ],
@@ -264,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/beta diversity.md"
+                "file": "sources/Labouyrie2023_Patternssoil.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for beta diversity"
+              "title": "File properties for Labouyrie2023_Patternssoil"
             }
           },
           {
@@ -276,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beta diversity"
+              "title": "Outline of Labouyrie2023_Patternssoil"
             }
           },
           {
@@ -291,12 +291,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from beta diversity"
+              "title": "Outgoing links from Labouyrie2023_Patternssoil"
             }
           }
         ]
@@ -312,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/beta diversity.md",
+                "file": "sources/Labouyrie2023_Patternssoil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +322,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for beta diversity"
+              "title": "Backlinks for Labouyrie2023_Patternssoil"
             }
           }
         ]
@@ -340,15 +340,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d4957965415ec3e3",
+  "active": "701bedd13b889fee",
   "lastOpenFiles": [
+    "concepts/beta diversity.md",
     "concepts/impacts of land use on biodiversity.md",
     "sources/Labouyrie2023_Patternssoil.md",
     "sources/McGill2015_Fifteenforms.md",
     "creators/Trends in Ecology & Evolution (journal).md",
     "sources/Newbold2016_Globalpatterns.md",
     "concepts/composition, structure, function.md",
-    "concepts/beta diversity.md",
     "sources/Hansen2021_MonitoringForest.md",
     "concepts/species habitat index.md",
     "concepts/ecosystem integrity.md",
