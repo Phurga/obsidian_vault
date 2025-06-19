@@ -1,6 +1,7 @@
 # manuel
 
 - [ ] [[indicator for ecosystem quality applicable to soil biodiversity]]
+- [ ] inscription MCV
 - [ ] sol: medium (soil quality) ou surface (land use / habitat)
 - [ ] reservation TASE nautilus (moi)
 - [ ] point guido (amandine)

@@ -43,77 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/MEETINGS.md",
+                "file": "concepts/statistical significance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MEETINGS"
+              "title": "statistical significance"
             }
           },
           {
-            "id": "600def4d13bd89dc",
+            "id": "aa2094d1de10c598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Zeleny2022_EcologicalResemblance.md",
+                "file": "sources/Colquhoun2019_FalsePositive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Zeleny2022_EcologicalResemblance"
-            }
-          },
-          {
-            "id": "f8ba7227d5f92960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "fafe379ea961ffe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/ADMIN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ADMIN"
-            }
-          },
-          {
-            "id": "148486dc515e3ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Chao2014_UnifyingSpecies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chao2014_UnifyingSpecies"
+              "title": "Colquhoun2019_FalsePositive"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/ADMIN.md",
+                "file": "sources/Colquhoun2019_FalsePositive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +196,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ADMIN"
+              "title": "Graph of Colquhoun2019_FalsePositive"
             }
           }
         ],
@@ -267,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "misc/ADMIN.md"
+                "file": "sources/Colquhoun2019_FalsePositive.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ADMIN"
+              "title": "File properties for Colquhoun2019_FalsePositive"
             }
           },
           {
@@ -279,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/ADMIN.md",
+                "file": "sources/Colquhoun2019_FalsePositive.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ADMIN"
+              "title": "Outline of Colquhoun2019_FalsePositive"
             }
           },
           {
@@ -294,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/ADMIN.md",
+                "file": "sources/Colquhoun2019_FalsePositive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ADMIN"
+              "title": "Outgoing links from Colquhoun2019_FalsePositive"
             }
           }
         ]
@@ -315,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/ADMIN.md",
+                "file": "sources/Colquhoun2019_FalsePositive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ADMIN"
+              "title": "Backlinks for Colquhoun2019_FalsePositive"
             }
           }
         ]
@@ -343,18 +298,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fafe379ea961ffe2",
+  "active": "aa2094d1de10c598",
   "lastOpenFiles": [
-    "misc/TODO.md",
-    "misc/ADMIN.md",
-    "misc/MEETINGS.md",
-    "concepts/hellinger transform.md",
+    "concepts/statistical significance.md",
+    "sources/Colquhoun2019_FalsePositive.md",
+    "concepts/statistics.md",
+    "sources/GISRevalim2025_ComparaisonBiomaps.md",
+    "sources/Buttigieg2014_GuideStatistical.md",
     "sources/Zeleny2022_EcologicalResemblance.md",
+    "misc/TODO.md",
+    "misc/MEETINGS.md",
+    "sources/Chao2014_UnifyingSpecies.md",
+    "creators/PEPR TASE.md",
+    "misc/ADMIN.md",
+    "concepts/hellinger transform.md",
     "concepts/simpson index.md",
     "concepts/compositional similarity.md",
     "sources/Santini2017_Assessingsuitability.md",
     "concepts/bray-curtis dissimilarity.md",
-    "sources/Chao2014_UnifyingSpecies.md",
     "concepts/measures of biodiversity.md",
     "sources/Newbold2015_Globaleffects.md",
     "sources/Chao2005_newstatistical.md",
@@ -365,12 +326,6 @@
     "sources/Bloor2021_AnalysisComplex.md",
     "sources/Bluthgen2012_QuantitativeIndex.md",
     "concepts/impacts of land use on biodiversity.md",
-    "sources/Newbold2016_Globalpatterns.md",
-    "sources/Hansen2021_MonitoringForest.md",
-    "concepts/beta diversity.md",
-    "sources/McGill2015_Fifteenforms.md",
-    "creators/Trends in Ecology & Evolution (journal).md",
-    "concepts/composition, structure, function.md",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
