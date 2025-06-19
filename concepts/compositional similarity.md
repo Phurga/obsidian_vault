@@ -16,8 +16,15 @@ For microbes, species is replaced with [[operational taxonomic unit|OTU]] (zOTU 
 less common: [[simpson index]]
 ### quantitative
 [[bray-curtis dissimilarity]]
-Recommendation
+alternatives:
+- Chao1 ([[Chao2005_newstatistical]]),
+- Hill number ([[Chao2014_UnifyingSpecies]])
+- [[simpson index]]
+- fischer alpha (as in [[DeBaan2013_LandUse]])
+
 ## references and further info
+[[Santini2017_Assessingsuitability]]
 [[Chao2005_newstatistical]]
 [[Zeleny2022_EcologicalResemblance]]
 - citing Legendre, P. & Legendre, L. 2012. _Numerical Ecology_. Third English edition. Elsevier Science BV, Amsterdam.
+

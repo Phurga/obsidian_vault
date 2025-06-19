@@ -1,6 +1,7 @@
 ---
 aliases:
   - weekly
+  - suivi
 tags:
   - meeting
 ---
@@ -8,9 +9,9 @@ tags:
 
 ## Next
 - comité de thèse (voir adum et doctorants)
-	- itap ()
+	- itap (ryad ou eleonore)
 	- gaia (cecile bessou)
-	- externe (mickael hedde ? narbonne ?)
+	- externe (mickael hedde ? narbonne hakim ou jerome ?)
 ## Archive
 - tase bullet point [file](file:///C:\Users\aburg\Documents\communication_interne\TASE_slide_WPleaders_2025_INRAE.pptx)
 - inscription TASE
