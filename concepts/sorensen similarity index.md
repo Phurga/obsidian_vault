@@ -13,6 +13,9 @@ It is defined in "Sørensen, T. (1948). "A method of establishing groups of equa
 For categorical data, the (original) formula is:
 ![[wikipedia_sorensen similarity index_formula.png]]
 This formula applies for richness, since we assess presence or absence of a species.
+### quantitative version (with abundance)
+It is possible to calculate sorensen similarity on numerical data rather than absence presence, but in this case it more common to use [[bray-curtis dissimilarity]].
+See [[Chao2005_newstatistical#history of abundance similarity metric]].
 
 For numerical data, such as abundance of species (Ab):
 ![[Santini2017_Assessingsuitability_sorensen formula.png]]

@@ -18,15 +18,15 @@ importDate: 2025-06-11
 
 ## notes %% begin notes %%
 ### key concepts
-Use of [[operational taxonomic unit|OTU]] and [[DNA metabarcoding]]
-Uses [[LUCAS]]
-Definition of a land-use perturbation gradient (related to [[land use intensity]]).
-Extended documentation on effects of perturbations of environmental conditions (direct human or indirect such as climate change) on soil microrganisms communities.
+Measures microbial richness (via [[operational taxonomic unit|zOTU]] count) using [[DNA metabarcoding]]
+on environmental DNA retrieved from the [[LUCAS]] program.
+Studies the effect of land cover - considering a land use perturbation gradient (related to [[land use intensity]]) and studies single effects driving microbial diversity (such as pH, temperature etc). Diversity is measured using [[sorensen similarity index]].
+### indicators used
+Use of [[beta diversity]] as indicator for change in community structure based on land cover.
+Use of [[shannon index]] as indicator for "diversity" in the sense that the community is diverse and even (not dominated by a single species).
 ### biodiversity facets to monitor for policy
 >We propose guidelines for environmental policy actions and argue that taxonomical and functional diversity should be considered simultaneously for monitoring purposes.
-### indicators used
-Use of [[beta diversity]] as indicator for community structure.
-Use of [[shannon index]] as indicator for diversity (but it seems it is better suited with eveness)
+
 ### Finds an increase in microbial richness in managed land vs in natural land (forests)
 > Higher microbial richness and diversity in croplands and grassland compared to woodlands might result from increased niche availability at the local scale due to either soil perturbation or the presence of a heterogeneous environment with different plant species (e.g. in grasslands or when different crops are rotated in arable and vegetable fields).
 ### local variability

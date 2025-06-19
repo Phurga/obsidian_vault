@@ -4,7 +4,8 @@ tags:
 aliases:
   - bray curtis
 ---
-**Bray-curtis dissimilarity** is a [[statistics]] used to quantify the dissimilarity of species count between two sites. Defined in 1957 in [[Bray1957_OrdinationUpland]]. It is quite the same as [[sorensen similarity index]].
+**Bray-curtis dissimilarity** is a [[statistics]] used to quantify the dissimilarity of species count between two sites. Defined in 1957 in [[Bray1957_OrdinationUpland]]. It is quite the same as [[sorensen similarity index]] applied on abundance data (but not exactly the same).
+The closer the Bray-Curtis value is to 1, the more different the samples; the closer it is to 0, the more similar they are.
 ### definition
 from [wikipedia](https://en.wikipedia.org/wiki/Bray%E2%80%93Curtis_dissimilarity)
 ${\displaystyle BC_{jk}=1-{\frac {2C_{jk}}{S_{j}+S_{k}}}=1-{\frac {2\sum _{i=1}^{p}min(N_{ij},N_{ik})}{\sum _{i=1}^{p}(N_{ij}+N_{ik})}}}$

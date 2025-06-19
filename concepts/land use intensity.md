@@ -24,6 +24,9 @@ Figure from [[Newbold2015_Globaleffects]] but just a clean copy of [[Hudson2014_
 In [[Labouyrie2023_Patternssoil]], there is mention of a **land perturbation gradient** which mixes different land use classes and orders those based on "land use perturbation". There is no supporting evidence for this ordering (how are grasslands more perturbed than forests).
 
 ![[Labouyrie2023_Patternssoil_land_use_intensity_gradient.png]]
+## quantifying land use intensity
+[[Bloor2021_AnalysisComplex]] uses a quantification of land use intensity based on an index from [[Bluthgen2012_QuantitativeIndex]].
+See [[Bloor2021_AnalysisComplex#quantification of land use intensity]].
 ## data sources
 #data 
 data sources for land use intensity data:

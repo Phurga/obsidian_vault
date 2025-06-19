@@ -18,6 +18,8 @@ itemKey: ISC4NDBJ
 
 ### definition of the [[sorensen similarity index]] for diversity metrics
 ![[Santini2017_Assessingsuitability_sorensen formula.png]]
+>[!warning] wrong ?
+>this formula seems to be wrong as i find other definitions in statistics papers (numerator is $2*min(a,b)$ rather than $abs(a,b)$)
 
 %% end notes %%
 

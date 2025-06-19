@@ -8,95 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a937a1c3b479b2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Newbold2015_Globaleffects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Newbold2015_Globaleffects"
-            }
-          },
-          {
             "id": "701bedd13b889fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Labouyrie2023_Patternssoil.md",
+                "file": "concepts/bray-curtis dissimilarity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Labouyrie2023_Patternssoil"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d11f0bbf082d057f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "595e8c7040bd972b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Newbold2016_Globalpatterns.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Newbold2016_Globalpatterns"
+              "title": "bray-curtis dissimilarity"
             }
           },
           {
-            "id": "8f2962ec95e9d044",
+            "id": "fb3e8fddead5dccb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Bloor2021_AnalysisComplex.md",
+                "file": "concepts/compositional similarity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bloor2021_AnalysisComplex"
+              "title": "compositional similarity"
+            }
+          },
+          {
+            "id": "f8ba7227d5f92960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "148486dc515e3ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Chao2014_UnifyingSpecies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chao2014_UnifyingSpecies"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "b0733121531dbb26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7fb8963610e01cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/McGill2015_Fifteenforms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "McGill2015_Fifteenforms"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/Bloor2021_AnalysisComplex.md",
+                "file": "misc/TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +196,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bloor2021_AnalysisComplex"
+              "title": "Graph of TODO"
             }
           }
         ],
@@ -250,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Bloor2021_AnalysisComplex.md"
+                "file": "misc/TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Bloor2021_AnalysisComplex"
+              "title": "File properties for TODO"
             }
           },
           {
@@ -262,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/Bloor2021_AnalysisComplex.md",
+                "file": "misc/TODO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloor2021_AnalysisComplex"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -277,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/Bloor2021_AnalysisComplex.md",
+                "file": "misc/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bloor2021_AnalysisComplex"
+              "title": "Outgoing links from TODO"
             }
           }
         ]
@@ -298,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Bloor2021_AnalysisComplex.md",
+                "file": "misc/TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bloor2021_AnalysisComplex"
+              "title": "Backlinks for TODO"
             }
           }
         ]
@@ -326,14 +298,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8f2962ec95e9d044",
+  "active": "f8ba7227d5f92960",
   "lastOpenFiles": [
+    "sources/Chao2014_UnifyingSpecies.md",
+    "sources/Zeleny2022_EcologicalResemblance.md",
+    "sources/Santini2017_Assessingsuitability.md",
+    "misc/TODO.md",
+    "concepts/compositional similarity.md",
+    "concepts/bray-curtis dissimilarity.md",
+    "concepts/measures of biodiversity.md",
+    "sources/Newbold2015_Globaleffects.md",
+    "sources/Chao2005_newstatistical.md",
+    "concepts/sorensen similarity index.md",
+    "sources/Santini2017_Assessingsuitabilitya.md",
+    "sources/Labouyrie2023_Patternssoil.md",
+    "concepts/land use intensity.md",
+    "sources/Bloor2021_AnalysisComplex.md",
     "sources/Bluthgen2012_QuantitativeIndex.md",
     "concepts/impacts of land use on biodiversity.md",
     "sources/Newbold2016_Globalpatterns.md",
-    "sources/Labouyrie2023_Patternssoil.md",
     "sources/Hansen2021_MonitoringForest.md",
-    "misc/TODO.md",
     "concepts/beta diversity.md",
     "sources/McGill2015_Fifteenforms.md",
     "creators/Trends in Ecology & Evolution (journal).md",
@@ -342,18 +326,6 @@
     "concepts/ecosystem integrity.md",
     "concepts/protecting soil biodiversity, from a focus on species to a focus on ecosystem function.md",
     "concepts/shannon index.md",
-    "concepts/bray-curtis dissimilarity.md",
-    "creators/CBD.md",
-    "creators/Newbold, Tim.md",
-    "sources/CBDandUNEP2021_IndicatorMetadata.md",
-    "concepts/convention on biological diversity.md",
-    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
-    "sources/UNEP2025_Indicatorsrepository.md",
-    "sources/Blumetto2019_EcosystemIntegrity.md",
-    "sources/CBD2000_Sustaininglife.md",
-    "sources/Richardson2023_Earthsix.md",
-    "presentation ITAP.md",
-    "concepts/sorensen similarity index.md",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",

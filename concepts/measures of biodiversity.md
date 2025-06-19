@@ -17,7 +17,7 @@ Because of the complexity and multiple dimensions of [[biodiversity]], there can
 			- [[mean species abundance]] (MSA)
 		- richness and abundance combined ([[species diversity]])
 			- [[shannon index]] (eveness)
-		- compositional similarity
+		- [[compositional similarity]]
 			- [[sorensen similarity index]]
 			- fischer alpha
 			- [[simpson index]]
