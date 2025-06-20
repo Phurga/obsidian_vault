@@ -4,24 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "a41e396043aea85a",
+        "id": "3c5da698fe33c012",
         "type": "tabs",
         "children": [
-          {
-            "id": "bfe5aa57cb7c501d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/statistics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics"
-            }
-          },
           {
             "id": "2b40ea501b3168b2",
             "type": "leaf",
@@ -36,99 +21,8 @@
               "icon": "lucide-file",
               "title": "ma these en 180s"
             }
-          },
-          {
-            "id": "c5e8e6d5cf5ed8bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Soule1985_WhatConservation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Soule1985_WhatConservation"
-            }
-          },
-          {
-            "id": "2d2b616314cc54e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "protecting above-ground biodiversity is not always sufficient to protect soil biodiversity"
-            }
-          },
-          {
-            "id": "36ab62d15cbd27d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Cameron2019_Globalmismatches.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cameron2019_Globalmismatches"
-            }
-          },
-          {
-            "id": "fa2f1f58bbb6e25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/ISO2006_ISO14040.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ISO2006_ISO14040"
-            }
-          },
-          {
-            "id": "5458c0684f9dc54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Cousin2025_Preserverqualite.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cousin2025_Preserverqualite"
-            }
-          },
-          {
-            "id": "9a4c0ec4e4c16785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/ecosystem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ecosystem"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "optimal",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -359,20 +253,23 @@
   },
   "active": "2b40ea501b3168b2",
   "lastOpenFiles": [
-    "sources/Soule1985_WhatConservation.md",
-    "concepts/conservation biology.md",
-    "sources/Vellend2017_BiodiversityConservation.md",
-    "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
+    "concepts/biotope.md",
+    "concepts/habitat transformation.md",
+    "concepts/species distribution model.md",
     "ma these en 180s.md",
+    "Untitled.md",
+    "concepts/statistics.md",
+    "sources/Soule1985_WhatConservation.md",
+    "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
     "sources/Cameron2019_Globalmismatches.md",
     "sources/ISO2006_ISO14040.md",
-    "sources/Bray1957_OrdinationUpland.md",
     "sources/Cousin2025_Preserverqualite.md",
-    "concepts/statistics.md",
-    "attachments/Bray1957_OrdinationUpland_source.png",
     "concepts/ecosystem.md",
+    "concepts/conservation biology.md",
+    "sources/Vellend2017_BiodiversityConservation.md",
+    "sources/Bray1957_OrdinationUpland.md",
+    "attachments/Bray1957_OrdinationUpland_source.png",
     "concepts/soil.md",
-    "Untitled.md",
     "concepts/bray-curtis dissimilarity.md",
     "concepts/simpson index.md",
     "concepts/statistical significance.md",
@@ -383,9 +280,6 @@
     "misc/TODO.md",
     "misc/MEETINGS.md",
     "sources/Chao2014_UnifyingSpecies.md",
-    "creators/PEPR TASE.md",
-    "misc/ADMIN.md",
-    "concepts/hellinger transform.md",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
