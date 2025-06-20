@@ -9,5 +9,6 @@ Through landscape homogeneisation, there is species composition homogeneisation,
 
 ## Supporting references
 [[Jandt2022_Morelosses]]
+[[McGill2015_Fifteenforms]]
 
 Questions the [[intrinsic value of nature]] and how we perceive [[biodiversity]].

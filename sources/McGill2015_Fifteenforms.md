@@ -19,8 +19,7 @@ itemKey: 58ASAWWY
 ## notes %% begin notes %%
 ### anthropocene
 ...
-### human do always have negative impacts on biodiversity
-### land cover change is of the five main pressures on biodiversity
+### human do not always have negative impacts on biodiversity
 > Land-cover change – human-caused land-cover change typically decreases species richness in the changed area. However, by creating more heterogeneous habitat structure, meta-community to biogeographical-scale species richness can increase by, for example, bringing in edge or open habitat species (see [Figure 1](https://www.sciencedirect.com/science/article/pii/S0169534714002456#fig0005) in main text) [[66]](https://www.sciencedirect.com/science/article/pii/S0169534714002456#bib0355). 
 > Also, during restoration or recovery from disturbance, species richness often peaks at intermediate successional stages rather than either immediately after change or at the original ‘climax’ state [[67]](https://www.sciencedirect.com/science/article/pii/S0169534714002456#bib0360).
 ### alpha diversity, beta diversity, abundance
