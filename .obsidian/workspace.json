@@ -21,8 +21,114 @@
               "icon": "lucide-file",
               "title": "statistics"
             }
+          },
+          {
+            "id": "2b40ea501b3168b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ma these en 180s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ma these en 180s"
+            }
+          },
+          {
+            "id": "c5e8e6d5cf5ed8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Soule1985_WhatConservation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Soule1985_WhatConservation"
+            }
+          },
+          {
+            "id": "2d2b616314cc54e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "protecting above-ground biodiversity is not always sufficient to protect soil biodiversity"
+            }
+          },
+          {
+            "id": "36ab62d15cbd27d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Cameron2019_Globalmismatches.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cameron2019_Globalmismatches"
+            }
+          },
+          {
+            "id": "fa2f1f58bbb6e25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/ISO2006_ISO14040.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO2006_ISO14040"
+            }
+          },
+          {
+            "id": "5458c0684f9dc54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Cousin2025_Preserverqualite.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cousin2025_Preserverqualite"
+            }
+          },
+          {
+            "id": "9a4c0ec4e4c16785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/ecosystem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ecosystem"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2050",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "concepts/statistics.md",
+                "file": "ma these en 180s.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics"
+              "title": "Graph of ma these en 180s"
             }
           }
         ],
@@ -158,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -176,10 +281,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "concepts/statistics.md"
+                "file": "ma these en 180s.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for statistics"
+              "title": "File properties for ma these en 180s"
             }
           },
           {
@@ -188,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/statistics.md",
+                "file": "ma these en 180s.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of statistics"
+              "title": "Outline of ma these en 180s"
             }
           },
           {
@@ -203,12 +308,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/statistics.md",
+                "file": "ma these en 180s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from statistics"
+              "title": "Outgoing links from ma these en 180s"
             }
           }
         ]
@@ -224,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/statistics.md",
+                "file": "ma these en 180s.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics"
+              "title": "Backlinks for ma these en 180s"
             }
           }
         ]
@@ -252,11 +357,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfe5aa57cb7c501d",
+  "active": "2b40ea501b3168b2",
   "lastOpenFiles": [
+    "sources/Soule1985_WhatConservation.md",
+    "concepts/conservation biology.md",
+    "sources/Vellend2017_BiodiversityConservation.md",
+    "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
+    "ma these en 180s.md",
+    "sources/Cameron2019_Globalmismatches.md",
+    "sources/ISO2006_ISO14040.md",
+    "sources/Bray1957_OrdinationUpland.md",
+    "sources/Cousin2025_Preserverqualite.md",
+    "concepts/statistics.md",
+    "attachments/Bray1957_OrdinationUpland_source.png",
+    "concepts/ecosystem.md",
+    "concepts/soil.md",
+    "Untitled.md",
     "concepts/bray-curtis dissimilarity.md",
     "concepts/simpson index.md",
-    "concepts/statistics.md",
     "concepts/statistical significance.md",
     "sources/Colquhoun2019_FalsePositive.md",
     "sources/GISRevalim2025_ComparaisonBiomaps.md",
@@ -268,18 +386,6 @@
     "creators/PEPR TASE.md",
     "misc/ADMIN.md",
     "concepts/hellinger transform.md",
-    "concepts/compositional similarity.md",
-    "sources/Santini2017_Assessingsuitability.md",
-    "concepts/measures of biodiversity.md",
-    "sources/Newbold2015_Globaleffects.md",
-    "sources/Chao2005_newstatistical.md",
-    "concepts/sorensen similarity index.md",
-    "sources/Santini2017_Assessingsuitabilitya.md",
-    "sources/Labouyrie2023_Patternssoil.md",
-    "concepts/land use intensity.md",
-    "sources/Bloor2021_AnalysisComplex.md",
-    "sources/Bluthgen2012_QuantitativeIndex.md",
-    "concepts/impacts of land use on biodiversity.md",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
@@ -290,7 +396,6 @@
     "attachments/Keith2022_functionbasedtypology_functional_group.webp",
     "attachments/41586_2022_5318_Fig3_HTML.webp",
     "attachments/IUCN global ecosystem typology_classification.webp",
-    "attachments/IUCN global ecosystem typology_method.webp",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
     "concepts.zip",

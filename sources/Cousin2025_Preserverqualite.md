@@ -16,27 +16,22 @@ itemKey: R84GMCAP
 
 ## notes %% begin notes %%
 Longer version of [[Cousin2024_Preserverqualite]], synthesis of [[Cousin2025_Preserverqualitea]]
-
-**consolidé**
 ### metric choice
 Indicateurs basés sur les fonctions écologiques des sols
-
-### [[soil quality]]
+### soil quality
 "Qualité des sols" ou "santé des sols"
 "santé des sols" plus proche de la biologie des sols que la "qualité des sols"
 différence aussi entre une description d'état intrinseque et état lié à un usage
 qualité: description de ce qu'il est
 santé: description de ce qu'il devrait etre (par rapport a un potentiel)
-
-### [[soil]] perceptions
+### soil perceptions
 Le sol comme une surface (foncier)
 Le sol comme un potentiel de ressources (production etc)
 Le sol comme patrimoine (conservation)
-Le sol comme identité (terroir en viticulture) ^ff63e1
+Le sol comme identité (terroir en viticulture)
 
 Sol comme ressource ou comme partenaire (conventionel vs biologique)
 Normes sociales influencant la perception du sol
-
 ### [[Référentiel Pédologique Français]]
 
 ### Evaluation de la santé des sols par les fonctions ou les degradations
@@ -50,7 +45,6 @@ Degradations/menaces pour le sol:
 - tassement
 - salinisation
 - erosion
-
 ### reference state
 [[European Union Soil Observatory]] donne des cartes pour les degradations (pressures) avec un seuil critique a ne pas depasser a chaque indicateur.
 

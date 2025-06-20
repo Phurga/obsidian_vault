@@ -14,6 +14,10 @@ importDate: 2025-06-18
 > [Online link](https://www.jstor.org/stable/1942268), [Zotero Item](zotero://select/library/items/RJQSDC49), [Local (JSTOR Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/Y98XEE55/Bray1957_OrdinationUpland.pdf), 
 
 %% begin notes %%
+### index and source
+![[Bray1957_OrdinationUpland_source.png]]
+### ordination
+BC distance is not just the use of the similarity index but also the ordination method to calculate distance between samples
 
 %% end notes %%
 
