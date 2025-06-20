@@ -16,7 +16,7 @@ itemKey: 6UTXLH68
 
 [[IPBES]]
 
-![[Brondizio2019_globalassessment_IPBES_nature_contribution.png|300]]
+![[Brondizio2019_globalassessment_IPBES_nature_contribution.png]]
 
 ![[Brondizio2019_globalassessment_IPBES_drivers.png]]
 [[habitat transformation|LUC]] is 30% of terrestrial [[biodiversity]] decline.
