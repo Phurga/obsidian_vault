@@ -9,7 +9,7 @@ See [[Soule1985_WhatConservation]]
 ## normative postulates
 [[Soule1985_WhatConservation]] defines the main **normative postulates** of conservation biology, acknowledging the [[environmental ethics|ethical fundaments]] of the discipline.
 
-![[Soule1985_WhatConservation#^13cd75]]
+![[Soule1985_WhatConservation#normative postulates of conservation biology]]
 
 ## deriving meaningul indicators for nature conservation progress
 #todo 

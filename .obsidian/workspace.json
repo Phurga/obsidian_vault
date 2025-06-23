@@ -23,48 +23,33 @@
             }
           },
           {
-            "id": "fbf53ace318bbf39",
+            "id": "38b06fbc0a850543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/biodiversity conservation paradox.md",
+                "file": "concepts/reductionism vs holism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "biodiversity conservation paradox"
+              "title": "reductionism vs holism"
             }
           },
           {
-            "id": "1728cbde39875227",
+            "id": "943c726ada473df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/McGill2015_Fifteenforms.md",
+                "file": "concepts/conservation biology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "McGill2015_Fifteenforms"
-            }
-          },
-          {
-            "id": "feab9b96c6c3248d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/evolutionary biology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "evolutionary biology"
+              "title": "conservation biology"
             }
           }
         ]
@@ -255,7 +240,7 @@
               "type": "backlink",
               "state": {
                 "file": "ma these en 180s.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -281,8 +266,7 @@
               "title": "Outgoing links from ma these en 180s"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,8 +283,17 @@
   },
   "active": "2b40ea501b3168b2",
   "lastOpenFiles": [
-    "concepts/ecosystem.md",
+    "concepts/evolutionary biology.md",
+    "sources/Soule1985_WhatConservation.md",
+    "concepts/statistics.md",
+    "concepts/reductionism vs holism.md",
+    "concepts/conservation biology.md",
+    "concepts/genetic diversity.md",
     "ma these en 180s.md",
+    "sources/McGill2015_Fifteenforms.md",
+    "concepts/biodiversity conservation paradox.md",
+    "sources/VeronesFrancesca2024_Lifecycle.md",
+    "concepts/ecosystem.md",
     "creators/United Nations.md",
     "sources/Wilson2011_Biodiversity.md",
     "creators/Wilson, Edward O..md",
@@ -308,23 +301,14 @@
     "concepts/rhizobacteria.md",
     "sources/Zeffa2020_EffectsPlant.md",
     "concepts/bacteria.md",
-    "concepts/biodiversity conservation paradox.md",
-    "sources/McGill2015_Fifteenforms.md",
-    "concepts/evolutionary biology.md",
     "creators/IPBES.md",
     "sources/IPBES2019_Globalassessment.md",
     "concepts/biotope.md",
     "concepts/habitat transformation.md",
     "concepts/species distribution model.md",
-    "Untitled.md",
-    "concepts/statistics.md",
-    "sources/Soule1985_WhatConservation.md",
     "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
     "sources/Cameron2019_Globalmismatches.md",
     "sources/ISO2006_ISO14040.md",
-    "sources/Cousin2025_Preserverqualite.md",
-    "concepts/conservation biology.md",
-    "sources/Vellend2017_BiodiversityConservation.md",
     "attachments/Bray1957_OrdinationUpland_source.png",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
