@@ -13,16 +13,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ma these en 180s.md",
+                "file": "concepts/symbiosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ma these en 180s"
+              "title": "symbiosis"
+            }
+          },
+          {
+            "id": "dff20fd05c9b7828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Bull2016_HowHumans.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bull2016_HowHumans"
+            }
+          },
+          {
+            "id": "a6896918eece3192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Bernard2025_Soilmicroorganisms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bernard2025_Soilmicroorganisms"
+            }
+          },
+          {
+            "id": "3851d4a66ff61105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/taxonomy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "taxonomy"
+            }
+          },
+          {
+            "id": "6428eb411738b63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Anthony2023_Enumeratingsoil.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthony2023_Enumeratingsoil"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"microbial species\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ma these en 180s.md",
+                "file": "sources/Bull2016_HowHumans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +211,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ma these en 180s"
+              "title": "Graph of Bull2016_HowHumans"
             }
           }
         ],
@@ -158,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -176,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ma these en 180s.md"
+                "file": "sources/Bull2016_HowHumans.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ma these en 180s"
+              "title": "File properties for Bull2016_HowHumans"
             }
           },
           {
@@ -188,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ma these en 180s.md",
+                "file": "sources/Bull2016_HowHumans.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ma these en 180s"
+              "title": "Outline of Bull2016_HowHumans"
             }
           }
         ]
@@ -210,8 +270,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ma these en 180s.md",
-                "collapseAll": false,
+                "file": "sources/Bull2016_HowHumans.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -220,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ma these en 180s"
+              "title": "Backlinks for Bull2016_HowHumans"
             }
           },
           {
@@ -229,12 +289,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ma these en 180s.md",
+                "file": "sources/Bull2016_HowHumans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ma these en 180s"
+              "title": "Outgoing links from Bull2016_HowHumans"
             }
           }
         ]
@@ -252,10 +312,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b40ea501b3168b2",
+  "active": "dff20fd05c9b7828",
   "lastOpenFiles": [
-    "concepts/evolutionary biology.md",
+    "concepts/speciation.md",
+    "sources/Bull2016_HowHumans.md",
+    "concepts/symbiosis.md",
+    "concepts/parasitism.md",
     "ma these en 180s.md",
+    "sources/Bernard2025_Soilmicroorganisms.md",
+    "creators/Formation ecologie des sols.md",
+    "sources/Hedde2025_Diversityroles.md",
+    "concepts/taxonomy.md",
+    "sources/Anthony2023_Enumeratingsoil.md",
+    "sources/Gevers2005_Reevaluatingprokaryotic.md",
+    "concepts/bacteria.md",
+    "concepts/microorganism.md",
+    "concepts/extinction.md",
+    "concepts/evolutionary biology.md",
+    "creators/Hedde, Mickael.md",
+    "hedde.md",
+    "sources/Burg2025_speciesdistribution.md",
     "sources/McGill2015_Fifteenforms.md",
     "concepts/reductionism vs holism.md",
     "concepts/conservation biology.md",
@@ -264,22 +340,6 @@
     "concepts/phylogenetic diversity.md",
     "sources/Soule1985_WhatConservation.md",
     "concepts/statistics.md",
-    "concepts/genetic diversity.md",
-    "concepts/biodiversity conservation paradox.md",
-    "sources/VeronesFrancesca2024_Lifecycle.md",
-    "concepts/ecosystem.md",
-    "creators/United Nations.md",
-    "sources/Wilson2011_Biodiversity.md",
-    "creators/Wilson, Edward O..md",
-    "concepts/biodiversity.md",
-    "concepts/rhizobacteria.md",
-    "sources/Zeffa2020_EffectsPlant.md",
-    "concepts/bacteria.md",
-    "creators/IPBES.md",
-    "sources/IPBES2019_Globalassessment.md",
-    "concepts/biotope.md",
-    "concepts/habitat transformation.md",
-    "concepts/species distribution model.md",
     "attachments/Bray1957_OrdinationUpland_source.png",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
