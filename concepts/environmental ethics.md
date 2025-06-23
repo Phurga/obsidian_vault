@@ -29,13 +29,16 @@ The main paradigms of environmental ethics are ([[Sandler2012_IntrinsicValue]]):
 
 Paradigms are also named "knowledged systems" in IPBES value assessment ([[IPBES2022_Summarypolicymakers]])
 ![[IPBES2022_Summarypolicymakers_values.png|300]]
-
+>[!idea] the ecocentrism paradox
+>In an ecocentric approach, all species are equal members of the ecological community. As a member of this community, humans interact with and exploit their environment. But it is generally agreed that an ecosystem loses its "naturalness" the more it is influenced by human, perceived as an unnatural entity. This is linked with the long lasting debate on the dichotomy between man and nature.
 ## nature conservation
 **Nature conservation** is environmental ethics translated into action. Its expression changes based on value choices (anthropocentrism, ecocentrism).
 
 **Conservationism** is a form of nature conservation approach based on biocentrism, generally using the science of [[conservation biology]] to guide its actions.
 
-![[Depraz2013_Notionproteger_protection_nature.png|600]]
+>[!figure] nature conservation illustration
+> ![[Depraz2013_Notionproteger_protection_nature.png|600]]
+> note that in this figure, ecocentrism and biocentrism are considered different however this difference is not so consensual.
 
 ## use in LCA
 It is useful to go back to when working on [[LCIA method on ecosystem quality]], what it should capture and how to quantify it, because [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]].

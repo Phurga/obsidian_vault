@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea/important
+  - important
 ---
 eDNA methods for invertebrates communities is not mature yet, different markers lead to different results, and taxon specific results (annelids vs arthropods), and anyway most OTU remain unidentified ([[Kirse2021_UnearthingPotential]])
 

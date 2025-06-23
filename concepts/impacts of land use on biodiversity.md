@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/idea/important
+  - important
 aliases:
 ---
 ## trends in biodiversity
