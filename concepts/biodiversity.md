@@ -10,6 +10,8 @@ aliases:
 
 Most standard definition, as part of the [[convention on biological diversity]]:
 ![[CBD2011_ConventionBiological#defines biodiversity]]
+
+Alternative definitions, [[WHO]], "variability among living organisms from all sources"; [[FAO]], "the variability that exists among living organisms (both within and between species) and the ecosystems of which they are part".
 ### biodiversity is a multi-dimensional concept
 - [[genes, species, ecosystems]]
 - [[composition, structure, function]]

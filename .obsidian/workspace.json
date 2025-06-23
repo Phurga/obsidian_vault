@@ -240,20 +240,6 @@
               "icon": "lucide-list",
               "title": "Outline of ma these en 180s"
             }
-          },
-          {
-            "id": "9af246382772d283",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ma these en 180s.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from ma these en 180s"
-            }
           }
         ]
       },
@@ -280,8 +266,23 @@
               "icon": "links-coming-in",
               "title": "Backlinks for ma these en 180s"
             }
+          },
+          {
+            "id": "9af246382772d283",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ma these en 180s.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ma these en 180s"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -298,8 +299,16 @@
   },
   "active": "2b40ea501b3168b2",
   "lastOpenFiles": [
-    "concepts/biodiversity conservation paradox.md",
+    "concepts/ecosystem.md",
     "ma these en 180s.md",
+    "creators/United Nations.md",
+    "sources/Wilson2011_Biodiversity.md",
+    "creators/Wilson, Edward O..md",
+    "concepts/biodiversity.md",
+    "concepts/rhizobacteria.md",
+    "sources/Zeffa2020_EffectsPlant.md",
+    "concepts/bacteria.md",
+    "concepts/biodiversity conservation paradox.md",
     "sources/McGill2015_Fifteenforms.md",
     "concepts/evolutionary biology.md",
     "creators/IPBES.md",
@@ -314,17 +323,9 @@
     "sources/Cameron2019_Globalmismatches.md",
     "sources/ISO2006_ISO14040.md",
     "sources/Cousin2025_Preserverqualite.md",
-    "concepts/ecosystem.md",
     "concepts/conservation biology.md",
     "sources/Vellend2017_BiodiversityConservation.md",
-    "sources/Bray1957_OrdinationUpland.md",
     "attachments/Bray1957_OrdinationUpland_source.png",
-    "concepts/soil.md",
-    "concepts/bray-curtis dissimilarity.md",
-    "concepts/simpson index.md",
-    "concepts/statistical significance.md",
-    "sources/Colquhoun2019_FalsePositive.md",
-    "sources/GISRevalim2025_ComparaisonBiomaps.md",
     "attachments/wikipedia_bray-curtis_dissimilarity_formula.svg",
     "attachments/Labouyrie2023_Patternssoil_single_effects.png",
     "attachments/McGill2015_Fifteenforms_summary.jpg",
