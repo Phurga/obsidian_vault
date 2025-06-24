@@ -6,12 +6,18 @@ aliases:
   - soil biological diversity
 ---
 **Soil biological diversity** refers to [[biodiversity]] inside the [[soil]].
+
 The diversity of organisms in soil is fostered by the diversity in [[biotope|habitat]] inside the hierarchical structure of [[soil aggregate|soil organo-mineral aggregate]]s. Diversity is also boosted by the oligotrophic nature of soil (food scarce) leading to important organisms specialisation.
+
 An organism is considered a soil organism if it spends at least one active stage of its life cycle in the soil ([[Marsden2025_Introductionsoil]]). Insects can have passive or active soil larvae, defining if they are classified as soil organisms or not.
+
 Soil likely hosts 60% of global species [[Anthony2023_Enumeratingsoil]].
+
 [[FAO2020_Stateknowledge]]
 > - 1 gram of soil contains up to 1 billion bacteria cells, comprising tens of thousands of taxa, up to 200 metres of fungal hyphae, and a wide range of organisms including nematodes, earthworms and arthropods.
 > - More than 40% of living organisms in terrestrial ecosystems are associated during their life-cycle directly with soils (Decaëns et al., 2006). In fact, soils are one of the main global reservoirs of biodiversity (Bardgett and van der Putten, 2014; Carey, 2016).
+
+![[Anthony2023_Enumeratingsoil#soil biodiversity illustration]]
 ## organisms classification
 ### taxonomic and morphological classification
 List of the main taxon present in the soil are the following, usually classified by size groups (morphology):

@@ -11,6 +11,5 @@
 
 .internal-embed[src*="#"]::before {
   content: attr(alt);
-  font-weight: bold;
   color: rgb(229, 192, 123);
 }
