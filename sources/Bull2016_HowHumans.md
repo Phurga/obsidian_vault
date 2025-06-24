@@ -19,7 +19,7 @@ importDate: 2025-06-23
 %% begin notes %%
 ### increased microbial diversity in urban waters
 >(...) water contaminated by effluent in novel urban environments presents opportunities for rapid microbe diversification \[[87](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.0600#RSPB20160600C87)].
->
+
 >As a species, human micro-biome diversity is greater than for our closest extant relatives (wild apes) \[[95](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.0600#RSPB20160600C95)]. Despite potential for homogenization through globalization, and loss of ancient human micro-biome assemblages, geographical variation in micro-biome genotypes is large \[[95](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.0600#RSPB20160600C95),[96](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.0600#RSPB20160600C96)].
 ### why are we not excited with speciation
 >\[I]f humanity drove speciation as fast as extinction with a neutral net outcome for species diversity, would this be acceptable? If species numbers alone reflected our preferences, then species gains should temper concern about extinctions. Yet intuitively, the answer would likely be ‘no’, extinctions cannot acceptably be compensated for in this way. This answer has theoretical support in the literature concerning policies seeking neutral net biodiversity outcomes—the ‘no net loss’ principle \[[98](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.0600#RSPB20160600C98)].
