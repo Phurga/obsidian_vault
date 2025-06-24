@@ -14,8 +14,8 @@ The plant and bacteria establish a chemical dialog to enable the symbiosis: the 
 Two important rhizobacteria genuses are *rhizobium* and *bradyrhizobium*.
 ![[Hinsinger2025_Rhizosphereroots_nitrogenase.png]]
 
-[[FAO2020_Stateknowledge]]
->Inoculation of selected Bradyrhizobium strains in Brazilian soybean production totally replaced mineral nitrogen (N) fertilizers, saving billions of dollars a year.
+![[FAO2020_Stateknowledge#bradyrhizobium inoculation use case]]
+
 ### references
 [[Hinsinger2025_Rhizosphereroots]]
 [[Zeffa2020_EffectsPlant]]

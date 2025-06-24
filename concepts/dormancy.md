@@ -4,4 +4,5 @@ tags:
 aliases:
   - dormant
 ---
-#todo 
+#todo
+[[Sorensen2020_DormancyDynamics]]

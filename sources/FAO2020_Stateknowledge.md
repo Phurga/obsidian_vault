@@ -23,19 +23,28 @@ itemKey: 5VX2NLTU
 > Important source for the creation of the [[SOIL INDEX]].
 > In particular, used to document [[soil food web]], [[soil]], [[soil biodiversity]], and subnotes.
 
-Many ideas here
+### abundance in soils
+> 1 gram of soil contains up to 1 billion bacteria cells, comprising tens of thousands of taxa, up to 200 metres of fungal hyphae, and a wide range of organisms including nematodes, earthworms and arthropods.
+### diversity in soils
+> - More than 40% of living organisms in terrestrial ecosystems are associated during their life-cycle directly with soils (Decaëns et al., 2006). In fact, soils are one of the main global reservoirs of biodiversity (Bardgett and van der Putten, 2014; Carey, 2016).
+### SOC and biodiversity
 > Soil organic carbon (SOC), as a main resource for soil organisms, affects several soil functions, including the support of biodiversity (Wiesmeier et al., 2019). There is evidence from global analyses that soils with higher SOC harbour larger microbial biomass (Maestre et al., 2015; Crowther et al., 2019; Wiesmeier et al., 2019), and SOC also appears as one of the main drivers of soil microbial diversity at the global scale (Delgado-Baquerizo et al., 2016), with a generally positive effect of SOC content (Fierer and Jackson 2006; Maestre et al., 2015), particularly in extreme environments with low plant productivity such as polar (Siciliano et al., 2014) and dryland regions (Maestre et al., 2015). The pattern, however, differs between taxonomic groups (Tecon and Or, 2017). Global patterns for the distribution of diversity in soils are poorly understood, so that the factors driving them are difficult to understand (Decaëns, 2010). For some groups, patterns of diversity respond to a latitudinal gradient that can be partly explained by organic matter variation (Decaëns, 2010; Caruso et al., 2019 for Oribatid mites). Global-scale patterns of diversity for other groups are not explained by SOC content (Nielsen et al., 2014 for nematodes) or productivity gradient (Decaëns et al., 2010). Earthworm diversity, for instance, was not related to SOM/ SOC content across Europe (Rutgers et al., 2016) and the world (Phillips et al., 2019), although at the local scale it may be important (Hendrix et al., 1992).
-
-
+### soil roots and biodiversity
 >The relationship between plant roots and soil biodiversity enables plants to manufacture chemicals such as antioxidants that protect them from pests and other stressors. When we consume these plants, these antioxidants benefit us by stimulating our immune system and assist in hormone regulation.
-
-[[soil food web]]
+### soil food web
 > The contributions of soil organisms can be grouped into three broad categories (Figure 1). 
 > - First, soil microorganisms (i.e., bacteria, fungi) and microfauna (i.e., protozoa and nematodes) transform organic and inorganic compounds into accessible forms as part of their metabolism through extraordinarily complex biochemical processes. These transformations are critical for ecosystem services such as nutrient availability for the growth of plants and other organisms, soil organic matter and nutrient cycling, and the filtration, degradation and immobilization of contaminants in water and soil.
 > - Second, soil organisms are part of a vast food web that cycles energy and nutrients from microscopic forms through the soil’s megafauna to organisms that live on top of the soil. An important part of the food web is represented by mesofauna such as springtails and mites, which accelerate litter decomposition and enhance nutrient cycling and availability (especially nitrogen), and predate on smaller soil organisms (Figure 1). 
 > - Finally, soil macrofauna and megafauna such as earthworms, ants, termites and some mammals act as ecosystem engineers that modify soil porosity, water and gas transport, and also bind together soil particles into stable aggregates that hold the soil in place, reducing soil erosion (Figure 1).
+### bioremediation, hydrocarbons
+>Soil bacteria and fungi can reduce petroleum hydrocarbons after a spill by up to 85 percent.
+### earthworms and compaction
+> Earthworms have been shown to be able to regenerate soil structure after [[soil compaction]] (Capowiez et al., 2012)
+### bradyrhizobium inoculation use case
+>Inoculation of selected Bradyrhizobium strains in Brazilian soybean production totally replaced mineral nitrogen (N) fertilizers, saving billions of dollars a year.
 
-^79105a
+
+
 
 %% end notes %%
 

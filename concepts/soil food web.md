@@ -22,7 +22,7 @@ Another representation of the soil food web [wikipedia](https://en.wikipedia.org
 
 Ecosystem around a root cell, mainly composed of microorganisms.
 ![[FAO2020_Stateknowledge_microbes_communities_root.png|200]]
- ![[FAO2020_Stateknowledge#^79105a]]
+ ![[FAO2020_Stateknowledge#soil food web]]
 ## channels
 The concept of **channels** is related to flows of energy, supposedly following a "path", from the first heterotrophs to higher trophic levels. This seems to be challenged:![[Calderon-Sanou2022_betterunderstanding#^daeced]]
 

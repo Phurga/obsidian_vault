@@ -39,8 +39,8 @@ Earthworms body is a succession of segments (rings), they produce mucus in their
 | Intense tunneler    | Anecic              | Large (20cm)    | From surface to 2 m              | Feeds and casts on the surface. Digs deep vertical burrows.              |
 | Intermediate groups | NA                  | NA              | NA                               | NA, does not fit the current classification.                             |
 
-[[FAO2020_Stateknowledge]]
-> Earthworms have been shown to be able to regenerate soil structure after [[soil compaction]] (Capowiez et al., 2012)
+![[FAO2020_Stateknowledge#earthworms and compaction]]
+
 
 ![[Capowiez2024_Letearthworms_classification_abstract.jpg|500]]
 

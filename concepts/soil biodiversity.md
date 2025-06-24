@@ -14,8 +14,7 @@ An organism is considered a soil organism if it spends at least one active stage
 Soil likely hosts 60% of global species [[Anthony2023_Enumeratingsoil]].
 
 [[FAO2020_Stateknowledge]]
-> - 1 gram of soil contains up to 1 billion bacteria cells, comprising tens of thousands of taxa, up to 200 metres of fungal hyphae, and a wide range of organisms including nematodes, earthworms and arthropods.
-> - More than 40% of living organisms in terrestrial ecosystems are associated during their life-cycle directly with soils (Decaëns et al., 2006). In fact, soils are one of the main global reservoirs of biodiversity (Bardgett and van der Putten, 2014; Carey, 2016).
+
 
 ![[Anthony2023_Enumeratingsoil#soil biodiversity illustration]]
 ## organisms classification
