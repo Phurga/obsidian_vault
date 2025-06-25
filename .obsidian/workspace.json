@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "ma these en 180s"
             }
+          },
+          {
+            "id": "24ff3da0fa4adc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ma these en 1800s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ma these en 1800s"
+            }
           }
         ]
       }
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EXTINCTION SPECIATION",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -153,7 +168,8 @@
               "title": "Graph of ma these en 180s"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +211,7 @@
               "title": "Outline of ma these en 180s"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e0d2ce33ace6fe6a",
@@ -253,6 +268,22 @@
   },
   "active": "2b40ea501b3168b2",
   "lastOpenFiles": [
+    "ma these en 1800s.md",
+    "ma these en 180s.md",
+    "sources/Bull2016_HowHumans.md",
+    "concepts/speciation.md",
+    "concepts/extinction.md",
+    "concepts/biodiversity dynamics.md",
+    "concepts/LUCAS.md",
+    "sources/Labouyrie2023_Patternssoil.md",
+    "creators/Orgiazzi, Alberto.md",
+    "sources/Orgiazzi2018_LUCASSoil.md",
+    "sources/Orgiazzi2022_LUCASSoil.md",
+    "sources/Anthony2023_Enumeratingsoil.md",
+    "sources/lca biodiversity fact check.md",
+    "sources/Ecological Monographs (journal).md",
+    "concepts/endospore.md",
+    "presentation ITAP.md",
     "concepts/environmental DNA.md",
     "sources/Prosser2015_Dispersingmisconceptions.md",
     "creators/DeepSDM 4 - Selene Cerna.md",
@@ -263,10 +294,7 @@
     "concepts/DNA metabarcoding.md",
     "concepts/metagenomics.md",
     "concepts/confusing metagenomics and metagenetics.md",
-    "ma these en 180s.md",
     "attachments/Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp",
-    "ma these en 1800s.md",
-    "lca biodiversity fact check.md",
     "attachments/Fehrenbach2015_Hemerobyimpact_forest_naturalness_metrics.png",
     "attachments/FAO2020_Stateknowledge_termite_nest.png",
     "attachments/FAO2020_Stateknowledge_springtail.png",
@@ -276,19 +304,6 @@
     "attachments/FAO2020_Stateknowledge_microbes_communities_root.png",
     "attachments/FAO2020_Stateknowledge_food_web.png",
     "attachments/FAO2020_Stateknowledge_earthworm.png",
-    "sources/FAO2020_Stateknowledge.md",
-    "sources/Hedde2025_Diversityroles.md",
-    "creators/Formation ecologie des sols.md",
-    "sources/Bernard2025_Soilmicroorganisms.md",
-    "sources/Hinsinger2025_Rhizosphereroots.md",
-    "concepts/fungus.md",
-    "concepts/bacteria.md",
-    "concepts/soil biodiversity.md",
-    "sources/Anthony2023_Enumeratingsoil.md",
-    "concepts/biodiversity.md",
-    "sources/Weinbauer2007_Extinctionmicrobes.md",
-    "concepts/extinction.md",
-    "endospore.md",
     "Untitled",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",

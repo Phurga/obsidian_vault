@@ -9,5 +9,12 @@
   "showInlineTitle": true,
   "readableLineLength": true,
   "propertiesInDocument": "hidden",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
