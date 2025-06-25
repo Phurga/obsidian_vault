@@ -23,6 +23,36 @@
             }
           },
           {
+            "id": "46c2d94b04141eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Hirzel2008_Habitatsuitability.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hirzel2008_Habitatsuitability"
+            }
+          },
+          {
+            "id": "0dcc15373ee530ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/deBaan2015_HighResolutionAssessment.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "deBaan2015_HighResolutionAssessment"
+            }
+          },
+          {
             "id": "24ff3da0fa4adc06",
             "type": "leaf",
             "state": {
@@ -173,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -182,7 +213,6 @@
       {
         "id": "5d061b06374cccb2",
         "type": "tabs",
-        "dimension": 59.27643784786641,
         "children": [
           {
             "id": "02350dbab455fbf7",
@@ -196,28 +226,6 @@
               "title": "File properties for ma these en 180s"
             }
           },
-          {
-            "id": "4380c0e101522ed4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ma these en 180s.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of ma these en 180s"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e0d2ce33ace6fe6a",
-        "type": "tabs",
-        "dimension": 40.72356215213358,
-        "children": [
           {
             "id": "8b868b031f631fda",
             "type": "leaf",
@@ -250,8 +258,24 @@
               "icon": "links-going-out",
               "title": "Outgoing links from ma these en 180s"
             }
+          },
+          {
+            "id": "4380c0e101522ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ma these en 180s.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ma these en 180s"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,16 +294,22 @@
   "lastOpenFiles": [
     "ma these en 1800s.md",
     "ma these en 180s.md",
+    "sources/Anthony2023_Enumeratingsoil.md",
+    "sources/Orgiazzi2022_LUCASSoil.md",
+    "creators/Orgiazzi, Alberto.md",
+    "concepts/LUCAS.md",
+    "concepts/species distribution model.md",
+    "concepts/deep species distribution model.md",
+    "sources/Hirzel2008_Habitatsuitability.md",
+    "sources/deBaan2015_HighResolutionAssessment.md",
+    "concepts/protecting above-ground biodiversity is not always sufficient to protect soil biodiversity.md",
+    "sources/Cameron2019_Globalmismatches.md",
     "sources/Bull2016_HowHumans.md",
     "concepts/speciation.md",
     "concepts/extinction.md",
     "concepts/biodiversity dynamics.md",
-    "concepts/LUCAS.md",
     "sources/Labouyrie2023_Patternssoil.md",
-    "creators/Orgiazzi, Alberto.md",
     "sources/Orgiazzi2018_LUCASSoil.md",
-    "sources/Orgiazzi2022_LUCASSoil.md",
-    "sources/Anthony2023_Enumeratingsoil.md",
     "sources/lca biodiversity fact check.md",
     "sources/Ecological Monographs (journal).md",
     "concepts/endospore.md",
@@ -288,12 +318,6 @@
     "sources/Prosser2015_Dispersingmisconceptions.md",
     "creators/DeepSDM 4 - Selene Cerna.md",
     "creators/DeepSDM 2025.md",
-    "creators/DeepSDM 3 -  Sara Si-Moussi.md",
-    "concepts/species distribution model.md",
-    "concepts/deep species distribution model.md",
-    "concepts/DNA metabarcoding.md",
-    "concepts/metagenomics.md",
-    "concepts/confusing metagenomics and metagenetics.md",
     "attachments/Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp",
     "attachments/Fehrenbach2015_Hemerobyimpact_forest_naturalness_metrics.png",
     "attachments/FAO2020_Stateknowledge_termite_nest.png",
