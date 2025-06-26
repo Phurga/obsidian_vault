@@ -7,9 +7,9 @@ aliases:
 tags:
   - concept/definition
 ---
-**Soil organic matter (SOM)** is the organic component of [[soil]] matter. **Soil organic carbon (SOC)** is the carbon part of SOM, and SOC is in average 58% of SOM [[Trivedi2018_Chapter1]].
+**Soil organic matter (SOM)** is the organic component of [[soil]] matter. **Soil organic carbon (SOC)** is the carbon part of SOM, and SOC is in average 58% of SOM [[Pribyl2010_CriticalReview#soil soc content]].
 
-SOM is effectively constituted of living biomass of microorganisms, including plants, recovered dead organisms tissues and excretions, but not surface detritus ([wikipedia](https://en.wikipedia.org/wiki/Soil_organic_matter#)). Most of SOM is matter bound to mineral as part of mineral associated organic matter (MAOM, see [[soil aggregate]]) or as particulate organic matter (POM) ([[Cotrufo2022_ChapterOne]]). A fraction of SOM is not solid but solubilised in the liquid phase of soil, or as volatile compounds in the gaseous phase. 
+SOM is effectively constituted of living biomass of microorganisms, including plants, recovered dead organisms tissues and excretions, but not surface detritus ([wikipedia](https://en.wikipedia.org/wiki/Soil_organic_matter#)). Most of SOM is matter bound to mineral as part of mineral associated organic matter (MAOM, see [[soil aggregate]]) or as particulate organic matter (POM) ([[Cotrufo2022_RolePlant]]). A fraction of SOM is not solid but solubilised in the liquid phase of soil, or as volatile compounds in the gaseous phase. 
 
 Soil organic carbon stocks on earth represents 1700 GtC and is the most important terrestrial stock of carbon [[Friedlingstein2024_GlobalCarbon]].
 # SOM composition

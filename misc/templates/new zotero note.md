@@ -10,7 +10,7 @@ importDate: {{importDate | format("YYYY-MM-DD")}}
 > {% if itemType == "bookSection" %}{{bookTitle}}, {% endif %}{{title}}
 > {% for creator in creators %}[[{% if creator.name %}{{creator.name}}{% else %}{{creator.lastName}}, {{creator.firstName}}{% endif %}]], {% endfor %}
 > {% switch itemType -%}
-    {%- case "journalArticle" -%}[[{{publicationTitle}}{% if publicationTitle.indexOf("ournal") == -1 %} (journal){% endif %}]]
+    {%- case "journalArticle" or "magazineArticle" -%}[[{{publicationTitle}}{% if publicationTitle.indexOf("ournal") == -1 %} (journal){% endif %}]]
     {%- case "presentation" -%}[[{{meetingName}}]]
     {%- case "book" -%}[[{{publisher}}]]
     {%- case "bookSection" -%}[[{{publisher}}]]

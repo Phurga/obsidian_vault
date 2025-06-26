@@ -16,7 +16,8 @@ itemKey: SKAEPKNI
 >There is no widely accepted concept of species for prokaryotes, and assignment of isolates to species is based on measures of phenotypic or genome similarity. The current methods for defining prokaryotic species are inadequate and incapable of keeping pace with the levels of diversity that are being uncovered in nature. Prokaryotic taxonomy is being influenced by advances in microbial population genetics, ecology and genomics, and by the ease with which sequence data can be obtained. Here, we review the classical approaches to prokaryotic species definition and discuss the current and future impact of multilocus nucleotide-sequence-based approaches to prokaryotic systematics. We also consider the potential, and difficulties, of assigning species status to biologically or ecologically meaningful sequence clusters.
 
 ## notes %% begin notes %%
-
+### DNA similarity threshold issue
+![[Gevers2005_Reevaluatingprokaryotic_threshold.png]]
 %% end notes %%
 
 %% Import Date: 2025-06-11T14:41:45.846+02:00 %%
