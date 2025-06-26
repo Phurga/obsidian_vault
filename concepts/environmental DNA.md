@@ -28,7 +28,7 @@ metagenomics vs DNA metabarcoding [wikipedia](https://en.wikipedia.org/wiki/Meta
 definitions [[Prosser2015_Dispersingmisconceptions]]
 [iucn - eDNA](https://iucn.org/resources/issues-brief/environmental-dna)
 [wikipedia - metabarcoding](https://en.wikipedia.org/wiki/Metabarcoding)
-[[drive5 - Robert C. Edgar Blog]]
+[[Edgar2025_Interpretingcounts]]
 Taberlet, P., Bonin, A., Zinger, L., & Coissac, E. (2018). Environmental DNA: for biodiversity research and monitoring. New York: Oxford University Press (from [[Calderon-Sanou2022_betterunderstanding]])
 ## soil sampling
 Example procedure:

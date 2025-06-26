@@ -2,9 +2,9 @@
 tags:
   - source/LLMoutput
 ---
-Gemini extended search, fact checking [[ma these en 1800s]]
+Gemini extended search, fact checking [[Introduction]]
 24.06.2025
-[[ma these en 1800s]]
+[[Introduction]]
 
 ---
 # Rapport d'Analyse : Consommation Matérielle et Crise Écologique – Une Vérification Factuelle Approfondie
