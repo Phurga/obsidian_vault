@@ -18,6 +18,11 @@ itemKey: ZS6PBYIH
 
 ## notes %% begin notes %%
 ![[IPBES2022_Summarypolicymakers_values.png]]
+### biocentric and anthropocentric views are common
+![[IPBES2022_Summarypolicymakers_paradigms.png]]
+### nature valuation is not everywhere
+Valuation is more frequently applied in countries with severe threats to
+their biodiversity and environmental conditions, and where human and financial resources are available
 %% end notes %%
 
 %% Import Date: 2025-06-11T14:41:46.434+02:00 %%

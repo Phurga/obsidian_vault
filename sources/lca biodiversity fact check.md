@@ -2,9 +2,9 @@
 tags:
   - source/LLMoutput
 ---
-Gemini extended search, fact checking [[Introduction]]
+Gemini extended search, fact checking [[CSI - Introduction]]
 24.06.2025
-[[Introduction]]
+[[CSI - Introduction]]
 
 ---
 # Rapport d'Analyse : Consommation Matérielle et Crise Écologique – Une Vérification Factuelle Approfondie

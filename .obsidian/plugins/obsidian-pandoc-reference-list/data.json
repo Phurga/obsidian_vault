@@ -5,14 +5,14 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1747136072604
+      "lastUpdate": 1751275740749
     }
   ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
   "pullFromZotero": true,
-  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/the-lancet.csl",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
   "enableCiteKeyCompletion": true,
   "showCitekeyTooltips": true,
   "hideLinks": false,
