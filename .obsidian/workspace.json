@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "Intro to CSI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QUESTIONS"
+              "title": "Intro to CSI"
             }
           }
         ]
@@ -173,10 +173,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ma these en 180s.md"
+                "file": "Intro to CSI.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ma these en 180s"
+              "title": "File properties for Intro to CSI"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "Intro to CSI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QUESTIONS"
+              "title": "Backlinks for Intro to CSI"
             }
           },
           {
@@ -204,12 +204,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "Intro to CSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QUESTIONS"
+              "title": "Outgoing links from Intro to CSI"
             }
           },
           {
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ma these en 180s.md",
+                "file": "Intro to CSI.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ma these en 180s"
+              "title": "Outline of Intro to CSI"
             }
           },
           {
@@ -252,12 +252,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,10 +269,21 @@
   },
   "active": "8463956ee478978b",
   "lastOpenFiles": [
-    "misc/IDEAS.md",
-    "misc/QUESTIONS.md",
-    "writing/research questions.md",
+    "sources/IPBES2022_Summarypolicymakers.md",
+    "creators/IPBES.md",
+    "sources/Himes2024_Whynature.md",
+    "ecological crisis.md",
+    "sources/BahrThompson2025_ReimaginingValue.md",
     "Intro to CSI.md",
+    "misc/IDEAS.md",
+    "writing/research questions.md",
+    "misc/QUESTIONS.md",
+    "sources/Geoconfluences2023_Geographie.md",
+    "geography.md",
+    "sources/Lazzarotti2013_NotionHabiter.md",
+    "concepts/biotope.md",
+    "sources/Supagro2025_Processusdagregation.md",
+    "concepts/constructivism.md",
     "sources/Verones2017_LCIAframework.md",
     "renewable energy.md",
     "concepts/environmental ethics.md",
@@ -285,18 +295,7 @@
     "sources/Richardson2023_Earthsix.md",
     "concepts/planetary boundaries.md",
     "writing/CSI - Introduction.md",
-    "sources/Godet2017_Notiondebat.md",
-    "sources/IPBES2022_Summarypolicymakers.md",
     "attachments/IPBES2022_Summarypolicymakers_paradigms.png",
-    "misc/ROADMAP.md",
-    "misc/OBJECTIVES.md",
-    "misc/MEETINGS.md",
-    "misc/CSI.md",
-    "misc/ADMIN.md",
-    "writing/Challenges in extending land use change impacts on biodiversity to soil organisms.md",
-    "concepts/food web.md",
-    "concepts/earthworm.md",
-    "misc/TODO.md",
     "attachments/Gevers2005_Reevaluatingprokaryotic_threshold.png",
     "attachments/Orgiazzi2016_Globalsoil_macrofauna_diversity.png",
     "attachments/Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp",

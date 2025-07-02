@@ -14,6 +14,8 @@ An **ecological niche** ([[Grinnel niche]]) is the theoretical biotope specific 
 ## habitat
 According to https://www.canr.msu.edu/resources/habitat-niche
 > A **habitat** is the place where an organism lives, while a **niche** is that organism’s role within that environment. Habitat focuses on how the environment impacts the organism while niche focuses on how the organism impacts the environment. Both habitat and niche are important concepts to understanding the balance of an ecosystem and the biodiversity found there.
-# References
-[[Supagro2025_Processusdagregation]]
-To go further in the differentiation between niche and habitat: https://www.jstor.org/stable/1929830?seq=3
+
+>[!note] anthropomorphism
+>[[Lazzarotti2013_NotionHabiter]] gives a discussion on what is inhabiting (and thus a habitat) for human populations.
+## habitat, niche, biotope etc
+Sometimes it is different to discriminate between terms [[Supagro2025_Processusdagregation#habitat]] and https://www.jstor.org/stable/1929830?seq=3.
