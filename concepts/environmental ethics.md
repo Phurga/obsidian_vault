@@ -29,6 +29,7 @@ The main paradigms of environmental ethics are ([[Sandler2012_IntrinsicValue]]):
 
 Paradigms are also named "knowledged systems" in IPBES value assessment ([[IPBES2022_Summarypolicymakers]])
 ![[IPBES2022_Summarypolicymakers_values.png|300]]
+
 >[!idea] the ecocentrism paradox
 >In an ecocentric approach, all species are equal members of the ecological community. As a member of this community, humans interact with and exploit their environment. But it is generally agreed that an ecosystem loses its "naturalness" the more it is influenced by human, perceived as an unnatural entity. This is linked with the long lasting debate on the dichotomy between man and nature.
 ## nature conservation

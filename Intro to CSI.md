@@ -8,8 +8,11 @@ The life cycle assessment (LCA) framework [@ISO2006_ISO14040] aims at adressing 
 The ecosytem quality area of protection aims at measuring the degradation of nature
 ## From nature to species richness
 ### nature conservation, environmental ethics
-The environmentalist movement follows a biocentric paradigm, human "live with nature" [@IPBES2022_SummaryPolicymakers] and acknowledge the right for non-human beings to exist, inducing a responsibility for human to limit their impacts on nature through their interactions with their environment [@Depraz2013_Notionproteger].
-More recently, nature protection is also considered for anthropocentric motives: ecosystem are now being degraded at scales challenging their ability to function and deliver services of high value for human societies [@IPBES2019_Globalassessment]. Numerous local degradations of high amplitude could also induce global, irreversible changes, as we exceed a "safe operating space" [@Richardson2023_Earthsix].   
+The environmentalist movement often relies on a biocentric paradigm, human "live with nature" and acknowledge the right for non-human beings to exist. This induces a responsibility for human to limit their impacts on nature as they interact with their environment (stewardship)  [@IPBES2022_SummaryPolicymakers].
+More recently, nature protection is also considered for anthropocentric motives: ecosystem are now being degraded at scales challenging their ability to function and deliver services of high value for human societies [@IPBES2019_Globalassessment]. Numerous local degradations of high amplitude could also induce global, irreversible changes, as we exceed a "safe operating space" [@Richardson2023_Earthsix].
 ### nature, ecosystems, biodiversity
-The extent of the ecological crisis is well established. Humans are now able to exert massive pressures on natural environments, degrading ecosystems structure, accelerating the loss of species beyond sustainable rates, threathening ecosystem function at local and global scale.
+Humans are now able to exert massive pressures on natural environments, degrading ecosystems structure, accelerating the loss of species beyond sustainable rates, threathening ecosystem function at local and global scale.
 An ecosystem is the base unit of nature, a community of organisms interacting with its environment. The biosphere hosts a great diversity of environmental conditions (biotopes), and evolutionary processes have favoured the development of millions of species, inhabiting these biotopes.
+
+## Other references:
+[@Depraz2013_Notionproteger]
