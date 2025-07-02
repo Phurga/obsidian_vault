@@ -1,3 +1,7 @@
+---
+tags:
+  - concept/definition
+---
 The concept of **ecological crisis** is not really a scientific term. 
 ## crisis
 Based on https://www.cnrtl.fr/definition/crise
