@@ -1,5 +1,6 @@
 # manuel
 
+- [ ] karine, agro (best) soutenance nov ou cours colza octobre, ou cantine (agroalim) td decembre ou td chimie verte (agro chimie) decembre
 - [ ] start csi recap
 - [ ] [[indicator for ecosystem quality applicable to soil biodiversity]]
 - [ ] inscription MCV

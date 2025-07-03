@@ -11,3 +11,5 @@ Send an abstract: 14 avril cloture
 > - Un maximum de 5 mots-clés
 
 [[Challenges in extending land use change impacts on biodiversity to soil organisms|abstract MCV]]
+
+reserver hotel mcv pour tout le monde (reserver pour moi mais dire l'hotel, booker ligne 300 "multisource" avec petit dej)

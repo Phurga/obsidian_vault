@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "misc/ADMIN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QUESTIONS"
+              "title": "ADMIN"
             }
           },
           {
@@ -219,10 +219,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "misc/QUESTIONS.md"
+                "file": "misc/ADMIN.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for QUESTIONS"
+              "title": "File properties for ADMIN"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "misc/ADMIN.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QUESTIONS"
+              "title": "Backlinks for ADMIN"
             }
           },
           {
@@ -250,12 +250,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "misc/ADMIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QUESTIONS"
+              "title": "Outgoing links from ADMIN"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/QUESTIONS.md",
+                "file": "misc/ADMIN.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QUESTIONS"
+              "title": "Outline of ADMIN"
             }
           },
           {
@@ -314,6 +314,9 @@
   },
   "active": "412a8385758c43bd",
   "lastOpenFiles": [
+    "creators/MCV.md",
+    "misc/TODO.md",
+    "misc/QUESTIONS.md",
     "writing/Intro to CSI.md",
     "sources/IPBES2019_Globalassessment.md",
     "sources/IPBES2019_GlobalAssessmenta.md",
@@ -328,7 +331,6 @@
     "sources/BahrThompson2025_ReimaginingValue.md",
     "misc/IDEAS.md",
     "writing/research questions.md",
-    "misc/QUESTIONS.md",
     "sources/Geoconfluences2023_Geographie.md",
     "sources/Lazzarotti2013_NotionHabiter.md",
     "concepts/biotope.md",
@@ -338,8 +340,6 @@
     "concepts/environmental ethics.md",
     "sources/Curran2016_HowWell.md",
     "concepts/life cycle impact assessment.md",
-    "concepts/GLAM.md",
-    "sources/Depraz2013_Notionproteger.md",
     "attachments/IPBES2022_Summarypolicymakers_paradigms.png",
     "attachments/Gevers2005_Reevaluatingprokaryotic_threshold.png",
     "attachments/Orgiazzi2016_Globalsoil_macrofauna_diversity.png",
