@@ -1,5 +1,5 @@
 # manuel
-
+- [ ] prod ecrite mi semaine review ou fin de semaine
 - [ ] karine, agro (best) soutenance nov ou cours colza octobre, ou cantine (agroalim) td decembre ou td chimie verte (agro chimie) decembre
 - [ ] start csi recap
 - [ ] [[indicator for ecosystem quality applicable to soil biodiversity]]

@@ -21,6 +21,10 @@ itemKey: 6UTXLH68
 [[habitat transformation|LUC]] is 30% of terrestrial [[biodiversity]] decline.
 Direct exploitation, including [[soil quality]] degradation, is another 20%.
 
+### human accelerates evolution
+>Human-induced changes are creating conditions for fast biological evolution – so rapid that its effects can be seen in only a few years or even more quickly. The consequences can be positive or negative for biodiversity and ecosystems, but can create uncertainty about the sustainability of species, ecosystem functions and the delivery of nature’s contributions to people.
+### human causes community homogeneisation
+>Biological communities are becoming more similar to each other in both managed and unmanaged systems within and across regions.
 
 %% end notes %%
 
