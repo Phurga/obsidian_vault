@@ -23,18 +23,39 @@
             }
           },
           {
-            "id": "1241e2cb70103a5b",
+            "id": "b7dbc3d5d22ebe9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Himes2024_Whynature.md",
+                "file": "concepts/essential biodiversity variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Himes2024_Whynature"
+              "title": "essential biodiversity variables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9963e8881dee435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f37b29472aa0872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "biodiversity"
             }
           }
         ]
@@ -69,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "utilitari",
+                "query": "\"between\" \"ecosystem function\" path:sources  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -168,11 +189,13 @@
               "title": "Graph of ma these en 180s"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -201,7 +224,7 @@
               "type": "backlink",
               "state": {
                 "file": "writing/Intro to CSI.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -267,7 +290,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -284,32 +307,32 @@
   },
   "active": "8463956ee478978b",
   "lastOpenFiles": [
-    "sources/Lindner2019_ValuingBiodiversity.md",
+    "concepts/essential biodiversity variables.md",
+    "sources/IPBES2019_GlobalAssessment.md",
     "writing/Intro to CSI.md",
     "sources/Himes2024_Whynature.md",
-    "concepts/nature and biodiversity.md",
     "sources/Debarre2025_RevampingLCIA.md",
-    "sources/Koellner2013_UNEPSETACGuideline.md",
-    "sources/Heijungs2024_ProbabilityStatistics.md",
-    "sources/Zhou2020_Metaanalysisimpacts.md",
-    "sources/UnitedNations1987_OurCommon.md",
-    "sources/UnitedNations1987_Durabilite.md",
-    "sources/PublicationsOfficeoftheEuropeanUnion2016_GlobalSoil.md",
-    "sources/Powers2019_GlobalHabitat.md",
-    "sources/Needelman2013_WhatAre.md",
-    "sources/Meadows1972_LimitsGrowth.md",
-    "sources/Liu2017_VirtualCarbon.md",
-    "sources/IPBES2025_IPBESTransformative.md",
-    "sources/INRAE2025_PreserverQualite.md",
-    "sources/INRAE2025_ActualisationPlan.md",
-    "sources/INPN2025_HabitatsRepositories.md",
-    "sources/Gordon2016_RiseFall.md",
-    "sources/Doceul2024_CriseCrises.md",
-    "sources/Chapin2011_PrinciplesTerrestrial.md",
-    "sources/CBD2021_MeasuringEcosystem.md",
-    "sources/Bohn2007_MapNatural.md",
-    "sources/Banerjee2019_GoodEconomics.md",
-    "sources/Agroscope2024_RecommendedImpact.md",
+    "concepts/functional diversity.md",
+    "sources/Sandler2010_ValueSpecies.md",
+    "concepts/taxonomy.md",
+    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
+    "sources/CBD2022_KunmingMontrealGlobal.md",
+    "concepts/convention on biological diversity.md",
+    "sources/CBDandUNEP2021_IndicatorMetadata.md",
+    "concepts/community ecology.md",
+    "concepts/ecological composition.md",
+    "concepts/biodiversity.md",
+    "concepts/composition, structure, function.md",
+    "sources/Noss1990_IndicatorsMonitoring.md",
+    "concepts/ecosystem integrity.md",
+    "concepts/ecological functionning.md",
+    "concepts/species trait.md",
+    "sources/Bonfanti2025_Linkingeffect.md",
+    "sources/Violle2007_Letconcept.md",
+    "concepts/minimum population size to maintain evolutionary potential.md",
+    "sources/Hooper2005_EffectsBiodiversity.md",
+    "sources/Ma2021_GlobalDistribution.md",
+    "sources/Ma2021_globaldistribution.md",
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
     "attachments/IPBES2019_GlobalAssessmenta_history.png",
     "attachments/UNEP2025_Indicatorsrepository_ecosystem_redlist.png",

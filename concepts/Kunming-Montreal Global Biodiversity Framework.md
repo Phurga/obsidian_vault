@@ -5,7 +5,7 @@ aliases:
   - GBF
   - Global Biodiversity Framework
 ---
-The **Kunming-Montreal Global Biodiversity Framework** is a framework signed via the [[convention on biological diversity]] in 2022.
+The **Kunming-Montreal Global Biodiversity Framework** is a framework signed via the [[convention on biological diversity]] in 2022 ([[CBD2022_KunmingMontrealGlobal]]).
 
 It has a 2050 mission (vague), with 2050 goals, and many 2030 operational targets for nations.
 

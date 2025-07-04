@@ -18,19 +18,17 @@ importDate: 2025-07-04
 
 %% begin notes %%
 Claims that biodiverisity monitoring requires indicators, and (at that time), the definition of biodiversity was mainly based on the trifecta "[[genes, species, ecosystems]]" and based on diversity indices. Diversity indices failed to identify ecological disruptions and the author wishes to integrate additional indicators beyond diversity (i.e. relative species richness and abundances). 
-
+### definition of the trifecta
 > Composition has to do with the identity and variety of elements in a collection, and includes species lists and measures of species diversity and genetic diversity. Structure is the physical organization or pattern of a system, from hab- itat complexity as measured within communities to the pattern of patches and other elements at a landscape scale. Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutri- ent cycling.
-
+### historics
 Builds on structural biodiversity from [[Franklin1981_Ecologicalcharacteristics]], where it was obvious for forest as ecosystem and landscape structure, and i am not convinced about extending it to genes and organisms populations. 
 
-Refers to an old definition of biodiversity in :
+### an old definition of biodiversity
 > A widely cited definition of biological diversity is “the variety and variability among living organisms and the ecological complexes in which they occur” ([[OTA1987_TechnologiesMaintain]]).
 
 ![[Noss1990_IndicatorsMonitoring_biodiversity_multi_dimensional.png|400]]
-
+### ecological function
 > Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutrient cycling.
-
-^e1909c
 
 %% end notes %%
 
