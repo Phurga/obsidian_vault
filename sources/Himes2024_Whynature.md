@@ -23,9 +23,8 @@ itemKey: NVDR6ZN5
 ![[Himes2024_Whynature_values.png]]
 ### proposed definition for intrinsic value of nature
 > values of other-than-human beings expressed independently of any reference to humans as valuers, including values associated with entities worth protecting as ends in and of themselves.
-
-^f2d6b6
-
+### intrinsic vs instrumental histories
+>In earlier science–policy interface documents, such as the MEA, mainly intrinsic and instrumental values are presented and typ- ically depicted in dichotomic opposition (something may either have dignity—intrinsic value—or a price—instrumental value; MEA 2005). This dichotomy is represented in the salient artic- ulation of intrinsic values defined negatively as noninstrumen- tal value but can be further mapped onto two predominant ap- proaches in the general environmental discourse. For instance, the fields of conservation biology and environmental ethics both invoke salient articulations of intrinsic values as the value of natural processes and systems “regardless of importance or use- fulness to humans” and “the inherent moral value of natu- ral beings (right to exist).” With the introduction of the CBD and the ecosystem services framework, instrumental (and rela- tional) language has become more relevant in the debate (Norton 1991, Justus et al. 2009, Sagoff 2009, Batavia and Nelson 2017). In the sustainability discourse and in environmental and ecologi- cal economics, the language of instrumental value is increasingly dominant, primarily emphasizing the salient articulation of na- ture’s value as a resource for ecosystem services, as an asset, cap- ital, or property (Daily 1997, TEEB 2010) 
 
 %% end notes %%
 
