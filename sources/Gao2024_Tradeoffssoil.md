@@ -4,16 +4,17 @@ tags:
   - zotero
 doi: "10.1016/j.tree.2024.05.013"
 itemKey: IEZEUBP5
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Trade-offs in soil microbial functions and soil health in agroecosystems
 > [[Gao, Chenguang]], [[Bezemer, Thiemo Martijn]], [[De Vries, Franciska T.]], [[Van Bodegom, Peter M.]], 
 > [[Trends in Ecology & Evolution (journal)]] (2024)
 > soil, 
-> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0169534724001381), [Zotero Item](zotero://select/library/items/IEZEUBP5),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/WSGHEWZE/Gao2024_Tradeoffssoila.pdf), 
+> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0169534724001381), [Zotero Item](zotero://select/library/items/IEZEUBP5), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/WSGHEWZE/Gao2024_Tradeoffssoila.pdf), 
 
-## notes %% begin notes %%
+%% begin notes %%
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:45.773+02:00 %%
+%% Import Date: 2025-07-04T14:30:59.957+02:00 %%

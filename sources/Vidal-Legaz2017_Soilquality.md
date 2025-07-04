@@ -4,19 +4,19 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2016.05.077"
 itemKey: 435JRW8H
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Soil quality, properties, and functions in life cycle assessment: an evaluation of models
 > [[Vidal-Legaz, Beatriz]], [[Maia De Souza, Danielle]], [[Teixeira, Ricardo F. M.]], [[Antón, Assumpció]], [[Putman, B.]], [[Sala, Serenella]], 
 > [[Journal of Cleaner Production]] (2017)
 > Land use, Midpoint indicators, soil quality, soil functions, important, soil, life cycle assessment, 
-> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652616305418), [Zotero Item](zotero://select/library/items/435JRW8H),[Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/347KMHJL/VidalLegaz2017_Soilquality.pdf), 
-
+> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652616305418), [Zotero Item](zotero://select/library/items/435JRW8H), [Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/347KMHJL/VidalLegaz2017_Soilquality.pdf), 
 
 >[!abstract]-
 >Soils provide essential ecosystem services for supporting both human and ecosystem needs and has been under pressures resulting from the intensiﬁcation and expansion of human activities. In the last 15 years, substantial efforts have been made to quantify the impacts on soils derived from production systems and their related supply chains. In this study, a systematic, qualitative evaluation of up-to-date models connecting land occupation and land transformation to soil impact indicators (e.g., soil properties, functions, and threats) is performed. The focus is on models that may be applied for assessing supply chains, namely in the context of life cycle assessment (LCA). A range of eleven soil-related models was selected and evaluated against different criteria, including scientiﬁc soundness, stakeholders' acceptance, reproducibility, and the applicability of models from the perspective of LCA practitioners. Additionally, this study proposes a new land use cause-effect chain to qualify the impacts of land use on soils. None of the models is fulﬁlling all the criteria and includes comprehensively the cause-effect impact pathways. Notably, trade-offs were most frequent between the relevance of the modeled impact processes and the models' applicability. On the one hand, models proposing multi-indicators cover several drivers of impacts and have a broader scope. On the other hand, several models just focus on one driver of impact, but may provide more relevant impact characterization. Our results provide common ground for the development and identiﬁcation of models that provide a comprehensive and robust assessment of land use change and land use impacts on soils. Indeed, to ensure both a comprehensive and relevant characterization of impacts, the study identiﬁes several research needs for further models' developments, namely: 1) adopting a common land use cause-effect chain and land use classiﬁcation; 2) accounting for different land management and land use intensities; 3) expanding the inventory data beyond the accounting of the area related to a certain land use; 4) assessing the added value of multi-indicators compared to single indicators, including the reduction of possible redundancies in the impact evaluation; 5) improving consistency from midpoint to endpoint characterization, especially the link with biodiversity; 6) guiding the calculation of normalization factors; and 7) assessing systematically model's uncertainty.
 
-## notes %% begin notes %%
+%% begin notes %%
 [[soil quality]]
 
 
@@ -64,4 +64,4 @@ Pathway for land use inventories to AOPs
 The reference state of the soil is defined by its properties (unclear)
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:50.372+02:00 %%
+%% Import Date: 2025-07-04T14:31:03.376+02:00 %%

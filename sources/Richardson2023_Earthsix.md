@@ -4,19 +4,19 @@ tags:
   - zotero
 doi: "10.1126/sciadv.adh2458"
 itemKey: W3NXAFSZ
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Earth beyond six of nine planetary boundaries
 > [[Richardson, Katherine]], [[Steffen, Will]], [[Lucht, Wolfgang]], [[Bendtsen, Jørgen]], [[Cornell, Sarah E.]], [[Donges, Jonathan F.]], [[Drüke, Markus]], [[Fetzer, Ingo]], [[Bala, Govindasamy]], [[von Bloh, Werner]], [[Feulner, Georg]], [[Fiedler, Stephanie]], [[Gerten, Dieter]], [[Gleeson, Tom]], [[Hofmann, Matthias]], [[Huiskamp, Willem]], [[Kummu, Matti]], [[Mohan, Chinchu]], [[Nogués-Bravo, David]], [[Petri, Stefan]], [[Porkka, Miina]], [[Rahmstorf, Stefan]], [[Schaphoff, Sibyll]], [[Thonicke, Kirsten]], [[Tobian, Arne]], [[Virkki, Vili]], [[Wang-Erlandsson, Lan]], [[Weber, Lisa]], [[Rockström, Johan]], 
 > [[Science Advances (journal)]] (2023)
 > planetary boundaries, 
-> [Online link](https://www.science.org/doi/10.1126/sciadv.adh2458), [Zotero Item](zotero://select/library/items/W3NXAFSZ),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/CZXMXEX4/Richardson2023_Earthsix.pdf), 
-
+> [Online link](https://www.science.org/doi/10.1126/sciadv.adh2458), [Zotero Item](zotero://select/library/items/W3NXAFSZ), [Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/CZXMXEX4/Richardson2023_Earthsix.pdf), 
 
 >[!abstract]-
 >This planetary boundaries framework update finds that six of the nine boundaries are transgressed, suggesting that Earth is now well outside of the safe operating space for humanity. Ocean acidification is close to being breached, while aerosol loading regionally exceeds the boundary. Stratospheric ozone levels have slightly recovered. The transgression level has increased for all boundaries earlier identified as overstepped. As primary production drives Earth system biosphere functions, human appropriation of net primary production is proposed as a control variable for functional biosphere integrity. This boundary is also transgressed. Earth system modeling of different levels of the transgression of the climate and land system change boundaries illustrates that these anthropogenic impacts on Earth system must be considered in a systemic context.
 
-## notes %% begin notes %%
+%% begin notes %%
 ### obsolete: the biodiversity intactness index
 >Previously, Steffen _et al._ ([_2_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R2)) proposed using the Biodiversity Intactness Index (BII) ([_27_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R27)), an empirically based metric of human impacts on population abundances, as an interim proxy for functional biosphere integrity. It was noted, however, that the link of BII to Earth system functions remains poorly understood and BII cannot be directly linked to the planetary biogeochemical and energy flows relevant for establishing Earth system state. In addition, BII relies on expert elicitation to estimate temporal changes in species abundances/distributions, and this knowledge is not readily available for many regions, including the oceans. Martin _et al._ ([_28_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R28)) have also recently suggested that BII only partially reflects human impacts on Earth system.
 ^7c4021
@@ -32,4 +32,4 @@ itemKey: W3NXAFSZ
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:48.620+02:00 %%
+%% Import Date: 2025-07-04T14:31:02.337+02:00 %%

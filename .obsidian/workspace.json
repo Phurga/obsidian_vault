@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "d790b5a0ad740fa6",
+            "id": "1241e2cb70103a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,8 +168,7 @@
               "title": "Graph of ma these en 180s"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
               "type": "backlink",
               "state": {
                 "file": "writing/Intro to CSI.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -256,13 +255,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "0db34549a031a6ed",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,34 +284,35 @@
   },
   "active": "8463956ee478978b",
   "lastOpenFiles": [
-    "sources/Soule1985_WhatConservation.md",
+    "sources/Lindner2019_ValuingBiodiversity.md",
     "writing/Intro to CSI.md",
     "sources/Himes2024_Whynature.md",
-    "sources/CBD2011_ConventionBiological.md",
-    "sources/FabisConsultingLtd2023_CommonInternational.md",
-    "sources/IPBES2019_GlobalAssessment.md",
-    "sources/IPBES2022_Summarypolicymakers.md",
-    "sources/IPBES2019_GlobalAssessmenta.md",
-    "sources/IPBES2019_Globalassessment.md",
-    "attachments/IPBES2019_GlobalAssessmenta_history.png",
-    "sources/global nature conservation institutions.md",
+    "concepts/nature and biodiversity.md",
     "sources/Debarre2025_RevampingLCIA.md",
-    "writing/CSI - Introduction.md",
-    "concepts/environmental ethics.md",
-    "concepts/intrinsic value of nature.md",
-    "sources/McGill2015_Fifteenforms.md",
-    "misc/ROADMAP.md",
-    "misc/TODO.md",
-    "sources/Curran2016_HowWell.md",
-    "concepts/conservation biology.md",
-    "sources/Koellner2013_UNEPSETACguideline.md",
+    "sources/Koellner2013_UNEPSETACGuideline.md",
+    "sources/Heijungs2024_ProbabilityStatistics.md",
+    "sources/Zhou2020_Metaanalysisimpacts.md",
+    "sources/UnitedNations1987_OurCommon.md",
+    "sources/UnitedNations1987_Durabilite.md",
+    "sources/PublicationsOfficeoftheEuropeanUnion2016_GlobalSoil.md",
+    "sources/Powers2019_GlobalHabitat.md",
+    "sources/Needelman2013_WhatAre.md",
+    "sources/Meadows1972_LimitsGrowth.md",
+    "sources/Liu2017_VirtualCarbon.md",
+    "sources/IPBES2025_IPBESTransformative.md",
+    "sources/INRAE2025_PreserverQualite.md",
+    "sources/INRAE2025_ActualisationPlan.md",
+    "sources/INPN2025_HabitatsRepositories.md",
+    "sources/Gordon2016_RiseFall.md",
+    "sources/Doceul2024_CriseCrises.md",
+    "sources/Chapin2011_PrinciplesTerrestrial.md",
+    "sources/CBD2021_MeasuringEcosystem.md",
+    "sources/Bohn2007_MapNatural.md",
+    "sources/Banerjee2019_GoodEconomics.md",
+    "sources/Agroscope2024_RecommendedImpact.md",
+    "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
+    "attachments/IPBES2019_GlobalAssessmenta_history.png",
     "attachments/UNEP2025_Indicatorsrepository_ecosystem_redlist.png",
-    "sources/ISO2006_ISO14040.md",
-    "ISO.md",
-    "sources/ISO2006_ISO14044.md",
-    "sources/Verones2017_LCIAframework.md",
-    "concepts/alpha diversity in relative species loss is not relevant.md",
-    "misc/ADMIN.md",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
     "attachments/IPBES2022_Summarypolicymakers_paradigms.png",
     "attachments/Gevers2005_Reevaluatingprokaryotic_threshold.png",
@@ -310,7 +320,6 @@
     "attachments/Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp",
     "attachments/Fehrenbach2015_Hemerobyimpact_forest_naturalness_metrics.png",
     "attachments/FAO2020_Stateknowledge_termite_nest.png",
-    "attachments/FAO2020_Stateknowledge_springtail.png",
     "Untitled",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",

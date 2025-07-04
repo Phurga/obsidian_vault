@@ -4,19 +4,19 @@ tags:
   - zotero
 doi: "10.1016/j.geoderma.2022.116073"
 itemKey: IKNUZIRD
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > A common framework for developing robust soil fauna classifications
 > [[Hedde, Mickael]], [[Blight, Olivier]], [[Briones, Maria J. I.]], [[Bonfanti, Jonathan]], [[Brauman, Alain]], [[Brondani, Margot]], [[Calderón-Sanou, Irene]], [[Clause, Julia]], [[Conti, Erminia]], [[Cortet, Jérôme]], [[Decaëns, Thibaud]], [[Erktan, Amandine]], [[Gérard, Sylvain]], [[Goulpeau, Arnaud]], [[Iannelli, Maeva]], [[Joimel-Boulanger, Sophie]], [[Jouquet, Pascal]], [[Le Guillarme, Nicolas]], [[Marsden, Claire]], [[Martinez Almoyna, Camille]], [[Mulder, Christian]], [[Perrin, William]], [[Pétillon, Julien]], [[Pey, Benjamin]], [[Potapov, Anton M.]], [[Si-moussi, Sara]], [[Thuiller, Wilfried]], [[Trap, Jean]], [[Vergnes, Alan]], [[Zaitsev, Andrey]], [[Capowiez, Yvan]], 
 > [[Geoderma (journal)]] (2022)
 > Soil invertebrates, Ecological groups, Functional groups, Guilds, Trait-based approach, 
-> [Online link](https://www.sciencedirect.com/science/article/pii/S0016706122003809), [Zotero Item](zotero://select/library/items/IKNUZIRD),[Local (ScienceDirect Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4V878ZRW/Hedde2022_commonframework.pdf), 
-
+> [Online link](https://www.sciencedirect.com/science/article/pii/S0016706122003809), [Zotero Item](zotero://select/library/items/IKNUZIRD), [Local (ScienceDirect Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4V878ZRW/Hedde2022_commonframework.pdf), 
 
 >[!abstract]-
 >Classifying organisms has a wide use and a long history in ecology. However, the meaning of a ‘group of organisms’ and how to group organisms is still the subject of much theoretical and empirical work. Achieving this long quest requires simplifying the complexity of species niches for which relevant morphological, behavioural, biochemical or life-history traits are often used as relevant proxies. Soil fauna is highly diverse and many classifications have been proposed to synthesize both the response of soil organisms to their environment and their effect on soil functioning. Here, we provide a critical overview of the characteristics and limitations of the existing classifications in soil ecology, and propose clarifications and alternatives to current practices. We summarise the similarities and differences in how classifications have been created and used in soil ecology. We propose a harmonization of the current concepts by properly defining ‘guilds’, ‘functional groups’ and ‘trophic groups’ as subcategories of ‘ecological groups’, with different purposes and distinguishing criteria. Finally, based on these concepts, we suggest a common framework to define classifications based on functional traits that allows a better and unified understanding of changes in soil biodiversity and ecosystem functioning.
 
-## notes %% begin notes %%
+%% begin notes %%
 [[soil biodiversity]] and organisms classfications
 > When considering the soil fauna as a whole, organisms are often classified (i) by taxonomy (hereafter called ‘clades’, e.g. [Lumbricidae](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/lumbricidae "Learn more about Lumbricidae from ScienceDirect's AI-generated Topic Pages"), [Collembola](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/collembola "Learn more about Collembola from ScienceDirect's AI-generated Topic Pages"), or Nematoda), (ii) according to their [body size](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/body-size "Learn more about body size from ScienceDirect's AI-generated Topic Pages") (i.e. macro-, meso- and micro-fauna; [Swift et al., 1979](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0860), [Gobat et al., 1998](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0345), [Gongalsky et al., 2021](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0355)), (iii) into trophic groups to aid the analysis of food webs (e.g. [predatory mites](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/predatory-mites "Learn more about predatory mites from ScienceDirect's AI-generated Topic Pages"), bacterivorous nematodes; [de Ruiter et al., 1996](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0215), [Sechi et al., 2015](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0810), [Bloor et al., 2021](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0060)), or (iv) according to their functional role, for example the soil [ecosystem engineers](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ecosystem-engineers "Learn more about ecosystem engineers from ScienceDirect's AI-generated Topic Pages") (i.e., organisms that directly or indirectly modulate the availability of resources to other species, by causing physical state changes in biotic or abiotic materials) ([Lavelle et al., 1997](https://www.sciencedirect.com/science/article/pii/S0016706122003809#b0560)).
 
@@ -34,4 +34,4 @@ Definitions
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:46.077+02:00 %%
+%% Import Date: 2025-07-04T14:31:00.330+02:00 %%

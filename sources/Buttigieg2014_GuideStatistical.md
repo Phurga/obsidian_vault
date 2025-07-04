@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/1574-6941.12437"
 itemKey: DLLTN2D8
-importDate: 2025-06-19
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > A guide to statistical analysis in microbial ecology: a community-focused, living review of multivariate data analyses
@@ -20,4 +20,4 @@ importDate: 2025-06-19
 
 %% end notes %%
 
-%% Import Date: 2025-06-19T16:55:48.911+02:00 %%
+%% Import Date: 2025-07-04T14:30:58.663+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: M2BH97XS
-importDate: 2025-06-16
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Life Cycle Assessment: Theory and Practice
@@ -19,4 +19,4 @@ importDate: 2025-06-16
 
 %% end notes %%
 
-%% Import Date: 2025-06-16T16:33:41.082+02:00 %%
+%% Import Date: 2025-07-04T14:31:00.285+02:00 %%

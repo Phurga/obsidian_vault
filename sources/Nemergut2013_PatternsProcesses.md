@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1128/mmbr.00051-12"
 itemKey: RVRZ3UFY
-importDate: 2025-06-16
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Patterns and Processes of Microbial Community Assembly
@@ -17,6 +17,8 @@ importDate: 2025-06-16
 >SUMMARY
 Recent research has expanded our understanding of microbial community assembly. However, the field of community ecology is inaccessible to many microbial ecologists because of inconsistent and often confusing terminology as well as unnecessarily polarizing debates. Thus, we review recent literature on microbial community assembly, using the framework of Vellend (Q. Rev. Biol. 85:183–206, 2010) in an effort to synthesize and unify these contributions. We begin by discussing patterns in microbial biogeography and then describe four basic processes (diversification, dispersal, selection, and drift) that contribute to community assembly. We also discuss different combinations of these processes and where and when they may be most important for shaping microbial communities. The spatial and temporal scales of microbial community assembly are also discussed in relation to assembly processes. Throughout this review paper, we highlight differences between microbes and macroorganisms and generate hypotheses describing how these differences may be important for community assembly. We end by discussing the implications of microbial assembly processes for ecosystem function and biodiversity.
 
-%% begin notes %%%% end notes %%
+%% begin notes %%
 
-%% Import Date: 2025-06-16T15:21:57.701+02:00 %%
+%% end notes %%
+
+%% Import Date: 2025-07-04T14:31:01.855+02:00 %%

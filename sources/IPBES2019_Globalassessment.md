@@ -36,4 +36,4 @@ Direct exploitation, including [[soil quality]] degradation, is another 20%.
 >Biological communities are becoming more similar to each other in both managed and unmanaged systems within and across regions.
 %% end notes %%
 
-%% Import Date: 2025-07-04T10:48:45.361+02:00 %%
+%% Import Date: 2025-07-04T14:31:00.716+02:00 %%

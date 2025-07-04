@@ -6,12 +6,12 @@
   "obsidian-zotero-desktop-connector",
   "global-search-and-replace",
   "obsidian-text-format",
-  "auto-note-mover",
   "dataview",
   "tag-wrangler",
   "github-sync",
   "obsidian-latex-suite",
   "table-editor-obsidian",
   "obsidian-pandoc",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "auto-note-mover"
 ]

@@ -4,19 +4,19 @@ tags:
   - zotero
 doi: "10.1038/s41467-023-37937-4"
 itemKey: K8SXFW2R
-importDate: 2025-06-11
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Patterns in soil microbial diversity across Europe
 > [[Labouyrie, Maëva]], [[Ballabio, Cristiano]], [[Romero, Ferran]], [[Panagos, Panos]], [[Jones, Arwyn]], [[Schmid, Marc W.]], [[Mikryukov, Vladimir]], [[Dulya, Olesya]], [[Tedersoo, Leho]], [[Bahram, Mohammad]], [[Lugato, Emanuele]], [[van der Heijden, Marcel G. A.]], [[Orgiazzi, Alberto]], 
 > [[Nature Communications (journal)]] (2023)
 > Biodiversity, Microbial ecology, 
-> [Online link](https://www.nature.com/articles/s41467-023-37937-4), [Zotero Item](zotero://select/library/items/K8SXFW2R),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/MKPVX8BI/Labouyrie2023_Patternssoil.pdf),
+> [Online link](https://www.nature.com/articles/s41467-023-37937-4), [Zotero Item](zotero://select/library/items/K8SXFW2R), [Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/MKPVX8BI/Labouyrie2023_Patternssoil.pdf), 
 
 >[!abstract]-
 >Factors driving microbial community composition and diversity are well established but the relationship with microbial functioning is poorly understood, especially at large scales. We analysed microbial biodiversity metrics and distribution of potential functional groups along a gradient of increasing land-use perturbation, detecting over 79,000 bacterial and 25,000 fungal OTUs in 715 sites across 24 European countries. We found the lowest bacterial and fungal diversity in less-disturbed environments (woodlands) compared to grasslands and highly-disturbed environments (croplands). Highly-disturbed environments contain significantly more bacterial chemoheterotrophs, harbour a higher proportion of fungal plant pathogens and saprotrophs, and have less beneficial fungal plant symbionts compared to woodlands and extensively-managed grasslands. Spatial patterns of microbial communities and predicted functions are best explained when interactions among the major determinants (vegetation cover, climate, soil properties) are considered. We propose guidelines for environmental policy actions and argue that taxonomical and functional diversity should be considered simultaneously for monitoring purposes.
 
-## notes %% begin notes %%
+%% begin notes %%
 ### key concepts
 Measures microbial richness (via [[operational taxonomic unit|zOTU]] count) using [[DNA metabarcoding]]
 on environmental DNA retrieved from the [[LUCAS]] program.
@@ -52,4 +52,4 @@ Use of [[shannon index]] as indicator for "diversity" in the sense that the comm
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T15:05:29.419+02:00 %%
+%% Import Date: 2025-07-04T14:31:01.162+02:00 %%

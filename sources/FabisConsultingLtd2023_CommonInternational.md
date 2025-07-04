@@ -11,10 +11,10 @@ importDate: 2025-07-04
 > [[Haines-Young, Roy]], 
 > [[Fabis Consulting Ltd]] (2023)
 > 
-> [Online link](https://cices.eu/content/uploads/sites/8/2023/08/CICES_V5.2_Guidance_24072023.pdf), [Zotero Item](zotero://select/library/items/4VUB3CUX), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/PAJRJUMN/Haines-Young_CommonInterna+onal.pdf), 
+> [Online link](https://cices.eu/), [Zotero Item](zotero://select/library/items/4VUB3CUX), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/PAJRJUMN/Haines-Young_CommonInterna+onal.pdf), 
 
 %% begin notes %%
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T10:21:36.708+02:00 %%
+%% Import Date: 2025-07-04T14:30:59.685+02:00 %%

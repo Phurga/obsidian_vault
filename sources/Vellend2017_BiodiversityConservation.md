@@ -1,15 +1,15 @@
 ---
 tags:
-  - source/journalArticle
+  - source/magazineArticle
   - zotero
-doi: "10.1511/2017.105.2.94"
+doi: 
 itemKey: CQEANHGR
-importDate: 2025-06-16
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > The Biodiversity Conservation Paradox
 > [[Vellend, Mark]], 
-> [[American Scientist (journal)]] (2017)
+>  (2017)
 > biodiversity, Biodiversity conservation, important, Conservation biology, wildnerness, 
 > [Online link](https://www.americanscientist.org/article/the-biodiversity-conservation-paradox), [Zotero Item](zotero://select/library/items/CQEANHGR),
 
@@ -47,4 +47,4 @@ Personally, I find value in the naturalness of a given ecosystem, flora, or faun
 
 %% end notes %%
 
-%% Import Date: 2025-06-16T13:05:36.236+02:00 %%
+%% Import Date: 2025-07-04T14:31:03.245+02:00 %%

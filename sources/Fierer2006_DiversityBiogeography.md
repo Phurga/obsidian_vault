@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1073/pnas.0507535103"
 itemKey: ZY5RPEH2
-importDate: 2025-06-16
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > The diversity and biogeography of soil bacterial communities
@@ -17,6 +17,8 @@ importDate: 2025-06-16
 >For centuries, biologists have studied patterns of plant and animal diversity at continental
 scales. Until recently, similar studies were impossibl...
 
-%% begin notes %%%% end notes %%
+%% begin notes %%
 
-%% Import Date: 2025-06-16T15:21:57.671+02:00 %%
+%% end notes %%
+
+%% Import Date: 2025-07-04T14:30:59.819+02:00 %%

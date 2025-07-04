@@ -4,19 +4,19 @@ tags:
   - zotero
 doi: "10.1007/s11367-019-01594-x"
 itemKey: NUGXT6SI
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Reference situations for biodiversity in life cycle assessments: conceptual bridging between LCA and conservation biology
 > [[Vrasdonk, Emke]], [[Palme, Ulrika]], [[Lennartsson, Tommy]], 
 > [[The International Journal of Life Cycle Assessment]] (2019)
 > Land use, biodiversity, Biodiversity, Biodiversity conservation, Environmental Chemistry, Reference situation, important, life cycle impact assessment, 
-> [Online link](https://doi.org/10.1007/s11367-019-01594-x), [Zotero Item](zotero://select/library/items/NUGXT6SI),[Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/8Y7KLZEW/Vrasdonk2019_Referencesituations.pdf), 
-
+> [Online link](https://doi.org/10.1007/s11367-019-01594-x), [Zotero Item](zotero://select/library/items/NUGXT6SI), [Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/8Y7KLZEW/Vrasdonk2019_Referencesituations.pdf), 
 
 >[!abstract]-
 >In life cycle assessment (LCA) literature addressing land use impacts on biodiversity, several potential reference situations are proposed. However, the lack of guidance on how to apply the proposed reference situations fosters confusion within the topic and raises questions about implications of different reference conceptions. The purpose of this article is to contribute to an improved methodology for assessing biodiversity impacts in LCA through developing the use of reference situations in life cycle impact assessment (LCIA) models of land use.
 
-## notes %% begin notes %% 
+%% begin notes %% 
 Consolidated in [[reference situation]].
 # Reading notes
 Taking a very long ago reference is not a good theoretical solution.
@@ -42,4 +42,4 @@ LCIA methods vs conservation frameworks
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:50.451+02:00 %%
+%% Import Date: 2025-07-04T14:31:03.474+02:00 %%

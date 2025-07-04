@@ -5,14 +5,14 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1751619034691
+      "lastUpdate": 1751632846820
     }
   ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
   "pullFromZotero": true,
-  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa-annotated-bibliography.csl",
   "enableCiteKeyCompletion": true,
   "showCitekeyTooltips": true,
   "hideLinks": false,

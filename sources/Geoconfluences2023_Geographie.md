@@ -4,11 +4,11 @@ tags:
   - zotero
 doi: 
 itemKey: KY7JCGBM
-importDate: 2025-07-02
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Géographie
-> [[Géoconfluences (collectif)]], 
+> [[Géoconfluences]], 
 > [[Géoconfluences]] (2023)
 > 
 > [Online link](https://geoconfluences.ens-lyon.fr/glossaire/geographie), [Zotero Item](zotero://select/library/items/KY7JCGBM), [Local (pdf.pdf)](file://C:/Users/aburg/Documents/references/zotero/storage/RZKR4ITK/@@openPDF.pdf), 
@@ -22,4 +22,4 @@ importDate: 2025-07-02
 
 %% end notes %%
 
-%% Import Date: 2025-07-02T13:32:31.538+02:00 %%
+%% Import Date: 2025-07-04T14:31:00.020+02:00 %%

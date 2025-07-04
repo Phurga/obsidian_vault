@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41598-021-97300-9"
 itemKey: ZJE2GNMA
-importDate: 2025-06-12
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Analysis of complex trophic networks reveals the signature of land-use intensification on soil communities in agroecosystems
@@ -35,4 +35,4 @@ Use of [[GBIF]]
 
 %% end notes %%
 
-%% Import Date: 2025-06-12T17:55:35.050+02:00 %%
+%% Import Date: 2025-07-04T14:30:58.295+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 7WQYBF7C
-importDate: 2025-06-11
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Notion en débat : biodiversité
@@ -16,7 +16,7 @@ importDate: 2025-06-11
 >[!abstract]-
 >La description et le classement de la diversité du vivant ont une histoire, marquée par le tournant de la révolution darwinienne. Malgré le rythme rapide des découvertes d'espèces, seule une petite partie de la biodiversité est aujourd'hui connue, et des espèces disparaissent probablement avant d'être décrites. Dans un contexte de changements globaux, la biodiversité actuelle fait face à une sixième extinction de masse, mais les mesures à adopter pour sa conservation sont encore débattues.
 
-## notes %% begin notes %%
+%% begin notes %%
 ### facets of biodiversity 
 > À partir de jeux de données basés sur les espèces, les mesures classiques de biodiversité incluent la **richesse** (le nombre d’espèces) et la **diversité** (le nombre d’espèces et leurs **abondances** relatives) à différentes échelles spatiales : _alpha_ (échelle de la station), _beta_ (le long de gradients environnementaux) et _gamma_ (à l’échelle de la région). On décline également habituellement les mesures de biodiversité selon différentes facettes : **taxinomique** (nombre de taxons, indépendamment de leur identité), **phylogénétique** (degré d’éloignement des espèces) et **fonctionnelle** (nombre de fonctions écologiques différentes remplies par les espèces).
 ### environmental ethics and conservation priorities
@@ -26,4 +26,4 @@ importDate: 2025-06-11
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T18:41:07.863+02:00 %%
+%% Import Date: 2025-07-04T14:31:00.117+02:00 %%

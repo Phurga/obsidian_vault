@@ -26,6 +26,9 @@ itemKey: NVDR6ZN5
 ### intrinsic vs instrumental histories
 >In earlier science–policy interface documents, such as the MEA, mainly intrinsic and instrumental values are presented and typically depicted in dichotomic opposition (something may either have dignity—intrinsic value—or a price—instrumental value; MEA 2005). This dichotomy is represented in the salient articulation of intrinsic values defined negatively as noninstrumental value but can be further mapped onto two predominant approaches in the general environmental discourse. For instance, the fields of conservation biology and environmental ethics both invoke salient articulations of intrinsic values as the value of natural processes and systems “regardless of importance or usefulness to humans” and “the inherent moral value of natural beings (right to exist).” With the introduction of the CBD and the ecosystem services framework, instrumental (and relational) language has become more relevant in the debate (Norton 1991, Justus et al. 2009, Sagoff 2009, Batavia and Nelson 2017). In the sustainability discourse and in environmental and ecological economics, the language of instrumental value is increasingly dominant, primarily emphasizing the salient articulation of nature’s value as a resource for ecosystem services, as an asset, capital, or property (Daily 1997, TEEB 2010) 
 
+### biodiversity confers human satisfaction
+>The focus on preferences is mostly anthropocentric and instrumental, where value is assigned to biodiversity or ecosystem services “to the extent that these fulfill needs or confer satisfaction to humans either directly or indirectly” (TEEB 2010, p. 187)
+
 %% end notes %%
 
 %% Import Date: 2025-06-11T14:41:46.167+02:00 %%

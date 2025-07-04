@@ -4,15 +4,16 @@ tags:
   - zotero
 doi: 
 itemKey: 8XXALQKE
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Towards a better understanding of soil multi-trophic biodiversity through the use of environmental DNA metabarcoding
 > [[Calderón-Sanou, Irene]], 
 > PhD thesis, [[Université Grenoble Alpes]] (2022)
 > 
-> [Online link](https://theses.hal.science/tel-03890224v1), [Zotero Item](zotero://select/library/items/8XXALQKE),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4IDGNZCS/Sanou_betterunderstanding.pdf), 
+> [Online link](https://theses.hal.science/tel-03890224v1), [Zotero Item](zotero://select/library/items/8XXALQKE), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4IDGNZCS/Sanou_betterunderstanding.pdf), 
 
-## notes %% begin notes %%
+%% begin notes %%
 ## introduction
 Introduction can be reused for context on soil biodiversity.
 ### [[use of abundance and richness for microorganisms diversity]]
@@ -58,4 +59,4 @@ the “energy hypothesis”, the “physiological tolerance hypothesis”, the �
 - [[Potapov2022_Multifunctionalitybelowground]]
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:44.155+02:00 %%
+%% Import Date: 2025-07-04T14:30:58.694+02:00 %%

@@ -4,15 +4,16 @@ tags:
   - zotero
 doi: 
 itemKey: FJP2ND2X
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Global Guidance on environmental  life cycle impact  assessment  indicators, Volume 2
 > [[UNEP]], 
 > [[UNEP]] (2019)
 > important, GLAM, 
-> [Online link](https://www.lifecycleinitiative.org/wp-content/uploads/2019/11/UNEP-294-Life-Cycle-2nd-Report_16.pdf), [Zotero Item](zotero://select/library/items/FJP2ND2X),[Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/7B8CF2WT/UNEP2019_GlobalGuidance.pdf), 
+> [Online link](https://www.lifecycleinitiative.org/wp-content/uploads/2019/11/UNEP-294-Life-Cycle-2nd-Report_16.pdf), [Zotero Item](zotero://select/library/items/FJP2ND2X), [Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/7B8CF2WT/UNEP2019_GlobalGuidance.pdf), 
 
-## notes %% begin notes %% 
+%% begin notes %% 
 Part of the [[GLAM]]. This is a global guideline for [[life cycle assessment]] practicioners and method developers. The 2019 report focused on [[biodiversity]] and required developments.
 
 Focusing here on two chapters: 
@@ -33,4 +34,4 @@ Focusing here on two chapters:
 ![[UNEP2019_GlobalGuidance_extinction_vulnerability.png]]
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:50.122+02:00 %%
+%% Import Date: 2025-07-04T14:31:03.054+02:00 %%

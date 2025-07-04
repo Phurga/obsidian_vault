@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.2307/1942268"
 itemKey: RJQSDC49
-importDate: 2025-06-18
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > An Ordination of the Upland Forest Communities of Southern Wisconsin
@@ -21,4 +21,4 @@ BC distance is not just the use of the similarity index but also the ordination 
 
 %% end notes %%
 
-%% Import Date: 2025-06-18T09:54:30.434+02:00 %%
+%% Import Date: 2025-07-04T14:30:58.471+02:00 %%

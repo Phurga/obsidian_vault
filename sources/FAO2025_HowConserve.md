@@ -4,11 +4,11 @@ tags:
   - zotero
 doi: 
 itemKey: VFPLT3TG
-importDate: 2025-06-17
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > How to conserve soil biodiversity
-> [[FAO]], 
+> [[FAO]], [[NSP]], 
 > [[Plant production and protection division (NSP)]] (2025)
 > 
 > [Online link](https://www.fao.org/agriculture/crops/thematic-sitemap/theme/compendium/tools-guidelines/how-to-conserve-soil-biodiversity/en/), [Zotero Item](zotero://select/library/items/VFPLT3TG),
@@ -23,4 +23,4 @@ importDate: 2025-06-17
 
 %% end notes %%
 
-%% Import Date: 2025-06-17T14:30:19.499+02:00 %%
+%% Import Date: 2025-07-04T14:30:59.719+02:00 %%

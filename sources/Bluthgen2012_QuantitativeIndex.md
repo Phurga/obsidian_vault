@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.baae.2012.04.001"
 itemKey: CYC4L7YT
-importDate: 2025-06-12
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > A quantitative index of land-use intensity in grasslands: Integrating mowing, grazing and fertilization
@@ -18,6 +18,8 @@ importDate: 2025-06-12
 Zusammenfassung
 Menschliche Landnutzung als wichtiger Treiber für die Biodiversität und Funktionen von Ökosystemen wird zunehmend in Forschungsprojekte einbezogen. Im Grünland wird die Landnutzung dazu meist durch kategoriale Variablen beschrieben wie etwa Weiden vs. Wiesen oder gedüngte vs. ungedüngte Flächen. Um jedoch die quantitative Variation in der Intensität der Landnutzung besser beschreiben zu können sind kontinuierliche Maße der Landnutzung wünschenswert. Wir führen einen quantitativen Index zur Beschreibung der Landnutzungsintensität (LUI; land-use intensity) in bewirtschaftetem Grünland ein. Der LUI Index standardisiert und addiert drei wesentliche Komponenten der Grünlandnutzung, die Beweidung, die Mahd und die Düngung. Die Effizienz des LUI Index in Bezug auf die Vorhersagefähigkeit einer Reihe landnutzungsabhängiger Variablen wurde im Rahmen des Projekts Biodiversitätsexploratorien am Beispiel von 150 Grünlandflächen in drei Regionen Deutschlands (Alb, Hainich, Schorfheide) geprüft. Die Prüfvariablen umfassten die Stickstoffzahl nach Ellenberg, die Stickstoff- und Phosphorkonzentrationen in der Biomasse, die Konzentrationen von pflanzenverfügbarem Phosphor im Oberboden, das Boden-C/N-Verhältnis sowie die erste Hauptkomponente einer Ordination dieser Variablen. Während der LUI Index Änderungen in der ersten Hauptkomponente der Antwortvariablen sowie einiger Einzelvariablen signifikant vorhersagte, waren Regressionen mit einzelnen LUI Komponenten problematisch, da diese Komponenten wie die Düngungsintensität oder Mahdfrequenz miteinander korreliert und somit konfundiert sind. Das Management der Grünlandflächen variierte im Zeitraum 2006 bis 2008 von Jahr zu Jahr, insbesondere aufgrund von Änderungen in der Beweidungsintensität. Das Referenzjahr für die Berechnungen der LUI war daher sehr wichtig, während verschiedene Standardisierungsmethoden keinen großen Einfluss auf den Index hatten. Einige alternative Berechnungsmethoden der Landnutzungsintensität korrelierten stark mit der vorschlagenen Form des Index. Der LUI Index reduziert die verschiedenen, miteinander korrelierten Dimensionen der menschlichen Landnutzung im Grünland zu einer kontinuierlichen Variable und kann dazu dienen, die Abhängigkeit verschiedener Organismengruppen und Prozesse von der menschlichen Landnutzung zu prüfen. In Verbindung mit detaillierten Analysen kann die Verwendung dieses Index helfen, die relative Bedeutung der menschlichen Landnutzung im Vergleich zu anderen lokalen oder regionalen Faktoren zu erkennen.
 
-## notes %% begin notes %%%% end notes %%
+%% begin notes %%
 
-%% Import Date: 2025-06-12T15:50:31.106+02:00 %%
+%% end notes %%
+
+%% Import Date: 2025-07-04T14:30:58.331+02:00 %%

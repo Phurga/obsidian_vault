@@ -4,15 +4,16 @@ tags:
   - zotero
 doi: "10.2307/1310054"
 itemKey: WWPHT6KA
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > What Is Conservation Biology?
 > [[Soulé, Michael E.]], 
 > [[BioScience (journal)]] (1985)
 > ecology, conservation biology, 
-> [Online link](https://www.jstor.org/stable/1310054), [Zotero Item](zotero://select/library/items/WWPHT6KA),[Local (JSTOR Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/D4WVWAAY/Soule1985_WhatConservation.pdf), 
+> [Online link](https://www.jstor.org/stable/1310054), [Zotero Item](zotero://select/library/items/WWPHT6KA), [Local (JSTOR Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/D4WVWAAY/Soule1985_WhatConservation.pdf), 
 
-## notes %% begin notes %%
+%% begin notes %%
 ### environmental ethics and conservation biology
 >In this article I describe conservation biology, define its fundamental propositions, and note a few of its contributions. I also point out that **ethical norms are a genuine part of conservation biology**, as they are in all missionor crisis-oriented disciplines.
 ### species-area relationship
@@ -32,4 +33,4 @@ itemKey: WWPHT6KA
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:49.694+02:00 %%
+%% Import Date: 2025-07-04T14:31:02.831+02:00 %%

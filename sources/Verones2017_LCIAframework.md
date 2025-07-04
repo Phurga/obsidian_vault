@@ -4,15 +4,16 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2017.05.206"
 itemKey: JSWRZ454
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > LCIA framework and cross-cutting issues guidance within the UNEP-SETAC Life Cycle Initiative
 > [[Verones, Francesca]], [[Bare, Jane]], [[Bulle, Cécile]], [[Frischknecht, Rolf]], [[Hauschild, Michael]], [[Hellweg, Stefanie]], [[Henderson, Andrew]], [[Jolliet, Olivier]], [[Laurent, Alexis]], [[Liao, Xun]], [[Lindner, Jan Paul]], [[Maia De Souza, Danielle]], [[Michelsen, Ottar]], [[Patouillard, Laure]], [[Pfister, Stephan]], [[Posthuma, Leo]], [[Prado, Valentina]], [[Ridoutt, Brad]], [[Rosenbaum, Ralph K.]], [[Sala, Serenella]], [[Ugaya, Cassia]], [[Vieira, Marisa]], [[Fantke, Peter]], 
 > [[Journal of Cleaner Production]] (2017)
 > GLAM, 
-> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652617311587), [Zotero Item](zotero://select/library/items/JSWRZ454),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/3QX2SPSR/Verones2017_LCIAframework.pdf), 
+> [Online link](https://linkinghub.elsevier.com/retrieve/pii/S0959652617311587), [Zotero Item](zotero://select/library/items/JSWRZ454), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/3QX2SPSR/Verones2017_LCIAframework.pdf), 
 
-## notes %% begin notes %%
+%% begin notes %%
 ### reading notes
 Origin of push for [[relative species loss|potential disappeared fraction of species]] for [[ecosystem quality|ecosystem quality]].
 Mentions an [[intrinsic value of nature]]
@@ -26,4 +27,4 @@ Seems to be annoyed that some [[life cycle impact assessment]] methods are going
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:50.293+02:00 %%
+%% Import Date: 2025-07-04T14:31:03.271+02:00 %%

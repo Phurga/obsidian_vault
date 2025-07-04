@@ -4,16 +4,17 @@ tags:
   - zotero
 doi: 
 itemKey: J5F9VP7X
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Biodiversity Evaluation Tools for European Forests
 > [[Larsson, Tor-Björn]], [[Angelstam, Per]], [[Balent, Gérard]], [[Barbati, Anna]], [[Bijlsma, Rienk-Jan]], [[Boncina, Andrej]], [[Bradshaw, Richard]], [[Bücking, Winfried]], [[Ciancio, Orazio]], [[Corona, Piermaria]], [[Diaci, Jurij]], [[Dias, Susana]], [[Ellenberg, Herrmann]], [[Fernandes, Francisco Manuel]], [[Fernández-Gonzalez, Frederico]], [[Ferris, Richard]], [[Frank, Georg]], [[Møller, Peter Friis]], [[Giller, Paul]], [[Gustafsson, Lena]], [[Halbritter, Klaus]], [[Hall, Susannah]], [[Hansson, Lennart]], [[Innes, John]], [[Jactel..., Hervé]], 
 > [[Ecological Bulletins (journal)]] (2001)
 > 
-> [Online link](http://www.jstor.org/stable/20113288), [Zotero Item](zotero://select/library/items/J5F9VP7X),[Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/ALQRZLMC/Larsson2001_BiodiversityEvaluation.pdf), 
+> [Online link](http://www.jstor.org/stable/20113288), [Zotero Item](zotero://select/library/items/J5F9VP7X), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/ALQRZLMC/Larsson2001_BiodiversityEvaluation.pdf), 
 
-## notes %% begin notes %%
+%% begin notes %%
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:46.915+02:00 %%
+%% Import Date: 2025-07-04T14:31:01.221+02:00 %%

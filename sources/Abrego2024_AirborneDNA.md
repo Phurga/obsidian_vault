@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-024-07658-9"
 itemKey: Y2ZHZBKW
-importDate: 2025-06-16
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Airborne DNA reveals predictable spatial and seasonal dynamics of fungi
@@ -16,15 +16,8 @@ importDate: 2025-06-16
 >[!abstract]-
 >Fungi are among the most diverse and ecologically important kingdoms in life. However, the distributional ranges of fungi remain largely unknown as do the ecological mechanisms that shape their distributions1,2. To provide an integrated view of the spatial and seasonal dynamics of fungi, we implemented a globally distributed standardized aerial sampling of fungal spores3. The vast majority of operational taxonomic units were detected within only one climatic zone, and the spatiotemporal patterns of species richness and community composition were mostly explained by annual mean air temperature. Tropical regions hosted the highest fungal diversity except for lichenized, ericoid mycorrhizal and ectomycorrhizal fungi, which reached their peak diversity in temperate regions. The sensitivity in climatic responses was associated with phylogenetic relatedness, suggesting that large-scale distributions of some fungal groups are partially constrained by their ancestral niche. There was a strong phylogenetic signal in seasonal sensitivity, suggesting that some groups of fungi have retained their ancestral trait of sporulating for only a short period. Overall, our results show that the hyperdiverse kingdom of fungi follows globally highly predictable spatial and temporal dynamics, with seasonality in both species richness and community composition increasing with latitude. Our study reports patterns resembling those described for other major groups of organisms, thus making a major contribution to the long-standing debate on whether organisms with a microbial lifestyle follow the global biodiversity paradigms known for macroorganisms4,5.
 
-%% begin notes %%%% end notes %%
-### biogeography of microorganisms
->Our study reports patterns resembling those described for other major groups of organisms, thus making a major contribution to the long-standing debate on whether organisms with a microbial lifestyle follow the global biodiversity paradigms known for macroorganisms ([[Nemergut2013_PatternsProcesses]], [[Fierer2006_DiversityBiogeography]]).
-### air DNA sampling
->A recent methodological breakthrough regarding the surveying of fungi consists of sampling fungal spores (and other airborne particles, which may include fungal structures such as hyphae and soredia) from the air, followed by DNA sequencing and sequence-based species identification[33](https://www.nature.com/articles/s41586-024-07658-9#ref-CR33 "Abrego, N. et al. Give me a sample of air and I will tell which species are found from your region: molecular identification of fungi from airborne spore samples. Mol. Ecol. Res. 18, 511–524 (2018)."). Air sampling has shown higher diversity and stronger ecological signals in community composition than soil sampling[34](https://www.nature.com/articles/s41586-024-07658-9#ref-CR34 "Abrego, N. et al. Fungal communities decline with urbanization—more in air than in soil. ISME J. 14, 2806–2815 (2020).").
-### no mycorrhizal fungi in air
->The air samples are particularly rich in plant pathogens, general saprotrophs and wood saprotrophs whereas other common groups such as ectomycorrhizal and lichenized fungi are relatively poorly represented (Fig. [2a](https://www.nature.com/articles/s41586-024-07658-9#Fig2)).
-### more spores in air in and around summer outside tropics
->...
+%% begin notes %%
 
+%% end notes %%
 
-%% Import Date: 2025-06-16T15:21:57.661+02:00 %%
+%% Import Date: 2025-07-04T14:30:57.919+02:00 %%

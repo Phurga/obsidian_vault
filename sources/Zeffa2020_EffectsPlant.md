@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.7717/peerj.7905"
 itemKey: ASP764N4
-importDate: 2025-06-23
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Effects of plant growth-promoting rhizobacteria on co-inoculation with Bradyrhizobium in soybean crop: a meta-analysis of studies from 1987 to 2018
 > [[Zeffa, Douglas M.]], [[Fantin, Lucas H.]], [[Koltun, Alessandra]], [[Oliveira, André L. M. de]], [[Nunes, Maria P. B. A.]], [[Canteri, Marcelo G.]], [[Gonçalves, Leandro S. A.]], 
 > [[PeerJ (journal)]] (2020)
-> agriculture, rhizosphere, bacteria, bradyrhizobium, biological nitrogen fixation, 
+> agriculture, bacteria, biological nitrogen fixation, bradyrhizobium, rhizosphere, 
 > [Online link](https://peerj.com/articles/7905), [Zotero Item](zotero://select/library/items/ASP764N4), [Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/4DE4Y7IY/Zeffa2020_EffectsPlant.pdf), 
 
 >[!abstract]-
@@ -20,4 +20,4 @@ importDate: 2025-06-23
 
 %% end notes %%
 
-%% Import Date: 2025-06-23T09:49:39.907+02:00 %%
+%% Import Date: 2025-07-04T14:31:03.811+02:00 %%

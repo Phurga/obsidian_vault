@@ -4,14 +4,14 @@ tags:
   - zotero
 doi: "10.1101/2024.02.21.580945"
 itemKey: PTY5PHVW
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Land-use impacts on plant functional diversity throughout Europe
 > [[Rosa, Francesca]], [[Bodegom, Peter M. van]], [[Hellweg, Stefanie]], [[Pfister, Stephan]], [[Biurrun, Idoia]], [[Boch, Steffen]], [[Chytrý, Milan]], [[Ćušterevska, Renata]], [[Fratte, Michele Dalle]], [[Damasceno, Gabriella]], [[Garbolino, Emmanuel]], [[Lenoir, Jonathan]], [[Ozinga, Wim A.]], [[Penuelas, Josep]], [[Sabatini, Francesco Maria]], [[Schrodt, Franziska]], [[Uogintas, Domas]], [[Byun, Chaeho]], [[Dolezal, Jiri]], [[Dziuba, Tetiana]], [[Hérault, Bruno]], [[Martín-Forés, Irene]], [[Niinemets, Ülo]], [[Peyre, Gwendolyn]], [[Scherer, Laura]], 
 > [[bioRxiv (journal)]] (2024)
 > biodiversity, functional diversity, land use, life cycle impact assessment, 
-> [Online link](https://www.biorxiv.org/content/10.1101/2024.02.21.580945v3), [Zotero Item](zotero://select/library/items/PTY5PHVW),[Local (Submitted Version)](file://C:/Users/aburg/Documents/references/zotero/storage/EPNTQBF7/Rosa2024_Landuseimpacts.pdf), 
-
+> [Online link](https://www.biorxiv.org/content/10.1101/2024.02.21.580945v3), [Zotero Item](zotero://select/library/items/PTY5PHVW), [Local (Submitted Version)](file://C:/Users/aburg/Documents/references/zotero/storage/EPNTQBF7/Rosa2024_Landuseimpacts.pdf), 
 
 >[!abstract]-
 >Aim Global biodiversity loss resulting from anthropogenic land-use activities is a pressing concern, requiring precise assessments of impacts at large spatial extents. Existing models mainly focus on species richness and abundance, lacking insights into ecological mechanisms and species’ roles in ecosystem functioning. To bridge this gap, we conducted an extensive analysis of the impact of human land use on vascular plant functional diversity, across diverse land-use classes and bioregions in Europe, comparing it to traditional metrics.
@@ -20,8 +20,8 @@ Methods Integrating extensive databases of vegetation plots with spatial data on
 Results Our findings revealed that, compared to natural habitats, anthropogenic land use exhibits lower functional richness and divergence but higher functional evenness across most land-use classes and bioregions. The response of functional richness was more marked than the other two metrics and especially pronounced in croplands and urban areas and in northern bioregions. Functional richness exhibited a pattern that did not fully overlap with the trend in species richness, providing useful complementary information.
 Main conclusions We provide a large-scale precise assessment of anthropogenic land-use impacts on functional diversity across Europe. Our findings indicate that: (i) human disturbance significantly alters plant functional diversity compared to natural habitats; (ii) this alteration goes in the direction of functional homogenization; (i) functional diversity metrics complement traditional metrics by offering deeper insights into the ecological mechanisms in response to anthropogenic land use.
 
-## notes %% begin notes %%
+%% begin notes %%
 preprint only
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:48.679+02:00 %%
+%% Import Date: 2025-07-04T14:31:02.389+02:00 %%

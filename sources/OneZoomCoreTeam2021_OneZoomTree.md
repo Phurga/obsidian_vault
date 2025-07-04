@@ -4,13 +4,16 @@ tags:
   - zotero
 doi: 
 itemKey: VTJQPMBY
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > OneZoom Tree of Life Explorer Version 4.0
 > [[OneZoom Core Team]], 
 > [[OneZoom Tree of Life Explorer]] (2021)
 > biodiversity, Taxonomy, 
-> [Online link](https://www.onezoom.org/), [Zotero Item](zotero://select/library/items/VTJQPMBY),## notes %% begin notes %%
+> [Online link](https://www.onezoom.org/), [Zotero Item](zotero://select/library/items/VTJQPMBY),
+
+%% begin notes %%
 **OneZoom** is a great website to see the phylogenetic classification. I used it to create a custom [[taxonomy|taxonomy]].
 
 https://www.onezoom.org/life/@biota=93302?otthome=%40%3D770315#x637,y806,w0.8870
@@ -18,4 +21,4 @@ https://www.onezoom.org/life/@biota=93302?otthome=%40%3D770315#x637,y806,w0.8870
 ![[OneZoomCoreTeam2021_OneZoomTree_overview.png]]
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:48.245+02:00 %%
+%% Import Date: 2025-07-04T14:31:01.981+02:00 %%

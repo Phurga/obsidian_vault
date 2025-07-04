@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1098/rstb.2019.0255"
 itemKey: RA8YK9WS
-importDate: 2025-06-24
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Dormancy dynamics and dispersal contribute to soil microbiome resilience
 > [[Sorensen, Jackson W.]], [[Shade, Ashley]], 
 > [[Philosophical Transactions of the Royal Society B: Biological Sciences (journal)]] (2020)
-> community assembly, microbial ecology, disturbance ecology, immigration, resistance, resuscitation, 
+> community assembly, disturbance ecology, immigration, microbial ecology, resistance, resuscitation, 
 > [Online link](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0255), [Zotero Item](zotero://select/library/items/RA8YK9WS), [Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/D4KTARCZ/Sorensen2020_DormancyDynamics.pdf), 
 
 >[!abstract]-
@@ -20,4 +20,4 @@ importDate: 2025-06-24
 
 %% end notes %%
 
-%% Import Date: 2025-06-24T11:33:54.578+02:00 %%
+%% Import Date: 2025-07-04T14:31:02.816+02:00 %%
