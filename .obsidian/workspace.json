@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "Intro to CSI"
             }
+          },
+          {
+            "id": "d790b5a0ad740fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Himes2024_Whynature.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Himes2024_Whynature"
+            }
           }
         ]
       }
@@ -260,10 +275,12 @@
   },
   "active": "8463956ee478978b",
   "lastOpenFiles": [
-    "sources/FabisConsultingLtd2023_CommonInternational.md",
+    "sources/Soule1985_WhatConservation.md",
     "writing/Intro to CSI.md",
-    "sources/IPBES2019_GlobalAssessment.md",
     "sources/Himes2024_Whynature.md",
+    "sources/CBD2011_ConventionBiological.md",
+    "sources/FabisConsultingLtd2023_CommonInternational.md",
+    "sources/IPBES2019_GlobalAssessment.md",
     "sources/IPBES2022_Summarypolicymakers.md",
     "sources/IPBES2019_GlobalAssessmenta.md",
     "sources/IPBES2019_Globalassessment.md",
@@ -286,8 +303,6 @@
     "sources/Verones2017_LCIAframework.md",
     "concepts/alpha diversity in relative species loss is not relevant.md",
     "misc/ADMIN.md",
-    "misc/CSI.md",
-    "concepts/impacts of land use on biodiversity.md",
     "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
     "attachments/IPBES2022_Summarypolicymakers_paradigms.png",
     "attachments/Gevers2005_Reevaluatingprokaryotic_threshold.png",
