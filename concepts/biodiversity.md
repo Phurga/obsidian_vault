@@ -16,6 +16,7 @@ Alternative definitions, [[WHO]], "variability among living organisms from all s
 - [[genes, species, ecosystems]]
 - [[composition, structure, function]]
 - [[taxon, functional trait, evolutionary history]]
+- [[essential biodiversity variables]]
 ### biodiversity is everywhere
 - [[major realms of life]]
 - [[soil biodiversity]]
@@ -23,6 +24,7 @@ Alternative definitions, [[WHO]], "variability among living organisms from all s
 - [[biodiversity dynamics]]
 - [[nature and biodiversity]]
 - [[nature as identity]]
+- [[evolutionary biology|evolution]]
 ### measuring biodiversity and its degradation
 - [[measures of biodiversity]]
 - [[alpha, beta, gamma diversity]]

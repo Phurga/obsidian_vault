@@ -21,42 +21,6 @@
               "icon": "lucide-file",
               "title": "Intro to CSI"
             }
-          },
-          {
-            "id": "b7dbc3d5d22ebe9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/essential biodiversity variables.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "essential biodiversity variables"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e9963e8881dee435",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f37b29472aa0872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "biodiversity"
-            }
           }
         ]
       }
@@ -90,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"between\" \"ecosystem function\" path:sources  ",
+                "query": "tag:#concept/idea \"land use\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -122,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ma these en 180s.md",
+                "file": "writing/Intro to CSI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ma these en 180s"
+              "title": "Graph of Intro to CSI"
             }
           }
         ],
@@ -307,9 +271,22 @@
   },
   "active": "8463956ee478978b",
   "lastOpenFiles": [
-    "concepts/essential biodiversity variables.md",
-    "sources/IPBES2019_GlobalAssessment.md",
+    "concepts/What are really land transformation impacts.md",
     "writing/Intro to CSI.md",
+    "concepts/monitoring the advancement of conservation policies is the main goal of biodiversity LCIA.md",
+    "sources/Vrasdonk2019_Referencesituations.md",
+    "creators/Vrasdonk, Emke.md",
+    "sources/Vrasdonk2020_inclusionBiodiversity.md",
+    "writing/CSI - Introduction.md",
+    "creators/ISO.md",
+    "concepts/biodiversity.md",
+    "sources/Byers2024_Landuse.md",
+    "concepts/essential biodiversity variables.md",
+    "sources/Jetz2019_Essentialbiodiversity.md",
+    "sources/Pereira2013_EssentialBiodiversity.md",
+    "attachments/Pereira2013_EssentialBiodiversity_candidates.jpeg",
+    "attachments/339_277_f1.jpeg",
+    "sources/IPBES2019_GlobalAssessment.md",
     "sources/Himes2024_Whynature.md",
     "sources/Debarre2025_RevampingLCIA.md",
     "concepts/functional diversity.md",
@@ -321,18 +298,7 @@
     "sources/CBDandUNEP2021_IndicatorMetadata.md",
     "concepts/community ecology.md",
     "concepts/ecological composition.md",
-    "concepts/biodiversity.md",
     "concepts/composition, structure, function.md",
-    "sources/Noss1990_IndicatorsMonitoring.md",
-    "concepts/ecosystem integrity.md",
-    "concepts/ecological functionning.md",
-    "concepts/species trait.md",
-    "sources/Bonfanti2025_Linkingeffect.md",
-    "sources/Violle2007_Letconcept.md",
-    "concepts/minimum population size to maintain evolutionary potential.md",
-    "sources/Hooper2005_EffectsBiodiversity.md",
-    "sources/Ma2021_GlobalDistribution.md",
-    "sources/Ma2021_globaldistribution.md",
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
     "attachments/IPBES2019_GlobalAssessmenta_history.png",
     "attachments/UNEP2025_Indicatorsrepository_ecosystem_redlist.png",
@@ -341,8 +307,6 @@
     "attachments/Gevers2005_Reevaluatingprokaryotic_threshold.png",
     "attachments/Orgiazzi2016_Globalsoil_macrofauna_diversity.png",
     "attachments/Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp",
-    "attachments/Fehrenbach2015_Hemerobyimpact_forest_naturalness_metrics.png",
-    "attachments/FAO2020_Stateknowledge_termite_nest.png",
     "Untitled",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",

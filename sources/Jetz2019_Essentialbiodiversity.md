@@ -22,7 +22,6 @@ species distribution and abundance (2D)
 wants to capture species distribution and abundance over time and space
 looks very complex and beyond my current understanding, dont read now
 
-## Notes
 EVBs are based on ECVs (climate) ([[https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/about-essential-climate-variables|link]]).
 Essential variables are used to characterize a system, must be 
 

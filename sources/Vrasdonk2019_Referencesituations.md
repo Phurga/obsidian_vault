@@ -18,13 +18,14 @@ importDate: 2025-07-04
 
 %% begin notes %% 
 Consolidated in [[reference situation]].
-# Reading notes
-Taking a very long ago reference is not a good theoretical solution.
+### living in harmony with nature instead of naturalness
+> For example, the global Convention on Biodiversity (CBD) which is based on the vision "Living in Harmony with Nature" does not aim predominantly at naturalness but emphasizes the sustainable coexistence of humans and biodiversity by stating that BBy 2050, biodiversity is valued, conserved, restored and wisely used, maintaining ecosystem services, sustaining a healthy planet and delivering benefits essential for all people^ (UN CBD 2010, p. 8).
+### very old reference situations are not helpful
 > When using historical baseline references, usually a point in time is selected to compare against current conditions to. Without a sufficiently distant past, however, these references may fail to fully inform about past human impacts. Choosing a timeframe is therefore not straightforward; how far back in time do we have to go? Obviously, going back to times in which the wooly mammoth was still around, some 10,000 years ago, would not appear be relevant for current assessments of current land use impacts, but identifying a closer pristine nature time period might be challenging, as human land use history varies strongly from region to region (e.g., Hilding Rydevik et al. 2018). To be able to compare impacts of land use in different landscapes, time frame and level of degradation of the reference should be equal, if not to be compromised (Nielsen et al. 2007).
 
-
+### need for counterfactual
 > the effect of land interventions on biodiversity can only be explained if the expected trends of biodiversity in the absence of these interventions are known, thus if a natural counterfactual reference situation is used.
-
+### potential natural vegetation is not counterfactual
 > PNV is a re-naturalization reference rather than a natural counterfactual reference situation.
 
 Biodiversity loss measurement is a wicked problem and there is no objective measure for the impacts on biodiversity loss, only measures of deviations from conservation targets.
