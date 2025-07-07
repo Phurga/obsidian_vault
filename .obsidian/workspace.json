@@ -4,68 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "0992c73eb692f291",
-        "type": "split",
+        "id": "1de0ce97929be25c",
+        "type": "tabs",
         "children": [
           {
-            "id": "1de0ce97929be25c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a555f5c72cdaaee2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "writing/Intro to CSI.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Intro to CSI"
-                }
-              }
-            ]
+            "id": "1bccb41c2d296364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/community ecology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "community ecology"
+            }
           },
           {
-            "id": "245f00f4073142cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8463956ee478978b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "sources/UNEP2025_Indicatorsrepository.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "UNEP2025_Indicatorsrepository"
-                }
+            "id": "a555f5c72cdaaee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing/Intro to CSI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              {
-                "id": "3ec1375b1e833558",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "concepts/essential biodiversity variables.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "essential biodiversity variables"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Intro to CSI"
+            }
+          },
+          {
+            "id": "deab73d9d3db82a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/McGill2015_Fifteenforms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "McGill2015_Fifteenforms"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/UNEP2025_Indicatorsrepository.md",
+                "file": "writing/Intro to CSI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +181,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of UNEP2025_Indicatorsrepository"
+              "title": "Graph of Intro to CSI"
             }
           }
         ],
@@ -217,10 +205,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/UNEP2025_Indicatorsrepository.md"
+                "file": "writing/Intro to CSI.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for UNEP2025_Indicatorsrepository"
+              "title": "File properties for Intro to CSI"
             }
           },
           {
@@ -229,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/UNEP2025_Indicatorsrepository.md",
+                "file": "writing/Intro to CSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +227,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UNEP2025_Indicatorsrepository"
+              "title": "Backlinks for Intro to CSI"
             }
           },
           {
@@ -248,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/UNEP2025_Indicatorsrepository.md",
+                "file": "writing/Intro to CSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UNEP2025_Indicatorsrepository"
+              "title": "Outgoing links from Intro to CSI"
             }
           },
           {
@@ -262,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/UNEP2025_Indicatorsrepository.md",
+                "file": "writing/Intro to CSI.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UNEP2025_Indicatorsrepository"
+              "title": "Outline of Intro to CSI"
             }
           },
           {
@@ -296,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -311,10 +299,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8463956ee478978b",
+  "active": "a555f5c72cdaaee2",
   "lastOpenFiles": [
-    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
+    "concepts/community ecology.md",
     "writing/Intro to CSI.md",
+    "sources/Jetz2019_Essentialbiodiversity.md",
+    "sources/McGill2015_Fifteenforms.md",
+    "concepts/ecological composition.md",
+    "concepts/minimum population size to maintain evolutionary potential.md",
+    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
+    "sources/UNEP2025_Indicatorsrepository.md",
     "sources/CBD2022_KunmingMontrealGlobal.md",
     "sources/Sandler2010_ValueSpecies.md",
     "sources/Pereira2013_EssentialBiodiversity.md",
@@ -332,15 +326,9 @@
     "creators/ISO.md",
     "concepts/biodiversity.md",
     "sources/Byers2024_Landuse.md",
-    "sources/Jetz2019_Essentialbiodiversity.md",
     "attachments/Pereira2013_EssentialBiodiversity_candidates.jpeg",
     "attachments/339_277_f1.jpeg",
     "sources/IPBES2019_GlobalAssessment.md",
-    "sources/Himes2024_Whynature.md",
-    "sources/Debarre2025_RevampingLCIA.md",
-    "concepts/functional diversity.md",
-    "concepts/taxonomy.md",
-    "concepts/convention on biological diversity.md",
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
     "attachments/IPBES2019_GlobalAssessmenta_history.png",
     "attachments/UNEP2025_Indicatorsrepository_ecosystem_redlist.png",

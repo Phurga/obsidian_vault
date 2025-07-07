@@ -18,27 +18,32 @@ These two paradigms lead to the definition of two end goals in social policies: 
 Considering the instrumental value of nature is aligned with the ecosystem services framework [@Costanza1997_ValueWorlds;@FabisConsultingLtd2023_CommonInternational]. Biodiversity affects ecosystems functionning and thus the delivery of ecosystem services [@IPBES2019_GlobalAssessment]. Biodiversity is correlated with ecosystem functioning (e.g. productivity, resilience) and thus biodiversity is known to correlate with ecosystem services [@Hooper2005_EffectsBiodiversity;@Oliver2015_BiodiversityResilience]. However, quantifying any loss of services due to the degradation of ecosystems is not the focus of this area of protection. [@Debarre2025_RevampingLCIA] proposes a cause-effect pathway relating biodiversity (as ecosystem quality) and ecosystem services.
 ![[Debarre2025_RevampingLCIA_pathway.png]]
 ## biodiversity
-### definition
-Biological diversity, "biodiversity", is the diversity of life. More complex definitions attempting to capture the multidimensionality of this concept exist. The convention on biological diversity defines biodiversity as "the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems" [@CBD2011_ConventionBiological].
+Biological diversity, "biodiversity", is the diversity of life. But the diversity of life can be observed at different levels of organisation and life forms are valuable in multiple aspects. The convention on biological diversity (CBD) defines biodiversity as "the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems" [@CBD2011_ConventionBiological].
 
-This definition highlights the need to consider diversity beyond species, the latter being subject to particular focus. For instance, genetic diversity inside species populations is required to maintain evolutionary potential [@Willi2022_Conservationgenetics] and increases overall functional diversity [@Violle2007_Letconcept]. Ecosystem diversity refers to diversity beyond organisms. The diversity of environmental conditions on Earth and the complexity of ecological communities give identity to ecosystems. Ecological communities display unique compositions (how much species, under which abundances) but also structures (spatial patterns, temporal patterns) leading to specific processes and function (trophic relationships, biotic productivity).
+This definition highlights the need to consider diversity beyond species, because the latter has been, and still is, subject to particular focus. Species is a central concept in biology and ecology, although one definition fitting all life forms is challenging [@Anthony2023_EnumeratingSoil;@Doolittle2006_Genomicsbacterial]. It is nonetheless useful to simplify the complexity of organismal diversity and drive conservation policies with quantitative indicators [@GBF2025_A3Red].
 
->[!comment] this last paragraph could be updated based on [[essential biodiversity variables]] and its classes
-### species in biodiversity
-Species is a central concept in biology and ecology, although one definition fitting all life forms is challenging [@Anthony2023_EnumeratingSoil;@Doolittle2006_Genomicsbacterial]. It is nonetheless very useful to simplify the complexity of biodiversity and derive indicators and is thus central in conservation policies [@CBD2022_KunmingMontrealGlobal].
 Species are valued by biologists and their diversity is too. There are two angles leading to species valuation [@Sandler2012_IntrinsicValue;@Sandler2010_ValueSpecies]. Species are usually classified into taxons, historically based on a shared characteristics, and nowadays based on evolutionary history (phylogeny). Some known groups of species remain based on morphology and not on phylogeny, such as reptiles or fishes.
-## measures of biodiversity
-### in ecology
-Biodiversity is multidimensional and any metrics involves information loss. Hundreds of variables have been proposed to assess biodiversity. The essential biodiversity variables framework [@Pereira2013_EssentialBiodiversity;@GEOBON2025_WhatAre] establishes 6 classes of variables used to capture biodiversity:
-- genetic composition  
+
+The CBD definition provides indications about other dimensions to account for in biodiversity. The essential biodiversity variables framework [@Pereira2013_EssentialBiodiversity;@GEOBON2025_WhatAre] proposes a set of 6 classes of variables to capture biodiversity:
+- genetic composition
 - species population
 - species traits
 - community composition  
 - ecosystem structure
 - ecosystem function
 
-It is possible to derive variables from each of these classes, and estimate the value of these variables across space and time.
-For instance, the Kunming-Montreal Global Biodiversity Framework (GBF) [@CBD2022_KunmingMontrealGlobal] proposes a set of targets to achieve by 2030, targeting these
+Genetic diversity inside species populations is required to maintain evolutionary potential [@Willi2022_Conservationgenetics] and increases overall functional diversity [@Violle2007_Letconcept]. Ecosystem diversity refers to diversity beyond organisms. The diversity of environmental conditions on Earth and the complexity of ecological communities give identity to ecosystems. Ecological communities display unique compositions (how much species, under which abundances) but also structures (spatial patterns, temporal patterns) leading to specific processes and function (trophic relationships, biotic productivity).
+
+
+
+It is possible to derive variables from each of these classes, and an ideal biodiversity monitoring program would be based on estimates of these variables across space and time to establish trends [@Jetz2019_Essentialbiodiversity].
+For instance, the Kunming-Montreal Global Biodiversity Framework (GBF) [@CBD2022_KunmingMontrealGlobal] proposes a set of targets to achieve by 2030. Some targets are at ecosystem level, such as target 1: "plan and manage all areas to reduce biodiversity loss", ^[https://www.gbf-indicators.org/metadata/headline/A-1] . Some are at species and genes level, such as target 4: "halt species extinction, protect genetic diversity and manage human-wildlife conflicts". Target 4 can be derived into two indicators. The first one is the "red list index"^[https://www.gbf-indicators.org/metadata/headline/A-3], an index representing species extinction risk at the chosen scale. The second one is the "effective population size 500" indicator ^[https://www.gbf-indicators.org/metadata/headline/A-4] representing the maintenance of genetic diversity and evolutionary potential among species.
+### species in biodiversity
+
+## measures of biodiversity
+### in ecology
+
+
 [[measures of biodiversity]]
 ### in LCA
 #### mainstream
@@ -51,7 +56,7 @@ For instance, the Kunming-Montreal Global Biodiversity Framework (GBF) [@CBD2022
 [[phylogenetic diversity]]
 ## effect of land use on biodiversity
 ### land use
-Herein we will focus on how land transformed for human activities is a degraded of natural habitat.
+Herein we will focus on how land transformed for human activities is a degraded habitat for wildlife.
 [[What are really land transformation impacts]]
 ## living soils
 ### soil, land, ground
