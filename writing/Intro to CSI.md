@@ -11,7 +11,7 @@ Most modern products consumed in local markets are in fact linked to a global in
 The life cycle assessment (LCA) framework [@ISO2006_ISO14040] aims at adressing this challenge, by considering the environmental impacts of a product through a "product system" perspective. This product system links all activities involved with the use of the product, both upstream (production, logistics etc) and downstream (end of life treatments). Any activity can be brought down to a list of exchanges with the environment (elementary flows), marking a potential human-induced environmental impact. The framework considers a range of environmental issues (such as climate change, eutrophication, water scarcity) to which elementary flows are linked to via coefficients (characterization factors) translating exchanges with the environment into environmental impacts. A cause-effect chain can be established to derive environmental issues results into damage on humans or biodiversity [@UNEP2016_GlobalGuidance; @Verones2017_LCIAframework].
 ## nature valuation and protection
 ### ecosystem quality or biodiversity
-Human value nature for different reasons. Under an anthropocentric paradigm, nature is considered as a resource for human to live from. Under a biocentric paradigm, nature is considered as a system composed of non-human beings with a right to exist regardless of their relation to humans [@IPBES2022_SummaryPolicymakers]. An ecocentric paradigm also exists, valuing the ecosystem as a whole and thus not only its organismal community but also the abiotic environment.
+Human value nature for different reasons. Under an anthropocentric paradigm, nature is considered as a resource for human to live from. Under a biocentric paradigm, nature is considered as a system composed of non-human beings with a right to exist regardless of their relation to humans [@IPBES2022_SummaryPolicymakers].
 
 These two paradigms lead to the definition of two end goals in social policies: anthropocentrism to protecting human beings and biocentrism to protecting non-human beings as well. Areas of protection in LCA have evolved over time and are still debated. Especially, how damage on the natural environment should be considered has long been debated [@Koellner2013_UNEPSETACGuideline; @Curran2016_HowWell; @Verones2017_LCIAframework; @Debarre2025_RevampingLCIA]. Herein I propose to consider an area of protection for non-human beings, under the term "biodiversity" (rather than "ecosystem quality"). Biodiversity being more aligned with concepts of conservation biology and environmental policy [@Curran2016_HowWell;@Soule1985_WhatConservation;@IPBES2019_GlobalAssessment;@CBD2011_ConventionBiological].
 ### biodiversity and ecosystem services
@@ -19,12 +19,12 @@ Considering the instrumental value of nature is aligned with the ecosystem servi
 ![[Debarre2025_RevampingLCIA_pathway.png]]
 ## biodiversity
 Biological diversity, "biodiversity", is the diversity of life. But the diversity of life can be observed at different levels of organisation and life forms are valuable in multiple aspects. The convention on biological diversity (CBD) defines biodiversity as "the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems" [@CBD2011_ConventionBiological].
-#### species
-This definition highlights the need to consider diversity beyond species, because the latter has been, and still is, subject to particular focus. Species is a useful concept in biology and ecology, although one definition fitting all life forms is challenging [@Anthony2023_EnumeratingSoil;@Doolittle2006_Genomicsbacterial]. It is also debatted if and why species have value beyond the value of the organisms of its population, or beyond any instrumental value to us [@Sandler2010_ValueSpecies]. Regardless of any ethical reasoning, some people care for the existence of some species and try to preserve its populations as parts of ecological communities. Also, regional and global conservation programs attempt to identify biodiversity hotspots to focus conservation efforts [@GBF2025_A3Red;@IUCN2025_IUCNRed], which can be identified by counting how many different species are found in an area (species richness).
+### species
+This definition highlights the need to consider diversity beyond species, because the latter has been, and still is, subject to particular focus. Species is a useful concept in biology and ecology, although one definition fitting all life forms is challenging [@Anthony2023_EnumeratingSoil;@Doolittle2006_Genomicsbacterial]. It is also debatted if and why species have value beyond the value of the organisms of its population, or beyond any instrumental value to us [@Sandler2010_ValueSpecies]. Regardless of any ethical reasoning, some people care for the existence of some species and try to preserve its populations as parts of ecological communities. Regional and global scale conservation programs attempt to identify biodiversity hotspots to focus conservation efforts on [@CBD2022_KunmingMontrealGlobal], and regional species inventories is a common approach to identify these [@GBF2025_A3Red].
 
-More refined species indicators can be used, accounting for species caracteristics. Functional diversity accounts for the diversity of organisms traits [@Violle2007_Letconcept]. Phylogenetic diversity accounts for the "evolutionary history carried" by the species, which can be valued as such [@Sandler2010_ValueSpecies], or because it is associated to increased functional diversity, or evolutionary potential [@Chaudhary2018_Projectingglobal]. formseveral facets of species can be considered to provide relevant indicators. First, species can be grouped based on morphological or functional caracteristics historically based on a shared characteristics, and nowadays based on evolutionary history (phylogeny). Some known groups of species remain based on morphology and not on phylogeny, such as reptiles or fishes.
+The simplest use of species inventories is to derive species richness indicators, i.e. the number of species found in an area, usually accounting for taxon related biases. More refined species indicators can be used, accounting for taxonomic species are different from each other (distinctiveness). Indices of ecological community can be constructed not only from species presence and absence but also accounting for species populations, such as the Shannon index [@Santini2017_AssessingSuitability]. The diversity of organisms traits can be accounted for with functional diversity [@Violle2007_Letconcept] to link species with ecosystem functioning. Phylogenetic diversity accounts for the "evolutionary history carried" by the species, which can be valued as such [@Sandler2010_ValueSpecies], or because it is associated to adapative potential (option value) [@Faith1992_ConservationEvaluation;@IPBES2019_GlobalAssessment].
 ### multiple dimensions to biodiversity
-The CBD definition provides indications about other dimensions to account for in biodiversity. The essential biodiversity variables framework [@Pereira2013_EssentialBiodiversity;@GEOBON2025_WhatAre] proposes a set of 6 classes of variables to capture biodiversity:
+The CBD definition provides indications about several dimensions to account for in biodiversity. The essential biodiversity variables framework [@Pereira2013_EssentialBiodiversity;@GEOBON2025_WhatAre] proposes a set of 6 classes of variables to capture when monitoring biodiversity:
 - genetic composition
 - species population
 - species traits
@@ -32,49 +32,40 @@ The CBD definition provides indications about other dimensions to account for in
 - ecosystem structure
 - ecosystem function
 
-Genetic diversity inside species populations is required to maintain evolutionary potential [@Willi2022_Conservationgenetics] and increases overall functional diversity [@Violle2007_Letconcept]. Ecosystem diversity refers to diversity beyond organisms. The diversity of environmental conditions on Earth and the complexity of ecological communities give identity to ecosystems. Ecological communities display unique compositions (how much species, under which abundances) but also structures (spatial patterns, temporal patterns) leading to specific processes and function (trophic relationships, biotic productivity).
-
-
-
-It is possible to derive variables from each of these classes, and an ideal biodiversity monitoring program would be based on estimates of these variables across space and time to establish trends [@Jetz2019_Essentialbiodiversity].
-For instance, the Kunming-Montreal Global Biodiversity Framework (GBF) [@CBD2022_KunmingMontrealGlobal] proposes a set of targets to achieve by 2030. Some targets are at ecosystem level, such as target 1: "plan and manage all areas to reduce biodiversity loss", ^[https://www.gbf-indicators.org/metadata/headline/A-1] . Some are at species and genes level, such as target 4: "halt species extinction, protect genetic diversity and manage human-wildlife conflicts". Target 4 can be derived into two indicators. The first one is the "red list index"^[https://www.gbf-indicators.org/metadata/headline/A-3], an index representing species extinction risk at the chosen scale. The second one is the "effective population size 500" indicator ^[https://www.gbf-indicators.org/metadata/headline/A-4] representing the maintenance of genetic diversity and evolutionary potential among species.
-
-## measures of biodiversity
-### in ecology
-
-
+It is possible to derive measurable variables from each of these classes, assess biodiversity levels and establish temporal and spatial trends [@Jetz2019_EssentialBiodiversity].
+The Kunming-Montreal Global Biodiversity Framework (GBF) [@CBD2022_KunmingMontrealGlobal] proposes a set of targets to achieve by 2030. Some targets are at ecosystem level, such as target 1: "plan and manage all areas to reduce biodiversity loss", ^[https://www.gbf-indicators.org/metadata/headline/A-1] . Some are at genes (and species) level, such as target 4: "halt species extinction, protect genetic diversity and manage human-wildlife conflicts", with the operational indicator "effective population size 500" ^[https://www.gbf-indicators.org/metadata/headline/A-4] monitoring the maintenance of genetic diversity and evolutionary potential among species.
+## a reducing biodiversity
+Natural ecosystems are being degraded by human activities at increasing rates [@McGill2015_Fifteenforms;@IPBES2019_GlobalAssessment]. 
+### land use is the main driver
+Herein we will focus on how land transformed for human activities is a degraded habitat for wildlife.
+[[red list of ecosystems]]
+[[species-area relationship]]
+#### [[What are really land transformation impacts]]
+### indicators of reducing biodiversity
+#### in ecology
 [[measures of biodiversity]]
-### in LCA
-#### mainstream
+#### in LCA
+##### mainstream
 [[ecological composition]]
-[[species richness]]
+[[species richness]],  [@Verones2017_LCIAframework] ^["Taxonomic groups should not be weighted based on their species richness alone, as this may lead to underestimating impacts on smaller taxonomic groups, whose species may be more threatened."]
 [[species extinction risk]]
 [[LCIA method on ecosystem quality]]
-#### research opportunities
+##### research opportunities
 [[functional diversity]]
 [[phylogenetic diversity]]
-## effect of land use on biodiversity
-### land use
-Herein we will focus on how land transformed for human activities is a degraded habitat for wildlife.
-[[What are really land transformation impacts]]
+### on soil microorganisms
+[[CSI - Introduction]]
 ## living soils
 ### soil, land, ground
 [[Cousin2025_Preserverqualite#soil perceptions]]
 ### soil quality
 [[soil quality]]
 [[LCIA method on soil quality ]] (som, sqi, lanca)
-### land use
-[[red list of ecosystems]]
-[[species-area relationship]]
 ### soil biodiversity
 [[soil biodiversity]]
 [[microorganism]]
+spatial patterns
 ### monitoring soil biodiversity
 [[environmental DNA]]
 [[DNA metabarcoding]]
 [[deep species distribution model]]
-## patterns of soil microorganisms
-[[CSI - Introduction]]
-### biogeography
-[[land use]]
-### effect of land use intensity

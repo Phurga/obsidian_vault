@@ -23,18 +23,40 @@
             }
           },
           {
-            "id": "c84fa19bdfabf1e8",
+            "id": "c566a09c588c63b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/phylogenetic diversity.md",
+                "file": "sources/IPBES2019_GlobalAssessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "phylogenetic diversity"
+              "title": "IPBES2019_GlobalAssessment"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9f1825d5dbf774e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961cd5bcbf4fe863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "biodiversity"
             }
           }
         ]
@@ -101,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/IPBES2019_GlobalAssessment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Intro to CSI"
+              "title": "Graph of IPBES2019_GlobalAssessment"
             }
           }
         ],
@@ -189,10 +211,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "writing/Intro to CSI.md"
+                "file": "sources/IPBES2019_GlobalAssessment.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Intro to CSI"
+              "title": "File properties for IPBES2019_GlobalAssessment"
             }
           },
           {
@@ -201,8 +223,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/Intro to CSI.md",
-                "collapseAll": false,
+                "file": "sources/IPBES2019_GlobalAssessment.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -211,7 +233,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro to CSI"
+              "title": "Backlinks for IPBES2019_GlobalAssessment"
             }
           },
           {
@@ -220,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/IPBES2019_GlobalAssessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro to CSI"
+              "title": "Outgoing links from IPBES2019_GlobalAssessment"
             }
           },
           {
@@ -234,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/IPBES2019_GlobalAssessment.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro to CSI"
+              "title": "Outline of IPBES2019_GlobalAssessment"
             }
           },
           {
@@ -283,22 +305,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "080911ca5ca7d6f7",
+  "active": "c566a09c588c63b3",
   "lastOpenFiles": [
-    "concepts/phylogenetic diversity.md",
     "writing/Intro to CSI.md",
+    "sources/IPBES2019_GlobalAssessment.md",
+    "sources/McGill2015_Fifteenforms.md",
+    "concepts/biodiversity.md",
+    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
+    "concepts/taxa aggregation.md",
+    "concepts/measures of biodiversity.md",
+    "concepts/phylogenetic diversity.md",
     "concepts/species richness.md",
     "sources/Chaudhary2018_Projectingglobal.md",
     "sources/Violle2007_Letconcept.md",
     "sources/Sandler2012_IntrinsicValue.md",
     "sources/Sandler2010_ValueSpecies.md",
     "concepts/community ecology.md",
-    "sources/McGill2015_Fifteenforms.md",
     "Simpson1949_MeasurementDiversity.pdf",
     "sources/Jetz2019_Essentialbiodiversity.md",
     "concepts/ecological composition.md",
     "concepts/minimum population size to maintain evolutionary potential.md",
-    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
     "sources/UNEP2025_Indicatorsrepository.md",
     "sources/CBD2022_KunmingMontrealGlobal.md",
     "sources/Pereira2013_EssentialBiodiversity.md",
@@ -308,10 +334,6 @@
     "sources/CBD2021_MeasuringEcosystem.md",
     "creators/MCV.md",
     "concepts/What are really land transformation impacts.md",
-    "concepts/monitoring the advancement of conservation policies is the main goal of biodiversity LCIA.md",
-    "sources/Vrasdonk2019_Referencesituations.md",
-    "creators/Vrasdonk, Emke.md",
-    "sources/Vrasdonk2020_inclusionBiodiversity.md",
     "attachments/Pereira2013_EssentialBiodiversity_candidates.jpeg",
     "attachments/339_277_f1.jpeg",
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
