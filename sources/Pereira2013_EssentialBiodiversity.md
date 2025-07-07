@@ -29,6 +29,10 @@ importDate: 2025-07-04
 
 ### the 6 classes of variables
 ![[Pereira2013_EssentialBiodiversity_candidates.jpeg]]
+
+### emphasis on species
+>Many biodiversity assessments empha- size species inventories, e.g., identification of all species in a region, and there have been calls for redoubled efforts to describe all species in the world (17). The EBV frame- work instead emphasizes repeated measures for the same taxa at the same locations or regions mainly at short-term intervals (1 to 5 years), although a few may be medium term (10 to 50 years). 
+
 %% end notes %%
 
 %% Import Date: 2025-07-04T17:20:45.070+02:00 %%

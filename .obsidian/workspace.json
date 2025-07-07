@@ -4,25 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "245f00f4073142cd",
-        "type": "tabs",
+        "id": "0992c73eb692f291",
+        "type": "split",
         "children": [
           {
-            "id": "8463956ee478978b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/Intro to CSI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+            "id": "1de0ce97929be25c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a555f5c72cdaaee2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "writing/Intro to CSI.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Intro to CSI"
+                }
+              }
+            ]
+          },
+          {
+            "id": "245f00f4073142cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8463956ee478978b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "sources/UNEP2025_Indicatorsrepository.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "UNEP2025_Indicatorsrepository"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Intro to CSI"
-            }
+              {
+                "id": "3ec1375b1e833558",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "concepts/essential biodiversity variables.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "essential biodiversity variables"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept/idea \"land use\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/UNEP2025_Indicatorsrepository.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Intro to CSI"
+              "title": "Graph of UNEP2025_Indicatorsrepository"
             }
           }
         ],
@@ -158,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -175,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "writing/Intro to CSI.md"
+                "file": "sources/UNEP2025_Indicatorsrepository.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Intro to CSI"
+              "title": "File properties for UNEP2025_Indicatorsrepository"
             }
           },
           {
@@ -187,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/UNEP2025_Indicatorsrepository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +239,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro to CSI"
+              "title": "Backlinks for UNEP2025_Indicatorsrepository"
             }
           },
           {
@@ -206,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/UNEP2025_Indicatorsrepository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro to CSI"
+              "title": "Outgoing links from UNEP2025_Indicatorsrepository"
             }
           },
           {
@@ -220,13 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "sources/UNEP2025_Indicatorsrepository.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro to CSI"
+              "title": "Outline of UNEP2025_Indicatorsrepository"
             }
           },
           {
@@ -271,8 +313,17 @@
   },
   "active": "8463956ee478978b",
   "lastOpenFiles": [
-    "concepts/What are really land transformation impacts.md",
+    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
     "writing/Intro to CSI.md",
+    "sources/CBD2022_KunmingMontrealGlobal.md",
+    "sources/Sandler2010_ValueSpecies.md",
+    "sources/Pereira2013_EssentialBiodiversity.md",
+    "sources/Noss1990_IndicatorsMonitoring.md",
+    "concepts/composition, structure, function.md",
+    "concepts/essential biodiversity variables.md",
+    "sources/CBD2021_MeasuringEcosystem.md",
+    "creators/MCV.md",
+    "concepts/What are really land transformation impacts.md",
     "concepts/monitoring the advancement of conservation policies is the main goal of biodiversity LCIA.md",
     "sources/Vrasdonk2019_Referencesituations.md",
     "creators/Vrasdonk, Emke.md",
@@ -281,24 +332,15 @@
     "creators/ISO.md",
     "concepts/biodiversity.md",
     "sources/Byers2024_Landuse.md",
-    "concepts/essential biodiversity variables.md",
     "sources/Jetz2019_Essentialbiodiversity.md",
-    "sources/Pereira2013_EssentialBiodiversity.md",
     "attachments/Pereira2013_EssentialBiodiversity_candidates.jpeg",
     "attachments/339_277_f1.jpeg",
     "sources/IPBES2019_GlobalAssessment.md",
     "sources/Himes2024_Whynature.md",
     "sources/Debarre2025_RevampingLCIA.md",
     "concepts/functional diversity.md",
-    "sources/Sandler2010_ValueSpecies.md",
     "concepts/taxonomy.md",
-    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
-    "sources/CBD2022_KunmingMontrealGlobal.md",
     "concepts/convention on biological diversity.md",
-    "sources/CBDandUNEP2021_IndicatorMetadata.md",
-    "concepts/community ecology.md",
-    "concepts/ecological composition.md",
-    "concepts/composition, structure, function.md",
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
     "attachments/IPBES2019_GlobalAssessmenta_history.png",
     "attachments/UNEP2025_Indicatorsrepository_ecosystem_redlist.png",
