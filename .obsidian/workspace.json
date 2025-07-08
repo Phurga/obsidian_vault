@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Banwart2019_SoilFunctions.md",
+                "file": "sources/INRAE2025_PreserverQualite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Banwart2019_SoilFunctions"
+              "title": "INRAE2025_PreserverQualite"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1990e5ea30707c27",
@@ -122,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/INRAE2025_PreserverQualite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of living soils"
+              "title": "Graph of INRAE2025_PreserverQualite"
             }
           }
         ]
@@ -210,10 +211,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "living soils.md"
+                "file": "sources/INRAE2025_PreserverQualite.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for living soils"
+              "title": "File properties for INRAE2025_PreserverQualite"
             }
           },
           {
@@ -222,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/INRAE2025_PreserverQualite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for living soils"
+              "title": "Backlinks for INRAE2025_PreserverQualite"
             }
           },
           {
@@ -241,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/INRAE2025_PreserverQualite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from living soils"
+              "title": "Outgoing links from INRAE2025_PreserverQualite"
             }
           },
           {
@@ -255,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/INRAE2025_PreserverQualite.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of living soils"
+              "title": "Outline of INRAE2025_PreserverQualite"
             }
           },
           {
@@ -303,11 +304,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a555f5c72cdaaee2",
+  "active": "a033d093f772d827",
   "lastOpenFiles": [
-    "sources/INRAE2025_PreserverQualite.md",
-    "living soils.md",
     "sources/Banwart2019_SoilFunctions.md",
+    "living soils.md",
+    "sources/INRAE2025_PreserverQualite.md",
     "concepts/soil quality.md",
     "sources/FAO2020_definitionsoil.md",
     "writing/Intro to CSI.md",
