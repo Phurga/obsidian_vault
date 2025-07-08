@@ -2,9 +2,11 @@
 tags:
   - production
 ---
-Soil is full of a hyperdiverse life, hosting more than half of species on Earth [@Anthony2023_EnumeratingSoil]. Relative to Earth scale, soil is a thin layer critical to all terrestrial ecosystem function and delivering many services to human societies such as water filtration or simply a stable ground to build on.
+Soil has many values for us. It can be considere as a space, i.e. as land to use. As a resource potential, for food production or other use requiring soil properties. As natural heritage, with conservation value. Or can even be linked to identity with the concept of terroir [@INRAE2025_PreserverQualite]. Soils are degrading at alarming rates globally [@FAOandITPS2015_Statusworlds] and 60% of European soils are considered degraded [@Panagos2024_HowEU]. Degraded soils show degraded soil functionning. Soil functions include soil structure maintenance, water regulation, contaminant regulation, nutrient cycling, carbon storage and biodiversity support [@INRAE2025_PreserverQualite]. Being at the origin of terrestrial ecosystem fertility, healthy soils are critical to ecosystem functioning and its associated prosivision of ecosystem services and is increasingly captured in environmental policies [@EuropeanCommission2025_ProposalDirective].
 
-Soil has many values for us. It can be considered 1/ as a space, i.e. as land to use, 2/ as a resource potential, for food production or other use requiring soil properties, 3/ as natural heritage, with conservation value, or can even be 4/ linked to identity with the concept of terroir [@INRAE2025_PreserverQualite]. Policy has long been adressing the spatial value of land, 
+Soil function heavily rely on soil organisms [@PublicationsOfficeoftheEuropeanUnion2016_GlobalSoil;@FAO2020_Stateknowledge]. Soil shows outstanding biodiversity, hosting more than half of species on Earth [@Anthony2023_EnumeratingSoil].
+
+
 ### soil, land, ground
 [[INRAE2025_PreserverQualite#soil perceptions]]
 ### soil quality

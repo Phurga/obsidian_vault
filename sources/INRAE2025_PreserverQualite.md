@@ -47,7 +47,7 @@ Degradations/menaces pour le sol:
 [[European Union Soil Observatory]] donne des cartes pour les degradations (pressures) avec un seuil critique a ne pas depasser a chaque indicateur.
 
 Contrairement à l'air (ou l'on mesure des quantités de polluants par rapport à une référence qui est un air pur) il n'existe pas de "sol pur".
-
+### soil degradation
 60% des sols européens ont un indicateurs de dégradation dont la valeur est au delà de son seuil critique: l'estimation globale de la part des terres concernées par la dégradation est de 20 à 40 % (United Nations Convention to Combat Desertification, 2022)
 ### soil functions
 fonctions du sol, definition: assemblage de proprietes et processus biochimiques permettant au sol de bien fonctionner (c'est a dire de delivrer des services ecosystemiques). une fonction = une action sur un objet (eg retenir -action- l'eau -objet).
