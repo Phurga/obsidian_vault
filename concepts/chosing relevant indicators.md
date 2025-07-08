@@ -2,7 +2,7 @@
 tags:
   - concept/idea
 ---
-Extract of [[Cousin2025_Preserverqualite]]
+Extract of [[INRAE2025_PreserverQualite]]
 
 valeurs mesurées d'un indicateur:
 - un indicateur est associé à une méthode de mesure ou de calcul

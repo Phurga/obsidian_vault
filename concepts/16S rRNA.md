@@ -8,4 +8,4 @@ aliases:
 
 The equivalent for eukaryotes are [[18s rRNA]] genes.
 
-Mentionned as a mature indicator for bacterial diversity analysis in [[Cousin2025_Preserverqualite]].
+Mentionned as a mature indicator for bacterial diversity analysis in [[INRAE2025_PreserverQualite]].

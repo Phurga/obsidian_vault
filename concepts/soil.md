@@ -5,7 +5,7 @@ aliases:
   - topsoil
   - soils
 ---
-Soil can be described and characterized in several aspects [[Cousin2025_Preserverqualite#soil perceptions]]:
+Soil can be described and characterized in several aspects [[INRAE2025_PreserverQualite#soil perceptions]]:
 - soil as a surface (e.g. to build or cultivate on, [[land use]])
 - soil as a resource (e.g. fertility, ecoystem services)
 - soil as natural heritage (conservation)

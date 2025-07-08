@@ -22,4 +22,4 @@ institutions
 tools for environmental policies
 - [[conservation biology]]
 - [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]]
-- [[Cousin2025_Preserverqualite]] on how to select indicators for policy making
+- [[INRAE2025_PreserverQualite]] on how to select indicators for policy making

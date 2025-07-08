@@ -15,9 +15,15 @@ importDate: 2025-07-04
 
 >[!abstract]-
 >What is soil biodiversity? How does it vary in space and time? What does it provide to society? What are the main threats to soil biodiversity? What can we do to preserve it? The first ever Global Soil Biodiversity Atlas uses informative texts, stunning photographs and striking maps to answer and explain these and other questions. Going through its nine chapters, every reader will learn what soils are and about the amazing creatures living in them. You will discover the factors influencing the distribution of soil organisms, how soil biodiversity supports food production, the pressures affecting soil life and the possible interventions to preserve it. The Global Soil Biodiversity Atlas is an essential reference to understand and appreciate the incredible world living under our feet. Soil is an extremely complex system resulting from the essential interactions between inert and living components. Soils host a myriad of soil organisms ranging in size from a few micrometres to several centimetres, from the microscopic bacteria and archaea to the “giant” earthworms and moles. All these organisms are distributed over space and time, and each ecosystem and season has its unique soil community. Soil organisms interact to provide essential ecosystem services to human beings and the environment, ranging from supporting plant growth to the regulation of climate. Soils are increasingly under pressure and so are the organisms living in them. Intensive agriculture, loss of aboveground biodiversity, soil erosion and land degradation are among the most relevant threats to soil life. We can protect soil creatures by taking specific actions. No-tillage, diversification of crops, increasing reforestation and greater use of natural amendments are examples of interventions that may promote life in soils. People need to know about the fascinating world belowground and understand its value. The Global Soil Biodiversity Atlas presents the often neglected protagonists in the environment that surrounds us all.
-
-%% begin notes %%
-
+## notes %% begin notes %%
+Result of the [[Global Soil Biodiversity Initiative]].
+### map of macrofauna diverisity
+![[Orgiazzi2016_Globalsoil_macrofauna_diversity.png]]
+Number of co-occurring soil macrofauna groups in a 25 × 25cm soil sample. The 14 groups included are:
+earthworms, ants, termites, spiders, millipedes, centipedes, isopods, fly larvae, cockroaches and mantids,
+moth and butterfly larvae, grasshoppers and crickets, gastropods, beetles and other macrofauna (see
+Chapter II). The distribution was assessed using a species distribution model for each group in relation to
+bioclimatic variables, land use cover and altitude (developed by Mathieu, 2015) (JRC).
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.248+02:00 %%
+%% Import Date: 2025-06-11T14:41:48.274+02:00 %%

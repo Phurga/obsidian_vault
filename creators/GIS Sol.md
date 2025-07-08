@@ -3,4 +3,4 @@ tags:
   - creator/organisation
 ---
 [[GIS]]
-Produced [[Cousin2025_Preserverqualite]] et al
+Produced [[INRAE2025_PreserverQualite]] et al

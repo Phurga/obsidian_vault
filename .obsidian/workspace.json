@@ -13,50 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/Intro to CSI.md",
+                "file": "living soils.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Intro to CSI"
+              "title": "living soils"
             }
           },
           {
-            "id": "c566a09c588c63b3",
+            "id": "a033d093f772d827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/IPBES2019_GlobalAssessment.md",
+                "file": "sources/Banwart2019_SoilFunctions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IPBES2019_GlobalAssessment"
+              "title": "Banwart2019_SoilFunctions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "9f1825d5dbf774e1",
+        "id": "1990e5ea30707c27",
         "type": "tabs",
         "children": [
           {
-            "id": "961cd5bcbf4fe863",
+            "id": "09d1af555b895264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/biodiversity.md",
+                "file": "sources/INRAE2025_PreserverQualite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "biodiversity"
+              "title": "INRAE2025_PreserverQualite"
             }
           }
         ]
@@ -123,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/IPBES2019_GlobalAssessment.md",
+                "file": "living soils.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,15 +186,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IPBES2019_GlobalAssessment"
+              "title": "Graph of living soils"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 459.5,
+    "collapsed": true
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -211,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/IPBES2019_GlobalAssessment.md"
+                "file": "living soils.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for IPBES2019_GlobalAssessment"
+              "title": "File properties for living soils"
             }
           },
           {
@@ -223,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/IPBES2019_GlobalAssessment.md",
+                "file": "living soils.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IPBES2019_GlobalAssessment"
+              "title": "Backlinks for living soils"
             }
           },
           {
@@ -242,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/IPBES2019_GlobalAssessment.md",
+                "file": "living soils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IPBES2019_GlobalAssessment"
+              "title": "Outgoing links from living soils"
             }
           },
           {
@@ -256,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/IPBES2019_GlobalAssessment.md",
+                "file": "living soils.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IPBES2019_GlobalAssessment"
+              "title": "Outline of living soils"
             }
           },
           {
@@ -289,8 +288,7 @@
               "title": "References"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -305,35 +303,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c566a09c588c63b3",
+  "active": "02350dbab455fbf7",
   "lastOpenFiles": [
+    "sources/Banwart2019_SoilFunctions.md",
+    "living soils.md",
+    "sources/INRAE2025_PreserverQualite.md",
+    "concepts/soil quality.md",
+    "sources/FAO2020_definitionsoil.md",
     "writing/Intro to CSI.md",
+    "concepts/soil function.md",
+    "creators/Violle, Cyrille.md",
+    "misc/checks/check for duplicate itemkeys zotero.md",
+    "creators/Brauman, Alain.md",
+    "creators/Cousin, Isabelle.md",
+    "sources/Cousin2024_Preserverqualite.md",
+    "sources/Cousin2025_Preserverqualite.md",
+    "sources/Cousin2025_Preserverqualitea.md",
+    "sources/Douziech2024_Recommendedimpact.md",
+    "sources/Needelman2013_WhatAre.md",
     "sources/IPBES2019_GlobalAssessment.md",
+    "sources/Needlelman2013_WhatAre.md",
+    "sources/OBrien2025_IPBESTransformative.md",
+    "sources/PublicationsOfficeoftheEuropeanUnion2016_GlobalSoil.md",
+    "sources/Orgiazzi2016_Globalsoil.md",
+    "sources/IPBES2019_GlobalAssessmenta.md",
+    "concepts/metaweb.md",
+    "concepts/soil.md",
     "sources/McGill2015_Fifteenforms.md",
     "concepts/biodiversity.md",
-    "concepts/Kunming-Montreal Global Biodiversity Framework.md",
-    "concepts/taxa aggregation.md",
-    "concepts/measures of biodiversity.md",
-    "concepts/phylogenetic diversity.md",
-    "concepts/species richness.md",
-    "sources/Chaudhary2018_Projectingglobal.md",
-    "sources/Violle2007_Letconcept.md",
-    "sources/Sandler2012_IntrinsicValue.md",
-    "sources/Sandler2010_ValueSpecies.md",
-    "concepts/community ecology.md",
     "Simpson1949_MeasurementDiversity.pdf",
-    "sources/Jetz2019_Essentialbiodiversity.md",
-    "concepts/ecological composition.md",
-    "concepts/minimum population size to maintain evolutionary potential.md",
-    "sources/UNEP2025_Indicatorsrepository.md",
-    "sources/CBD2022_KunmingMontrealGlobal.md",
-    "sources/Pereira2013_EssentialBiodiversity.md",
-    "sources/Noss1990_IndicatorsMonitoring.md",
-    "concepts/composition, structure, function.md",
-    "concepts/essential biodiversity variables.md",
-    "sources/CBD2021_MeasuringEcosystem.md",
-    "creators/MCV.md",
-    "concepts/What are really land transformation impacts.md",
     "attachments/Pereira2013_EssentialBiodiversity_candidates.jpeg",
     "attachments/339_277_f1.jpeg",
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",

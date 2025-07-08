@@ -26,7 +26,7 @@ The list of [[potential threats to biological functions]], led by the [[European
  - [[habitat fragmentation]]
  - use of [[GMO]]
 
-[[Cousin2025_Preserverqualite]] proposes a classification, without double counting ( #todo/notsure )
+[[INRAE2025_PreserverQualite]] proposes a classification, without double counting ( #todo/notsure )
 - [[artificialization]] ([[soil sealing]])
 - loss of [[biodiversity]]
 - loss of [[soil organic matter|SOC]]
