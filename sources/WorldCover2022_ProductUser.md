@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: PABZZBIE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Product User Manual 2.0
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 ![[WorldCover2022_ProductUser_land_use_classification.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.732+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.468+02:00 %%

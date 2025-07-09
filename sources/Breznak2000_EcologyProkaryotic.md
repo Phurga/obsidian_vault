@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: SL8LX7BF
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Termites: Evolution, Sociality, Symbioses, Ecology, Ecology of Prokaryotic Microbes in the Guts of Wood- and Litter-Feeding Termites
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 [[termite|termite]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.485+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.788+02:00 %%

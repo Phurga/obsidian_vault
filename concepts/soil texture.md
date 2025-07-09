@@ -9,7 +9,7 @@ Clay rich soils have a sticky texture. They have strong structure, sometimes too
 Silts rich soils have a flour like (soft) texture. They have little structure. They can create crusts under rain when there is little organic matter to maintain [[soil aggregate|soil organo-mineral aggregate]].
 Sand rich soils have no structure.
 
-[[Marsden2025_Introductionsoil]]
+[[Marsden2025_IntroductionSoil]]
 ![[Marsden2025_Introductionsoil_soil-texture-triangle.webp|600]]
 # Feeling texture
 

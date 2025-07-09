@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-013-0577-1"
 itemKey: BUZLCTU9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land use impacts on freshwater regulation, erosion regulation, and water purification: a spatial approach for a global scale level
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.431+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.950+02:00 %%

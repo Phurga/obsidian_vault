@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: KQ822C7I
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The rise and fall of American growth: the U.S. standard of living since the Civil War
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.135+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.019+02:00 %%

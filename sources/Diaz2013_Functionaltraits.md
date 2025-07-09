@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1002/ece3.601"
 itemKey: I6YLMLYQ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Functional traits, the phylogeny of function, and ecosystem service vulnerability
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.399+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.353+02:00 %%

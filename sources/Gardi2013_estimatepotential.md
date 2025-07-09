@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/gcb.12159"
 itemKey: MYGXTPF5
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > An estimate of potential threats levels to soil biodiversity in EU
@@ -17,9 +17,9 @@ importDate: 2025-07-04
 >Life within the soil is vital for maintaining life on Earth due to the numerous ecosystem services that it provides. However, there is evidence that pressures on the soil biota are increasing which may undermine some of these ecosystem services. Current levels of belowground biodiversity are relatively poorly known, and so no benchmark exists by which to measure possible future losses of biodiversity. Furthermore, the relative risk that each type of anthropogenic pressures places on the soil biota remains unclear.
 
 %% begin notes %%
-Original publication for [[potential threats to biological functions]] used in [[Orgiazzi2016_knowledgebasedapproach]].
+Original publication for [[potential threats to biological functions]] used in [[Orgiazzi2016_KnowledgebasedApproach]].
 Already based on a consultation of experts but only 20 experts were surveyed here.
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.974+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.603+02:00 %%

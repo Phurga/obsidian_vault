@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1016/j.geoderma.2010.02.003"
 itemKey: WXE6XCZ7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A critical review of the conventional SOC to SOM conversion factor
 > [[Pribyl, Douglas W.]], 
 > [[Geoderma (journal)]] (2010)
-> Humic substances, Organic carbon storage, Soil organic carbon, Soil organic matter, Van Bemmelen factor, 
+> Soil organic carbon, Soil organic matter, Humic substances, Organic carbon storage, Van Bemmelen factor, 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0016706110000388), [Zotero Item](zotero://select/library/items/WXE6XCZ7), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/CDGWCLRP/Pribyl2010_CriticalReview.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.217+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.273+02:00 %%

@@ -1,6 +1,6 @@
 ---
 tags:
-  - source
+  - creator/organisation
 ---
 **wikipedia**
 Used as an index

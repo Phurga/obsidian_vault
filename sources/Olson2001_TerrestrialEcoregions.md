@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2"
 itemKey: 23RPSG4I
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Terrestrial Ecoregions of the World: A New Map of Life on Earth
@@ -19,4 +19,4 @@ Defines 14 [[biome]]s with a broadly agreed classification.
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.967+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.758+02:00 %%

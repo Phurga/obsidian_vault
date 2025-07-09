@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: FJURPEDV
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Diversity and roles in soil fauna (Diversité et rôles de la faune du sol)
@@ -23,4 +23,4 @@ Key concepts about [earthworms](app://obsidian.md/earthworms), [tardigrades](a
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.363+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.386+02:00 %%

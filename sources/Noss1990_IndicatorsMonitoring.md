@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1523-1739.1990.tb00309.x"
 itemKey: UHNT785F
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Indicators for Monitoring Biodiversity: A Hierarchical Approach
@@ -21,7 +21,7 @@ Claims that biodiverisity monitoring requires indicators, and (at that time), th
 ### definition of the trifecta
 > Composition has to do with the identity and variety of elements in a collection, and includes species lists and measures of species diversity and genetic diversity. Structure is the physical organization or pattern of a system, from hab- itat complexity as measured within communities to the pattern of patches and other elements at a landscape scale. Function involves ecological and evolutionary processes, including gene flow, disturbances, and nutri- ent cycling.
 ### historics
-Builds on structural biodiversity from [[Franklin1981_Ecologicalcharacteristics]], where it was obvious for forest as ecosystem and landscape structure, and i am not convinced about extending it to genes and organisms populations. 
+Builds on structural biodiversity from [[Franklin1981_EcologicalCharacteristics]], where it was obvious for forest as ecosystem and landscape structure, and i am not convinced about extending it to genes and organisms populations. 
 
 ### an old definition of biodiversity
 > A widely cited definition of biological diversity is “the variety and variability among living organisms and the ecological complexes in which they occur” ([[OTA1987_TechnologiesMaintain]]).
@@ -32,4 +32,4 @@ Builds on structural biodiversity from [[Franklin1981_Ecologicalcharacteristics]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.906+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.565+02:00 %%

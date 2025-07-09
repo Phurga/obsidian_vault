@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.tree.2007.11.001"
 itemKey: IEUCY8SH
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Commonness, population depletion and conservation biology
@@ -18,7 +18,7 @@ importDate: 2025-07-04
 
 ![[Gaston2008_Commonnesspopulation_species_biomass_abundance_common.png]]
 
-Linked to [[Kuipers2025_Relationshipsmean]]
+Linked to [[Kuipers2025_RelationshipsMean]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.989+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.633+02:00 %%

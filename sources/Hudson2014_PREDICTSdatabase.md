@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1002/ece3.1303"
 itemKey: MN9FI623
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 ![[Hudson2014_PREDICTSdatabase_taxa_coverage.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.517+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.612+02:00 %%

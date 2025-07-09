@@ -13,7 +13,7 @@ tags:
 
 
 # Notes %% begin notes %%
-Presenting the [[Verones2017_LCIAframework]]
+Presenting the [[Verones2017_LCIAFramework]]
 Defining [[biodiversity]]
 Spatialisation of biodiversity (linking to [[species extinction risk]] and [[global extinction probability|GEP]])
 Defends [[species richness]]

@@ -23,7 +23,7 @@ alternatives:
 - fischer alpha (as in [[deBaan2013_LandUse]])
 
 ## references and further info
-[[Santini2017_Assessingsuitability]]
+[[Santini2017_AssessingSuitability]]
 [[Chao2005_NewStatistical]]
 [[Zeleny2022_EcologicalResemblance]]
 - citing Legendre, P. & Legendre, L. 2012. _Numerical Ecology_. Third English edition. Elsevier Science BV, Amsterdam.

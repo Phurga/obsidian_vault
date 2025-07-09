@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: HB8RSKGV
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global Guidance on environmental life cycle impact  assessment  indicators, Volume 1
@@ -26,4 +26,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.039+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.304+02:00 %%

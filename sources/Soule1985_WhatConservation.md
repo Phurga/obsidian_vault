@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.2307/1310054"
 itemKey: WWPHT6KA
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > What Is Conservation Biology?
@@ -33,4 +33,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.831+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.808+02:00 %%

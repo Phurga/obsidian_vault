@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-015-1025-1"
 itemKey: T3HJW2TY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global guidance on environmental life cycle impact assessment indicators: progress and case study
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.924+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.510+02:00 %%

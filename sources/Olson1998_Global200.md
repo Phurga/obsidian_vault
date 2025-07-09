@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1046/j.1523-1739.1998.012003502.x"
 itemKey: RVT52BQE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Global 200: A Representation Approach to Conserving the Earth’s Most Biologically Valuable Ecoregions
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.951+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.716+02:00 %%

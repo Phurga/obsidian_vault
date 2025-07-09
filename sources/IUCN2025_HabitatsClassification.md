@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: SDIYYB3Y
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Habitats Classification Scheme (Version 3.1)
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.808+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.269+02:00 %%

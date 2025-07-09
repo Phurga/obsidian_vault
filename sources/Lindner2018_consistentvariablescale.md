@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: R52HDVJA
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A consistent variable-scale biodiversity impact assessment structure
@@ -29,4 +29,4 @@ multivariate equation which describes the biodiversity value of the land. Exampl
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.348+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.447+02:00 %%

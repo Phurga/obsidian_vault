@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-022-05320-w"
 itemKey: XUWLJ5HL
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > More losses than gains during one century of plant biodiversity change in Germany
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.852+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.366+02:00 %%

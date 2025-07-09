@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s13593-011-0072-7"
 itemKey: 5K7V729E
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A novel method for soil quality in life cycle assessment using several soil indicators
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 See [[Bystricky2024_CombiningImpact]].
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.936+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.615+02:00 %%

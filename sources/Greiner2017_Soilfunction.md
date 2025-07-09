@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.landusepol.2017.06.025"
 itemKey: 4UYTTZA5
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil function assessment: review of methods for quantifying the contributions of soils to ecosystem services
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.160+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.053+02:00 %%

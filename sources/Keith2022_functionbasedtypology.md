@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-022-05318-4"
 itemKey: CQ2J3Y4D
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A function-based typology for Earth’s ecosystems
@@ -30,4 +30,4 @@ Google earth engine map available here: [link](https://developers.google.com/ear
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.000+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.687+02:00 %%

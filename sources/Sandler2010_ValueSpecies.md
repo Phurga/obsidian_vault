@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1523-1739.2009.01351.x"
 itemKey: DZEZCAA4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Value of Species and the Ethical Foundations of Assisted Colonization
@@ -32,4 +32,4 @@ If it is valuer-dependent it is personal, and depends on the context of the valu
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T16:57:46.449+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.020+02:00 %%

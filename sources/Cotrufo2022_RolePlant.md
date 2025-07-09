@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1016/j.soilbio.2022.108648"
 itemKey: HJ67A8D6
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The role of plant input physical-chemical properties, and microbial and soil chemical diversity on the formation of particulate and mineral-associated organic matter
 > [[Cotrufo, M. Francesca]], [[Haddix, Michelle L.]], [[Kroeger, Marie E.]], [[Stewart, Catherine E.]], 
 > [[Soil Biology and Biochemistry (journal)]] (2022)
-> Chemical diversity, Litter decomposition, Microbial diversity, Mineral-associated organic matter, Particulate organic matter, Soil organic matter, 
+> Soil organic matter, Mineral-associated organic matter, Particulate organic matter, Microbial diversity, Chemical diversity, Litter decomposition, 
 > [Online link](https://www.sciencedirect.com/science/article/pii/S0038071722001055), [Zotero Item](zotero://select/library/items/HJ67A8D6), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/Y3FEYIFI/Cotrufo2022_RolePlant.pdf), 
 
 >[!abstract]-
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.111+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.886+02:00 %%

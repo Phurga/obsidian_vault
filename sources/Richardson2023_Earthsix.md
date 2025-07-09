@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/sciadv.adh2458"
 itemKey: W3NXAFSZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Earth beyond six of nine planetary boundaries
@@ -27,9 +27,8 @@ importDate: 2025-07-04
 > The planetary functioning of the biosphere ultimately rests on its genetic diversity, inherited from natural selection not only during its dynamic history of coevolution with the geosphere but also on its functional role in regulating the state of Earth system. Genetic diversity and planetary function, each measured through suitable proxies, are therefore the two dimensions that form the basis of a planetary boundary for biosphere integrity. As applied here, “integrity” does not imply an absence of biosphere change but, rather, change that preserves the overall dynamic and adaptive character of the biosphere.
 ^f2c4f8
 ### species extinction threshold
-> [[Rockstrom2009_safeoperating#^e416c8]] ([_1_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R1)) defined the planetary boundary for change in genetic diversity as the maximum extinction rate compatible with preserving the genetic basis of the biosphere’s ecological complexity. We retain the boundary level of <10 E/MSY (extinctions per million species-years).
-
+> [[Rockstrom2009_SafeOperating#biodiversity boundaries]] ([_1_](https://www.science.org/doi/10.1126/sciadv.adh2458#core-collateral-R1)) defined the planetary boundary for change in genetic diversity as the maximum extinction rate compatible with preserving the genetic basis of the biosphere’s ecological complexity. We retain the boundary level of <10 E/MSY (extinctions per million species-years).
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.337+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.735+02:00 %%

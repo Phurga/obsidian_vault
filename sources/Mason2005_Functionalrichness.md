@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.0030-1299.2005.13886.x"
 itemKey: 3U5E4S96
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Functional richness, functional evenness and functional divergence: the primary components of functional diversity
@@ -19,4 +19,4 @@ importDate: 2025-07-04
 %% begin notes %% 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.572+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.882+02:00 %%

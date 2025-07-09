@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/es101444k"
 itemKey: 3NB4SR5Z
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Toward Meaningful End Points of Biodiversity in Life Cycle Assessment
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.220+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.023+02:00 %%

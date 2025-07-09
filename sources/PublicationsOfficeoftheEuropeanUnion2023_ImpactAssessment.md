@@ -7,7 +7,7 @@ itemKey: 7E5P2CPU
 importDate: 2025-07-09
 ---
 >[!metadata]+
-> Impact Assessment Report Accompanying the Proposal for a Directive of the European Parliament and of the Council on Soil Monitoring and Resilience (soil Monitoring Law)
+> Impact assessment report accompanying the proposal for a directive of the European parliament and of the council on soil monitoring and resilience (soil monitoring law)
 > [[European Commission]], 
 > [[Publications Office of the European Union]] (2023)
 > 
@@ -17,4 +17,4 @@ importDate: 2025-07-09
 [[EU soil monitoring law]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T10:23:23.220+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.528+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-025-02430-1"
 itemKey: 7DFF9TQU
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Marginal and average considerations in LCA and their role for defining emission factors and characterization factors
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.399+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.447+02:00 %%

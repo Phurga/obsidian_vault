@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/nature03289"
 itemKey: 3FACZ9YW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A biodiversity intactness index
@@ -34,4 +34,4 @@ definition of [[biodiversity intactness index]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.697+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.531+02:00 %%

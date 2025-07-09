@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1128/jb.180.18.4765-4774.1998"
 itemKey: 8SGWGU4Q
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Impact of Culture-Independent Studies on the Emerging Phylogenetic View of Bacterial Diversity
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.548+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.661+02:00 %%

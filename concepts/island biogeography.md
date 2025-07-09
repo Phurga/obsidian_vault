@@ -6,6 +6,6 @@ tags:
 
 The main postulate is that [[species richness]] in an island is determined by im[[migration]] and [[extinction]].
 
-[[MacArthur2001_theoryisland]] is a foundational book to document this theory.
+[[MacArthur2001_TheoryIsland]] is a foundational book to document this theory.
 
 One important rule deriving from this theory is the [[species-area relationship]].

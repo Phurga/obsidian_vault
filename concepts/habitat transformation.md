@@ -22,4 +22,4 @@ Transformation of a plot of land from a given [[land use]] class to another land
 
 ![[Vrasdonk2019_Referencesituations_land_use_framework.png]]
 #todo/question What does loss of habitat mean ? How to link loss of habitat with land use ? Characterize the habitat with examples.
-#todo: habitat modification ? see [[Matthews2014_Habitatfragmentation]]
+#todo: habitat modification ? see [[Matthews2014_HabitatFragmentation]]

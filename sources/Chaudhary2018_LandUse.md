@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.7b05570"
 itemKey: X7FH6SM8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land Use Intensity-Specific Global Characterization Factors to Assess Product Biodiversity Footprints
@@ -26,4 +26,4 @@ importDate: 2025-07-04
 ![[Chaudhary2018_LandUse_taxon_affinity_land_use_intensity.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.942+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.537+02:00 %%

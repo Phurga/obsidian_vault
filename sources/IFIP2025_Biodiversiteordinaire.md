@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: V7EIK5NJ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversité ordinaire et agrosystèmes
@@ -18,4 +18,4 @@ importDate: 2025-07-04
 [[life cycle assessment]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.588+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.736+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s00374-024-01851-8"
 itemKey: NUVEAHRH
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > In situ soil imaging, a tool for monitoring the hourly to monthly temporal dynamics of soil biota
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 ![[Belaud2024_situsoil_example_image.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.222+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.401+02:00 %%

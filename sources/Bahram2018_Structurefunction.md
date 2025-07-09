@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-018-0386-6"
 itemKey: NPJ4Z7BX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Structure and function of the global topsoil microbiome
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.109+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.164+02:00 %%

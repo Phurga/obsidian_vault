@@ -20,7 +20,7 @@ La brochure est très sympa.
 
 Travail financé par l'IFIP (institut du porc français) (attention)
 
-Voir ci dessous: [[Scherer2023_BiodiversityImpact]] remplace toutes les methodes sauf [[Lindner2019_ValuingBiodiversity]] ([[naturalness]]) et [[Soule2023_predictiveindicator]] a voir.
+Voir ci dessous: [[Scherer2023_BiodiversityImpact]] remplace toutes les methodes sauf [[Lindner2019_ValuingBiodiversity]] ([[naturalness]]) et [[Soule2023_PredictiveIndicator]] a voir.
 ![[Babin2024_Decryptageanalyse_Methodes.png]]
 ## Brochure
 Historique concept biodiversité

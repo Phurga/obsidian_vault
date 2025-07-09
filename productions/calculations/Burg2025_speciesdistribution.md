@@ -11,7 +11,7 @@ Topics:
 
 References:
 [[Anthony2023_EnumeratingSoil]]
-[[Zhang2013_Animalbiodiversity]]
+[[Zhang2013_AnimalBiodiversity]]
 
 Links:
 [excel file](file:\\\C:\Users\aburg\Documents\calculations\species_count.xlsx)

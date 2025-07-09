@@ -4,6 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: B7TVRY7L
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Processus d'agrégation
@@ -11,8 +12,8 @@ itemKey: B7TVRY7L
 > [[UVED, Processus écologiques]] (2025)
 > 
 > [Online link](https://www.supagro.fr/ress-pepites/Opale/ProcessusEcologiques/co/ProcessAgregation.html), [Zotero Item](zotero://select/library/items/B7TVRY7L),
-> 
-## notes %% begin notes %%
+
+%% begin notes %%
 ### Processus ecologiques
 https://www.supagro.fr/ress-pepites/Opale/ProcessusEcologiques/co/ProcessAgregation.html
 
@@ -26,4 +27,4 @@ https://www.supagro.fr/ress-pepites/OrganismesduSol/
 https://www.supagro.fr/ress-pepites/Opale/ProcessusEcologiques/co/Ha_Definitions.html
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:49.810+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.986+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3389/fmicb.2021.682886"
 itemKey: UPTS83JM
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Beyond Taxonomic Identification: Integration of Ecological Responses to a Soil Bacterial 16S rRNA Gene Database
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.930+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.480+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3390/app14041415"
 itemKey: GBD5YDJJ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > DNA Barcoding as a Plant Identification Method
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.302+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.354+02:00 %%

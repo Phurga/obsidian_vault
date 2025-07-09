@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3390/d17020090"
 itemKey: P6VHV87J
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Beyond Soil Health: The Microbial Implications of Conservation Agriculture
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.490+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.112+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-018-01581-8"
 itemKey: 82B29WR7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > National inventories of land occupation and transformation flows in the world for land use impact assessment
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.758+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.093+02:00 %%

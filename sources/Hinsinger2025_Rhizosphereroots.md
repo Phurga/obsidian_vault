@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: XTPG869U
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Rhizosphere - roots and symbiosis (Rhizosphère – Racines et Symbioses)
@@ -27,4 +27,4 @@ Defines key concepts for [rhizosphere](app://obsidian.md/rhizosphere), [mycorr
 ![[Hinsinger2025_Rhizosphere_examples_kutschera.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.443+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.512+02:00 %%

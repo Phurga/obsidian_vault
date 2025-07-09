@@ -39,4 +39,4 @@ https://fr.wikipedia.org/wiki/Myxomyc%C3%A8tes
 
 ## References:
 [[FAO2020_StateKnowledge]]
-[[Hinsinger2025_Rhizosphereroots]]
+[[Hinsinger2025_RhizosphereRoots]]

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-023-02169-7"
 itemKey: 5N47CGQD
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > What are the main environmental impacts and products contributing to the biodiversity footprint of EU consumption? A comparison of life cycle impact assessment methods and models
@@ -23,4 +23,4 @@ Conclusions The results of this study highlight the importance of impact categor
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.526+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.170+02:00 %%

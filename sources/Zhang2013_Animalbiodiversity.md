@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.11646/zootaxa.3703.1.3"
 itemKey: KXPKLUI7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Animal biodiversity: An update of classification and diversity in 2013.
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.843+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.631+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41559-021-01485-1"
 itemKey: 9RH2SY5Y
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The global distribution and environmental drivers of aboveground versus belowground plant biomass
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T15:49:28.440+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.587+02:00 %%

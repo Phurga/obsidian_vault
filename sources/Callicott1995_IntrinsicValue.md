@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 48NXSPUT
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Intrinsic Value in Nature: A Metaethical Analysis
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 [[intrinsic value of nature]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.710+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.163+02:00 %%

@@ -17,5 +17,5 @@ Two important rhizobacteria genuses are *rhizobium* and *bradyrhizobium*.
 ![[FAO2020_StateKnowledge#bradyrhizobium inoculation use case]]
 
 ### references
-[[Hinsinger2025_Rhizosphereroots]]
+[[Hinsinger2025_RhizosphereRoots]]
 [[Zeffa2020_EffectsPlant]]

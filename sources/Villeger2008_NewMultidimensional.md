@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1890/07-1206.1"
 itemKey: Q7QUSDUA
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > New Multidimensional Functional Diversity Indices for a Multifaceted Framework in Functional Ecology
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.412+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.904+02:00 %%

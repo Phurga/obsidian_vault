@@ -12,7 +12,7 @@ where $p_k$ is the number of organisms of species $k$ relative to the total numb
 
 Shannon index reaches 1 where all species are present in equal abundance, and 0 when ??
 
-Used  in [[deBaan2013_LandUse]], [[Labouyrie2023_Patternssoil]].
+Used  in [[deBaan2013_LandUse]], [[Labouyrie2023_PatternsSoil]].
 ## Reference:
 Shannon Claude E. (1948) A mathematical theory of communication. Bell System Tech J 27:379–423
 Formula from [[deBaan2013_LandUse]]

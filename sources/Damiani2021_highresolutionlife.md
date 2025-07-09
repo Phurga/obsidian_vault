@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.scitotenv.2021.146664"
 itemKey: 645NX5X2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A high-resolution life cycle impact assessment model for continental freshwater habitat change due to water consumption
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.248+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.082+02:00 %%

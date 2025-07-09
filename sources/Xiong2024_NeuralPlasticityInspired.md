@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.48550/arXiv.2403.15356"
 itemKey: XJ6T2PXC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Neural Plasticity-Inspired Multimodal Foundation Model for Earth Observation
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.765+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.518+02:00 %%

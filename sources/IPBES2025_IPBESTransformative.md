@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 8JWUIKD4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > IPBES Transformative Change Assessment: Summary for Policymakers
@@ -24,4 +24,4 @@ IPBES is an independent intergovernmental body established by Governments in 201
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.756+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.239+02:00 %%

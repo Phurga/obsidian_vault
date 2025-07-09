@@ -10,6 +10,6 @@ The [[convention on biological diversity]] defines ecosystem integrity as follow
 >[!warning] The [[ecosystem integrity index]] is not a widely used metric for ecosystem integrity.
 ### uses
 #### key concept in [[planetary boundaries]]
-![[Richardson2023_Earthsix#species extinction rate to measure genetic diversity (and evolutionary potential)]]
+![[Richardson2023_EarthSix#species extinction rate to measure genetic diversity (and evolutionary potential)]]
 #### at the core of goal A in CBD 2050 goals
 See [[CBDandUNEP2021_IndicatorMetadata]] and [[species habitat index]].

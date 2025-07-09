@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1002/ece3.1155"
 itemKey: IJYSJHUH
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Choosing and using diversity indices: insights for ecological applications from the German Biodiversity Exploratories
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.806+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.251+02:00 %%

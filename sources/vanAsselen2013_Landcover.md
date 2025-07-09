@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/gcb.12331"
 itemKey: CJWSWXJR
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land cover change or land-use intensification: simulating land system change with a global-scale land change model
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 #data
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.148+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.531+02:00 %%

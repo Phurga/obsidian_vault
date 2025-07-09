@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1134/S2079086421010084"
 itemKey: X8T3QGM7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Metabarcoding and Metagenomics in Soil Ecology Research: Achievements, Challenges, and Prospects
@@ -25,4 +25,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.709+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.603+02:00 %%

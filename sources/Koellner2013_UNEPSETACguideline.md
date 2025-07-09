@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-013-0579-z"
 itemKey: ZM7ATZIL
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > UNEP-SETAC guideline on global land use impact assessment on biodiversity and ecosystem services in LCA
@@ -23,4 +23,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.091+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.858+02:00 %%

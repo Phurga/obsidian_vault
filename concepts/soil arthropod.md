@@ -13,4 +13,4 @@ We can distinguish [[soil microarthropod]] and [[soil macroarthropod]] based on 
 
 References:
 [[FAO2020_StateKnowledge]]
-[[Hedde2025_Diversityroles]]
+[[Hedde2025_DiversityRoles]]

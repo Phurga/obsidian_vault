@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: BDH78L4K
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > What Are Soils?
@@ -27,4 +27,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-06-11T14:41:48.115+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.340+02:00 %%

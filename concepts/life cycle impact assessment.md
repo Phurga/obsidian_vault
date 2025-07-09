@@ -13,7 +13,7 @@ aliases:
 ---
 **Life cycle impact assessment (LCIA)** is one of the four stages in the process of performing a [[life cycle assessment]]. In that stage, the [[life cycle inventory]] is translated into environmental impacts through an **impact pathway**.
 ## impact pathway
-[[Verones2017_LCIAframework]] (with mention to damage level which I am not confortable with)
+[[Verones2017_LCIAFramework]] (with mention to damage level which I am not confortable with)
 ![[Verones2017_impact_pathway 1.png|600]]
 ## characterization factor
 A **characterization factor** links a quantity of a given elementary flow to a quantity of a given environmental impact, measured with a defined indicator. 
@@ -27,7 +27,7 @@ In [[ISO2006_ISO14044]] 3 **area of protections (AOP)** are defined:
 - [[human health]]
 - [[natural resources]] is sometimes considered but it's definition is debated, especially with the new consideration of ecosystem services
 
-Current consensus stated by the GLAM : [[Verones2017_LCIAframework]], [[UNEP2016_GlobalGuidance]], [[UNEP2019_GlobalGuidance]]
+Current consensus stated by the GLAM : [[Verones2017_LCIAFramework]], [[UNEP2016_GlobalGuidance]], [[UNEP2019_GlobalGuidance]]
 See [[Debarre2025_RevampingLCIA]] (preprint) for suggestions on updates.
 
 Damage on an area of protection is assessed via an enpoint indicator.

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.284.5423.2124"
 itemKey: U9FWNPD8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Phylogenetic Classification and the Universal Tree
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.480+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.564+02:00 %%

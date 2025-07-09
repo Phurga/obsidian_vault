@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3390/su7055875"
 itemKey: 6YDDJWLC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Restoring Soil Quality to Mitigate Soil Degradation
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.191+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.060+02:00 %%

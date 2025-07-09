@@ -18,17 +18,17 @@ Roots act on the soil via several pathways, the main ones being:
 
 Roots can be considered ecosystem engineers. This activity fosters surrounding [[microorganism|microbial]] communities. It constitutes a [[microbiome]], comprising both the inside of the root (where [[fungus]] enter and interact) and the outside of the root, home of many chemical reactions and biochemical reactions with [[bacteria]] and [[archae]].
 
-Illustration of the effect of the rhizosphere [[Hinsinger2025_Rhizosphereroots]]
+Illustration of the effect of the rhizosphere [[Hinsinger2025_RhizosphereRoots]]
 ![[Hinsinger2025_Rhizosphere_root.png]]
 
-Soil root interactions [[Hinsinger2025_Rhizosphereroots]]
+Soil root interactions [[Hinsinger2025_RhizosphereRoots]]
 ![[Hinsinger2025_Rhizosphere_activity.png]]
 
 Root exsudates can change soil ph, dissolving for instance minerals to go through or retrieve [[phosphorus]]. The emissions of H+ or OH- compounds will depend on the absorbed ions, such as mineral fertilization: [[ammonia]] (NH3+) induces the release of anions ([[acidication]]) to reach electronic stability, while [[nitrate]] (NO3-) induce the release of cations ([[alkanization]]).
 ### Root growth
 Soil being an [[oligotrophy|oligotrophic]] medium, and plant individuals being immobile, they need to develop advanced strategies to explore exploit and modify the soil. Plants look for nutrients and water in soils. Their energy and carbon comes from aboveground [[photosynthesis]], they do not capture carbon from soil. Mineral [[phosphorus]] can be found dispersed in the soil in mineral form, but nitrogen is usually bound or close to [[soil organic matter]]. Soil [[microorganism]] will usually convert organic nitrogen into mineral nitrogen for plants.
 
-Visualisation of the rhizosphere volume for several plants [[Hinsinger2025_Rhizosphereroots]]. Roots can growth in depth (with e.g. a pivot) or radially. Roots can be thick (pivot) or thin (with root hairs).
+Visualisation of the rhizosphere volume for several plants [[Hinsinger2025_RhizosphereRoots]]. Roots can growth in depth (with e.g. a pivot) or radially. Roots can be thick (pivot) or thin (with root hairs).
 ![[Hinsinger2025_Rhizosphere_examples_kutschera.png|600]]
 
 Noteworthy elements in soil obstructing root exploration : rocks, [[tillage]] sole, [[water table]] (nappe phreatique) inducing O2 scarcity.
@@ -60,5 +60,5 @@ Example community of organisms in the rhyzobiome.
 ![[FAO2020_Stateknowledge_microbes_communities_root.png|400]]
 
 Important references:
-[[Hinsinger2025_Rhizosphereroots]]
+[[Hinsinger2025_RhizosphereRoots]]
 (Darrah, 1993 - Plant Soil 155) (Hinsinger et al., 2005 - New Phytol. 195) (Hartmann et al., 2008 - Plant Soil 312)]]

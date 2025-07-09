@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: KCH7R3XY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biological Nitrogen Fixation
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 ![[Wagner2011_BiologicalNitrogen_fixation_modes.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.504+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.057+02:00 %%

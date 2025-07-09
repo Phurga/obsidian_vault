@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.3c04191"
 itemKey: LV6MFCU4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversity Impact Assessment Considering Land Use Intensities and Fragmentation
@@ -18,7 +18,7 @@ importDate: 2025-07-04
 
 %% begin notes %% 
 Uses [[PREDICTS]] for species presence depending on land use.
-Uses [[Storch2012_Universalspecies]] for cSAR z values.
+Uses [[Storch2012_UniversalSpecies]] for cSAR z values.
 
 ![[Scherer2023_BiodiversityImpact_abstract_method.png|600]]
 #todo link article with topics
@@ -47,4 +47,4 @@ $RSL_{g,j,reg}=1-(\frac{H_{g,j,1}}{H_{g,j,0}})^{z_{g,j}}$
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.601+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.312+02:00 %%

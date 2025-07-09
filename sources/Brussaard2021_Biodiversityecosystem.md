@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s13280-021-01507-z"
 itemKey: H5PB7KR5
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversity and ecosystem functioning in soil: The dark side of nature and the bright side of life: This article belongs to Ambio’s 50th Anniversary Collection. Theme: Agricultural land use
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 [[land use]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.550+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.874+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/ejss.13430"
 itemKey: WAC4D2CQ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Effects of land use and soil properties on taxon richness and abundance of soil assemblages
@@ -19,8 +19,8 @@ importDate: 2025-07-04
 %% begin notes %%
 #todo/read 
 [[important]]
-Use of [[PREDICTS]] as main source of data for organisms surveys ([[Hudson2014_PREDICTSdatabase]])
+Use of [[PREDICTS]] as main source of data for organisms surveys ([[Hudson2014_PREDICTSDatabase]])
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.648+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.054+02:00 %%

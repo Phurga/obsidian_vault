@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1002/ece3.2579"
 itemKey: 6HG49BE7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The database of the PREDICTS (Projecting Responses of Ecological Diversity In Changing Terrestrial Systems) project
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 #data  at [link](https://www.nhm.ac.uk/our-science/our-work/biodiversity/predicts.html)
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.532+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.639+02:00 %%

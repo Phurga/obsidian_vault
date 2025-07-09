@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecolind.2023.110289"
 itemKey: WQHQLV4Y
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A predictive indicator assessing effect of cropping system and surrounding landscape on biodiversity
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 test
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.852+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.836+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/geb.12182"
 itemKey: 5P2DLPA4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A global 1-km consensus land-cover product for biodiversity and ecosystem modelling
@@ -40,4 +40,4 @@ Classification
 | 12    | Open Water                           |
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.011+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.151+02:00 %%

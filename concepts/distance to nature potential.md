@@ -4,7 +4,7 @@ tags:
 aliases:
   - DNP
 ---
-The distance to nature potential is a method for [[LCIA method for land use impacts on ecosystem quality]] published in [[Fehrenbach2015_Hemerobyimpact]]. It uses a [[naturalness in LCIA|naturalness approach]].
+The distance to nature potential is a method for [[LCIA method for land use impacts on ecosystem quality]] published in [[Fehrenbach2015_HemerobyImpact]]. It uses a [[naturalness in LCIA|naturalness approach]].
 
 [[ecosystem]]s are attributed a distance-to-nature potential based on metrics representing [[land management]]. For each [[land use]] type (agriculture, forestry) a list of metrics is defined. Metrics are grouped into criteria. The scores for each metric determines an average criterion score. The criterion average is mapped to a hemeroby class using a custom mapping. Hemeroby class (ordinal) is mapped to a distance-to-nature value (cardinal) based on an exponential relationship (each superior class has twice the impact of the previous). The method only considers land transformation (not occupation). This means that inventories do not consider duration of occupation, the elementary flows to associate in the LCI are areas. #todo/notsure Any way this is not true and was made obsolete by the [[biodiversity value increment]] method.
 
@@ -16,7 +16,7 @@ The method uses 7 [[hemeroby class]].
 
 Forested area and agrilcultural land are attributed minimal and maximal hemeroby classes, that will be attributed based on [[land management]]. These practices are characterized through "metrics".
 
-Hemeroby classes depending on type of land use (below is a refined mapping from [[Lindner2018_consistentvariablescale]] with renewable energy:
+Hemeroby classes depending on type of land use (below is a refined mapping from [[Lindner2018_ConsistentVariablescale]] with renewable energy:
 ![[Lindner2018_consistentvariablescale_hemeroby_classes.png|600]]
 
 Example list metrics and criteria for forests:

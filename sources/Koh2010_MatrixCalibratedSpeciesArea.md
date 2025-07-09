@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1523-1739.2010.01464.x"
 itemKey: EAG5D9A3
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A Matrix-Calibrated Species-Area Model for Predicting Biodiversity Losses Due to Land-Use Change
@@ -19,4 +19,4 @@ importDate: 2025-07-04
 %% begin notes %% 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.108+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.887+02:00 %%

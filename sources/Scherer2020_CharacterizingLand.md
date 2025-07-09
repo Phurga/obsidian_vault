@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.9b07228"
 itemKey: 9HGWJUUN
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Characterizing Land Use Impacts on Functional Plant Diversity for Life Cycle Assessments
@@ -24,4 +24,4 @@ One of the two methods characterizing FD in biodiversity, and the latest and mos
 [[functional diversity]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.572+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.252+02:00 %%

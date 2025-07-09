@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: Q86EU5IC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Native Plant Enthusiasm: Ecological Panacea or Xenophobia?
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 [[invasive alien species]] [[invasive alien species]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.201+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.112+02:00 %%

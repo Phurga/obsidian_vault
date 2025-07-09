@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.1256688"
 itemKey: HPUWZ39E
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global diversity and geography of soil fungi
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.939+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.011+02:00 %%

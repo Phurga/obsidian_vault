@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: A4WSZYYB
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Homepage
@@ -18,4 +18,4 @@ linked to this webpage, to use for [[DNA metabarcoding]], there is a great taxon
 ![[BOLDSystems2025_Homepage_BIN.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.365+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.595+02:00 %%

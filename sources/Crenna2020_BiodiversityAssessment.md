@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.9b05153"
 itemKey: JS5KYZMS
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversity Assessment of Value Chains: State of the Art and Emerging Challenges
@@ -23,4 +23,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.185+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.939+02:00 %%

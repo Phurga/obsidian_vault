@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-021-02003-y"
 itemKey: CGTK6MSZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Linking land use inventories to biodiversity impact assessment methods
@@ -28,4 +28,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.586+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.286+02:00 %%

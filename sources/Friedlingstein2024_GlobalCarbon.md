@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.5194/essd-2024-519"
 itemKey: QVM8X8TP
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global Carbon Budget 2024
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.906+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.467+02:00 %%

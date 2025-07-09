@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: R8T39RZF
-importDate: 2025-07-08
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Préserver la qualité des sols : vers un référentiel d’indicateurs. Rapport d'étude
@@ -67,4 +67,4 @@ Indicateur biodiversité matures: 16s rRNA et 18s rRNA (identification d'especes
 
 %% end notes %%
 
-%% Import Date: 2025-07-08T09:57:50.520+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.998+02:00 %%

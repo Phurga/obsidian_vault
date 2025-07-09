@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: FJP2ND2X
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global Guidance on environmental  life cycle impact  assessment  indicators, Volume 2
@@ -34,4 +34,4 @@ Focusing here on two chapters:
 ![[UNEP2019_GlobalGuidance_extinction_vulnerability.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.054+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.342+02:00 %%

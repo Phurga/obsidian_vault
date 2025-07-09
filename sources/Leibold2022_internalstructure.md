@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/oik.08618"
 itemKey: FZUV9Z73
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The internal structure of metacommunities
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.287+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.329+02:00 %%

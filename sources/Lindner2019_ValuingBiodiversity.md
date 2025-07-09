@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3390/su11205628"
 itemKey: CEYNFZTZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Valuing Biodiversity in Life Cycle Impact Assessment
@@ -23,11 +23,11 @@ importDate: 2025-07-04
 > See the [[biodiversity value increment]].
 
  > [!important references]
- > - [[Fehrenbach2015_Hemerobyimpact]] (hemeroby framework)
+ > - [[Fehrenbach2015_HemerobyImpact]] (hemeroby framework)
  > - [[Maier2019_ConceptualFramework]] (biodiversity framework, tocheck)
- > - [[Winter2012_Forestnaturalness]] (forest naturalness parameters)
- > - [[Lindner2018_consistentvariablescale]] (land use class naturalness ranges)
- > - [[Lindner2021_Movingland]] (fuzzy logic framework)
+ > - [[Winter2012_ForestNaturalness]] (forest naturalness parameters)
+ > - [[Lindner2018_ConsistentVariablescale]] (land use class naturalness ranges)
+ > - [[Lindner2021_MovingLand]] (fuzzy logic framework)
 
 Additional notes:
 - the EF calculation seems subjective.
@@ -37,4 +37,4 @@ Additional notes:
 - I would not use it.
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.362+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.481+02:00 %%

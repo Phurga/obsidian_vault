@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecolind.2010.06.011"
 itemKey: LKQNN7CP
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Network analysis to assess landscape connectivity trends: Application to European forests (1990–2000)
@@ -19,4 +19,4 @@ importDate: 2025-07-04
 %% begin notes %% 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.550+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.228+02:00 %%

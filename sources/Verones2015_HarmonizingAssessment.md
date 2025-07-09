@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/es504995r"
 itemKey: 946XBCAU
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Harmonizing the Assessment of Biodiversity Effects from Land and Water Use within LCA
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.252+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.722+02:00 %%

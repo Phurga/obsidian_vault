@@ -16,5 +16,5 @@ See also:
 References:
 - [[Koellner2013_UNEPSETACguideline]]
 - [[Curran2011_MeaningfulEnd]]
-- [[Verones2017_LCIAframework]]
-- [[Woods2018_Ecosystemquality]]
+- [[Verones2017_LCIAFramework]]
+- [[Woods2018_EcosystemQuality]]

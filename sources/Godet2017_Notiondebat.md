@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 7WQYBF7C
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Notion en débat : biodiversité
@@ -26,4 +26,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.117+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.992+02:00 %%

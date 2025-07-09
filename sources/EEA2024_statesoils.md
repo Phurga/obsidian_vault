@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: GS84SPX9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The state of soils in Europe: fully evidenced, spatially organised assessment of the pressures driving soil degradation
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 [[Burton, Victoria J.]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.542+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.667+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41597-020-00599-8"
 itemKey: SX5VSF95
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A global map of terrestrial habitat types
@@ -22,4 +22,4 @@ Provides a global map at 100m or 10m of [[IUCN2025_HabitatsClassification]]
 ![[Jung2020_globalmap_habitat_classes.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.967+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.594+02:00 %%

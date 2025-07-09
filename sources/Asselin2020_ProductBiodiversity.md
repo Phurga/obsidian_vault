@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2019.119262"
 itemKey: RL2U364N
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Product Biodiversity Footprint – A novel approach to compare the impact of products on biodiversity combining Life Cycle Assessment and Ecology
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.083+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.137+02:00 %%

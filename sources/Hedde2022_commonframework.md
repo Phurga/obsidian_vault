@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.geoderma.2022.116073"
 itemKey: IKNUZIRD
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A common framework for developing robust soil fauna classifications
@@ -34,4 +34,4 @@ Definitions
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.330+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.338+02:00 %%

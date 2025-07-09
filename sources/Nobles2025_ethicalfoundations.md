@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.cosust.2024.101503"
 itemKey: FLTJ23CP
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The ethical foundations of biodiversity metrics
@@ -20,7 +20,7 @@ Criticism of [[invasive alien species]] and favouring original species is xenoph
 
 
 Cites:
-[[Vrasdonk2019_Referencesituations]]
+[[Vrasdonk2019_ReferenceSituations]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.900+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.533+02:00 %%

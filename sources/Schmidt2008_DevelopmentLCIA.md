@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2008.01.004"
 itemKey: 9XP79MC4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Development of LCIA characterisation factors for land use impacts on biodiversity
@@ -19,4 +19,4 @@ importDate: 2025-07-04
 %% begin notes %% 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.652+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.426+02:00 %%

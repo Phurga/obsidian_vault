@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1146/annurev-environ-012320-080337"
 itemKey: LRHR56G2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Boundaries of the Planetary Boundary Framework: A Critical Appraisal of Approaches to Define a “Safe Operating Space” for Humanity
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.264+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.456+02:00 %%

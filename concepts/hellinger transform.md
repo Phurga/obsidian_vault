@@ -6,4 +6,4 @@ The **Hellinger transform** is a way of normalizing sample [[species abudance|ab
 
 [[Zeleny2022_EcologicalResemblance#hellinger distance]]
 
-Used in [[Labouyrie2023_Patternssoil]]
+Used in [[Labouyrie2023_PatternsSoil]]

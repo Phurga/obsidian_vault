@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 7DWMSLFW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Map of the Natural Vegetation of Europe and its application in the Caucasus Ecoregion
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.337+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.567+02:00 %%

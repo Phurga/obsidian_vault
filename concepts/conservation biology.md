@@ -14,6 +14,6 @@ See [[Soule1985_WhatConservation]]
 ## deriving meaningul indicators for nature conservation progress
 #todo 
 [[Curran2016_HowWell]] and [[Curran2011_MeaningfulEnd]]
-![[Godet2017_Notiondebat#^4498dc]]
+![[Godet2017_NotionDebat#^4498dc]]
 
 ![[species richness#^65e023]]

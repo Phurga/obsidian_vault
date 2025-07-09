@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41598-020-67452-1"
 itemKey: K662B4AE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Persistence of environmental DNA in cultivated soils: implication of this memory effect for reconstructing the dynamics of land use and cover changes
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.869+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.265+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1146/annurev-earth-063016-020544"
 itemKey: MX5RV3H2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil Functions: Connecting Earth's Critical Zone
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.170+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.308+02:00 %%

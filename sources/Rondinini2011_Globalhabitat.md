@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1098/rstb.2011.0113"
 itemKey: LFWXKW9W
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global habitat suitability models of terrestrial mammals
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 [[species distribution model]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.382+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.829+02:00 %%

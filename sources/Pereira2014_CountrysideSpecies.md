@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/cobi.12289"
 itemKey: A6FGR4VE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Countryside Species–Area Relationship as a Valid Alternative to the Matrix-Calibrated Species–Area Model
@@ -25,4 +25,4 @@ importDate: 2025-07-04
 ![[Pereira2014_CountrysideSpecies_projected_observed_extinctions.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.160+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.125+02:00 %%

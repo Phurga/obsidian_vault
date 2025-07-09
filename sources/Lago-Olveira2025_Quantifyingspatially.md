@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecoser.2024.101686"
 itemKey: SRE9YMKT
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Quantifying spatially explicit LCA midpoint characterization factors to assess the impact of specific farming practices on ecosystem services
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.175+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.028+02:00 %%

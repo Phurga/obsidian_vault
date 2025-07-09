@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.1259855"
 itemKey: X5PXT2BX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Planetary boundaries: Guiding human development on a changing planet
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.873+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.900+02:00 %%

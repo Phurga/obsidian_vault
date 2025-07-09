@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1093/biosci/bix014"
 itemKey: MFNJF2TX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 ![[Dinerstein2017_EcoregionBasedApproach_ecoregion_map.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.416+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.376+02:00 %%

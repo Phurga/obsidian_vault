@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-013-0578-0"
 itemKey: FB96DLQ2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land use impacts on biodiversity in LCA: proposal of characterization factors based on functional diversity
@@ -30,4 +30,4 @@ Following Petchey 2002 (Functional diversity (FD), species richness and communit
 - 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.465+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.669+02:00 %%

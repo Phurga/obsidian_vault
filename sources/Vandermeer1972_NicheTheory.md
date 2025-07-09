@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1146/annurev.es.03.110172.000543"
 itemKey: YAJFTSJC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Niche Theory
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.179+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.589+02:00 %%

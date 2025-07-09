@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.5b02507"
 itemKey: X8T2SVWE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Quantifying Land Use Impacts on Biodiversity: Combining Species–Area Models and Vulnerability Indicators
@@ -22,4 +22,4 @@ Use of the [[countryside SAR]] approach to estimate regional [[relative species 
 Defines the [[vulnerability score]], an indicator for [[species extinction risk]] in LCA.
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.912+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.492+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: MWNMVDA2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The theory of island biogeography
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 Source of the [[species-area relationship|SAR]] as said in [[deBaan2013_LandUsea]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.442+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.605+02:00 %%

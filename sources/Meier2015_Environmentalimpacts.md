@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jenvman.2014.10.006"
 itemKey: X6HW8J2V
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Environmental impacts of organic and conventional agricultural products – Are the differences captured by life cycle assessment?
@@ -25,4 +25,4 @@ additional keywords:
 Key idea: not only organic farming has lower yields leading to higher impact per kg of product, but there are often issues in the modelling of N flows in organic agriculture because the inventory is obtained via a model that is calibrated on mineral fertilizers and not on organic fertilizers (manure and others). 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.647+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.003+02:00 %%

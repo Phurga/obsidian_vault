@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.aav0550"
 itemKey: MQV3WCHD
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The global soil community and its influence on biogeochemistry
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 ![[Crowther2019_globalsoil_biomass_distribution.png|600]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.192+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.967+02:00 %%

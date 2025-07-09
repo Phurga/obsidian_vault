@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 2XFATWSF
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Probability, Statistics and Life Cycle Assessment: Guidance for Dealing with Uncertainty and Sensitivity
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.385+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.426+02:00 %%

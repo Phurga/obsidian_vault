@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1002/ppp3.10092"
 itemKey: W9IWD27Q
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Mycorrhizas for a changing world: Sustainability, conservation, and society
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.802+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.149+02:00 %%

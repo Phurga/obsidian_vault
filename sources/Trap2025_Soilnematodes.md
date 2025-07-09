@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: Q8LTHF2H
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil nematodes (Les nématodes du sol)
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 Key concepts on [[nematode]], their anatomy, diversity, functions.
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.990+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.114+02:00 %%

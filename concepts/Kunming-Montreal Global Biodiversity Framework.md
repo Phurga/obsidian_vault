@@ -28,7 +28,7 @@ Main targets (over a total of 23) include:
 | [TARGET 7](https://www.cbd.int/gbf/targets/7/)  | Reduce Pollution to Levels That Are Not Harmful to Biodiversity                         | [[ecotoxicity]] ([[LCIA method on ecosystem quality\|endpoint]]) |
 | [TARGET 8:](https://www.cbd.int/gbf/targets/8/) | Minimize the Impacts of Climate Change on Biodiversity and Build Resilience             | [[climate change]] endpoint                                               |
 # Indicators deriving from the targets
-Indicators are documented here [[UNEP2025_Indicatorsrepository]]
+Indicators are documented here [[UNEP2025_IndicatorsRepository]]
 
 Target 1: [[red list of ecosystems]]
 Target 4: [[minimum population size to maintain evolutionary potential|proportion of populations within species with an effective population size over 500]]

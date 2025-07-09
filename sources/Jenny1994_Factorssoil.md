@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: ZXY8WY87
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Factors of soil formation: a system of quantitative pedology
@@ -57,4 +57,4 @@ is chosen.
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.901+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.424+02:00 %%

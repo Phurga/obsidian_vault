@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-024-07658-9"
 itemKey: Y2ZHZBKW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Airborne DNA reveals predictable spatial and seasonal dynamics of fungi
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:57.919+02:00 %%
+%% Import Date: 2025-07-09T11:58:04.778+02:00 %%

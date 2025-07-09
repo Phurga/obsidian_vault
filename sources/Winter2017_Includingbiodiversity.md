@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.eiar.2017.08.006"
 itemKey: EBS2G4SM
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Including biodiversity in life cycle assessment – State of the art, gaps and research needs
@@ -27,4 +27,4 @@ Further research is required to devise new options (e.g. impact assessment model
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.700+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.412+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.aaa4984"
 itemKey: ZTL38DG7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Accelerating extinction risk from climate change
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 See [[LCIA method on ecosystem quality]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.141+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.521+02:00 %%

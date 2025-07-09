@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: C66RAK2Y
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Our Common Future
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.102+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.415+02:00 %%

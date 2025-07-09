@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/nature11226"
 itemKey: 4YH985VA
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Universal species–area and endemics–area relationships at continental scales
@@ -17,7 +17,7 @@ importDate: 2025-07-04
 >The change in number of terrestrial vertebrate species or endemics with sampled area is characterized by universal curves whose properties depend only on the mean geographic range size of species.
 
 %% begin notes %%
-Used in [[Kuipers2021_Consideringhabitat]] for SHR (species habitat relationships) values (ie z slopes in the SAR). These slopes are only used to link area and species and are ecoregion specific based on and do not account for land use.
+Used in [[Kuipers2021_ConsideringHabitat]] for SHR (species habitat relationships) values (ie z slopes in the SAR). These slopes are only used to link area and species and are ecoregion specific based on and do not account for land use.
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.888+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.920+02:00 %%

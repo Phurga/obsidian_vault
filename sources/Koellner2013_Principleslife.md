@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-012-0392-0"
 itemKey: 5JK29CR6
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Principles for life cycle inventories of land use on a global scale
@@ -17,8 +17,8 @@ importDate: 2025-07-04
 >To assess the diverse environmental impacts of land use, a standardization of quantifying land use elementary flows is needed in life cycle assessment (LCA). The purpose of this paper is to propose how to standardize the land use classification and how to regionalize land use elementary flows.
 
 %% begin notes %%
-Referenced in [[Fehrenbach2015_Hemerobyimpact]], mentioning a potential discrimintation between biodiversity and ecosystem services here.
+Referenced in [[Fehrenbach2015_HemerobyImpact]], mentioning a potential discrimintation between biodiversity and ecosystem services here.
 #todo read becauseit looks like it is important
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.077+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.827+02:00 %%

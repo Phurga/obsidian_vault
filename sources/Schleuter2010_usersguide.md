@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1890/08-2225.1"
 itemKey: CEHS86QS
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A user's guide to functional diversity indices
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.639+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.401+02:00 %%

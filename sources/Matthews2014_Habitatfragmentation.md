@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/ddi.12227"
 itemKey: CMPIZWAG
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Habitat fragmentation and the species–area relationship: a focus on total species richness obscures the impact of habitat loss on habitat specialists
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.585+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.911+02:00 %%

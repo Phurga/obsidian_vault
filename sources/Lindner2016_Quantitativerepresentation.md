@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 4RNRHHZX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Quantitative representation of the effects of land-use processes on biodiversity in life cycle assessments
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.332+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.421+02:00 %%

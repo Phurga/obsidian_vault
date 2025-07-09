@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.scitotenv.2023.166925"
 itemKey: AZHKUJW3
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Micro- and nanoplastics in soil: Linking sources to damage on soil ecosystem services in life cycle assessment
@@ -33,4 +33,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.318+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.394+02:00 %%

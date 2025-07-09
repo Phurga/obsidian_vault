@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1101/2025.02.07.636998"
 itemKey: 5H5BG6HI
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Use of massive DNA barcoding to monitor biodiversity: a test on forest soil fauna
@@ -21,4 +21,4 @@ In this article, the author test metabarcoding as a mean to identify species in 
 ![[Jabot2025_Usemassive_sar_sample_soil.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.838+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.334+02:00 %%

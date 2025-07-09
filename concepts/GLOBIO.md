@@ -7,4 +7,4 @@ aliases:
 **GLOBIO** is a model developped in [[PBL2016_GLOBIOMODEL]].
 It uses [[mean species abundance]] as a metric for impacts on [[biodiversity]] ([[LCIA method for land use impacts on ecosystem quality]])
 
-[[Schipper2020_Projectingterrestrial]]
+[[Schipper2020_ProjectingTerrestrial]]

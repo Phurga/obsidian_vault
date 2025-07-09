@@ -6,8 +6,8 @@ aliases:
   - biodiversity metrics
   - measuring biodiversity
 ---
-Because of the complexity and multiple dimensions of [[biodiversity]], there cannot be a single indicator for biodiversity, quoting [[Hedde2025_Diversityroles]], but following the complexity of its definition.
-[[McGill2015_Fifteenforms]]  proposes 15 trends/indicators for biodiversity monitoring.
+Because of the complexity and multiple dimensions of [[biodiversity]], there cannot be a single indicator for biodiversity, quoting [[Hedde2025_DiversityRoles]], but following the complexity of its definition.
+[[McGill2015_FifteenForms]]  proposes 15 trends/indicators for biodiversity monitoring.
 ## indicators
 - organism or species based
 	- taxonomic ([[ecological composition|composition]]) 
@@ -45,16 +45,16 @@ Because of the complexity and multiple dimensions of [[biodiversity]], there can
 	- [[functional diversity]]
 
 On using simple metrics:
-![[Santini2017_Assessingsuitability#on the use of meaningful metrics]]
+![[Santini2017_AssessingSuitability#on the use of meaningful metrics]]
 
 >[!quote] references
 [[Pyron2010_CharacterizingCommunities]]
-[[Santini2017_Assessingsuitability]]
+[[Santini2017_AssessingSuitability]]
 [[deBaan2013_LandUse]]
 ## implementations in LCIA
 The current recommendation for an [[ecosystem quality]] indicator in LCIA is biodiversity loss and in particular [[relative species loss]] ([[UNEP2016_GlobalGuidance]]). This is known to be an imperfect metric but the best available due to data availability limitations ([[LCIA method development is limited by data availability]]).
 
-Species richness, but they can be used to derive more complex indicators when data is available such as [[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] ([[Woods2018_Ecosystemquality]]).
+Species richness, but they can be used to derive more complex indicators when data is available such as [[species extinction risk]], [[functional diversity]], [[loss of years of evolutionary history]] ([[Woods2018_EcosystemQuality]]).
 
 Existing implementations for impacts from land use : [[LCIA method for land use impacts on ecosystem quality]].
 However, these derivates require additional data, with limited coverage (geography, taxon) making them difficult to scale globally.

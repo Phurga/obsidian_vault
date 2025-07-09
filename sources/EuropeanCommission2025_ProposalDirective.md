@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: G6RDYM6N
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Proposal for a Directive on Soil Monitoring and Resilience
@@ -23,4 +23,4 @@ importDate: 2025-07-04
 [[monitoring the advancement of conservation policies is the main goal of biodiversity LCIA]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.669+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.887+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecolind.2019.01.077"
 itemKey: S23AE5E8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Ecosystem Integrity Index, an innovative environmental evaluation tool for agricultural production systems
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.310+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.519+02:00 %%

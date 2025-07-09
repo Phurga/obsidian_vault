@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/brv.12857"
 itemKey: 4EYAM5E7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Multifunctionality of belowground food webs: resource, size and spatial energy channels
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.191+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.217+02:00 %%

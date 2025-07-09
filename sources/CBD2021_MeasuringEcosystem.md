@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 8D9U9F3R
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Measuring Ecosystem Integrity (Goal A) in the Post-2020 Global Biodiversity Framework: the GEO BON Species Habitat Index
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.795+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.257+02:00 %%

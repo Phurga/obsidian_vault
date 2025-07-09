@@ -25,7 +25,7 @@ metagenomics vs DNA metabarcoding [wikipedia](https://en.wikipedia.org/wiki/Meta
 ### sequencing procedure
 [[Byers2024_LandUse#^cea6c2]]
 ## External resources
-definitions [[Prosser2015_Dispersingmisconceptions]]
+definitions [[Prosser2015_DispersingMisconceptions]]
 [iucn - eDNA](https://iucn.org/resources/issues-brief/environmental-dna)
 [wikipedia - metabarcoding](https://en.wikipedia.org/wiki/Metabarcoding)
 [[Edgar2025_Interpretingcounts]]

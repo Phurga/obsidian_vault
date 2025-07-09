@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1046/j.1365-2745.1998.00306.x"
 itemKey: DAYDR9M6
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Benefits of plant diversity to ecosystems: immediate, filter and founder effects
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.179+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.082+02:00 %%

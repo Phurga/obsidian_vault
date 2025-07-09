@@ -23,8 +23,8 @@ Species interactions are studied through [[ecological network]]. But most approa
 >[!warning] Cooccurence does not mean there is an interaction, but merely they coexist in a macrohabitat (macro at their scale).
 
 ## references
-[[Hedde2025_Diversityroles]]
-[[Hedde2024_Cropmanagement]]
+[[Hedde2025_DiversityRoles]]
+[[Hedde2024_CropManagement]]
 
 Illustration of two systems with different structures:
 ![[Hedde2025_SoilFauna_reseau_interaction.png|600]]

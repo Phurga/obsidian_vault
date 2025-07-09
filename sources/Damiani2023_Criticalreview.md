@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.eiar.2023.107134"
 itemKey: 73TKCETV
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Critical review of methods and models for biodiversity impact assessment and their applicability in the LCA context
@@ -47,4 +47,4 @@ Side notes
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.260+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.099+02:00 %%

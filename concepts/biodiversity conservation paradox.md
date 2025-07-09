@@ -8,7 +8,7 @@ Following the [[niche theory]]
 Through landscape homogeneisation, there is species composition homogeneisation, but not always loss of species at local or regional scale. In other terms, human activities favour not only homogeneisation of landscapes but also mobility of species, leading to potential increased local richness measures ([[alpha diversity]]) but will generally decrease regional richness measures ([[gamma diversity]]).
 
 ## Supporting references
-[[Jandt2022_Morelosses]]
-[[McGill2015_Fifteenforms]]
+[[Jandt2022_MoreLosses]]
+[[McGill2015_FifteenForms]]
 
 Questions the [[intrinsic value of nature]] and how we perceive [[biodiversity]].

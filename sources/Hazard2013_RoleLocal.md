@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1038/ismej.2012.127"
 itemKey: QBF3RYHT
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The role of local environment and geographical distance in determining community composition of arbuscular mycorrhizal fungi at the landscape scale
 > [[Hazard, Christina]], [[Gosling, Paul]], [[van der Gast, Christopher J.]], [[Mitchell, Derek T.]], [[Doohan, Fiona M.]], [[Bending, Gary D.]], 
 > [[The ISME Journal]] (2013)
-> Arbuscular mycorrhiza, Biodiversity, Biogeography, Fungal ecology, 
+> Biodiversity, Biogeography, Arbuscular mycorrhiza, Fungal ecology, 
 > [Online link](https://www.nature.com/articles/ismej2012127), [Zotero Item](zotero://select/library/items/QBF3RYHT), [Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/2KKMXU5J/Hazard2013_RoleLocal.pdf), 
 
 >[!abstract]-
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.316+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.311+02:00 %%

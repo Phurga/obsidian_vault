@@ -31,8 +31,8 @@ Multiple unifying theories, relying on a list of assumptions [[Vellend2010_Conce
 ## soils community ecology
 Some authors propose theories on soil spatial patterns which are currently misunderstood:
 
-[[Thakur2020_integrativeunderstanding]], presents 5 theories:
-![[Thakur2020_integrativeunderstanding#^dee5e2]]
+[[Thakur2020_IntegrativeUnderstanding]], presents 5 theories:
+![[Thakur2020_IntegrativeUnderstanding#^dee5e2]]
 
 [[Calderon-Sanou2022_BetterUnderstanding]] tests few patterns:
 ![[Calderon-Sanou2022_BetterUnderstanding#theories highlights]]

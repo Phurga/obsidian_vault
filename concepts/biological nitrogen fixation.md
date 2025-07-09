@@ -15,7 +15,7 @@ Microorganisms can enter [[symbiosis|symbiotic relationship]]s with plants, usin
 Bacteria fixing: [[rhizobacteria]] (legumes), [[azotobacter]] (free living), [[Azospirillum]] (grasses/cereals), [[cyanobacteria]] (autotroph)
 Fungi fixing #todo/refneeded [[FAO2020_StateKnowledge]]
 
-Illustration of nitrogenase [[Hinsinger2025_Rhizosphereroots]]
+Illustration of nitrogenase [[Hinsinger2025_RhizosphereRoots]]
 ![[Hinsinger2025_Rhizosphereroots_nitrogenase.png|600]]
 
 Many pathways to BNF according to [[Wagner2011_BiologicalNitrogen]]
@@ -27,5 +27,5 @@ Many pathways to BNF according to [[Wagner2011_BiologicalNitrogen]]
 References:
 [[FAO2020_StateKnowledge]]
 [[Wagner2011_BiologicalNitrogen]]
-[[Hinsinger2025_Rhizosphereroots]]
+[[Hinsinger2025_RhizosphereRoots]]
 https://pubmed.ncbi.nlm.nih.gov/17048140/

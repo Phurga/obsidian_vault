@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/ejss.13299"
 itemKey: 9XQBRLSN
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > LUCAS Soil Biodiversity and LUCAS Soil Pesticides, new tools for research and policy development
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.042+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.913+02:00 %%

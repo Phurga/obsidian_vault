@@ -5,7 +5,7 @@ aliases:
   - soil threats
   - soils threats
 ---
-**Soils are currently facing pressures** leading to their fast degradation (loss of [[soil quality]]) on a global scale ([[FAOandITPS2015_Statusworlds]]).
+**Soils are currently facing pressures** leading to their fast degradation (loss of [[soil quality]]) on a global scale ([[FAOandITPS2015_StatusWorlds]]).
 
 [[FAO2020_StateKnowledge]] identifies a list of key pressures:
 - [[habitat transformation|land use change]] such as [[deforestation]] and [[urbanization]].

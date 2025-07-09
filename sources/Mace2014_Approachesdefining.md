@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.gloenvcha.2014.07.009"
 itemKey: THZYI27Z
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Approaches to defining a planetary boundary for biodiversity
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.450+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.634+02:00 %%

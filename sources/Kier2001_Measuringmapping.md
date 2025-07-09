@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1023/A:1011812528849"
 itemKey: GSECCIYS
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Measuring and mapping endemism and species richness: a new methodological approach and its application on the flora of Africa
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 defines [[endemism]] as used in [[Chaudhary2015_QuantifyingLand]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.027+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.746+02:00 %%

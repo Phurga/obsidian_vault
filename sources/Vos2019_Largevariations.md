@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.soilbio.2019.107583"
 itemKey: URM7L2AA
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Large variations in readily-available phosphorus in casts of eight earthworm species are linked to cast properties
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.458+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.963+02:00 %%

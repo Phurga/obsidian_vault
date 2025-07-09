@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/BF02994190"
 itemKey: 8HBRJMDX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > System boundaries and input data in consequential life cycle inventory analysis
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.549+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.688+02:00 %%

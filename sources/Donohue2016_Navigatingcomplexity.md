@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/ele.12648"
 itemKey: WQHJW9XW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Navigating the complexity of ecological stability
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.465+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.534+02:00 %%

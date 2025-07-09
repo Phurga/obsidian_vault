@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.5194/soil-2-111-2016"
 itemKey: LDYE4C6F
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The significance of soils and soil science towards realization of the United Nations Sustainable Development Goals
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.972+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.626+02:00 %%

@@ -3,10 +3,10 @@ tags:
   - concept/definition
 aliases:
 ---
-The **planetary boundaries** is a concept developped in 2009  [[Rockstrom2009_safeoperating]] and updated in 2023 in [[Richardson2023_Earthsix]] (also in 2015 [[Steffen2015_Planetaryboundaries]]).
+The **planetary boundaries** is a concept developped in 2009  [[Rockstrom2009_SafeOperating]] and updated in 2023 in [[Richardson2023_EarthSix]] (also in 2015 [[Steffen2015_PlanetaryBoundaries]]).
 
 The approach establishes nine environmental impact categories with associated boundaries ([[tipping points]]), considering that surpassing these limits will lead to unknown adverse consequences (outside of a safe operating space).
-Some limits are physicochemical limits are quite robust, but some others are challenged, especially biodiversity ( [[Montoya2018_PlanetaryBoundaries]], [brook](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(13)00033-5?large_figure=true), [[Mace2014_Approachesdefining]]).
+Some limits are physicochemical limits are quite robust, but some others are challenged, especially biodiversity ( [[Montoya2018_PlanetaryBoundaries]], [brook](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(13)00033-5?large_figure=true), [[Mace2014_ApproachesDefining]]).
 In the latest 2023 update, [[biodiversity]] was measured with two dimensions: [[genetic diversity]] (via a [[species extinction risk|species extinction]] rate) and [[functional integrity]] (via a [[HANPP]])
 
 [[Biermann2020_BoundariesPlanetary]] critique of planetary boundaries.

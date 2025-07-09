@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-018-0328-3"
 itemKey: EFE2RYBD
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Atmosphere–soil carbon transfer as a function of soil depth
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 ![[Balesdent2018_Atmospheresoil_soil_datation.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.145+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.221+02:00 %%

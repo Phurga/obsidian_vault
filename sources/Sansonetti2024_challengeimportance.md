@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 7DQWKXY8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The challenge and importance of preserving microbial biodiversity
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 [[microorganism|microbes]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.478+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.080+02:00 %%

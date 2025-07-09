@@ -8,7 +8,7 @@ The conversion of [[hemeroby class]] ([[ordinal scale]]) into a hemeroby charact
 There are 7 hemeroby classes, and class I is sometimes excluded from the ordinal transform, as it is the case in Fehrenbach, claiming that class II has a BV value of 0 (although it looks like it is a minority position).
 Transform can be linear, exponential, or even different.
 ![[Fehrenbach2015_Hemerobyimpact_transform_ordinal_cardinal.png|500]]
-Ultimately, [[Fehrenbach2015_Hemerobyimpact]] recommends an exponential interpolation while [[Lindner2019_ValuingBiodiversity]] uses a linear interpolation. 
+Ultimately, [[Fehrenbach2015_HemerobyImpact]] recommends an exponential interpolation while [[Lindner2019_ValuingBiodiversity]] uses a linear interpolation. 
 
 | Hemeroby class | Fehrenbach DNP <br>(exponential) | Lindner BV <br>(linear) |
 | -------------- | -------------------------------- | ----------------------- |

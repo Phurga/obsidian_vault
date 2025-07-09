@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.tree.2017.10.004"
 itemKey: 3YQA2YGD
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Planetary Boundaries for Biodiversity: Implausible Science, Pernicious Policies
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 #favourite 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.776+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.197+02:00 %%

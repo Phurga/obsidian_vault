@@ -27,4 +27,4 @@ where Ab is the abudance and Nsp the number of species, 1 the original environme
 ## use in ecology
 In practice, it is used to study the similarity between two [[ecological composition|ecological community]], and in particular, the "dissimilarity index" is used to monitor impacts of a variable on community structure ([[beta diversity]]).
 
-Recommended in [[Santini2017_Assessingsuitability]] for its simplicity.
+Recommended in [[Santini2017_AssessingSuitability]] for its simplicity.

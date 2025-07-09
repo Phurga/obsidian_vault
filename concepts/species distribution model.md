@@ -10,12 +10,12 @@ tags:
 ---
 A **species distribution model (SDM)** is a model predicting the distribution of species based on relationships between environmental conditions and species occurence. 
 
-Similar terms include **ecological niche model (ENM)**, focusing on defining the [[biotope|ecological niche]] of some species, and **habitat suitability model (HSM)** here defining the affinity of some species with a biotope ([[Hirzel2008_Habitatsuitability]]). The latter implies defining optimal (preferred) habitats and suboptimal habitats for species, [definitions are tricky](https://en.wikipedia.org/wiki/Species_distribution_modelling#).
+Similar terms include **ecological niche model (ENM)**, focusing on defining the [[biotope|ecological niche]] of some species, and **habitat suitability model (HSM)** here defining the affinity of some species with a biotope ([[Hirzel2008_HabitatSuitability]]). The latter implies defining optimal (preferred) habitats and suboptimal habitats for species, [definitions are tricky](https://en.wikipedia.org/wiki/Species_distribution_modelling#).
 
 >[!quote] Graphical illustration of the definition of a 2D ecological space with the ecological niche represented with the grey area above. The bottom chart is the spatial realization of the ecological niche.
 > ![[Hirzel2008_Habitatsuitability_HSM_illustration.webp]]
 
-Example of habitat suitability model for mammals : [[Rondinini2011_Globalhabitat]].
+Example of habitat suitability model for mammals : [[Rondinini2011_GlobalHabitat]].
 ## correlative and mechanistic models
 
 These models can be *correlative* models, using empirical observations of where species where observed and under which environmental conditions, or *mechanistic* models, defining species physiological needs and deriving environmental conditions prequisites to a species survival. 

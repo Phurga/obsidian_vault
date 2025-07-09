@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecolind.2022.109204"
 itemKey: NTIZHQGM
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global extinction probabilities of terrestrial, freshwater, and marine species groups for use in Life Cycle Assessment
@@ -21,4 +21,4 @@ see [[global extinction probability]]
 Part of [[GLAM]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.309+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.820+02:00 %%

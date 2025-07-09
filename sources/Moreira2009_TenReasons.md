@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/nrmicro2108"
 itemKey: NNPQSLJT
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Ten reasons to exclude viruses from the tree of life
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.793+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.226+02:00 %%

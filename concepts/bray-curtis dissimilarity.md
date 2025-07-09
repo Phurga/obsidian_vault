@@ -14,6 +14,6 @@ where $N_{ij}$ is the number of specimens of species i at site j, $N_{ik}$ is th
 The Bray–Curtis dissimilarity is directly related to the quantitative [[sorensen similarity index]] ${\displaystyle QS_{jk}}$ between the same sites:
 ${\displaystyle {\overline {BC}}_{jk}=1-QS_{jk}}$
 ### uses
-It is used in [[Labouyrie2023_Patternssoil]].
+It is used in [[Labouyrie2023_PatternsSoil]].
 
 This metric allows to identify small changes in rare species and weight them more than important changes in common species.

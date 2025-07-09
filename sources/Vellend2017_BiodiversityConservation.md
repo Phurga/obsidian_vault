@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: CQEANHGR
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Biodiversity Conservation Paradox
@@ -47,4 +47,4 @@ Personally, I find value in the naturalness of a given ecosystem, flora, or faun
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.245+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.701+02:00 %%

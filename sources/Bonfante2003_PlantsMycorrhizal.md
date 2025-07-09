@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.2307/1543562"
 itemKey: EZF5QMU9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Plants, Mycorrhizal Fungi and Endobacteria: a Dialog Among Cells and                     Genomes
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.378+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.624+02:00 %%

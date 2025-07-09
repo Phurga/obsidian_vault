@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/1365-2435.14720"
 itemKey: SAXJZRZQ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Linking effect traits of soil fauna to processes of organic matter transformation
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 ![[Bonfanti2025_Linkingeffect_traits_som_functions.jpg]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.391+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.650+02:00 %%

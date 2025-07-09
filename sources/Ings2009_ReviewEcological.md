@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1365-2656.2008.01460.x"
 itemKey: W3YB7DTZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Review: Ecological networks – beyond food webs
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.624+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.834+02:00 %%

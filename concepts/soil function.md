@@ -17,7 +17,7 @@ A **soil function** is an assembly of *properties and biochemical processes* ena
 - supply nutrients to biocenosis ([[nutrient cycling]]),
 - store carbon ([[carbon transformation]]).
 
-[[Kibblewhite2007_Soilhealth]] used to define 4 of them:
+[[Kibblewhite2007_SoilHealth]] used to define 4 of them:
 - [[carbon transformation]],
 - [[nutrient cycling]],
 - [[soil structure]],

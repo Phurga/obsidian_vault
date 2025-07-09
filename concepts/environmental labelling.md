@@ -14,7 +14,7 @@ There are 3 channels:
 - textiles
 - furnitures
 
-The foods channel is the most advanced, with the latest report up for consultation ([[Soler2025_Rapportconseil]]). It is also backed up with an LCI database ([[Agribalyse]]), and a product LCA tool (ecoBalyse).
+The foods channel is the most advanced, with the latest report up for consultation ([[Soler2025_RapportConseil]]). It is also backed up with an LCI database ([[Agribalyse]]), and a product LCA tool (ecoBalyse).
 
 The method for foods is based on the [[PEF method|EF method]] (single score), with some modifications motivated by promoting [[organic farming]] practices whose benefits are currently not captured in LCA methods :
 - weighting for ecotoxicity is increased

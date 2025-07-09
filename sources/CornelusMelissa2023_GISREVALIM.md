@@ -16,7 +16,7 @@ tags:
 Méthodes comparées:
 - [[Chaudhary2018_LandUse]] (aujourd'hui supersed avec [[Scherer2023_BiodiversityImpact]])
 - [[Lindner2019_ValuingBiodiversity]]
--[[Kuipers2021_Consideringhabitat]] (aujourd'hui supersed avec [[Scherer2023_BiodiversityImpact]])
+-[[Kuipers2021_ConsideringHabitat]] (aujourd'hui supersed avec [[Scherer2023_BiodiversityImpact]])
 - [[BioSyScan]] (ignoré)
 
 Kuipers: pas de prise en compte des pratiques > redhibitoire

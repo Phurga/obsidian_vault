@@ -12,7 +12,7 @@ A nematode.
 ## Classification
 ### phylogeny
 Nematodes are not [[earthworm|annelid]]s (and thus not [[earthworm]]), but have a worm shape. Worm shapes are very common in soils since they provide capacity to move inside soil porosity while allowing for room for internal organs.
-[[VanDenHoogen2019_Soilnematode]]
+[[VanDenHoogen2019_SoilNematode]]
 ![[Trap2025_Nematodes_distribution.png]]
 Nematodes are everywhere (soil, marine, freshwater animal microbiota). On land their are especially abundant in temperate and boreal biomes.. They represent up to [80% of the individual animals on earth]((https://doi.org/10.1038%2Fs41586-019-1418-6)) and [90% of all animals in the ocean floor]((https://doi.org/10.1038%2Fs41586-019-1418-6)) ! Nematodes is a highly diverse taxon (trophic groups, size, mouth morphology).
 ### trophic chain
@@ -24,7 +24,7 @@ Nematode biology is simple: one external membrane containing a cytoplasme under 
 Their mouth have high diversity because it is specialised on the food it eats.
 ![[Trap2025_Nematodes_mouth_morpho.png]]
 Important references:
-[[Trap2025_Soilnematodes]]
+[[Trap2025_SoilNematodes]]
 
 ## reproduction
 Reproduction is variable: between 40 and 1000 eggs per cycle, cycle between few days to 1 year.

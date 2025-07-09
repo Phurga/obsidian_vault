@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.indic.2025.100652"
 itemKey: ZAEQB4V4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Relationships between mean species abundance and potentially disappeared fraction of species are consistent but also uncertain
@@ -23,4 +23,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.149+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.972+02:00 %%

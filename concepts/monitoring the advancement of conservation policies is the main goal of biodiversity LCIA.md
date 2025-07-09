@@ -14,12 +14,12 @@ Monitoring the advancement of [[environmental policy|nature conservation policie
 [[Lindner2019_ValuingBiodiversity]]
 > In summary, any LCA indicator quantifying biodiversity should conform to conservation efforts, i.e., good or best practice management should be reflected in a favourable LCA indicator score, while intrusive interventions should be punished.
 
-[[Fehrenbach2015_Hemerobyimpact]]
+[[Fehrenbach2015_HemerobyImpact]]
 > The pivotal question in land use and nature conservation remains the fundamental query what precisely we are attempting to protect. This question may be answered in a number of different ways. Biodiversity conservation may be the primary goal, or safeguarding of ecosystem services, the conservation of soil fertility or naturalness. Any of the above qualify as a possible and appropriate answer.
 
 > The goal is an agricultural ecosystem rich in structural and species diversity in which disturbance caused by production practices is reduced to the minimum necessary for the maintenance of sustainable productivity.
 
-![[Vrasdonk2019_Referencesituations#living in harmony with nature instead of naturalness]]
+![[Vrasdonk2019_ReferenceSituations#living in harmony with nature instead of naturalness]]
 
 
 Conclusion of Lindner after listing the expectations of the different stakeholders in the definition of a [[LCIA method on ecosystem quality]], the stakeholders being:

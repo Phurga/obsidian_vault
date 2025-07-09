@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/1365-2664.12219"
 itemKey: YFCYR2KC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land-use intensity and the effects of organic farming on biodiversity: a hierarchical meta-analysis
@@ -29,4 +29,4 @@ example quote
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.025+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.174+02:00 %%

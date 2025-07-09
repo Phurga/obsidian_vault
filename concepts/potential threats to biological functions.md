@@ -3,7 +3,7 @@ tags:
   - concept/definition
 aliases:
 ---
-The [[European Union Soil Observatory|EUSO]] has consolidated a map for **potential threats to biological functions** ([[Orgiazzi2016_knowledgebasedapproach]]).
+The [[European Union Soil Observatory|EUSO]] has consolidated a map for **potential threats to biological functions** ([[Orgiazzi2016_KnowledgebasedApproach]]).
 
 Three pressure scores are defined:
 - pressures on soil [[microorganism]]s

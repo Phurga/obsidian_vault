@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/gcb.14848"
 itemKey: 4EVRDSPP
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Projecting terrestrial biodiversity intactness with GLOBIO 4
@@ -25,4 +25,4 @@ Latest important method using an MSA metric
 ![[Schipper2020_Projectingterrestrial_MSA_calculation.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.633+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.369+02:00 %%

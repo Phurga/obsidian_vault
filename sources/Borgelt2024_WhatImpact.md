@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.3c08500"
 itemKey: SWK2WMQ9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > What Is the Impact of Accidentally Transporting Terrestrial Alien Species? A New Life Cycle Impact Assessment Model
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.425+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.723+02:00 %%

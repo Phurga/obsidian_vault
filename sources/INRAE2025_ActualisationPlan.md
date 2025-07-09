@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: GUPSSYIT
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Actualisation du plan stratégique INRAE2030
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.656+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.908+02:00 %%

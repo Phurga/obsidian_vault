@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1111/eva.12995"
 itemKey: UDSRGDSG
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The dimensions of evolutionary potential in biological conservation
 > [[Milot, Emmanuel]], [[Béchet, Arnaud]], [[Maris, Virginie]], 
 > [[Evolutionary Applications (journal)]] (2020)
-> evolution, evolutionary biology, evolutionary conservation, fixism, genetic diversity, intrinsic value of nature, value of biodiversity, 
+> evolution, genetic diversity, intrinsic value of nature, evolutionary conservation, fixism, value of biodiversity, evolutionary biology, 
 > [Online link](https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.12995), [Zotero Item](zotero://select/library/items/UDSRGDSG), [Local (Full Text)](file://C:/Users/aburg/Documents/references/zotero/storage/3DK9R66F/Milot2020_DimensionsEvolutionary.pdf), 
 
 >[!abstract]-
@@ -21,4 +21,4 @@ nexus of [[conservation biology]] and [[evolutionary biology]]
 #important 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.711+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.158+02:00 %%

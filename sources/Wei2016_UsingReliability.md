@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.5b03683"
 itemKey: 7YB98DTN
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Using the Reliability Theory for Assessing the Decision Confidence Probability for Comparative Life Cycle Assessments
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.559+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.154+02:00 %%

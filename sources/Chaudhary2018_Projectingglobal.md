@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/ddi.12677"
 itemKey: LIWVPA9A
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Projecting global land use-driven evolutionary history loss
@@ -25,4 +25,4 @@ This paper uses a [[species-area relationship|SAR]] approach, then derives the l
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.956+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.561+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.1231923"
 itemKey: 236AJJTC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Roots and Associated Fungi Drive Long-Term Carbon Sequestration in Boreal Forest
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.002+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.648+02:00 %%

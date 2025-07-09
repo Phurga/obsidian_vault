@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-018-1449-5"
 itemKey: DM4BWYUZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Developing characterisation factors for land fragmentation impacts on biodiversity in LCA: key learnings from a sugarcane case study
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.207+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.125+02:00 %%

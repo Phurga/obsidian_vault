@@ -12,4 +12,4 @@ A metagenome is built using high throughput [[environmental DNA]]s.
 Note:
 [[confusing metagenomics and metagenetics]]
 
-[[Prosser2015_Dispersingmisconceptions]] provides a list of limitations in the use of the metagenome as a tool for soil ecology.
+[[Prosser2015_DispersingMisconceptions]] provides a list of limitations in the use of the metagenome as a tool for soil ecology.

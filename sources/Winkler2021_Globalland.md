@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41467-021-22702-2"
 itemKey: 4UMFL43Z
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global land use changes are four times greater than previously estimated
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 #data 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.671+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.359+02:00 %%

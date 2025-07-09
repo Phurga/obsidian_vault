@@ -45,7 +45,7 @@ Corine classification:
 #### global
 - The [[LCCS]] developped by the UN.
 - There is IPCC land use classification.
-- The GLAM land use classification, see [[Scherer2021_Linkingland]]
+- The GLAM land use classification, see [[Scherer2021_LinkingLand]]
 
 >[!warning] due to a lack of standards in LCA, there is a [[conflict land use classes IPCC and GLAM]] leading to multiple land use classifications used in LCI databases (ecoinvent, agribalyse etc).
 ### datasets

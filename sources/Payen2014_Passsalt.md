@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: BDJAFXX8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Pass the salt please! From a review to a theoretical framework for integrating salinization impacts in food LCA
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.074+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.973+02:00 %%

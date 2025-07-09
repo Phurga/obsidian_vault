@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-014-0706-5"
 itemKey: LMZJHG5X
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Is land use impact assessment in LCA applicable for forest biomass value chains? Findings from comparison of use of Scandinavian wood, agro-biomass and peat for energy
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.412+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.467+02:00 %%

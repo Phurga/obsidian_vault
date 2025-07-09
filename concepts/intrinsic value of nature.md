@@ -12,8 +12,8 @@ There are three school of thought:
 - the vision that there is no intrinsic value, 
 [[deBenoist2004_NatureSa#nonanthropocentric theories]], [[Sandler2012_IntrinsicValue#sentientism vs biocentrism]]
 ## IPBES definition
-[[Himes2024_Whynature]] is a study commissionned by [[IPBES]] in order to review the ethical foundations of the relationship between human and nature.
-![[Himes2024_Whynature#proposed definition for intrinsic value of nature]]
+[[Himes2024_WhyNature]] is a study commissionned by [[IPBES]] in order to review the ethical foundations of the relationship between human and nature.
+![[Himes2024_WhyNature#proposed definition for intrinsic value of nature]]
 ## existence of an intrinsic value of species
 ### from conservation biology
 The intrinsic value of species is a postulate of [[conservation biology]]: ![[Soule1985_WhatConservation#intrinsic value of species is a normative postulate in conservation biology]]
@@ -23,7 +23,7 @@ The intrinsic value of species is a postulate of [[conservation biology]]: ![[So
 ## quantification of the intrinsic value of nature
 Besides acknowleding the existence of intrinsic value or of the intrinsic value of nature, an additional challenges arises when one is tempted to *quantify* this value.
 ### importance in LCA
-![[Verones2017_LCIAframework#ecosystem quality and intrinsic value of nature]]
+![[Verones2017_LCIAFramework#ecosystem quality and intrinsic value of nature]]
 
 ![[Debarre2025_RevampingLCIA#the intrinsic value of nature cannot be quantified]]
 
@@ -36,11 +36,11 @@ Besides acknowleding the existence of intrinsic value or of the intrinsic value 
 
 ## references
 [[Sandler2012_IntrinsicValue]]
-[[Rea2017_valuenature]]
-[[Piccolo2017_Intrinsicvalues]]
-[[Himes2024_Whynature]]
+[[Rea2017_ValueNature]]
+[[Piccolo2017_IntrinsicValues]]
+[[Himes2024_WhyNature]]
 [[Ness, Arne]] (philosopher on [[deep ecology]])
 [wikipedia](https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)#Total_intrinsic_value)
 [reddit](https://www.reddit.com/r/askphilosophy/comments/1416hlc/how_could_there_ever_been_such_a_thing_as_an/)
-[[Verones2017_LCIAframework]]
+[[Verones2017_LCIAFramework]]
 [[environmental ethics]]

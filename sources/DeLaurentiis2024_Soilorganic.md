@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-024-02307-9"
 itemKey: 84KT3J48
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil organic carbon as an indicator of land use impacts in life cycle assessment
@@ -53,4 +53,4 @@ Same for forestry (all forestry has 0 impacts on soils with IPCC T1).
 **Needs further work to refine IPCC caluclations to practices on forestry and non conventional farming.**
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.352+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.265+02:00 %%

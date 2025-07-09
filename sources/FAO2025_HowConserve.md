@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: VFPLT3TG
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > How to conserve soil biodiversity
@@ -23,4 +23,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.719+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.033+02:00 %%

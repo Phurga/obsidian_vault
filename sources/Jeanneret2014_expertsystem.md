@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecolind.2014.06.030"
 itemKey: ST5HVFHI
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > An expert system for integrating biodiversity into agricultural life-cycle assessment
@@ -26,4 +26,4 @@ The method defined 11 indicator species group (ISGs) and calculates a score repr
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.867+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.391+02:00 %%

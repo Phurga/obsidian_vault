@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1128/mmbr.00051-12"
 itemKey: RVRZ3UFY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Patterns and Processes of Microbial Community Assembly
@@ -21,4 +21,4 @@ Recent research has expanded our understanding of microbial community assembly. 
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.855+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.364+02:00 %%

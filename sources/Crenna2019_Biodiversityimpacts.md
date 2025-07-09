@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2019.04.054"
 itemKey: CQ5CQT3C
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversity impacts due to food consumption in Europe
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.167+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.914+02:00 %%

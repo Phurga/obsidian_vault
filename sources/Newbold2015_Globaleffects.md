@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/nature14324"
 itemKey: LB99VPJ2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global effects of land use on local terrestrial biodiversity
@@ -24,4 +24,4 @@ importDate: 2025-07-04
 ![[Newbold2015_Globaleffects_intensity_richness.webp]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.870+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.409+02:00 %%

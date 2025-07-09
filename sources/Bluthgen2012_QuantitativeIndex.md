@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.baae.2012.04.001"
 itemKey: CYC4L7YT
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A quantitative index of land-use intensity in grasslands: Integrating mowing, grazing and fertilization
@@ -22,4 +22,4 @@ Menschliche Landnutzung als wichtiger Treiber für die Biodiversität und Funkti
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.331+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.545+02:00 %%

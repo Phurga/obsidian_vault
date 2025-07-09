@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2017.05.206"
 itemKey: JSWRZ454
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > LCIA framework and cross-cutting issues guidance within the UNEP-SETAC Life Cycle Initiative
@@ -27,4 +27,4 @@ Seems to be annoyed that some [[life cycle impact assessment]] methods are going
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.271+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.759+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/conl.12822"
 itemKey: E48A3JUH
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Toward monitoring forest ecosystem integrity within the post-2020 Global Biodiversity Framework
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.261+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.230+02:00 %%

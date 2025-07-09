@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-020-01846-1"
 itemKey: W2N8YRX4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A research perspective towards a more complete biodiversity footprint: a report from the World Biodiversity Forum
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.543+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.820+02:00 %%

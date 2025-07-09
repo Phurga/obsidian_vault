@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jnc.2014.01.007"
 itemKey: CRXZN6XH
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Indicators of hemeroby for the monitoring of landscapes in Germany
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.519+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.077+02:00 %%

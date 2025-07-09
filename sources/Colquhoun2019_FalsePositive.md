@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1080/00031305.2018.1529622"
 itemKey: Y4XYLUIA
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The False Positive Risk: A Proposal Concerning What to Do About p-Values
 > [[Colquhoun, David]], 
 > [[The American Statistician (journal)]] (2019)
-> Bayes, False positive, False positive report probability, False positive risk, FPR, Likelihood ratio, Point null, Positive predictive value, statistics, 
+> statistics, Bayes, False positive, False positive report probability, False positive risk, FPR, Likelihood ratio, Point null, Positive predictive value, 
 > [Online link](https://doi.org/10.1080/00031305.2018.1529622), [Zotero Item](zotero://select/library/items/Y4XYLUIA), [Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/YTHJ9FAF/Colquhoun2019_FalsePositive.pdf), 
 
 >[!abstract]-
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.061+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.699+02:00 %%

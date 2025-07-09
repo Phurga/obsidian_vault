@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1186/s12862-022-02089-4"
 itemKey: 2PJM6DTC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land use and soil characteristics affect soil organisms differently from above-ground assemblages
@@ -24,4 +24,4 @@ Use of the [[PREDICTS]] database, expanded with other data sources.
 ![[Burton2022_Landuse_data_sources.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.634+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.028+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3389/fpls.2022.839407"
 itemKey: 2NDMRWWW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Estimating Alpha, Beta, and Gamma Diversity Through Deep Learning
@@ -27,4 +27,4 @@ importDate: 2025-07-04
 > Gamma diversity describes the overall species diversity across communities within a larger geographic area. It is often summarized across biogeographic or political units, such as ecoregions or countries ([Kier et al., 2005](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full#ref32); [Brummitt et al., 2021](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full#ref11)). Alternatively, studies commonly summarize gamma diversity within cells of a spatial grid of fixed cell-size ([Goldie et al., 2010](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full#ref25); [Thornhill et al., 2016](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full#ref56)). While alpha diversity represents the actual species diversity that can be measured at a given site, gamma diversity more broadly and loosely describes the diversity of species that can be found in the whole area. Gamma diversity is the most communicated level of species diversity when referring to biodiversity hotspots, with tropical regions, in particular the Neotropics, showing the globally highest gamma diversity values ([Raven et al., 2020](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full#ref48)). Alpha diversity, on the other hand, shows different areas of maximum diversity, dependent on the size of the area surveyed, with temperate grasslands showing among the highest species richness on small plots ([Wilson et al., 2012](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.839407/full#ref66)).
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.010+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.032+02:00 %%

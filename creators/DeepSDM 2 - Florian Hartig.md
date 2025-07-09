@@ -16,7 +16,7 @@ Note on deep sdm models: deep models lose the capacity to interpret presence and
 bias - variance tradeoff : 
 ![[SDM 2_tradeoff variance bias.png|600]]
 
-[[explainable AI for more model legitimacy and use]] ([[Ryo2021_Explainableartificial]])
+[[explainable AI for more model legitimacy and use]] ([[Ryo2021_ExplainableArtificial]])
 ![[SDM 2_community_sdm.png|600]]
 
 ![[SDM 2_find_specie_von.png|600]]

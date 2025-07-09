@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3389/fpls.2019.00157"
 itemKey: 47WWRGMJ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Root Exudation of Primary Metabolites: Mechanisms and Their Roles in Plant Responses to Environmental Stimuli
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.741+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.203+02:00 %%

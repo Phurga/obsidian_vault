@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: ZKN2ZHG9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Revamping the LCIA framework through the lens of ecosystem services.
@@ -24,4 +24,4 @@ importDate: 2025-07-04
 ![[Debarre2025_RevampingLCIA_pathway.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.307+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.187+02:00 %%

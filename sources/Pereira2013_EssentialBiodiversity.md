@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1126/science.1229931"
 itemKey: ZMMIRU33
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Essential Biodiversity Variables
 > [[Pereira, H. M.]], [[Ferrier, S.]], [[Walters, M.]], [[Geller, G. N.]], [[Jongman, R. H. G.]], [[Scholes, R. J.]], [[Bruford, M. W.]], [[Brummitt, N.]], [[Butchart, S. H. M.]], [[Cardoso, A. C.]], [[Coops, N. C.]], [[Dulloo, E.]], [[Faith, D. P.]], [[Freyhof, J.]], [[Gregory, R. D.]], [[Heip, C.]], [[Höft, R.]], [[Hurtt, G.]], [[Jetz, W.]], [[Karp, D. S.]], [[McGeoch, M. A.]], [[Obura, D.]], [[Onoda, Y.]], [[Pettorelli, N.]], [[Reyers, B.]], [[Sayre, R.]], [[Scharlemann, J. P. W.]], [[Stuart, S. N.]], [[Turak, E.]], [[Walpole, M.]], [[Wegmann, M.]], 
 > [[Science (journal)]] (2013)
-> biodiversity, 
+> biodiversity, EBVs, 
 > [Online link](https://www.science.org/doi/10.1126/science.1229931), [Zotero Item](zotero://select/library/items/ZMMIRU33), [Local (science.1229931)](file://C:/Users/aburg/Documents/references/zotero/storage/JZLYE749/science.1229931.pdf), 
 
 >[!abstract]-
@@ -35,4 +35,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T17:20:45.070+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.089+02:00 %%

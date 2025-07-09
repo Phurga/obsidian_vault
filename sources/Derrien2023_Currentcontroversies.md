@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s13593-023-00876-x"
 itemKey: 7Z76ZA4X
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Current controversies on mechanisms controlling soil carbon storage: implications for interactions with practitioners and policy-makers. A review
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.383+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.319+02:00 %%

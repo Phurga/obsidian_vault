@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: HT5YEXXW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Indicators repository
@@ -25,4 +25,4 @@ Indicators for the [[Kunming-Montreal Global Biodiversity Framework]], linked to
 ![[UNEP2025_Indicatorsrepository_genetic_diversity.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.069+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.383+02:00 %%

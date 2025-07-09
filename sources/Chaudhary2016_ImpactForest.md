@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/srep23954"
 itemKey: LSQP9Y84
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Impact of Forest Management on Species Richness: Global Meta-Analysis and Economic Trade-Offs
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.928+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.514+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: EN4E8L2W
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Favoriser la biodiversité et renforcer les réseaux de services écosystémiques
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.683+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.927+02:00 %%

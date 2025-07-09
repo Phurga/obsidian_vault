@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/sciadv.abq4049"
 itemKey: 2DUSC3F8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The global biomass and number of terrestrial arthropods
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 [[soil arthropod|arthropods]] [[species abudance]] [[biomass]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.403+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.891+02:00 %%

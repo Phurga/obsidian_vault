@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.5194/bg-17-5223-2020"
 itemKey: GPHLTV67
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Reviews and syntheses: The mechanisms underlying carbon storage in soil
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.199+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.375+02:00 %%

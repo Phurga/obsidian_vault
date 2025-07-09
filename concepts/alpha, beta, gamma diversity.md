@@ -11,6 +11,6 @@ Biodiversity can be measured at different **spatial scales**:
 >[[impacts of land use on biodiversity]]
 
 >[!quote] References
-[[Godet2017_Notiondebat]]
+[[Godet2017_NotionDebat]]
 [[Pyron2010_CharacterizingCommunities]]
 [[Andermann2022_EstimatingAlpha]]

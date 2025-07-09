@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/srep06365"
 itemKey: TTMKW47H
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Earthworms increase plant production: a meta-analysis
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.201+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.617+02:00 %%

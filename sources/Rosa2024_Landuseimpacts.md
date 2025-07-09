@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1101/2024.02.21.580945"
 itemKey: PTY5PHVW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Land-use impacts on plant functional diversity throughout Europe
@@ -24,4 +24,4 @@ Main conclusions We provide a large-scale precise assessment of anthropogenic la
 preprint only
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.389+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.864+02:00 %%

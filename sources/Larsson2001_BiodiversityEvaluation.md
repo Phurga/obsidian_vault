@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: J5F9VP7X
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversity Evaluation Tools for European Forests
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.221+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.169+02:00 %%

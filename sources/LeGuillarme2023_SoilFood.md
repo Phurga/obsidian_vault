@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecoinf.2023.102360"
 itemKey: G39R3HYZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The Soil Food Web Ontology: Aligning trophic groups, processes, resources, and dietary traits to support food-web research
@@ -26,4 +26,4 @@ see:
 - GRATIN, a knowledge graph on soil trophic ecology that integrates a dozen databases (bacteria, fungi, protists, invertebrates, nematodes, etc.). available as a R package
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.276+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.301+02:00 %%

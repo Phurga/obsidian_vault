@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: TMXLEW97
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The limits to growth
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.630+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.970+02:00 %%

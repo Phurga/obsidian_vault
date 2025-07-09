@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.agee.2017.12.008"
 itemKey: 4PUHKF3T
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil carbon stock changes in tropical croplands are mainly driven by carbon inputs: A synthesis
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 [[soil organic matter availability]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.930+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.542+02:00 %%

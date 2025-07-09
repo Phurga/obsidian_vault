@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41586-019-1418-6"
 itemKey: G2ULXGRH
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil nematode abundance and functional group composition at a global scale
@@ -18,4 +18,4 @@ Linked to [[Crowther2020_GlobalDatabase]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.164+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.554+02:00 %%

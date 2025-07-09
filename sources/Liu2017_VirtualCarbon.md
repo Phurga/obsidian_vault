@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2016.03.129"
 itemKey: H3LXMLFP
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Virtual carbon and water flows embodied in international trade: a review on consumption-based analysis
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.398+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.540+02:00 %%

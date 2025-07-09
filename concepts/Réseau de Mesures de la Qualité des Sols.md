@@ -18,4 +18,4 @@ This includes #data on:
 Results based on [[land use]] (arable land, meadows, forests).
 ![[Imbert2021_RMQScomme_results.png|400]]
 
-More information in [[Imbert2021_RMQScomme]].
+More information in [[Imbert2021_RMQSComme]].

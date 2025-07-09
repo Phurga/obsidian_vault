@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/gcb.12709"
 itemKey: YLEC35VY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Assessing biodiversity loss due to land use with Life Cycle Assessment: are we there yet?
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 ![[MaiaDeSouza2015_Assessingbiodiversity_pathway.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.483+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.702+02:00 %%

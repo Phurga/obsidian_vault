@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: V4RH3GHG
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Worldcover Homepage
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.580+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.780+02:00 %%

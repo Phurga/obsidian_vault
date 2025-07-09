@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1146/annurev-ento-020117-043348"
 itemKey: CSQST3UL
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > How Many Species of Insects and Other Terrestrial Arthropods Are There on Earth?
@@ -23,4 +23,4 @@ importDate: 2025-07-04
 [[insects]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.902+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.951+02:00 %%

@@ -17,5 +17,5 @@ Invasive species can disturb stable local [[ecosystem]]s and sometimes destroy t
 ## Modelling in LCA
 Mostly done on marine invasions
 [[Borgelt2024_WhatImpact]]
-[[Gjedde2024_Effectfactors]]
+[[Gjedde2024_EffectFactors]]
 [[Asselin2020_ProductBiodiversity]] (beyond LCA)

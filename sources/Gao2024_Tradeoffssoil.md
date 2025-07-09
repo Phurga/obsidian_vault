@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.tree.2024.05.013"
 itemKey: IEZEUBP5
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Trade-offs in soil microbial functions and soil health in agroecosystems
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.957+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.578+02:00 %%

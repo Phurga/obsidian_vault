@@ -8,7 +8,7 @@ aliases:
 ---
 The **biodiversity value increment (BVI)**, is a [[LCIA method for land use impacts on ecosystem quality]], defined in [[Lindner2019_ValuingBiodiversity]].
 
-This method primarily builds on the [[distance to nature potential]] (DNP) method from [[Fehrenbach2015_Hemerobyimpact]]. The main idea is to define [[hemeroby class]] based on a land use score (see Table 5), and furter converts this class into a characterization factor (see Table 6)[[Fehrenbach2015_Hemerobyimpact]]. The BVI method directly uses the land use score to determine a characterization factor (CF) based on a range of possible CF for this land use (e.g. agricultural land use can only be between class II and class VI). This adaptation avoids thresholds effects (see below). In addition, Lindner uses a [[ordinal-to-cardinal conversion|linear transform]] between hemeroby classes and hemeroby characterization factors. If the same transform was used, the below chart would show the same min and max for Lindner and Fehrenbach.
+This method primarily builds on the [[distance to nature potential]] (DNP) method from [[Fehrenbach2015_HemerobyImpact]]. The main idea is to define [[hemeroby class]] based on a land use score (see Table 5), and furter converts this class into a characterization factor (see Table 6)[[Fehrenbach2015_HemerobyImpact]]. The BVI method directly uses the land use score to determine a characterization factor (CF) based on a range of possible CF for this land use (e.g. agricultural land use can only be between class II and class VI). This adaptation avoids thresholds effects (see below). In addition, Lindner uses a [[ordinal-to-cardinal conversion|linear transform]] between hemeroby classes and hemeroby characterization factors. If the same transform was used, the below chart would show the same min and max for Lindner and Fehrenbach.
 
 ![[Burg2025_hemeroby_tests_comparison_conversion.png|500]]
 
@@ -21,9 +21,9 @@ Method outline
 6. The local BV can be converted into a global BV using a custom [[ecoregion factor]] (EF) accounting for variability of biodiversity impacts among [[ecoregion]] (of the same [[biome]]). This EF accounts for the scarcity of [[biotope|habitat]] (forest, grassland and wetland), [[species extinction risk]] and [[habitat fragmentation]] in the region.
 
 Builds on:
-[[Fehrenbach2015_Hemerobyimpact]] for hemeroby scales and parameters, refined here.
+[[Fehrenbach2015_HemerobyImpact]] for hemeroby scales and parameters, refined here.
 [[Maier2019_ConceptualFramework]] for a global framework 
-[[Ibisch2016_globalmap]] for habitat fragmentation through roadless area.
+[[Ibisch2016_GlobalMap]] for habitat fragmentation through roadless area.
 
 # detailed description
 
@@ -83,7 +83,7 @@ Calculation of BVLU values from z(y) values is done by a simple weighted sum (in
 This value is merely a score for 0 to 1 that quantifies how good or bad this particular assessment is with regards to other assesmments in the same class. A BVLU of 1 means this is the maximal BV for this particular land use class, and 0 the minimum.
 ## local biodiversity value
 The land use BV is then used to determine the local BV. This is done by using the land use BV as a scaling factor in the land use class BV range (Qmax - Qmin).
-This range, in terms of hemeroby classes, is defined in [[Fehrenbach2015_Hemerobyimpact]] and refined/reminded in [[Lindner2018_consistentvariablescale]]:
+This range, in terms of hemeroby classes, is defined in [[Fehrenbach2015_HemerobyImpact]] and refined/reminded in [[Lindner2018_ConsistentVariablescale]]:
 
 | Hemeroby class | description                 | Indicative Examples for forested area | for agricultural land                                               | for other land type                |
 | -------------- | --------------------------- | ------------------------------------- | ------------------------------------------------------------------- | ---------------------------------- |
@@ -111,7 +111,7 @@ Lindner introduces his own "ecoregion factor" (EF).
 This factor accounts for :
 - the proportion of habitat in the ecoregion (through "area share of grasslands and forest" and "area share of wetlands") (sources given in paper)
 - the vulnerabilty and endemism of species (through [[global extinction probability|global extinction probabilities]] (GEP) [[Kuipers2019_PotentialConsequences]])
-- the fragmentation levels in the ecoregion (through share of roadless area [[Ibisch2016_globalmap]])
+- the fragmentation levels in the ecoregion (through share of roadless area [[Ibisch2016_GlobalMap]])
 
 All four datasets mentioned above are equally weighted, which does not seem robust at all.
 ![[Lindner2019_ValuingBiodiversity_EF_formula_ecoregion.png]]

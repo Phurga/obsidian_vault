@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 5VX2NLTU
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > State of knowledge of soil biodiversity - Status, challenges and potentialities
@@ -48,4 +48,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.712+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.008+02:00 %%

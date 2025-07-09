@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: JW9F3CAE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Towards considering functional diversity in impact assessment
@@ -14,8 +14,8 @@ importDate: 2025-07-04
 > [Online link](https://lca-forum.ch/fileadmin/generic_lib/Resources/Public/Downloads/DF87/3_Scherer_DF87_2024.pdf), [Zotero Item](zotero://select/library/items/JW9F3CAE), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/V6C9HWEA/Scherer_CONSIDERINGFUNCTIONAL.pdf), 
 
 %% begin notes %%
-See also [[Rosa2024_Landuseimpacts]]
+See also [[Rosa2024_LanduseImpacts]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.617+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.342+02:00 %%

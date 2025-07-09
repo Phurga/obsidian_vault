@@ -8,6 +8,6 @@ It is difficult to measure empirically and is generally the result of an extrapo
 
 Thus this value is most representative of species richness when communicating results and using values for [[life cycle assessment]].
 ### References
-[[Godet2017_Notiondebat]]
+[[Godet2017_NotionDebat]]
 [[Pyron2010_CharacterizingCommunities]]
 [[Andermann2022_EstimatingAlpha#gamma diversity]]

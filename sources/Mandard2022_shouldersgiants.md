@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/emre.12495"
 itemKey: GEJAE4BB
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > On the shoulders of giants? Motives to cite in management research
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.529+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.796+02:00 %%

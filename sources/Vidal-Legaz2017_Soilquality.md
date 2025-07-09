@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2016.05.077"
 itemKey: 435JRW8H
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil quality, properties, and functions in life cycle assessment: an evaluation of models
@@ -64,4 +64,4 @@ Pathway for land use inventories to AOPs
 The reference state of the soil is defined by its properties (unclear)
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.376+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.877+02:00 %%

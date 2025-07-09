@@ -30,7 +30,7 @@ Ecosystem quality is one of the consensual area of protections grouped by enviro
 [[indicator for ecosystem quality applicable to soil biodiversity]]
 1. rationale on why the current indicator (PDF) cannot be used for soil biodiversity loss
 	- false positives (unreliable)
-		- effect of intensification [[Labouyrie2023_Patternssoil]] > dissimilarities in trends for above ground
+		- effect of intensification [[Labouyrie2023_PatternsSoil]] > dissimilarities in trends for above ground
 		- regional hotspots [[Cameron2019_GlobalMismatches]] > dissimilarities in trends for above ground
 	- species based concept application to soil
 		- horizontal gene transfer, genetic pool

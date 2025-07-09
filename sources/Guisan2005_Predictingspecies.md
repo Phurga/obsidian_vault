@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1461-0248.2005.00792.x"
 itemKey: 8JFMAIGQ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Predicting species distribution: offering more than simple habitat models
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.232+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.167+02:00 %%

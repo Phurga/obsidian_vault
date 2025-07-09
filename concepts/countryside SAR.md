@@ -16,7 +16,7 @@ So the total number of species in a region is given by the sum over all possible
 ### z values
 see [[species-area relationship#data sources for calculations]] for SAR z values
 ### h values
-In [[Scherer2023_BiodiversityImpact]], land use specific h values are calculated using the [[PREDICTS]] database. See [[Kuipers2021_Consideringhabitat]] for formula equation 2.1.3. to calculate h values from species inventories and z values.
+In [[Scherer2023_BiodiversityImpact]], land use specific h values are calculated using the [[PREDICTS]] database. See [[Kuipers2021_ConsideringHabitat]] for formula equation 2.1.3. to calculate h values from species inventories and z values.
  
 ### c values
 when performing relative changes, S/Sref removes the constant c value so we do not need sources for it.
@@ -24,7 +24,7 @@ when performing relative changes, S/Sref removes the constant c value so we do n
 
 ## use in LCA
 [[Chaudhary2015_QuantifyingLand]]
-[[Kuipers2021_Consideringhabitat]]
+[[Kuipers2021_ConsideringHabitat]]
 [[Scherer2023_BiodiversityImpact]].
 ## see also
 [[It is still debated what approach is most accurate to model species-habitat affinities]]

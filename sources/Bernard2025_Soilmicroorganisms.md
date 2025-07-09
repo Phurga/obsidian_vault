@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: WT7XTCZN
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil microorganisms (Les microorganismes du sol)
@@ -26,4 +26,4 @@ Provides key concepts on microorganisms, especially bacteria. Their structure, f
 [[biodiversity#The multi-dimensionality of biodiversity]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.236+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.431+02:00 %%

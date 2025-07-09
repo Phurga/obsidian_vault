@@ -40,8 +40,8 @@ SAR are specific to taxa and regions.
 Accounting for habitat fragmentation in mosaic landscapes is difficult.
 
 ## criticism
-Species richness distribution might be more related to habitat diversity and heterogeneity: this relationship is effective for habitat generalist species but is not adapted for habitat specialists ([[Matthews2014_Habitatfragmentation]]). 
+Species richness distribution might be more related to habitat diversity and heterogeneity: this relationship is effective for habitat generalist species but is not adapted for habitat specialists ([[Matthews2014_HabitatFragmentation]]). 
 
 #todo/notsure SAR is on one side linked to the [[island biogeography]] while habitat diversity approaches is linked to the [[niche theory]]. The latter is seamingly more mechanistic while the first one is more correlative.
 ## data sources for calculations
-[[Storch2012_Universalspecies]] gives z values for mammals, birds and amphibious at regional level (consolidated in appendix S1.2 of [[Kuipers2021_Consideringhabitat]]).
+[[Storch2012_UniversalSpecies]] gives z values for mammals, birds and amphibious at regional level (consolidated in appendix S1.2 of [[Kuipers2021_ConsideringHabitat]]).

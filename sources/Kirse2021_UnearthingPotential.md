@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3389/fevo.2021.630560"
 itemKey: H7Z6BQ5Y
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Unearthing the Potential of Soil eDNA Metabarcoding—Towards Best Practice Advice for Invertebrate Biodiversity Assessment
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.063+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.799+02:00 %%

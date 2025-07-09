@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2014.10.011"
 itemKey: MJW74PPB
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Life cycle assessment of five vegetable oils
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 A good [[consequential LCA]] study 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.683+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.515+02:00 %%

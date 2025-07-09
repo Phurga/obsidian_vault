@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.8b06173"
 itemKey: QVX7K7DI
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Potential Consequences of Regional Species Loss for Global Species Richness: A Quantitative Approach for Estimating Global Extinction Probabilities
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 First definition of [[global extinction probability]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.121+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.914+02:00 %%

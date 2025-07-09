@@ -4,7 +4,7 @@ tags:
 ---
 [[Pereira2013_EssentialBiodiversity]]
 
-[[Jetz2019_Essentialbiodiversity]]
+[[Jetz2019_EssentialBiodiversity]]
 
 ![[Pereira2013_EssentialBiodiversity#the classes of variables]]
 

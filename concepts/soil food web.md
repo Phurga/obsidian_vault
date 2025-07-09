@@ -30,10 +30,10 @@ The concept of **channels** is related to flows of energy, supposedly following 
 [[Calderon-Sanou2022_BetterUnderstanding]] combines high level taxonomic classification with trophic groups to obtain a soil multi-trophic classification shown below:
 ![[Calderon-Sanou2022_betterunderstanding_trophic_groups.png|400]]
 
-This classification was used in [[Cerna2025_LimitsPromises]], based on the work done in [[Hedde2022_commonframework]].
+This classification was used in [[Cerna2025_LimitsPromises]], based on the work done in [[Hedde2022_CommonFramework]].
 ## data
 [[Soil Food Web Ontology]]
 [[GLOBI]] ?
 ## general references
 [[FAO2020_StateKnowledge]]
-[[Vincent2022_Soilbiodiversity]]
+[[Vincent2022_SoilBiodiversity]]

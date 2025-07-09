@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41558-019-0406-z"
 itemKey: ND2WE38E
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global habitat loss and extinction risk of terrestrial vertebrates under future land-use-change scenarios
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.197+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.244+02:00 %%

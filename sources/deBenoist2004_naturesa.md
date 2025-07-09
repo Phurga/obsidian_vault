@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 767XF6SF
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > La nature et sa « valeur intrinseque »
@@ -43,4 +43,4 @@ Captured in [[intrinsic value of nature]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.323+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.220+02:00 %%

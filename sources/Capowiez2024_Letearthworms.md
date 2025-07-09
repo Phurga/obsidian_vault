@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.soilbio.2023.109209"
 itemKey: P2CVXCNC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Let earthworms be functional - Definition of new functional groups based on their bioturbation behavior
@@ -21,4 +21,4 @@ graphical abstract
 ![[Capowiez2024_Letearthworms_classification_abstract.jpg]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.748+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.232+02:00 %%

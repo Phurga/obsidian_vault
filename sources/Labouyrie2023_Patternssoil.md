@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41467-023-37937-4"
 itemKey: K8SXFW2R
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Patterns in soil microbial diversity across Europe
@@ -47,9 +47,9 @@ Use of [[shannon index]] as indicator for "diversity" in the sense that the comm
 ### link for eDNA #data
  https://www.ncbi.nlm.nih.gov/sra?LinkName=bioproject_sra_all&from_uid=952168
 ## References
-[[Tsiafouli2015_Intensiveagriculture]]
-[[Gardi2013_estimatepotential]]
+[[Tsiafouli2015_IntensiveAgriculture]]
+[[Gardi2013_EstimatePotential]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.162+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.997+02:00 %%

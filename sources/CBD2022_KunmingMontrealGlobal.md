@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: QFIGJEHP
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Kunming-Montreal Global Biodiversity Framework
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T17:05:06.105+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.332+02:00 %%

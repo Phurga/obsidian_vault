@@ -5,12 +5,12 @@ ali: BII
 ---
 The **Biodiversity Intactness Index (BII)** is a biodiversity indicator, measuring ecosystem intactness compared to a reference situation based on organisms abundance and diversity.
 
-Defined in [[Scholes2005_biodiversityintactness]]
-![[Scholes2005_biodiversityintactness#^b08fcb]]
+Defined in [[Scholes2005_BiodiversityIntactness]]
+![[Scholes2005_BiodiversityIntactness#^b08fcb]]
 ## coverage
-![[Scholes2005_biodiversityintactness#^9c5bef]]
+![[Scholes2005_BiodiversityIntactness#^9c5bef]]
 ### taxonomic
-![[Scholes2005_biodiversityintactness#^b3f06c]]
+![[Scholes2005_BiodiversityIntactness#^b3f06c]]
 
 Functional taxonomic groups are:
 - plants
@@ -28,5 +28,5 @@ The BII depends on the taxon richness,
 
 >[!warning] While [[species richness]] and area of [[land use]] are based readily available data, population impact $I_{ijk}$ is defined by experts based on field studies and is subject to expert opinions and misses data to be robust.
 ## Use
-Used in [[planetary boundaries]] framework until 2023 for functional diversity ([[Richardson2023_Earthsix#^7c4021]]) now replaced with [[HANPP]] ([[Richardson2023_Earthsix#^8944cc]])
+Used in [[planetary boundaries]] framework until 2023 for functional diversity ([[Richardson2023_EarthSix#^7c4021]]) now replaced with [[HANPP]] ([[Richardson2023_EarthSix#^8944cc]])
 Used in [[PREDICTS]], as biodiversity indicator to estimates impacts of increasing [[land use intensity]].

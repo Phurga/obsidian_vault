@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1046/j.1523-1739.2003.01236.x"
 itemKey: SN4CUW8H
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Correlation between Fitness and Genetic Diversity
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.331+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.707+02:00 %%

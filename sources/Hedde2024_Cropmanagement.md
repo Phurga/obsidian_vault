@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.agee.2024.109058"
 itemKey: XH73LQJU
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Crop management strategies shape the shared temporal dynamics of soil food web structure and functioning
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.346+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.361+02:00 %%

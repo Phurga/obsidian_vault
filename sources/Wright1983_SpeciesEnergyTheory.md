@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.2307/3544109"
 itemKey: LJ8RX7Z7
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Species-Energy Theory: An Extension of Species-Area Theory
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.751+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.496+02:00 %%

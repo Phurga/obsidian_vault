@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s00442-004-1744-7"
 itemKey: UH2KBVDW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Functional regularity: a neglected aspect of functional diversity
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.831+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.315+02:00 %%

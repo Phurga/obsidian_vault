@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1126/science.1127609"
 itemKey: LVXIX59J
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global Biodiversity Conservation Priorities
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.519+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.829+02:00 %%

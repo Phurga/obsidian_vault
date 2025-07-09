@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11033-022-08015-7"
 itemKey: NNS763U6
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > DNA barcoding, an effective tool for species identification: a review
@@ -40,4 +40,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.037+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.107+02:00 %%

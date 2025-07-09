@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-017-1422-8"
 itemKey: GA5XNA2L
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Ecosystem quality in LCIA: status quo, harmonization, and suggestions for the way forward
@@ -18,7 +18,7 @@ importDate: 2025-07-04
 
 %% begin notes %%
 [[ecosystem quality]] and [[intrinsic value of nature]]
->With respect to impacts related to ecosystems, the life cycle impact assessment (LCIA) framework distinguishes between impacts affecting intrinsic values and instrumental values for humans ([[Verones2017_LCIAframework]]). The former mostly relates to current concerns for biodiversity loss, which is covered under the area of protection (AoP) ecosystem quality. Ecosystem services, the instrumental benefits people obtain from ecosystems, are foreseen as a future, additional AoP ([[Verones2017_LCIAframework]]).
+>With respect to impacts related to ecosystems, the life cycle impact assessment (LCIA) framework distinguishes between impacts affecting intrinsic values and instrumental values for humans ([[Verones2017_LCIAFramework]]). The former mostly relates to current concerns for biodiversity loss, which is covered under the area of protection (AoP) ecosystem quality. Ecosystem services, the instrumental benefits people obtain from ecosystems, are foreseen as a future, additional AoP ([[Verones2017_LCIAFramework]]).
 
 [[Global Guidance on Environmental Life Cycle Impact Assessment Indicators]] is a UNEP-SETAC project aiming to harmonize LCIA methods. This is a summary of these discussions.
 Uses [[Curran2011_MeaningfulEnd]] a lot as basis for clarification of needs on biodiv.
@@ -36,4 +36,4 @@ Important references:
 [[Curran2011_MeaningfulEnd]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.717+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.437+02:00 %%

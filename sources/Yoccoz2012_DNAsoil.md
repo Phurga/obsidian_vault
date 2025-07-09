@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1365-294X.2012.05545.x"
 itemKey: 34M6ZVI2
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > DNA from soil mirrors plant taxonomic and growth form diversity
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.780+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.552+02:00 %%

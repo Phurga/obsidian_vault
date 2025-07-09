@@ -18,4 +18,4 @@ According to https://www.canr.msu.edu/resources/habitat-niche
 >[!note] anthropomorphism
 >[[Lazzarotti2013_NotionHabiter]] gives a discussion on what is inhabiting (and thus a habitat) for human populations.
 ## habitat, niche, biotope etc
-Sometimes it is different to discriminate between terms [[Supagro2025_Processusdagregation#habitat]] and https://www.jstor.org/stable/1929830?seq=3.
+Sometimes it is different to discriminate between terms [[Supagro2025_ProcessusDagregation#habitat]] and https://www.jstor.org/stable/1929830?seq=3.

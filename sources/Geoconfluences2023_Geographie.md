@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: KY7JCGBM
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Géographie
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.020+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.750+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-016-1246-y"
 itemKey: D3K4SQJS
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > ReCiPe2016: a harmonised life cycle impact assessment method at midpoint and endpoint level
@@ -19,4 +19,4 @@ importDate: 2025-07-04
 [[life cycle impact assessment]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.574+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.694+02:00 %%

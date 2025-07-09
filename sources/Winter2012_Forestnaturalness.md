@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1093/forestry/cps004"
 itemKey: K54XQZ7N
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Forest naturalness assessment as a component of biodiversity monitoring and conservation management
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.684+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.387+02:00 %%

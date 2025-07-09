@@ -20,7 +20,7 @@ Plants use the mineral form - transforming it to an organic form. For instance f
 
 Organisms have a defined [[C to N ratio]], and they tend to look for food that correspond to this ratio. They need to expulse excess nutrients in their excretions to maintain their C to N ratio. This means that organisms eating too rich food will produce rich excrements, food for other organisms. [[earthworm]] turricles are for instance richer than the rest of the soil.
 
-Example of nitrogen cycling: (N2 > NH3 > NO2 > NO3 > Norg cycle) [[Marsden2025_Introductionsoil]]
+Example of nitrogen cycling: (N2 > NH3 > NO2 > NO3 > Norg cycle) [[Marsden2025_IntroductionSoil]]
 Example of phosphorus cycling: (P rock > HPO4 > phytate > Porg) phytate: P storing molecule for plants (in grain)
 ## biological stimulation
 [[microfauna]] can stimulate the cycling of these nutrients via predation (e.g. [[nematode]] can increase a lot nutrient availability in soil via their activity).

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1365-2699.2005.01272.x"
 itemKey: P4Y5BC8C
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global patterns of plant diversity and floristic knowledge
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 [[taxonomy]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.046+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.771+02:00 %%

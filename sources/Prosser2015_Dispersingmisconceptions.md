@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/nrmicro3468"
 itemKey: VKAUNQ6C
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Dispersing misconceptions and identifying opportunities for the use of 'omics' in soil microbial ecology
@@ -45,4 +45,4 @@ Gpb: giga pair bases (bilions of pairs of DNA nucleotides)
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.233+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.302+02:00 %%

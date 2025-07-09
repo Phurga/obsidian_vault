@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.6084/m9.figshare.c.4718003.v1"
 itemKey: YCN2QH5M
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A global database of soil nematode abundance and functional group composition
@@ -20,7 +20,7 @@ importDate: 2025-07-04
 #data 
 article [link](https://www.nature.com/articles/s41597-020-0437-3)
 [files](file:\\\C:\Users\aburg\Documents\code\nematode_exploration\data)
-Article: [[VanDenHoogen2019_Soilnematode]]
+Article: [[VanDenHoogen2019_SoilNematode]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.205+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.997+02:00 %%

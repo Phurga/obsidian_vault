@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/0038-0717(85)90113-0"
 itemKey: J4J5KGMV
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Interactions of bacteria, protozoa and plants leading to mineralization of soil nitrogen
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.988+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.612+02:00 %%

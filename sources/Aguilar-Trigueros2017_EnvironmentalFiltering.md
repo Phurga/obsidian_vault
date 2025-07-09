@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.tree.2017.09.013"
 itemKey: 9P58SGSB
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Environmental Filtering Is a Relic. A Response to Cadotte and Tucker
@@ -16,4 +16,4 @@ importDate: 2025-07-04
 %% begin notes %%
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:57.963+02:00 %%
+%% Import Date: 2025-07-09T11:58:04.936+02:00 %%

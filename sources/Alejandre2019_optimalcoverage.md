@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2019.05.284"
 itemKey: JIH6T2NQ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Towards an optimal coverage of ecosystem services in LCA
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:57.994+02:00 %%
+%% Import Date: 2025-07-09T11:58:04.981+02:00 %%

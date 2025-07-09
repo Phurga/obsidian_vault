@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: VXJYJGRY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Indicator metadata form for compilation of data relating to headline indicators proposed in the first draft of the monitoring framework for the post-2020 global biodiversity framework
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.814+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.355+02:00 %%

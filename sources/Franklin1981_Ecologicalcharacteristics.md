@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.2737/PNW-GTR-118"
 itemKey: Q7IEZKVY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Ecological characteristics of old-growth Douglas-fir forests.
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 Used in [[Noss1990_IndicatorsMonitoring]] to support the concept of [[biodiversity]].
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.899+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.316+02:00 %%

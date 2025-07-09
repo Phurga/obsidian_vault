@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: MNC6R76U
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Microbial Diversity and Bioprospecting, Microbial Endemism and Biogeography
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.369+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.401+02:00 %%

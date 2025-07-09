@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.0c01553"
 itemKey: 7CAVYET9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Assessing Impacts on the Natural Resource Soil in Life Cycle Assessment: Methods for Compaction and Water Erosion
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.785+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.763+02:00 %%

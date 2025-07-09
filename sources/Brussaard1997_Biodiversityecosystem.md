@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: G7JXXSQL
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Biodiversity and ecosystem functioning in soil
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 [[Brussaard2021_BiodiversityEcosystem]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.534+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.852+02:00 %%

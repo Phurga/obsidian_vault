@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1021/acs.est.5b04681"
 itemKey: NF92Z972
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > How Well Does LCA Model Land Use Impacts on Biodiversity?—A Comparison with Approaches from Ecology and Conservation
@@ -26,4 +26,4 @@ Part of [[GLAM]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.234+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.051+02:00 %%

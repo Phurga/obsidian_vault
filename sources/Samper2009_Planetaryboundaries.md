@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/climate.2009.99"
 itemKey: KEW9ZP7S
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Planetary boundaries: Rethinking biodiversity
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 [[planetary boundaries]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.453+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.997+02:00 %%

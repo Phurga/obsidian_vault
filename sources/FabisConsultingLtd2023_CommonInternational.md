@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 4VUB3CUX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Common International Classiﬁcation of Ecosystem Services (CICES) V5.2 Guidance on the Application of the Revised Structure
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.685+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.916+02:00 %%

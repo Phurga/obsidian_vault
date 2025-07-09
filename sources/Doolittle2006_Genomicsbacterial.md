@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1186/gb-2006-7-9-116"
 itemKey: 3QBW962X
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Genomics and the bacterial species problem
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.496+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.592+02:00 %%

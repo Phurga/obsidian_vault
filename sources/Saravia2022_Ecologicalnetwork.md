@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/1365-2656.13652"
 itemKey: 9KE7LYTF
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Ecological network assembly: How the regional metaweb influences local food webs
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.533+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.197+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1365-2664.2008.01524.x"
 itemKey: XW5LVGLV
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Habitat suitability modelling and niche theory
@@ -24,4 +24,4 @@ importDate: 2025-07-04
 ![[Hirzel2008_Habitatsuitability_SDM.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.451+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.539+02:00 %%

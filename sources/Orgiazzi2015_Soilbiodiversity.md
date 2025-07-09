@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.soilbio.2014.10.014"
 itemKey: LY76AX6A
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil biodiversity and DNA barcodes: opportunities and challenges
@@ -30,4 +30,4 @@ Metagenomics (identification of full genome of organisms, with genes and associa
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.998+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.817+02:00 %%

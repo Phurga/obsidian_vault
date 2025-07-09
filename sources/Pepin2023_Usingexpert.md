@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.ecolind.2023.110098"
 itemKey: QPW8GB5F
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Using an expert system to assess biodiversity in life cycle assessment of vegetable crops
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.113+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.034+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.0030-1299.2007.15559.x"
 itemKey: RYQMH3QX
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Let the concept of trait be functional!
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.441+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.940+02:00 %%

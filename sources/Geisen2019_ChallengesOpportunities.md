@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.cub.2019.08.007"
 itemKey: K25TRFHI
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Challenges and Opportunities for Soil Biodiversity in the Anthropocene
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.002+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.688+02:00 %%

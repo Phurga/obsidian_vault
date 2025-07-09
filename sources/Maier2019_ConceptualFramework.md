@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3390/su11071841"
 itemKey: IFZFQYW9
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Conceptual Framework for Biodiversity Assessments in Global Value Chains
@@ -28,4 +28,4 @@ links valuable refs, esp on soils.
 Reactive vs proactive approaches.
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.497+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.739+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/j.1461-0248.2009.01360.x"
 itemKey: QEXXUUMK
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global patterns in belowground communities
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.836+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.205+02:00 %%

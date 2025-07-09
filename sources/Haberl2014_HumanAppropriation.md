@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1146/annurev-environ-121912-094620"
 itemKey: I6454Z5C
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Human Appropriation of Net Primary Production: Patterns, Trends, and Planetary Boundaries
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.247+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.197+02:00 %%

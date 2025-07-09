@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: TDC6IEZS
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Combining the impact on biodiversity of agricultural management practices at local scale with land use at global scale
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 The method selected [[indicator species]] groups (ISGs) of signifi
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.689+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.125+02:00 %%

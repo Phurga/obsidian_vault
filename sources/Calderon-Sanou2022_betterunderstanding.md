@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: 8XXALQKE
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Towards a better understanding of soil multi-trophic biodiversity through the use of environmental DNA metabarcoding
@@ -56,7 +56,7 @@ the “energy hypothesis”, the “physiological tolerance hypothesis”, the �
 ![[Calderon-Sanou2022_betterunderstanding_theories.png]]
 ## references
 
-- [[Potapov2022_Multifunctionalitybelowground]]
+- [[Potapov2022_MultifunctionalityBelowground]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.694+02:00 %%
+%% Import Date: 2025-07-09T11:58:06.148+02:00 %%

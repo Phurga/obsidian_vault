@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: M3XKWKCC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Introduction to soil ecology (Introduction à l’écologie du sol)
@@ -30,4 +30,4 @@ Overview of soil ecology concepts which will be refined in the other modules of 
 [[microbial loop]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.559+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.850+02:00 %%

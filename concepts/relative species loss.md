@@ -13,6 +13,6 @@ RSL is adimnensional. It represent a change in richness and can be calculated fo
 
 Using relative loss is convenient because richness sampling is different with each species group (measuring arthropods richness is different than with birds and leads to different estimates), leading to differences in capacity to monitor absolute changes in richness [[deBaan2013_LandUse]].
 
-There is a debate whereas richness is a relevant metric vs abudance ([[mean species abundance|MSA]]) or biomass ([[HANPP]]). See [[Gaston2008_Commonnesspopulation]] and [[Kuipers2025_Relationshipsmean]].
+There is a debate whereas richness is a relevant metric vs abudance ([[mean species abundance|MSA]]) or biomass ([[HANPP]]). See [[Gaston2008_CommonnessPopulation]] and [[Kuipers2025_RelationshipsMean]].
 
-In [[VeronesFrancesca2024_Lifecycle]], Verones says the use of species richness is limiting biodiversity assessment to species only but it is a pragmatic approach motivated by data availability. An important factor in [[life cycle assessment]] is global coverage, because the systems we study are embedded in global value chains, so to fully study a system and ensure a consistent approach on the whole system, and ensure comparability across systems, we need global coverage.
+In [[VeronesFrancesca2024_LifeCycle]], Verones says the use of species richness is limiting biodiversity assessment to species only but it is a pragmatic approach motivated by data availability. An important factor in [[life cycle assessment]] is global coverage, because the systems we study are embedded in global value chains, so to fully study a system and ensure a consistent approach on the whole system, and ensure comparability across systems, we need global coverage.

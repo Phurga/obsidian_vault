@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1098/rstb.2007.2178"
 itemKey: ZG92ELWW
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Soil health in agricultural systems
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.016+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.714+02:00 %%

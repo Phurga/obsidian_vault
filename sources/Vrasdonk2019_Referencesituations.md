@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-019-01594-x"
 itemKey: NUGXT6SI
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Reference situations for biodiversity in life cycle assessments: conceptual bridging between LCA and conservation biology
@@ -43,4 +43,4 @@ LCIA methods vs conservation frameworks
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.474+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.984+02:00 %%

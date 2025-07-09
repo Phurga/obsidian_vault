@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.52394/ijolcas.v3i1.42"
 itemKey: NBYDATBB
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Using the LANCA® Model to Account for Soil Quality Within LCA: First Application and Approach Comparison in Two Contrasted Tropical Case Studies
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.969+02:00 %%
+%% Import Date: 2025-07-09T11:58:15.095+02:00 %%

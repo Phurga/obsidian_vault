@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.tree.2014.11.006"
 itemKey: 58ASAWWY
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Fifteen forms of biodiversity trend in the Anthropocene
@@ -30,4 +30,4 @@ importDate: 2025-07-04
 ![[McGill2015_Fifteenforms_summary.jpg]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.598+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.938+02:00 %%

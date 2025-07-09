@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1080/00031305.2019.1583913"
 itemKey: KR3VUIYZ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Moving to a World Beyond “p < 0.05”
@@ -25,4 +25,4 @@ analysis and interpretation of results
 Part 7 for practical recommendations
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.550+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.132+02:00 %%

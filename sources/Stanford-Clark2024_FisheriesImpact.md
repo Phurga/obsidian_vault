@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.3390/su16093870"
 itemKey: 55W77A7C
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Fisheries Impact Pathway: Making Global and Regionalised Impacts on Marine Ecosystem Quality Accessible in Life Cycle Impact Assessment
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.866+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.869+02:00 %%

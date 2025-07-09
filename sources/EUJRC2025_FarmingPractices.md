@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.2760/9473570"
 itemKey: 6C8PTE8L
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Farming Practices Evidence library
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 #data
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.594+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.831+02:00 %%

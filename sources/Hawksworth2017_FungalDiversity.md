@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1128/microbiolspec.funk-0052-2016"
 itemKey: AR8EID7E
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Fungal Diversity Revisited: 2.2 to 3.8 Million Species
@@ -22,4 +22,4 @@ importDate: 2025-07-04
 [[species richness]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.300+02:00 %%
+%% Import Date: 2025-07-09T11:58:09.281+02:00 %%

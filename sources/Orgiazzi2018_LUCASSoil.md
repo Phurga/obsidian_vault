@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/ejss.12499"
 itemKey: 8SA5FBVC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > LUCAS Soil, the largest expandable soil dataset for Europe: a review
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.027+02:00 %%
+%% Import Date: 2025-07-09T11:58:12.877+02:00 %%

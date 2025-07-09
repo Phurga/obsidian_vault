@@ -4,13 +4,13 @@ tags:
   - zotero
 doi: "10.1038/s41559-019-0826-1"
 itemKey: AA27MZEQ
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Essential biodiversity variables for mapping and monitoring species populations
 > [[Jetz, Walter]], [[McGeoch, Melodie A.]], [[Guralnick, Robert]], [[Ferrier, Simon]], [[Beck, Jan]], [[Costello, Mark J.]], [[Fernandez, Miguel]], [[Geller, Gary N.]], [[Keil, Petr]], [[Merow, Cory]], [[Meyer, Carsten]], [[Muller-Karger, Frank E.]], [[Pereira, Henrique M.]], [[Regan, Eugenie C.]], [[Schmeller, Dirk S.]], [[Turak, Eren]], 
 > [[Nature Ecology & Evolution (journal)]] (2019)
-> biodiversity, Ecology, Evolution, 
+> biodiversity, Ecology, Evolution, EBVs, 
 > [Online link](https://www.nature.com/articles/s41559-019-0826-1), [Zotero Item](zotero://select/library/items/AA27MZEQ), [Local (Full Text PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/FLRR75FG/Jetz2019_Essentialbiodiversity.pdf), 
 
 >[!abstract]-
@@ -23,4 +23,4 @@ wants to capture species distribution and abundance over time and space
 looks very complex and beyond my current understanding, dont read now (update: now i get it !)
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.915+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.450+02:00 %%

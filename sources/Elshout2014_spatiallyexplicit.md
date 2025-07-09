@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-014-0701-x"
 itemKey: I43FW7ZU
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A spatially explicit data-driven approach to assess the effect of agricultural land occupation on species groups
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 Another method to read not using [[species-area relationship|SAR]] nor [[species distribution model|HSM]] ([[land use]] [[biodiversity]]).
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.565+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.715+02:00 %%

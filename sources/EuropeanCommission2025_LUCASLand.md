@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: XA32W6M8
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > LUCAS - Land use and land cover survey
@@ -21,4 +21,4 @@ land classification: https://showvoc.op.europa.eu/#/datasets/ESTAT_LUCAS_Classif
 #data
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.654+02:00 %%
+%% Import Date: 2025-07-09T11:58:07.859+02:00 %%

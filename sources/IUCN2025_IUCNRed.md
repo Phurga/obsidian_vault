@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: DTFRVVW6
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > The IUCN Red List of Threatened Species
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 ![[IUCN2025_IUCNReda_species_coverage_time.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.824+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.306+02:00 %%

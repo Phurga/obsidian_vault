@@ -9,4 +9,4 @@ This question is discussed in [[Verones2015_HarmonizingAssessment]].
 
 In [[Chaudhary2015_QuantifyingLand]], aggregation is done considering equal weights for each taxon (considering 5 taxon for regional CFs ([[tetrapod]]) and 4 taxon for global CFs (adding [[plants]]).
 
-In [[Verones2020_LCIMPACTregionalized]], aggregation is done considering 50% of the weight for [[tetrapod]] (with equal weighting for the 4 subclasses) and 50% for plants.
+In [[Verones2020_LCIMPACTRegionalized]], aggregation is done considering 50% of the weight for [[tetrapod]] (with equal weighting for the 4 subclasses) and 50% for plants.

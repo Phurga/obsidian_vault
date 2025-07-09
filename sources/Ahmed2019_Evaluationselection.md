@@ -34,7 +34,7 @@ species traits: plants: leaf area, rooting depth ... animals: body size, respira
 
 > functional diversity is one of the best predictors of ecosystem functioning that is available (...) that it is not the number of species but the number of traits that directly relates to ecosystem functioning
 
-- [[MaiaDeSouza2013_Landuse]] integrates a functional diversity metric, but data availability limited its use to america
+- [[MaiaDeSouza2013_LandUse]] integrates a functional diversity metric, but data availability limited its use to america
 - no consensus on a metric to link invetory with FD
 - analogy with richness: 
 	- you start from inventories of species under given states (eg natural land use and arable land) and derive richness (amount of species) for each state, and get PDF from the difference between the two states.

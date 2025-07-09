@@ -22,4 +22,4 @@ https://www.sciencedirect.com/science/article/pii/S0169534717302562?via%3Dihub
 >Environmental Filtering Is a Relic
 
 ## references
-![[Si-Moussi2020_Contributiondata#^24680d]]
+![[Si-Moussi2020_ContributionData#^24680d]]

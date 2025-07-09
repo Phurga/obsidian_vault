@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-015-0955-y"
 itemKey: VGTIVR96
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Hemeroby as an impact category indicator for the integration of land use into life cycle (impact) assessment
@@ -26,7 +26,7 @@ importDate: 2025-07-04
 > Brentrup 2002 (original ordinal to cardinal conversion)
 > Fehrenbach 2000 (original land use differentiation metric for agricultural land)
 > Tiedemann A 2000 (first application of hemeroby in a product LCA - paper LCA)
-> [[Lindner2019_ValuingBiodiversity]] and [[Lindner2018_consistentvariablescale]] (follow up)
+> [[Lindner2019_ValuingBiodiversity]] and [[Lindner2018_ConsistentVariablescale]] (follow up)
 
 > [!Context]
 > This article does not follow the agreed framework for LCIA of land use (with impacts from occupation and transformation), it only considers transformation impacts. It does not consider the land use classes defined in this framework (arable, forest etc).
@@ -37,4 +37,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:59.772+02:00 %%
+%% Import Date: 2025-07-09T11:58:08.117+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1038/s41467-020-16881-7"
 itemKey: MQ4ZQKC5
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Meta-analysis of the impacts of global change factors on soil microbial diversity and functionality
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.858+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.662+02:00 %%

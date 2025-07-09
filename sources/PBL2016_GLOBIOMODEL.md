@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: XWMECL7B
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > THE GLOBIO MODEL  A technical description of version 3.5
@@ -17,4 +17,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.087+02:00 %%
+%% Import Date: 2025-07-09T11:58:13.006+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-021-01899-w"
 itemKey: WPRWM92A
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Moving beyond land use intensity types: assessing biodiversity impacts using fuzzy thinking
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.378+02:00 %%
+%% Import Date: 2025-07-09T11:58:11.506+02:00 %%

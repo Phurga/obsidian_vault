@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1007/s11367-019-01583-0"
 itemKey: 2W22CJG4
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > IMPACT World+: a globally regionalized life cycle impact assessment method
@@ -21,4 +21,4 @@ importDate: 2025-07-04
 ![[Bulle2019_IMPACTWorld_impact_pathway.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.583+02:00 %%
+%% Import Date: 2025-07-09T11:58:05.916+02:00 %%

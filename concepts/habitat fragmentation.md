@@ -11,9 +11,9 @@ aliases:
 
 The impacts of habitat fragmentation can be limited by increasing [[ecological connectivity]].
 ## in LCA
-[[Kuipers2021_Consideringhabitat]] developped accounts for fragmentation in its [[species-habitat relationship]] method, using a given land cover map as input (spatial explicit).
-[[Larrey-Lassalle2018_Developingcharacterisation]] (not read)
-[[Lindner2019_ValuingBiodiversity]] considers fragmentation via roads ([[Ibisch2016_globalmap]] dataset).
+[[Kuipers2021_ConsideringHabitat]] developped accounts for fragmentation in its [[species-habitat relationship]] method, using a given land cover map as input (spatial explicit).
+[[Larrey-Lassalle2018_DevelopingCharacterisation]] (not read)
+[[Lindner2019_ValuingBiodiversity]] considers fragmentation via roads ([[Ibisch2016_GlobalMap]] dataset).
 ## data
 #data 
-[[Ibisch2016_globalmap]] provides a dataset for habitat fragmentation due to roads.
+[[Ibisch2016_GlobalMap]] provides a dataset for habitat fragmentation due to roads.

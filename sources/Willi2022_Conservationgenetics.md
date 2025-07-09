@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1073/pnas.2105076119"
 itemKey: KYI5NM6L
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Conservation genetics as a management tool: The five best-supported paradigms to assist the management of threatened species
@@ -23,4 +23,4 @@ Mentionned in [[Kunming-Montreal Global Biodiversity Framework]].
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:03.624+02:00 %%
+%% Import Date: 2025-07-09T11:58:16.279+02:00 %%

@@ -5,7 +5,7 @@ tags:
 Biodiversity is not only **compositional** (constituents of the system) but also **structural** (interactions, spatial and temporal aspects in the system) and **functional** (functions in the system, such as trophic webs).
 
 >[!warning] 
->[[Franklin1981_Ecologicalcharacteristics]] focused on forests, to which structure would make much more common sense (than the expanded meaning for concepts such as genetic structure).
+>[[Franklin1981_EcologicalCharacteristics]] focused on forests, to which structure would make much more common sense (than the expanded meaning for concepts such as genetic structure).
 >Now I would rather follow the [[essential biodiversity variables]] which consider ecosystem structure and ecosystem function (and species traits for functional ecology). Instead of this abstract view of structure beyond ecosystem...
 
 see 

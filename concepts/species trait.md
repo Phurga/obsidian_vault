@@ -8,9 +8,9 @@ aliases:
 tags:
   - concept/definition
 ---
-**Species traits** are measurable features (characteristics) of organisms ([[Violle2007_Letconcept]]). 
+**Species traits** are measurable features (characteristics) of organisms ([[Violle2007_LetConcept]]). 
 
-![[Violle2007_Letconcept#^b3e808]]
+![[Violle2007_LetConcept#^b3e808]]
 
 Heart of functional ecology ([[functional diversity]]).
 

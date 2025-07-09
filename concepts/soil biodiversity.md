@@ -9,7 +9,7 @@ aliases:
 
 The diversity of organisms in soil is fostered by the diversity in [[biotope|habitat]] inside the hierarchical structure of [[soil aggregate|soil organo-mineral aggregate]]s. Diversity is also boosted by the oligotrophic nature of soil (food scarce) leading to important organisms specialisation.
 
-An organism is considered a soil organism if it spends at least one active stage of its life cycle in the soil ([[Marsden2025_Introductionsoil]]). Insects can have passive or active soil larvae, defining if they are classified as soil organisms or not.
+An organism is considered a soil organism if it spends at least one active stage of its life cycle in the soil ([[Marsden2025_IntroductionSoil]]). Insects can have passive or active soil larvae, defining if they are classified as soil organisms or not.
 
 Soil likely hosts 60% of global species [[Anthony2023_EnumeratingSoil]].
 

@@ -16,15 +16,15 @@ Earthworms are an important source of biomass at 2 tons per ha, equal to half th
 ## ecological functions
 Earthworms not only move soil but also modify it by digesting it (*bioturbation*). The digestive system of worms is a medium where microbes transform organic matter and mix it to the soil, to get energy for the worm and the microbes, and also to excrete *casts*, a mix of soil and other worm induced microorganisms. Worms benefit from the energy during the digestion but also create their own [[biotope|habitat]].
 
-In the short term, worm casts slow down organic matter [[mineralization]] by protecting it by a layer of mucus, making it more accessible to other organisms ([[carbon transformation]]). Earthworms presence increase soil productivity, +25% average yields [[vanGroenigen2014_Earthwormsincrease]].  Earthworm activity and effect is improved with increased crop residue and reduced mineral fertilisation.
+In the short term, worm casts slow down organic matter [[mineralization]] by protecting it by a layer of mucus, making it more accessible to other organisms ([[carbon transformation]]). Earthworms presence increase soil productivity, +25% average yields [[vanGroenigen2014_EarthwormsIncrease]].  Earthworm activity and effect is improved with increased crop residue and reduced mineral fertilisation.
 
-Worms increase [[nutrient cycling]] and transform organic material into mineral nitrogen (ammonia, nitrates). Worm casts is much more fertile than average soil [[Vos2019_Largevariations]]. There is an increased C concentration surrounding earthworms galeries (vs soil bulk): through excrements and mucus secretion stimulating local activity.
+Worms increase [[nutrient cycling]] and transform organic material into mineral nitrogen (ammonia, nitrates). Worm casts is much more fertile than average soil [[Vos2019_LargeVariations]]. There is an increased C concentration surrounding earthworms galeries (vs soil bulk): through excrements and mucus secretion stimulating local activity.
 
 There is a coincidence between the apparition of earthworms and fertile soils, but no causality established. There was no earthworms in northern american ecosystems until we introduced them, and still there were fertile ecosystems (meadows).
 
 Anecic worms incorporate litter into the soil. Endogeic worms disperse SOM into the soil. They also have strong soil structure effects (decompaction, galeries for soil infiltration).
 
-Earthworms are not such as great bioindicator. [[Hedde2025_Diversityroles]]
+Earthworms are not such as great bioindicator. [[Hedde2025_DiversityRoles]]
 ## classification
 There are 6000 described [[taxonomy]] of earthworms, that can be classified by their functional traits (or by ecological categories by [[Bouché, Marcel]]). It is especially challenging to classify earthworms species since they have little anatomical 
 

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1111/jpy.13444"
 itemKey: SPHH8DNC
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A critical review of soil algae as a crucial soil biological component of high ecological and economic significance
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:00.953+02:00 %%
+%% Import Date: 2025-07-09T11:58:10.544+02:00 %%

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: "10.1016/j.jclepro.2015.03.013"
 itemKey: RFY59BS5
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > A framework for modelling indirect land use changes in Life Cycle Assessment
@@ -20,4 +20,4 @@ importDate: 2025-07-04
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:02.670+02:00 %%
+%% Import Date: 2025-07-09T11:58:14.442+02:00 %%
