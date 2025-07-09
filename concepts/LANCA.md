@@ -18,8 +18,8 @@ Calculations are region specific and land use specific. If available, considers 
 
 ![[Bos2016_LANCACharacterization_LANCA_structure.png|400]]
 # History
-Version 1.0, [[Beck2010_LANCALand]]
-Version 2.0, [[Bos2016_LANCACharacterization]]
+Version 1.0, [[FraunhoferIBP2010_LANCALand]]
+Version 2.0, [[FraunhoferIBP2016_LANCACharacterization]]
 Version 2.3, Bos, U., Horn, R., Maier, S., Beck, T., 2016b. LANCA® - Characterization Factors for Life Cycle Impact Assessment, Version 2.3. November 2016. Available at: http://ibp-gabi.de/files/lanca_characterisation_factors_v2-3.pdf.
 Version 2.5, Horn, R., Maier, S., 2018. LANCA®- Characterization Factors for Life Cycle Impact Assessment, Version 2.5. November 2018, Available at: http://publica.fraunhofer.de/documents/N-379310.html.
 The [[soil quality index]], [[DeLaurentiis2019_SoilQuality]].

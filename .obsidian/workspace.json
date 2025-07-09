@@ -13,63 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/checks/check for duplicate itemkeys zotero.md",
-                "mode": "source",
-                "source": false,
+                "file": "misc/checks/check for source references in notes.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "check for duplicate itemkeys zotero"
+              "title": "check for source references in notes"
             }
           },
           {
-            "id": "db768a3cb7fe2c28",
+            "id": "878bd8c0b7f3d2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/INRAE2024_DecryptageAnalyse.md",
+                "file": "delete_list.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "INRAE2024_DecryptageAnalyse"
-            }
-          },
-          {
-            "id": "834e65f53f6dcaf7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "delete_list"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "dce8cdf041e549ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d51944cc9855278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/EuropeanCommission2010_EuropeanAtlas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "EuropeanCommission2010_EuropeanAtlas"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "misc/checks/check for mistagged files.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,15 +166,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of check for mistagged files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -220,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "delete_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for delete_list"
             }
           },
           {
@@ -238,11 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "misc/checks/check for mistagged files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from check for mistagged files"
             }
           },
           {
@@ -251,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "misc/checks/check for mistagged files.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of check for mistagged files"
             }
           },
           {
@@ -294,9 +266,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "delete_list.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for delete_list"
             }
           }
         ]
@@ -314,34 +288,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "834e65f53f6dcaf7",
+  "active": "878bd8c0b7f3d2f3",
   "lastOpenFiles": [
-    "sources/INRAE2024_DecryptageAnalyse.md",
+    "sources/delete_files.ps1",
+    "sources/New Text Document.txt",
+    "misc/checks/check for source references in notes.md",
+    "delete_list.md",
+    "misc/checks/zotero script author names.md",
     "misc/checks/check for duplicate itemkeys zotero.md",
-    "sources/EuropeanCommission2024_StateSoils.md",
+    "misc/checks/check for relevant files to create.md",
+    "sources/Cornelus2023_GISREVALIM.md",
+    "sources/CornelusMelissa2023_GISREVALIM.md",
+    "misc/checks/check for mistagged files.md",
+    "sources/Fehrenbach2015_HemerobyImpact.md",
     "sources/EuropeanCommission2010_EuropeanAtlas.md",
-    "sources/Jeffery2010_EuropeanAtlas.md",
-    "creators/Global Soil Biodiversity Initiative.md",
-    "sources/PublicationsOfficeoftheEuropeanUnion2010_EuropeanAtlas.md",
-    "sources/EuropeanCommission&EEA2024_StateSoils.md",
-    "misc/templates/new zotero note.md",
-    "misc/github recovery codes.md",
-    "misc/printing.md",
-    "sources/SecretariatoftheConventiononBiologicalDiversity2011_ConventionBiological.md",
-    "test.md",
-    "sources/1990_ConservingWorlds.md",
-    "sources/1999_BestAvailable.md",
-    "sources/2021_LOINdeg.md",
-    "{{url}}.md",
-    "sources/Zurell2025_FoundationsSpecies.md",
-    "sources/IUCN2020_IUCNGlobal.md",
-    "sources/IUCN1990_ConservingWorlds.md",
-    "sources/INRAE&IFIP2024_DecryptageAnalyse.md",
-    "sources/FraunhoferIBP2022_LandUse.md",
+    "misc/admin",
+    "sources/CBD2021_SpeciesHabitat.md",
+    "sources/CBD&UNEP2021_IndicatorMetadata.md",
+    "sources/CBDandUNEP2021_IndicatorMetadata.md",
+    "sources/Sonnemann2011_GlobalGuidance.md",
+    "sources/Weidema2018_AttributionalConsequential.md",
+    "sources/Soler2025_RapportConseil.md",
+    "concepts/environmental labelling.md",
+    "sources/MillenniumEcosystemAssessment2005_EcosystemsHuman.md",
+    "sources/INRAE2025_PratiquesIntegres.md",
+    "sources/Arbeille2025_PratiquesIntegres.md",
     "sources/FraunhoferIBP2016_LANCACharacterization.md",
-    "sources/FraunhoferIBP2010_LANCALand.md",
-    "sources/FAO2015_StatusWorlds.md",
-    "sources/EuropeanCommission2025_FarmingPractices.md",
+    "sources/Bos2016_LANCACharacterization.md",
+    "sources/OfficeofTechnologyAssessment1987_TechnologiesMaintain.md",
+    "sources/InternationalOrganisationforStandardization2006_ISO14044.md",
+    "sources/Alterra2011_GlobalWood.md",
     "attachments/wikipedia_european_union_organs.png",
     "attachments/Burg2025_photo_taxonomy.jpg",
     "productions/calculations",
@@ -360,8 +336,6 @@
     "concepts.zip",
     "sources.zip",
     "misc/meetings",
-    "New Text Document.txt",
-    "misc/setup/sidenote-callout.css",
     "home canvas.canvas",
     "concept/test.canvas"
   ]

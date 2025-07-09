@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: VIVXM9EF
-importDate: 2025-07-09
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > Pratiques intègres de publication scientifique à l’heure de la science ouverte. Note de recommandations.
@@ -17,4 +17,4 @@ importDate: 2025-07-09
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T15:24:28.573+02:00 %%
+%% Import Date: 2025-07-04T14:30:58.043+02:00 %%

@@ -2,4 +2,4 @@
 tags:
   - concept/definition
 ---
-[[Arbeille2025_PratiquesIntegres]]
+[[INRAE2025_PratiquesIntegres]]

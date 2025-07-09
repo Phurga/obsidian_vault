@@ -1,4 +1,4 @@
-
+	
 ```dataview
 TABLE length(rows) as "Count", rows.file.link as "Files"
 FROM "/"

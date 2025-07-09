@@ -21,7 +21,7 @@ importDate: 2025-07-09
 Attributional LCA aims at estimating the impacts of a product based on a value chain responsibility paradigm. If one considers the total impacts of the global economy, attributional LCA will attempt to attribute a share of these impacts to the studied system based on direct relationships with the system (with allocation rules for multifunctional processes). For this reason attributional LCA is widespread in contexts where the goal is to measure and attribute impacts to a product or an organisation, i.e. environmental footprinting.
 Consequential LCA aims at estimating the change in impacts derived from a decision. The decision being for instance the use of a specific (new) product. It would not only consider the production impacts of the product, but also side effects related to the introduction of the product. Important side effects are market effects: increased production of product A might lead to decreased production of product B, or induce rebound effects increasing consumption of A or a third linked product C. For instance in [[Schmidt2015_LifeCycle]], esp. section 2.3.
 
-Properly defined in [[Sonnemann2011_GlobalGuidance]]:
+Properly defined in [[UNEP2011_GlobalGuidance]]:
 - Attributional approach: System modelling approach in which inputs and outputs are attributed to the functional unit of a product system by linking and/or partitioning the unit processes of the system according to a normative rule. 
 - Consequential approach: System modelling approach in which activities in a product system are linked so that activities are included in the product system to the extent that they are expected to change as a consequence of a change in demand for the functional unit.
 ### question answered by consequential

@@ -4,7 +4,7 @@ tags:
   - zotero
 doi: 
 itemKey: S4RL7WB3
-importDate: 2025-07-09
+importDate: 2025-07-04
 ---
 >[!metadata]+
 > LUCAS 2018 soil module: presentation of dataset and results.
@@ -17,4 +17,4 @@ importDate: 2025-07-09
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T15:24:26.398+02:00 %%
+%% Import Date: 2025-07-04T14:30:59.785+02:00 %%

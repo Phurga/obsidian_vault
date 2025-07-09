@@ -23,7 +23,7 @@ importDate: 2025-07-09
 ### mismatch map
 ![[Cameron2019_Globalmismatches_map.jpg]]
 ### source for macrofauna
-[[PublicationsOfficeoftheEuropeanUnion2016_GlobalSoil]]
+[[EuropeanCommission2016_GlobalSoil]]
 
 %% end notes %%
 

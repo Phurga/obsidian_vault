@@ -8,7 +8,7 @@ https://esa-worldcover.org/
 #data 
 https://zenodo.org/records/7254221
 ## documentation
-[[WorldCover2022_ProductUser]]
+[[ESA2022_WorldCoverProduct]]
 The discrete classification map provides 11 classes and is defined using the [[Land Cover Classification System (LCCS)]] developed by the United Nations (UN) Food and Agriculture Organization (FAO). The
 UN-LCCS system was designed as a hierarchical classification, which allows adjusting the thematic
 detail of the legend to the amount of information available
