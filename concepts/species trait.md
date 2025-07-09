@@ -20,4 +20,4 @@ Example of traits:
 - for fungi ? 
 - for bacteria ?
 ## from species trait to ecosystem role
-[[Bonfanti2025_Linkingeffect]]: "Linking effect traits of soil fauna to processes of organic matter transformation"
+[[Bonfanti2025_LinkingEffect]]: "Linking effect traits of soil fauna to processes of organic matter transformation"

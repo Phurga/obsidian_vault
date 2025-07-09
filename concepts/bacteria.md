@@ -4,7 +4,7 @@ tags:
 aliases:
   - bacterium
 ---
-**Bacteria** are unicellular [[prokaryote]] [[microorganism]], very abundant on Earth and spread everywhere. Their total biomass is similar to plants and with a [[C to N ratio]] of 5, they make up the main source of nutrient on Earth (Madigan et al., 2015; Wang et al., 2017, through [[FAO2020_Stateknowledge]]). 
+**Bacteria** are unicellular [[prokaryote]] [[microorganism]], very abundant on Earth and spread everywhere. Their total biomass is similar to plants and with a [[C to N ratio]] of 5, they make up the main source of nutrient on Earth (Madigan et al., 2015; Wang et al., 2017, through [[FAO2020_StateKnowledge]]). 
 They are very efficient chemical machines able to decompose complex chemicals in air or in the soil into simpler molecules available to other organisms ([[microbial loop]]). They tend to specialize on a given molecule to use as a resource, filling [[biotope|ecological niches]] and explaining their important [[species richness|alpha diversity]]. 
 
 Bacteria can have effects on their surroundings via pure chemical activity or via [[enzyme|enzymatic]] activity.
@@ -44,7 +44,7 @@ Bacteria are harmed with substances changing pH (such as the presence of [[metal
 Agricultural soils receiving mineral fertilizers lead to plants ignoring bacteria and the latter disappear, disrupting the [[microfood web]].
 
 References:
-See [[FAO2020_Stateknowledge]] chapter 2.3.1.
+See [[FAO2020_StateKnowledge]] chapter 2.3.1.
 https://urbanwormcompany.com/soil-food-web-intro-decomposer-filter/
 
 ## Studying bacteria

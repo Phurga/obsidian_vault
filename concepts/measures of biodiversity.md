@@ -21,7 +21,7 @@ Because of the complexity and multiple dimensions of [[biodiversity]], there can
 			- [[sorensen similarity index]]
 			- fischer alpha
 			- [[simpson index]]
-			- [[Chao2005_newstatistical]] (chao1 index?)
+			- [[Chao2005_NewStatistical]] (chao1 index?)
 	- evolutionary history
 		- [[species extinction risk]]
 			- and the derived [[loss of years of evolutionary history]]
@@ -50,7 +50,7 @@ On using simple metrics:
 >[!quote] references
 [[Pyron2010_CharacterizingCommunities]]
 [[Santini2017_Assessingsuitability]]
-[[DeBaan2013_LandUse]]
+[[deBaan2013_LandUse]]
 ## implementations in LCIA
 The current recommendation for an [[ecosystem quality]] indicator in LCIA is biodiversity loss and in particular [[relative species loss]] ([[UNEP2016_GlobalGuidance]]). This is known to be an imperfect metric but the best available due to data availability limitations ([[LCIA method development is limited by data availability]]).
 
@@ -59,5 +59,5 @@ Species richness, but they can be used to derive more complex indicators when da
 Existing implementations for impacts from land use : [[LCIA method for land use impacts on ecosystem quality]].
 However, these derivates require additional data, with limited coverage (geography, taxon) making them difficult to scale globally.
 ## indicators to investigate
-[[Cluzeau2012_Integrationbiodiversity]] and the [[Réseau de Mesures de la Qualité des Sols]]
-genetic indicators based on the concept that [[prokaryote]] exchange genes too frequently to have relevant descriptions of species and it is more useful to focus on genes prenence (or combination of genes leading to combination of functions enable ecosystem function) [[Doolittle1999_PhylogeneticClassification]] and [[Doolittle2006_Genomicsbacterial]].
+[[Cluzeau2012_IntegrationBiodiversity]] and the [[Réseau de Mesures de la Qualité des Sols]]
+genetic indicators based on the concept that [[prokaryote]] exchange genes too frequently to have relevant descriptions of species and it is more useful to focus on genes prenence (or combination of genes leading to combination of functions enable ecosystem function) [[Doolittle1999_PhylogeneticClassification]] and [[Doolittle2006_GenomicsBacterial]].

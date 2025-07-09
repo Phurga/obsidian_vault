@@ -8,4 +8,4 @@ aliases:
 [[litter transformer]] break down the litter in smaller parts, accelerating the [[carbon transformation]] and [[nutrient cycling]] to the soil.
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]

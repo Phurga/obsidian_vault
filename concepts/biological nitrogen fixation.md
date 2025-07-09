@@ -13,7 +13,7 @@ This process is energy intensive, requiring energy in the form of [[ATP]]. ATP m
 Microorganisms can enter [[symbiosis|symbiotic relationship]]s with plants, using plant's energy to perform the nitrogenase in exchange for ammonia stored in nodules ([[rhizobacteria]] and [[Azospirillum]]), use photosynthesis ([[cyanobacteria]]) or oxidize surrounding organic molecules ([[azotobacter]]).
 
 Bacteria fixing: [[rhizobacteria]] (legumes), [[azotobacter]] (free living), [[Azospirillum]] (grasses/cereals), [[cyanobacteria]] (autotroph)
-Fungi fixing #todo/refneeded [[FAO2020_Stateknowledge]]
+Fungi fixing #todo/refneeded [[FAO2020_StateKnowledge]]
 
 Illustration of nitrogenase [[Hinsinger2025_Rhizosphereroots]]
 ![[Hinsinger2025_Rhizosphereroots_nitrogenase.png|600]]
@@ -22,10 +22,10 @@ Many pathways to BNF according to [[Wagner2011_BiologicalNitrogen]]
 ![[Wagner2011_BiologicalNitrogen_fixation_modes.png]]
 
 # Conversion of ammonia to nitrate
-[[archae]] can convert ammonia into nitrate, leading to even greater biomass production by plants. [ref](https://pubmed.ncbi.nlm.nih.gov/17048140/), [[FAO2020_Stateknowledge]]
+[[archae]] can convert ammonia into nitrate, leading to even greater biomass production by plants. [ref](https://pubmed.ncbi.nlm.nih.gov/17048140/), [[FAO2020_StateKnowledge]]
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]
 [[Wagner2011_BiologicalNitrogen]]
 [[Hinsinger2025_Rhizosphereroots]]
 https://pubmed.ncbi.nlm.nih.gov/17048140/

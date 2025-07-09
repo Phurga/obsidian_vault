@@ -17,14 +17,14 @@ less common: [[simpson index]]
 ### quantitative
 [[bray-curtis dissimilarity]]
 alternatives:
-- Chao1 ([[Chao2005_newstatistical]]),
+- Chao1 ([[Chao2005_NewStatistical]]),
 - Hill number ([[Chao2014_UnifyingSpecies]])
 - [[simpson index]]
-- fischer alpha (as in [[DeBaan2013_LandUse]])
+- fischer alpha (as in [[deBaan2013_LandUse]])
 
 ## references and further info
 [[Santini2017_Assessingsuitability]]
-[[Chao2005_newstatistical]]
+[[Chao2005_NewStatistical]]
 [[Zeleny2022_EcologicalResemblance]]
 - citing Legendre, P. & Legendre, L. 2012. _Numerical Ecology_. Third English edition. Elsevier Science BV, Amsterdam.
 

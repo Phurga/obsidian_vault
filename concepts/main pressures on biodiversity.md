@@ -13,7 +13,7 @@ As defined in [[IPBES2019_Globalassessment]], there are 5 main pressures on [bio
 [[Habitat transformation]] alone drives one third of terrestrial biodiversity decline globally. Land use change is primarly driven by agriculture, forestry and urbanization. Agriculture intensification increased productivity on the short term, but depleted [[natural resource]] with long renewable rates. For instance, soil fertility has degraded, with observed declines in productivity for equivalent practices. [[IPBES2019_Globalassessment]].
 
 # Coverage in LCA
-[[Damiani2023_Criticalreview]]
+[[Damiani2023_CriticalReview]]
 ![[Damiani2023_Criticalreview_indicators_summary.png]]
 
 | Pressure               | Status                                                                 |

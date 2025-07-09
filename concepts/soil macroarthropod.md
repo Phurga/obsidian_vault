@@ -9,4 +9,4 @@ aliases:
 Macroarthropods have less direct impacts on [[carbon transformation]] and [[nutrient cycling]] than microbes but have an amplifying effect, building on the micro powerhouse. Some predator can also reduce carbon and nutrient content of soils by overpreying detritivores or plants. Some cascading effects due to disruption of food chains could be expected but are not defined.
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]

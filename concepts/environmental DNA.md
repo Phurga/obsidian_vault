@@ -23,16 +23,16 @@ metagenomics vs DNA metabarcoding [wikipedia](https://en.wikipedia.org/wiki/Meta
 > The main difference is the underlying methodology, since metagenomics targets all DNA in a sample, while \[barcoding or metabarcoding] amplifies and sequences one or multiple specific genes.
 
 ### sequencing procedure
-[[Byers2024_Landuse#^cea6c2]]
+[[Byers2024_LandUse#^cea6c2]]
 ## External resources
 definitions [[Prosser2015_Dispersingmisconceptions]]
 [iucn - eDNA](https://iucn.org/resources/issues-brief/environmental-dna)
 [wikipedia - metabarcoding](https://en.wikipedia.org/wiki/Metabarcoding)
 [[Edgar2025_Interpretingcounts]]
-Taberlet, P., Bonin, A., Zinger, L., & Coissac, E. (2018). Environmental DNA: for biodiversity research and monitoring. New York: Oxford University Press (from [[Calderon-Sanou2022_betterunderstanding]])
+Taberlet, P., Bonin, A., Zinger, L., & Coissac, E. (2018). Environmental DNA: for biodiversity research and monitoring. New York: Oxford University Press (from [[Calderon-Sanou2022_BetterUnderstanding]])
 ## soil sampling
 Example procedure:
-[[Byers2024_Landuse#^a45e7f]]
+[[Byers2024_LandUse#^a45e7f]]
 ## air sampling
 Air sampling can be used and has been found to be very effective for mushrooms.
 ![[Abrego2024_AirborneDNA#air DNA sampling]]

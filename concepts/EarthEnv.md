@@ -8,7 +8,7 @@ The **EarthEnv** project is a collaborative project of biodiversity scientists a
 https://www.earthenv.org/
 
 Rasters include:
-- land cover ([[Tuanmu2014_global1km]], used in [[Crowther2020_globaldatabase]])
+- land cover ([[Tuanmu2014_global1km]], used in [[Crowther2020_GlobalDatabase]])
 - mountains
 - tropical cloud forests
 - precipitation

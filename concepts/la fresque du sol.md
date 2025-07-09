@@ -2,7 +2,7 @@
 tags:
   - concept/definition
 ---
-**La fresque du sol** is a workshop designed by the [[Association Francaise pour l'étude des sols]] (see [[AFES2022_fresquesol]])  broadcast knowledge about [[soil]]s to the public.
+**La fresque du sol** is a workshop designed by the [[Association Francaise pour l'étude des sols]] (see [[AFES2022_FresqueSol]])  broadcast knowledge about [[soil]]s to the public.
 
 ![[AFES2022_fresquesol_FresqueSolsAmandine.png]]
 

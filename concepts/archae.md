@@ -8,4 +8,4 @@ aliases: []
 Archae are important in the process of [[biological nitrogen fixation|biological nitrogen fixing]], since they can convert ammonia produced by [[rhizobacteria|N2 fixing bacteria]] into nitrates, more interesting for plants.
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]

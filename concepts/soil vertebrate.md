@@ -15,4 +15,4 @@ aliases:
 Fossorial species generally increase [[soil function]], creating soil heterogeneities. 
 Tunnels and excavated portions of soil create depressions, favouring moisture (water infiltrations), warmer temperatures, and organic matter finding microbes.
 
-[[FAO2020_Stateknowledge]] I found the paragraph 2.3.13 poorly written.
+[[FAO2020_StateKnowledge]] I found the paragraph 2.3.13 poorly written.

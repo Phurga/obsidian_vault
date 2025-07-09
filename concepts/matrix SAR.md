@@ -11,4 +11,4 @@ This model considers only species variability in sensitivity of area loss, and d
 
 [[It is still debated what approach is most accurate to model species-habitat affinities]]
 
-Used in LCA in [[DeBaan2013_LandUsea]].
+Used in LCA in [[deBaan2013_LandUsea]].

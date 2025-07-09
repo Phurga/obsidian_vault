@@ -12,19 +12,19 @@ aliases:
 			- [[Verones2022_Globalextinction]] (species extinction risk, [[global extinction probability]])
 			- [[Chaudhary2015_QuantifyingLand]] ([[countryside SAR|countryside-SAR]] and [[vulnerability score]])
 			- [[Chaudhary2018_LandUse]] ([[land use intensity]])
-			- [[DeBaan2013_Landuse]] (use of empirical data to create [[biodiversity damage potential]])
-			- [[DeBaan2013_LandUsea]] (use of [[matrix SAR]], first insights of species extinction risk)
+			- [[deBaan2013_LandUse]] (use of empirical data to create [[biodiversity damage potential]])
+			- [[deBaan2013_LandUsea]] (use of [[matrix SAR]], first insights of species extinction risk)
 			- [[Kuipers2021_Consideringhabitat]] ([[species-habitat relationship]] to refine species affinity, [[equivalent connected area]] for fragmentation)
 		- kind of outdated but still relevant since it has an interesting impact pathway through [[species distribution model]].
 			- [[deBaan2015_HighResolutionAssessment]]
 	- [[species diversity]] methods
-		- [[DeBaan2013_LandUsea]] ([[mean species abundance|MSA]], [[shannon index]])
+		- [[deBaan2013_LandUsea]] ([[mean species abundance|MSA]], [[shannon index]])
 		- [[PBL2016_GLOBIOMODEL]] (beyond LCA, [[mean species abundance|MSA]])
 	- [[functional diversity]] methods
 		- [[Scherer2020_CharacterizingLand]] (global coverage of plants)
 		- [[MaiaDeSouza2013_Landuse]] (american coverage of multiple taxon)
 	- [[phylogenetic diversity]] methods
-		- [[Chaudhary2018_Projectingglobal]] ([[loss of years of evolutionary history]])
+		- [[Chaudhary2018_ProjectingGlobal]] ([[loss of years of evolutionary history]])
 - environmental conditions methods
 	- [[naturalness]]
 		- apex

@@ -11,4 +11,4 @@ In the 15th reunions of nations (COP 15 for CBD) in 2022, members signed the [[K
 Link to convention text : [[CBD2011_ConventionBiological]].
 
 I like this quote:
-![[CBD2000_Sustaininglife#^77a682]]
+![[CBD2000_SustainingLife#^77a682]]

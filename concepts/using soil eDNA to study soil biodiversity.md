@@ -14,7 +14,7 @@ eDNA techniques allowed for rapid calculation of species richness for arthropods
 
 #todo/question could we use eDNA databases only at the OTU level (with BINs in the BOLD database) to calculate richness values (at regional scale rather than at local scale - ie gamme vs alpha diversity).
 
-eDNA datasets were used in [[deep species distribution model]]s to derive soil organisms abundance maps using[[soil food web#soil multi-trophic classification]] ([[Calderon-Sanou2022_betterunderstanding]] and [[Cerna2025_Limitspromises]]).
+eDNA datasets were used in [[deep species distribution model]]s to derive soil organisms abundance maps using[[soil food web#soil multi-trophic classification]] ([[Calderon-Sanou2022_BetterUnderstanding]] and [[Cerna2025_LimitsPromises]]).
 #todo/question what do deepSDM add to existing knowledge on impacts of land use to soil microbial diversity
 
 there is a temporal variability in soil microbiome, leading to challenges when using eDNA databases that do not sample at the same period of the year ([[ORCHAMP]])

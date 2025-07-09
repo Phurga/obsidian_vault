@@ -14,6 +14,13 @@
   ],
   "exportFormats": [
     {
+      "name": "empty import",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Untitled.md"
+    },
+    {
       "name": "new zotero note",
       "outputPathTemplate": "sources/{{citekey}}.md",
       "imageOutputPathTemplate": "attachments/",

@@ -14,7 +14,7 @@ The plant and bacteria establish a chemical dialog to enable the symbiosis: the 
 Two important rhizobacteria genuses are *rhizobium* and *bradyrhizobium*.
 ![[Hinsinger2025_Rhizosphereroots_nitrogenase.png]]
 
-![[FAO2020_Stateknowledge#bradyrhizobium inoculation use case]]
+![[FAO2020_StateKnowledge#bradyrhizobium inoculation use case]]
 
 ### references
 [[Hinsinger2025_Rhizosphereroots]]

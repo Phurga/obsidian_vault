@@ -10,7 +10,7 @@ Topics:
 [[species richness]] 
 
 References:
-[[Anthony2023_Enumeratingsoil]]
+[[Anthony2023_EnumeratingSoil]]
 [[Zhang2013_Animalbiodiversity]]
 
 Links:

@@ -13,5 +13,5 @@ The main categories for ecosystem services are:
 
 Proper delivery of these services requires a healthy, functional ecosystem, able to deliver its key [[ecosystem function]], sometimes named supporting services.
 
-Ecosystem services are valued at $125 trillions ([[Costanza2014_Changesglobal]]).
+Ecosystem services are valued at $125 trillions ([[Costanza2014_ChangesGlobal]]).
 An important step in the defintion of ecosystem services is the publication of [[MEA2005_Ecosystemshuman]].

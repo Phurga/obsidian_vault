@@ -30,7 +30,7 @@ and worse
 
 [[Chaudhary2018_LandUse]] identifies and quantifies reduced impacts for light and minimal intensity agriculture compared to intensive (refering to [[Newbold2015_Globaleffects]] and [[Chaudhary2016_ImpactForest]]). Taxa coverage is limited.
 
-compare [[Burton2022_Landuse]] (showing important negative effects of land use intensification on soils species abundance) and [[Labouyrie2023_Patternssoil]] (showing positive effect of land use intensification on soils species richness).
+compare [[Burton2022_LandUse]] (showing important negative effects of land use intensification on soils species abundance) and [[Labouyrie2023_Patternssoil]] (showing positive effect of land use intensification on soils species richness).
 [[Romdhane2022_Landuseintensification]] observes contrasted results.
 
 Soil work ([[tillage]]) leads to [[soil compaction]] which destroys soil [[soil structure|porosity]], destroying [[biotope|habitat]] to most [[soil macrofauna]] and crushing organisms such as [[earthworm]] who are crushed.

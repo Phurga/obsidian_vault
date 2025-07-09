@@ -53,11 +53,11 @@ Evolutionary processes leads to species changing over time ([[biodiversity dynam
 ### definition for macrobes
  For macrobes, the definition of a species is usually done based on the ability of two organisms to produce a fertile offspring: in that case the two organisms are of the same species. 
 ### definition for microbes
- This definition is sometimes challenged for microorganisms, or organisms that reproduce asexually or are prompt to mutations  [[Anthony2023_Enumeratingsoil]] (see quote below), [[Gevers2005_Reevaluatingprokaryotic]], [[Doolittle2006_Genomicsbacterial]]. Challenges include:
+ This definition is sometimes challenged for microorganisms, or organisms that reproduce asexually or are prompt to mutations  [[Anthony2023_EnumeratingSoil]] (see quote below), [[Gevers2005_Reevaluatingprokaryotic]], [[Doolittle2006_GenomicsBacterial]]. Challenges include:
  - observation of morphological, physiological and functional traits is challenging for microorganisms
  - [[horizontal gene transfer]]
  - asexual reproduction
  - high mutation rates
 This leads to using definitions based on DNA sequence or RNA region similarity.
 
-![[Anthony2023_Enumeratingsoil#microbial species]]
+![[Anthony2023_EnumeratingSoil#microbial species]]

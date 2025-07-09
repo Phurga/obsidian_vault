@@ -8,5 +8,5 @@ tags:
 
 [[Nemergut2013_PatternsProcesses]]
 [[Fierer2006_DiversityBiogeography]]
-[[Cameron2019_Globalmismatches]]
+[[Cameron2019_GlobalMismatches]]
 Větrovský, T. et al. A meta-analysis of global fungal distribution reveals climate-driven patterns. _Nat. Commun._ **10**, 5142 (2019).

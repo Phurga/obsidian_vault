@@ -7,7 +7,7 @@ tags:
 nematodes are well studied and there are lots of data points in many global [[biome]] and [[ecoregion]], under several [[land use]], and could lead to the definition of LCA CFs.
 ## Materials
 [files](file:\\\C:\Users\aburg\Documents\calculations\nematode_exploration)
-Based on [[Crowther2020_globaldatabase]].
+Based on [[Crowther2020_GlobalDatabase]].
 Source biomes: https://fr.wikipedia.org/wiki/%C3%89cor%C3%A9gion_terrestre_du_WWF
 Land cover map: [[WorldCover]]
 ## Results

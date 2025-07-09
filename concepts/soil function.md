@@ -26,5 +26,5 @@ A **soil function** is an assembly of *properties and biochemical processes* ena
 Soil functions enable [[soil ecosystem service|soil services]] ([[INRAE2025_PreserverQualite]]).
 ![[Cousin2024_fonctions_sol_ecologie_ringsabell.png]]
 
-Alternatively, in ([[FAO2020_Stateknowledge]] pp115): 
+Alternatively, in ([[FAO2020_StateKnowledge]] pp115): 
 > Functions refer to natural-biological processes, while services refer to those functions that contribute to human well-being.

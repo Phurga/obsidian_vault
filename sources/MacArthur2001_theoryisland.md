@@ -14,7 +14,7 @@ importDate: 2025-07-04
 > [Online link](https://press.princeton.edu/books/paperback/9780691088365/the-theory-of-island-biogeography), [Zotero Item](zotero://select/library/items/MWNMVDA2),
 
 %% begin notes %%
-Source of the [[species-area relationship|SAR]] as said in [[DeBaan2013_LandUsea]]
+Source of the [[species-area relationship|SAR]] as said in [[deBaan2013_LandUsea]]
 %% end notes %%
 
 %% Import Date: 2025-07-04T14:31:01.442+02:00 %%

@@ -9,9 +9,9 @@ aliases:
 [[UNEP2019_GlobalGuidance]] proposes a partially implemented impact pathway:
 ![[UNEP2019_GlobalGuidance_pathway_soils.png]]
 
-Indicators exist to assess the impacts of human activities on soil quality. Sources: [[UNEP2019_GlobalGuidance]] updated with [[DeLaurentiis2024_Soilorganic]]
+Indicators exist to assess the impacts of human activities on soil quality. Sources: [[UNEP2019_GlobalGuidance]] updated with [[DeLaurentiis2024_SoilOrganic]]
 - [[soil organic matter|SOM]] change ([[MilaiCanals2007_Methodassessing]])
-- [[soil organic matter|SOC]] change ([[Brandao2013_Globalcharacterisation]] via [[IPCC2019_2019Refinement]], updated in [[DeLaurentiis2024_Soilorganic]] #todo/refneeded )
+- [[soil organic matter|SOC]] change ([[Brandao2013_GlobalCharacterisation]] via [[IPCC2019_2019Refinement]], updated in [[DeLaurentiis2024_SoilOrganic]] #todo/refneeded )
 - [[biotic production]] ([[net primary production]] and [[Koellner2013_UNEPSETACguideline]])
 - [[Erosion]] (at inventory level using [[RUSLE]] with [[Nunez2013_Inclusionsoil]] and [[Sonderegger2020_AssessingImpacts]] or at impact pathway only with [[LANCA]])
 - [[soil quality index]] (SQI) based ([[Agroscope]] with [[SALCA-SQ]], [[PEF method]], others)
@@ -27,5 +27,5 @@ The recommendation was to use SOC, despite being a [[proxy indicator]] because (
 Other contenders but rejected [[UNEP2019_GlobalGuidance]]
 > The Swiss agricultural life cycle assessment ([[SALCA-SQ]]) model (Nemecek, von Richthofen et al. 2008) combines several indicators using a mechanistic process-based composite model into an SQI, but was not considered for inclusion in this assessment, as it was developed specifically for the Swiss context and relies mostly on expert knowledge and detailed primary data.
 
-The folowing means LANCA is not ok for a SQI ([[DeLaurentiis2019_Soilquality]])
+The folowing means LANCA is not ok for a SQI ([[DeLaurentiis2019_SoilQuality]])
 > Several authors agreed that a contribution based on observed correlations using multi-parametric statistics could be used to link soil quality attributes to a one-dimensional SQI (Andrews, Karlen et al. 2002; Velásquez, Lavelle et al. 2007; Obriot, Stauffer et al. 2016). However, such an approach is not currently available, and failing this, there is no consensus on alternative approaches to calculate a soil quality index (Andrews, Karlen et al. 2004; de Paul Obade and Lal 2016; Obriot, Stauffer et al. 2016).

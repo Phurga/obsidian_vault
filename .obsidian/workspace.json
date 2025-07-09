@@ -13,43 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/FAOandITPS2015_Statusworlds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "living soils"
-            }
-          },
-          {
-            "id": "88b7e98cfad84940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Panagos2024_HowEU.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Panagos2024_HowEU"
-            }
-          },
-          {
-            "id": "a033d093f772d827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/INRAE2025_PreserverQualite.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "INRAE2025_PreserverQualite"
+              "title": "FAOandITPS2015_Statusworlds"
             }
           }
         ]
@@ -72,8 +42,24 @@
               "icon": "lucide-file",
               "title": "soil function"
             }
+          },
+          {
+            "id": "dd29ed69d74df61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/soil formation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "soil formation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,29 +69,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2b3b944b768f2f",
+        "id": "0e8e13bd0cb48fda",
         "type": "tabs",
         "children": [
-          {
-            "id": "08bafc424ca7dba5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "080911ca5ca7d6f7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"evolutionary potential\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -137,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/FAOandITPS2015_Statusworlds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,15 +174,28 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of living soils"
+              "title": "Graph of FAOandITPS2015_Statusworlds"
+            }
+          },
+          {
+            "id": "08bafc424ca7dba5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -225,10 +211,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "living soils.md"
+                "file": "sources/FAOandITPS2015_Statusworlds.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for living soils"
+              "title": "File properties for FAOandITPS2015_Statusworlds"
             }
           },
           {
@@ -237,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/FAOandITPS2015_Statusworlds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +233,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for living soils"
+              "title": "Backlinks for FAOandITPS2015_Statusworlds"
             }
           },
           {
@@ -256,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/FAOandITPS2015_Statusworlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from living soils"
+              "title": "Outgoing links from FAOandITPS2015_Statusworlds"
             }
           },
           {
@@ -270,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "living soils.md",
+                "file": "sources/FAOandITPS2015_Statusworlds.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of living soils"
+              "title": "Outline of FAOandITPS2015_Statusworlds"
             }
           },
           {
@@ -303,12 +289,11 @@
               "title": "References"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 565.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,34 +304,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0db34549a031a6ed",
+  "active": "a555f5c72cdaaee2",
   "lastOpenFiles": [
-    "sources/Orgiazzi2016_knowledgebasedapproach.md",
-    "creators/Orgiazzi, Alberto.md",
-    "sources/PublicationsOfficeoftheEuropeanUnion2016_GlobalSoil.md",
-    "living soils.md",
-    "concepts/soil function.md",
-    "sources/FAO2020_Stateknowledge.md",
-    "sources/INRAE2025_PreserverQualite.md",
-    "sources/Panagos2024_HowEU.md",
-    "sources/FAOandITPS2015_Statusworlds.md",
+    "sources/FAO2025_HowConserve.md",
+    "sources/FAO2020_StateKnowledge.md",
+    "sources/FAO2020_DefinitionSoil.md",
+    "sources/FabisConsultingLtd2023_CommonInternational.md",
     "sources/EuropeanCommission2025_ProposalDirective.md",
-    "writing/Intro to CSI.md",
-    "creators/European Union Soil Observatory.md",
-    "concepts/pressures on soils.md",
-    "sources/Banwart2019_SoilFunctions.md",
-    "concepts/soil quality.md",
-    "sources/FAO2020_definitionsoil.md",
-    "creators/Violle, Cyrille.md",
-    "misc/checks/check for duplicate itemkeys zotero.md",
-    "creators/Brauman, Alain.md",
-    "creators/Cousin, Isabelle.md",
-    "sources/Cousin2024_Preserverqualite.md",
-    "sources/Cousin2025_Preserverqualite.md",
-    "sources/Cousin2025_Preserverqualitea.md",
-    "sources/Douziech2024_Recommendedimpact.md",
-    "sources/Needelman2013_WhatAre.md",
-    "sources/IPBES2019_GlobalAssessment.md",
+    "sources/EuropeanCommission2025_LUCASLand.md",
+    "sources/ESA2025_WorldcoverHomepage.md",
+    "sources/Elshout2014_SpatiallyExplicit.md",
+    "sources/Ekvall2004_SystemBoundaries.md",
+    "sources/EEA2024_StateSoils.md",
+    "creators/Ecological Monographs (journal).md",
+    "sources/Doran2002_SoilHealth.md",
+    "sources/Derrien2023_CurrentControversies.md",
+    "sources/Doolittle2006_GenomicsBacterial.md",
+    "sources/Doolittle1999_PhylogeneticClassification.md",
+    "sources/Donohue2016_NavigatingComplexity.md",
+    "sources/Doceul2024_CriseCrises.md",
+    "sources/Dixit2024_ChangesSoil.md",
+    "sources/Dinerstein2017_EcoregionBasedApproach.md",
+    "sources/Diaz2013_FunctionalTraits.md",
+    "sources/Depraz2013_NotionProteger.md",
+    "sources/DeLaurentiis2024_SoilOrganic.md",
+    "sources/DeLaurentiis2019_SoilQuality.md",
+    "sources/deBenoist2004_NatureSa.md",
+    "sources/deBaan2013_LandUsea.md",
+    "sources/deBaan2013_LandUse.md",
+    "attachments/Burg2025_photo_taxonomy.jpg",
+    "productions/calculations",
+    "Untitled",
     "Simpson1949_MeasurementDiversity.pdf",
     "attachments/Pereira2013_EssentialBiodiversity_candidates.jpeg",
     "attachments/339_277_f1.jpeg",
@@ -357,8 +345,6 @@
     "attachments/IPBES2022_Summarypolicymakers_paradigms.png",
     "attachments/Gevers2005_Reevaluatingprokaryotic_threshold.png",
     "attachments/Orgiazzi2016_Globalsoil_macrofauna_diversity.png",
-    "attachments/Prosser2015_Dispersingmisconceptions_genome_gene_centric.webp",
-    "Untitled",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
     "concepts.zip",
@@ -366,7 +352,6 @@
     "misc/meetings",
     "New Text Document.txt",
     "misc/setup/sidenote-callout.css",
-    "misc/checks",
     "home canvas.canvas",
     "concept/test.canvas"
   ]

@@ -34,5 +34,5 @@ Some authors propose theories on soil spatial patterns which are currently misun
 [[Thakur2020_integrativeunderstanding]], presents 5 theories:
 ![[Thakur2020_integrativeunderstanding#^dee5e2]]
 
-[[Calderon-Sanou2022_betterunderstanding]] tests few patterns:
-![[Calderon-Sanou2022_betterunderstanding#theories highlights]]
+[[Calderon-Sanou2022_BetterUnderstanding]] tests few patterns:
+![[Calderon-Sanou2022_BetterUnderstanding#theories highlights]]

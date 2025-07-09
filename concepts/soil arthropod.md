@@ -12,5 +12,5 @@ We can distinguish [[soil microarthropod]] and [[soil macroarthropod]] based on 
 [[tardigrade]] are close to arthropods but are not classified as arthropods. I believe it is ok to ignore them although they are very cute and might be useful to ecosystems, or at least put them with arthropods.
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]
 [[Hedde2025_Diversityroles]]

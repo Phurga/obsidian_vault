@@ -13,4 +13,4 @@ There are many algae in [[soil|soils]] and they are the source of a significant 
 Algae are influenced by herbicides, hindering their capacity to forme soil aggregates. Algae can decompose some pesticides.
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]

@@ -22,7 +22,7 @@ itemKey: 889M977I
 >In this study, controlling for the effects of geographic and environmental distance among sites, we tested for the first time at a global scale: 1) whether average compositional similarity differs among land uses; 2) whether distance-decay relationships differ among land uses (i.e. is there an interaction between geographic distance and land use?); 3) whether the effect of land use on average compositional similarity and on distance decay differs between the tropical and temperate realms; and 4) which factors drive any differences in the relationships between realms. The effect of land use can be divided into two components. First, patterns of compositional similarity within each land use inform whether general community similarity is higher on average in human-disturbed land uses, as expected from biotic homogenization theory (McKinney [2006](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.01932#bib-0037)). Second, compositional similarity between a site in primary vegetation and a site in another land use provides evidence of the extent to which human-impacted land uses retain the species composition typical of primary vegetation.
 ### field notes
 Uses [[sorensen similarity index]] to measure change in structure from different [[land use]].
-Uses other compositional similarity indexes (Simpson similarity, and other based on [[Chao2005_newstatistical]]).
+Uses other compositional similarity indexes (Simpson similarity, and other based on [[Chao2005_NewStatistical]]).
 %% end notes %%
 
 %% Import Date: 2025-06-11T14:41:48.149+02:00 %%

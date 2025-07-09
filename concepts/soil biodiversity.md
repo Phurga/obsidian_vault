@@ -11,12 +11,12 @@ The diversity of organisms in soil is fostered by the diversity in [[biotope|hab
 
 An organism is considered a soil organism if it spends at least one active stage of its life cycle in the soil ([[Marsden2025_Introductionsoil]]). Insects can have passive or active soil larvae, defining if they are classified as soil organisms or not.
 
-Soil likely hosts 60% of global species [[Anthony2023_Enumeratingsoil]].
+Soil likely hosts 60% of global species [[Anthony2023_EnumeratingSoil]].
 
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]
 
 
-![[Anthony2023_Enumeratingsoil#soil biodiversity illustration]]
+![[Anthony2023_EnumeratingSoil#soil biodiversity illustration]]
 ## organisms classification
 ### taxonomic and morphological classification
 List of the main taxon present in the soil are the following, usually classified by size groups (morphology):
@@ -39,7 +39,7 @@ Size distribution of soils organisms:
 ![[FAO2020_Stateknowledge_soil_biodiversity.png|400]]
 Example of organization for microbes communities around root cells:
 ![[FAO2020_Stateknowledge_microbes_communities_root.png|400]]
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]
 > Soil communities are hierarchical systems where various types of organisms populate critically different volumes of soil. This includes the micrometre-thick water film around soil particles that house aquatic organisms like bacteria, protists, nematodes and tardigrades (that is, the microfauna), the air-filled pore space for soil animals between 100 μm and 2 mm width (that is, the mesofauna), the hot-spots of nutrients and other resources around plant roots for microorganisms, and the macrofauna and megafauna that perceive soil as a whole in which they make passages that can penetrate all soil horizons across significant soil volumes (Pokarzhevskii et al., 2003). The main driving force of the high diversity of soil animals is this body size fractionation, but also their functional differentiation (Figure 2.2.1, and Figure 2.2.2). A variety of ecological niches in the soil, both in terms of size and in the range of resources provided, leads to a significant functional differentiation of soil organisms.
 ### trophic groups
 The [[soil food web]] is a simplified model capturing soil biodiversity composition and structure, through its trophic chains.
@@ -49,7 +49,7 @@ Organisms can be classified based on their main functional roles (besides the po
 - [[ecosystem engineer]], with large scales effects on the soil structure,
 - [[litter transformer]], digesting plant and animal litter and incorporating it in the soil,
 - the [[microfood web]], made of [[microorganism]] and [[microfauna]].
-See [[Bonfanti2025_Linkingeffect]] for linking [[species trait]]s and ecological roles
+See [[Bonfanti2025_LinkingEffect]] for linking [[species trait]]s and ecological roles
 ![[Marsden2025_Introduction_functional_groups.png]]
 ## soil organisms observation
 Soil organisms identification is challenging (opaque medium, microorganisms, deep and heterogeneous medium). 

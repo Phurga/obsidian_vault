@@ -14,7 +14,7 @@ importDate: 2025-07-04
 > [Online link](https://www.nature.com/articles/s41586-019-1418-6), [Zotero Item](zotero://select/library/items/G2ULXGRH), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/M6EUL7VX/VanDenHoogen2019_Soilnematode.pdf), 
 
 %% begin notes %%
-Linked to [[Crowther2020_globaldatabase]]
+Linked to [[Crowther2020_GlobalDatabase]]
 
 %% end notes %%
 

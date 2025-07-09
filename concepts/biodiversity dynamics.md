@@ -8,4 +8,4 @@ Rapid, powerful changes can break the system's ability to find an equilibrium, l
 
 An ecosystem's biocenose is continuously changing, even without external (human) interventions. Biodiversity conservation does not consist in halting species extinction, but avoiding causing it. It is estimated that over 99 percent of all species that ever lived on Earth are now extinct #todo/refneeded.
 
-![[Byers2024_Landuse#^d9787f]]
+![[Byers2024_LandUse#^d9787f]]

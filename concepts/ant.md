@@ -21,4 +21,4 @@ See also:
 [[soil macrofauna]] [[insects]]
 
 Reference:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]

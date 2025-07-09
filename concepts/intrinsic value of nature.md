@@ -10,7 +10,7 @@ There are three school of thought:
 - the subjectivist vision, considering that this intrinsic value is given by human (anthropogenic), but is independent of human activity (not anthropocentric). However it is acknowledged that this intrinsic value is cultural and depends on who values it.
 - the objectivist vision of intrinsic considers a value "established beyond both individual judgments and cultural ideals" ([[Kantian ethics]]), supported by [[Ness, Arne]] (deep ecology).
 - the vision that there is no intrinsic value, 
-[[deBenoist2004_naturesa#nonanthropocentric theories]], [[Sandler2012_IntrinsicValue#sentientism vs biocentrism]]
+[[deBenoist2004_NatureSa#nonanthropocentric theories]], [[Sandler2012_IntrinsicValue#sentientism vs biocentrism]]
 ## IPBES definition
 [[Himes2024_Whynature]] is a study commissionned by [[IPBES]] in order to review the ethical foundations of the relationship between human and nature.
 ![[Himes2024_Whynature#proposed definition for intrinsic value of nature]]
@@ -30,9 +30,9 @@ Besides acknowleding the existence of intrinsic value or of the intrinsic value 
 >[!warning] don't forget
 >whereas there is really intrinsic value or not, what matter is that people are trying to characterize impacts on nature beyond its instrumental value for human
 
-![[deBenoist2004_naturesa#polysemy of intrinsic value of nature]]
+![[deBenoist2004_NatureSa#polysemy of intrinsic value of nature]]
 
-![[deBenoist2004_naturesa#anthropogenic value of nature]]
+![[deBenoist2004_NatureSa#anthropogenic value of nature]]
 
 ## references
 [[Sandler2012_IntrinsicValue]]

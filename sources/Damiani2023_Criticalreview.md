@@ -27,7 +27,7 @@ provides a framework to assess the comprehensiveness of a method
 - note on taxonomic groups: for soil biodiv, most of the biodiv is bacteria (in others below), arthropods, earthworms (in annelids), fungi,algae (chlorophyta, cyanophyta (latter not below)), and few mammals such as amphibians.
 
 Note:
-- Habitat Change Potential (HCP) method ([[Damiani2021_highresolutionlife]]) is only on freshwater habitats.
+- Habitat Change Potential (HCP) method ([[Damiani2021_HighresolutionLife]]) is only on freshwater habitats.
 
 ![[Damiani2023_Criticalreview_indicators_summary.png]]
 

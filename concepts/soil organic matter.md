@@ -15,12 +15,12 @@ Soil organic carbon stocks on earth represents 1700 GtC and is the most importan
 # SOM composition
 Organic matter is usually considered to be composed of carbon, hydrogen, oxygen, nitrogen, phosphorus, sulfur (CHONPS).
 
-[[Chevallier2025_Organicmatters]]
+[[Chevallier2025_OrganicMatters]]
 ![[Chevallier2025_OrganicMatter_SOM_composition.png|600]]
 
 SOC is a resource for soil organisms and also the soil organisms ([[biomass]]). Carbon is used by organisms as an energy source (sugars) and also as a structural element (squeleton, tissues etc).
 
-Soils store more carbon when healthy. Soils will release carbon if harmed as soil living biomass decrease (linked with [[climate change]]). The collective carbon content of all soil bacterial cells is comparable to that of all plants on earth [[FAO2020_Stateknowledge]] (see [[biomass]]).
+Soils store more carbon when healthy. Soils will release carbon if harmed as soil living biomass decrease (linked with [[climate change]]). The collective carbon content of all soil bacterial cells is comparable to that of all plants on earth [[FAO2020_StateKnowledge]] (see [[biomass]]).
 # SOC stability
 SOM degrades over time as it is consumed by organisms and a fraction is returned to the atmosphere via organisms [[respiration]]. [[soil macrofauna]] performs coarse plant fragmentation, [[soil mesofauna]] fine fragmentation, [[microorganism]] perform decomposition (chemical action, not just physical).
 
@@ -43,12 +43,12 @@ Outside of LCIA, correlation with generic characteristics include:
 - increased biomass and thus populations (warning: this can be false positives since SOM can be unavailable to organisms),
 - pollution retention.
 
-However it is difficult to use SOC as an indicator to discriminate [[agricultural practices]] (not done in [[DeLaurentiis2024_Soilorganic]])
+However it is difficult to use SOC as an indicator to discriminate [[agricultural practices]] (not done in [[DeLaurentiis2024_SoilOrganic]])
 > Specific soil management options such as organic agriculture or conservation agriculture, are not distinguished in the CFs developed here. (...) The CFs provided so far cannot support comparisons with conventional agriculture.
 
 # SOC ranges
-A typical SOC concentration in France is 50 tC per hectare [[Chevallier2025_Organicmatters]].
-This value depends on the type of soil and agricultural practice [[Basile-Doelsch2020_Reviewssyntheses]], [fujisaki 2018](https://www.sciencedirect.com/science/article/pii/S0016706117312156#f0015)
+A typical SOC concentration in France is 50 tC per hectare [[Chevallier2025_OrganicMatters]].
+This value depends on the type of soil and agricultural practice [[Basile-Doelsch2020_ReviewsSyntheses]], [fujisaki 2018](https://www.sciencedirect.com/science/article/pii/S0016706117312156#f0015)
 Also depends on hydromorphy (swamps are in anaerobic conditions and prevent organic matter decomposition leading to accumulation).
 
 Example ranges for main soil classes [wikipedia](https://en.wikipedia.org/wiki/Soil_organic_matter#):

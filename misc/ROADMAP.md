@@ -2,7 +2,7 @@
 tags:
 ---
 ## phd main theme: characterization of the impacts of land use on soil biodiversity
-Soil hosts up to 60% of global species [[Anthony2023_Enumeratingsoil]], however current LCIA methods focusing on biodiversity omit soil biodiversity, due to data limitations and following the conservation efforts focusing on plants and vertebrates.
+Soil hosts up to 60% of global species [[Anthony2023_EnumeratingSoil]], however current LCIA methods focusing on biodiversity omit soil biodiversity, due to data limitations and following the conservation efforts focusing on plants and vertebrates.
 
 LCA is commonly used as a tool to measure damage on ecosystem quality, i.e. the natural world by human, regardless of its instrumental value.
 
@@ -31,7 +31,7 @@ Ecosystem quality is one of the consensual area of protections grouped by enviro
 1. rationale on why the current indicator (PDF) cannot be used for soil biodiversity loss
 	- false positives (unreliable)
 		- effect of intensification [[Labouyrie2023_Patternssoil]] > dissimilarities in trends for above ground
-		- regional hotspots [[Cameron2019_Globalmismatches]] > dissimilarities in trends for above ground
+		- regional hotspots [[Cameron2019_GlobalMismatches]] > dissimilarities in trends for above ground
 	- species based concept application to soil
 		- horizontal gene transfer, genetic pool
 		- orders of magnitude of species count

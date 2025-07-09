@@ -15,4 +15,4 @@ This is not a complicated process.
 # References
 https://en.wikipedia.org/wiki/DNA_extraction
 Done in the lab session during the [[Formation ecologie des sols]] with [[Bernard, Laetitia]].
-[[Bernard2025_Soilmicroorganisms]]
+[[Bernard2025_SoilMicroorganisms]]

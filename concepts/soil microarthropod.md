@@ -12,4 +12,4 @@ They are primarly represented with:
 See also: [[soil macroarthropod]]
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]

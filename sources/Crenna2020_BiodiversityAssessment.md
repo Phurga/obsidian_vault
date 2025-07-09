@@ -18,7 +18,7 @@ importDate: 2025-07-04
 
 %% begin notes %% 
 
- See update in [[Damiani2023_Criticalreview]]
+ See update in [[Damiani2023_CriticalReview]]
 - Incorporates [[ecosystem service]] accounting
 
 %% end notes %%

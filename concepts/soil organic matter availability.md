@@ -8,5 +8,5 @@ aliases:
 
 
 See:
-[[Chevallier2025_Organicmatters]]
+[[Chevallier2025_OrganicMatters]]
 [[carbon transformation]]

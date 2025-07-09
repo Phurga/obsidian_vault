@@ -18,7 +18,7 @@ Smaller aggregates (microaggregates) are increasingly aquatic habitats, hosting 
 
 **Humus** is an outdated name for organo-mineral compound. It used to no correspond to no physical reality and was used with different meanings.
 
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]
 > The soil is a complex and heterogeneous system, comprising organo-mineral aggregates of different sizes and organic components, that creates habitats for soil biodiversity across multiple spatial scales; the diversity in habitat composition with pores of different sizes filled with air and/or water allows an incredible number of taxa of different sizes and ecology to inhabit it (Andre, Ducarme and Lebrun, 2002).
 
 [[Marsden2025_Introductionsoil]]

@@ -15,7 +15,7 @@ For categorical data, the (original) formula is:
 This formula applies for richness, since we assess presence or absence of a species.
 ### quantitative version (with abundance)
 It is possible to calculate sorensen similarity on numerical data rather than absence presence, but in this case it more common to use [[bray-curtis dissimilarity]].
-See [[Chao2005_newstatistical#history of abundance similarity metric]].
+See [[Chao2005_NewStatistical#history of abundance similarity metric]].
 
 For numerical data, such as abundance of species (Ab):
 ![[Santini2017_Assessingsuitability_sorensen formula.png]]

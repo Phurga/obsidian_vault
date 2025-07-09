@@ -5,4 +5,4 @@ aliases:
   - depollution
 ---
 Bioremediation is the depollution of the environment through biological activity.
-Example, [[FAO2020_Stateknowledge#bioremediation, hydrocarbons]]
+Example, [[FAO2020_StateKnowledge#bioremediation, hydrocarbons]]

@@ -12,4 +12,4 @@ Predatory mites feed of [[nematode]] and other microarthropods. They in particul
 ![[FAO2020_Stateknowledge_mite.png|500]]
 
 References:
-[[FAO2020_Stateknowledge]]
+[[FAO2020_StateKnowledge]]
