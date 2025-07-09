@@ -25,4 +25,4 @@ Latest important method using an MSA metric
 ![[Schipper2020_Projectingterrestrial_MSA_calculation.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:14.369+02:00 %%
+%% Import Date: 2025-07-09T15:24:32.802+02:00 %%

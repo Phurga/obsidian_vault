@@ -4,4 +4,4 @@ tags:
 aliases:
   - Publications office
 ---
-[[EU JRC]]
+[[JRC]]

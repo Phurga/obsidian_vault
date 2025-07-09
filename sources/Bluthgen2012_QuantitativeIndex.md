@@ -22,4 +22,4 @@ Menschliche Landnutzung als wichtiger Treiber für die Biodiversität und Funkti
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:05.545+02:00 %%
+%% Import Date: 2025-07-09T15:24:23.102+02:00 %%

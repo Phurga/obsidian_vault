@@ -30,4 +30,4 @@ Overview of soil ecology concepts which will be refined in the other modules of 
 [[microbial loop]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:11.850+02:00 %%
+%% Import Date: 2025-07-09T15:24:30.365+02:00 %%

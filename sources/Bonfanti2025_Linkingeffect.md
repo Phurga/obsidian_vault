@@ -20,4 +20,4 @@ importDate: 2025-07-09
 ![[Bonfanti2025_Linkingeffect_traits_som_functions.jpg]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:05.650+02:00 %%
+%% Import Date: 2025-07-09T15:24:23.186+02:00 %%

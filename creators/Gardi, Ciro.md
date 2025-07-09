@@ -2,5 +2,5 @@
 tags:
   - creator/people
 ---
-[[EU JRC]]
+[[JRC]]
 [[EFSA]]

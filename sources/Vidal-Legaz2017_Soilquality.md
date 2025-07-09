@@ -64,4 +64,4 @@ Pathway for land use inventories to AOPs
 The reference state of the soil is defined by its properties (unclear)
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:15.877+02:00 %%
+%% Import Date: 2025-07-09T15:24:34.155+02:00 %%

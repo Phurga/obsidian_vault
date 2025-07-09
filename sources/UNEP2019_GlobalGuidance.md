@@ -34,4 +34,4 @@ Focusing here on two chapters:
 ![[UNEP2019_GlobalGuidance_extinction_vulnerability.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:15.342+02:00 %%
+%% Import Date: 2025-07-09T15:24:33.665+02:00 %%

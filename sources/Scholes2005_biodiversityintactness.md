@@ -34,4 +34,4 @@ definition of [[biodiversity intactness index]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:14.531+02:00 %%
+%% Import Date: 2025-07-09T15:24:32.948+02:00 %%

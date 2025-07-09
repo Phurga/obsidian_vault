@@ -20,4 +20,4 @@ importDate: 2025-07-09
 ![[Wagner2011_BiologicalNitrogen_fixation_modes.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:16.057+02:00 %%
+%% Import Date: 2025-07-09T15:24:34.332+02:00 %%

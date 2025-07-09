@@ -18,4 +18,4 @@ linked to this webpage, to use for [[DNA metabarcoding]], there is a great taxon
 ![[BOLDSystems2025_Homepage_BIN.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:05.595+02:00 %%
+%% Import Date: 2025-07-09T15:24:23.148+02:00 %%

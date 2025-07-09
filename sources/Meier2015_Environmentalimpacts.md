@@ -25,4 +25,4 @@ additional keywords:
 Key idea: not only organic farming has lower yields leading to higher impact per kg of product, but there are often issues in the modelling of N flows in organic agriculture because the inventory is obtained via a model that is calibrated on mineral fertilizers and not on organic fertilizers (manure and others). 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:12.003+02:00 %%
+%% Import Date: 2025-07-09T15:24:30.552+02:00 %%

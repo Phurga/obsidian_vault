@@ -59,4 +59,4 @@ the “energy hypothesis”, the “physiological tolerance hypothesis”, the �
 - [[Potapov2022_MultifunctionalityBelowground]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:06.148+02:00 %%
+%% Import Date: 2025-07-09T15:24:23.827+02:00 %%

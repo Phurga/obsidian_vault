@@ -27,4 +27,4 @@ Defines key concepts for [rhizosphere](app://obsidian.md/rhizosphere), [mycorr
 ![[Hinsinger2025_Rhizosphere_examples_kutschera.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:09.512+02:00 %%
+%% Import Date: 2025-07-09T15:24:28.145+02:00 %%

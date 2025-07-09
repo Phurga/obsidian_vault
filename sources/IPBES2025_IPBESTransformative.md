@@ -8,7 +8,7 @@ importDate: 2025-07-09
 ---
 >[!metadata]+
 > IPBES Transformative Change Assessment: Summary for Policymakers
-> [[O'Brien, Karen]], [[Garibaldi, Lucas A.]], [[Agrawal, Arun]], [[Bennett, Elena]], [[Biggs, Reinette]], [[Calderón Contreras, Rafael]], [[Carr, Edward R.]], [[Frantzeskaki, Niki]], [[Gosnell, Hannah]], [[Gurung, Janita]], [[Lambertucci, Sergio A.]], [[Leventon, Julia]], [[Chuan, Liao]], [[Reyes García, Victoria]], [[Shannon, Lynne]], [[Villasante, Sebastian]], [[Wickson, Fern]], [[Zinngrebe, Yves]], [[Périanin, Laurence]], 
+> [[IPBES]], [[O'Brien, Karen]], [[Garibaldi, Lucas A.]], [[Agrawal, Arun]], [[Bennett, Elena]], [[Biggs, Reinette]], [[Calderón Contreras, Rafael]], [[Carr, Edward R.]], [[Frantzeskaki, Niki]], [[Gosnell, Hannah]], [[Gurung, Janita]], [[Lambertucci, Sergio A.]], [[Leventon, Julia]], [[Chuan, Liao]], [[Reyes García, Victoria]], [[Shannon, Lynne]], [[Villasante, Sebastian]], [[Wickson, Fern]], [[Zinngrebe, Yves]], [[Périanin, Laurence]], 
 > [[IPBES]] (2025)
 > conservation, environmental ethics, 
 > [Online link](https://zenodo.org/records/15645812), [Zotero Item](zotero://select/library/items/8JWUIKD4), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/SCUTJ6WJ/IPBES2025_IPBESTransformative.pdf), 
@@ -24,4 +24,4 @@ IPBES is an independent intergovernmental body established by Governments in 201
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:10.239+02:00 %%
+%% Import Date: 2025-07-09T15:24:28.672+02:00 %%

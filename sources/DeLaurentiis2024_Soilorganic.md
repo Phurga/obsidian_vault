@@ -53,4 +53,4 @@ Same for forestry (all forestry has 0 impacts on soils with IPCC T1).
 **Needs further work to refine IPCC caluclations to practices on forestry and non conventional farming.**
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:07.265+02:00 %%
+%% Import Date: 2025-07-09T15:24:25.716+02:00 %%

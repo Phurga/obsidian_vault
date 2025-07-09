@@ -21,4 +21,4 @@ Uses [[Rondinini2011_GlobalHabitat]]
 Calculates impacts on biodiversity using species loss (number of species loss).
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:07.162+02:00 %%
+%% Import Date: 2025-07-09T15:24:25.603+02:00 %%

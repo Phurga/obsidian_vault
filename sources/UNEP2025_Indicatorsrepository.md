@@ -25,4 +25,4 @@ Indicators for the [[Kunming-Montreal Global Biodiversity Framework]], linked to
 ![[UNEP2025_Indicatorsrepository_genetic_diversity.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:15.383+02:00 %%
+%% Import Date: 2025-07-09T15:24:33.690+02:00 %%

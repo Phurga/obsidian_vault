@@ -20,4 +20,4 @@ importDate: 2025-07-09
 [[soil arthropod|arthropods]] [[species abudance]] [[biomass]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:13.891+02:00 %%
+%% Import Date: 2025-07-09T15:24:32.315+02:00 %%

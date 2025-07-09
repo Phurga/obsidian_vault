@@ -21,4 +21,4 @@ In this article, the author test metabarcoding as a mean to identify species in 
 ![[Jabot2025_Usemassive_sar_sample_soil.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:10.334+02:00 %%
+%% Import Date: 2025-07-09T15:24:28.948+02:00 %%

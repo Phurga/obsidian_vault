@@ -1,0 +1,20 @@
+---
+tags:
+  - source/report
+  - zotero
+doi: 
+itemKey: H5BB5DMH
+importDate: 2025-07-09
+---
+>[!metadata]+
+> LANCA: Land use indicator value calculation in life cycle assessment
+> [[Beck, Tabea]], [[Bos, Ulrike]], [[Wittstock, Bastian]], [[Baitz, Martin]], [[Fischer, Matthias]], [[Sedlbauer, Klaus]], 
+> [[Fraunhofer IBP]] (2010)
+> LANCA, 
+> [Online link](), [Zotero Item](zotero://select/library/items/H5BB5DMH), [Local (LANCA)](file://C:/Users/aburg/Documents/references/zotero/storage/2SGT4L2S/LANCA.pdf), 
+
+%% begin notes %%
+
+%% end notes %%
+
+%% Import Date: 2025-07-09T15:24:27.044+02:00 %%

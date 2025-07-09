@@ -24,4 +24,4 @@ importDate: 2025-07-09
 ![[Debarre2025_RevampingLCIA_pathway.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:07.187+02:00 %%
+%% Import Date: 2025-07-09T15:24:25.629+02:00 %%

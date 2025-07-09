@@ -8,7 +8,7 @@ importDate: 2025-07-09
 ---
 >[!metadata]+
 > Summary for policymakers of the methodological assessment of the diverse values and valuation of nature of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)
-> [[IPBES]], 
+> [[IPBES]], [[Pascual, Unai]], 
 > [[IPBES]] (2022)
 > Valuation, IPBES, Decision making, Diverse values, Methods, Summary for policymakers, Values assessment, 
 > [Online link](https://zenodo.org/records/7410287), [Zotero Item](zotero://select/library/items/ZS6PBYIH), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/QZY64BWP/IPBES2022_Summarypolicymakers.pdf), 
@@ -25,4 +25,4 @@ importDate: 2025-07-09
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:10.210+02:00 %%
+%% Import Date: 2025-07-09T15:24:28.652+02:00 %%

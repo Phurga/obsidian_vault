@@ -8,7 +8,7 @@ importDate: 2025-07-09
 ---
 >[!metadata]+
 > Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
-> [[IPBES]], 
+> [[IPBES]], [[Brondizio, Eduardo]], [[Settele, Josef]], [[Diaz, Sandra]], [[Ngo, Hien T.]], 
 > [[IPBES]] (2019)
 > important, IPBES, Full assessment report, Global Assessment, 
 > [Online link](https://zenodo.org/records/6417333), [Zotero Item](zotero://select/library/items/86IPR6FR), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/JPZRPQQU/IPBES2019_GlobalAssessmenta.pdf),  [Local (summary_only)](file://C:/Users/aburg/Documents/references/zotero/storage/4D78YYHC/Brondizio2019_globalassessment.pdf), 
@@ -39,4 +39,4 @@ Direct exploitation, including [[soil quality]] degradation, is another 20%.
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:10.163+02:00 %%
+%% Import Date: 2025-07-09T15:24:28.623+02:00 %%

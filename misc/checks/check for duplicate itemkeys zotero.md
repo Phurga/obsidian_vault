@@ -7,4 +7,3 @@ GROUP BY itemKey
 WHERE length(rows) > 1
 SORT length(rows) DESC
 ```
-

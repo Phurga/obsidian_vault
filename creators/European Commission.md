@@ -10,4 +10,4 @@ The **European Commission** is one of the seven organs directing the **European 
 https://en.wikipedia.org/wiki/Institutions_of_the_European_Union
 ![[wikipedia_european_union_organs.png]]
 ### the JRC
-See [[EU JRC]].
+See [[JRC]].

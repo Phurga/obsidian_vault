@@ -4,12 +4,12 @@ tags:
   - zotero
 doi: 
 itemKey: XDGI4L65
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Ecosystems and human well-being: synthesis
 > [[MEA]], 
-> [[Millennium Ecosystem Assessment]] (2005)
+> [[MEA]] (2005)
 > 
 > [Online link](), [Zotero Item](zotero://select/library/items/XDGI4L65), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/VK77KILN/MillenniumEcosystemAssessment2005_Ecosystemshuman.pdf), 
 
@@ -21,4 +21,4 @@ Important report on [[ecosystem quality|ecosystem quality]] and [[ecosystem serv
 ![[MillenniumEcosystemAssessment2005_Ecosystemshuman_ecosystem_serivces.png|600]]
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:31:01.613+02:00 %%
+%% Import Date: 2025-07-09T15:24:30.493+02:00 %%

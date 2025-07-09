@@ -22,4 +22,4 @@ importDate: 2025-07-09
 ![[Belaud2024_situsoil_example_image.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:05.401+02:00 %%
+%% Import Date: 2025-07-09T15:24:22.909+02:00 %%

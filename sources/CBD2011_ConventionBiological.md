@@ -4,12 +4,12 @@ tags:
   - zotero
 doi: 
 itemKey: KKZ9E5B6
-importDate: 2025-07-04
+importDate: 2025-07-09
 ---
 >[!metadata]+
 > Convention on Biological Diversity - Text and annexes
 > [[CBD]], 
-> [[Secretariat of the Convention on Biological Diversity]] (2011)
+> [[CBD]] (2011)
 > biodiversity, 
 > [Online link](https://www.cbd.int/doc/legal/cbd-en.pdf), [Zotero Item](zotero://select/library/items/KKZ9E5B6), [Local (PDF)](file://C:/Users/aburg/Documents/references/zotero/storage/NAVYC2CM/_cbden.pdf), 
 
@@ -49,4 +49,4 @@ equitable sharing of benefits arising from the use of genetic resources.
 
 %% end notes %%
 
-%% Import Date: 2025-07-04T14:30:58.781+02:00 %%
+%% Import Date: 2025-07-09T15:24:24.125+02:00 %%

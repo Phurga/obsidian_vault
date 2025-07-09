@@ -22,4 +22,4 @@ Provides a global map at 100m or 10m of [[IUCN2025_HabitatsClassification]]
 ![[Jung2020_globalmap_habitat_classes.png]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:10.594+02:00 %%
+%% Import Date: 2025-07-09T15:24:29.170+02:00 %%

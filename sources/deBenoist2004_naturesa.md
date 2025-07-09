@@ -43,4 +43,4 @@ Captured in [[intrinsic value of nature]]
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:07.220+02:00 %%
+%% Import Date: 2025-07-09T15:24:25.664+02:00 %%

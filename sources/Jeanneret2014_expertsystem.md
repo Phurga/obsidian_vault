@@ -26,4 +26,4 @@ The method defined 11 indicator species group (ISGs) and calculates a score repr
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:10.391+02:00 %%
+%% Import Date: 2025-07-09T15:24:29.003+02:00 %%

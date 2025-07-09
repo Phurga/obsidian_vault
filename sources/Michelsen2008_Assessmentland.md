@@ -27,4 +27,4 @@ The basis for the method is that the [[ecosystem quality]] is quantified as a pr
 
 %% end notes %%
 
-%% Import Date: 2025-07-09T11:58:12.036+02:00 %%
+%% Import Date: 2025-07-09T15:24:30.583+02:00 %%
