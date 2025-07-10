@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "name": "Markdown",
+      "customArguments": "--bibliography=C:\\Users\\aburg\\Documents\\references\\zotero\\database10072025.bib --citeproc --csl=C:\\Users\\aburg\\Documents\\references\\zotero\\styles\\apa.csl",
+      "runCommand": false
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": true,
+  "env": {
+    "win32": {
+      "BIB": "C:\\Users\\aburg\\Documents\\references\\zotero\\database10072025.bib",
+      "CSL": "C:\\Users\\aburg\\Documents\\references\\zotero\\styles\\apa.csl"
+    }
+  },
+  "showExportProgressBar": true
+}

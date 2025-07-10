@@ -11,8 +11,9 @@ Soil is slowly formed under the influence of climate, relief, parent material (b
 ### soil biodiversity
 Soils show outstanding biodiversity, hosting more than half of species on Earth [@Anthony2023_EnumeratingSoil]. Soils show complex structure with multi-scale porosity and great surface area (see figure below). Soil is also a medium with diverse forms of energy, carbon and nutrient also often in scarce amounts. Physico-chemical properties (pH, soil organic carbon sources, temperature, humidity) of this medium vary largely across the world and at micro scales. This diversity of habitat drives a high diversity of life forms [@Fierer2009_GlobalPatterns;@Labouyrie2023_PatternsSoil;@EuropeanCommission2016_GlobalSoil]. 
 
->[!figure] Hierarchical structure of soils, [@Thakur2020_IntegrativeUnderstanding]
+>[!figure] Hierarchical structure of soils
 >![[Thakur2020_IntegrativeUnderstanding_hierarchy.png]]
+>Credit: [@Thakur2020_IntegrativeUnderstanding]
 
 ### life forms in the soil
 Most soil organisms in number of species are microorganisms such as bacteria or fungi [@Anthony2023_EnumeratingSoil]. Most soil organisms in abundance are nematodes [@VanDenHoogen2019_SoilNematode]. Soil also hosts large amounts of arthropods, from microarthropods such as springtails, to carnivorous macroarthropods including ants and termites[@Anthony2023_EnumeratingSoil;@Bar-On2018_BiomassDistribution]0. Invertebrates are also major contributors of ecosystem functions, especially earthworms (annelids) which represent a significant portion of soil living biomass [@Bar-On2018_BiomassDistribution].
@@ -21,13 +22,12 @@ We can have estimates of how many different species are in the soil but it is un
 ### monitoring soil biodiversity
 It is not necessary to inventory all species to study biodiversity loss: environmental DNA analysis, and especially DNA metabarcoding allows to collect soil sample, extract DNA fragments of millions of organisms and extract DNA markers (sections) to identify an organism. Identification is different from definition. Identifying an organism refers to reading its DNA. Based on the similarity (of specific DNA sections) with other organisms, one can group organisms together, without having to observe nor describe the organism morphology or physiology, nor even read any full genome.
 
-It is then possible to derive species counts or abundance counts at local scale that can be used to derive biodiversity metrics at local or regional scale. Metrics can be used to derive spatial, temporal or environmental patterns, such as the influence of human land use intensity on soil biodiversity [@Labouyrie2023_PatternsSoil].cmd
+It is then possible to derive species counts or abundance counts at local scale that can be used to derive biodiversity metrics at local or regional scale. Metrics can be used to derive spatial, temporal or environmental patterns, such as the influence of human land use intensity on soil biodiversity [@Labouyrie2023_PatternsSoil].
 ### soil quality
-Soil quality is measured in reference to a reference soil state. Some simplified indicators use soil organic matter (SOM) or soil organic carbon values as indicators of soil quality, many dimensions of soil quality being strongly correlated to SOM content.
+Soil quality refers to the capacity of soil to function and deliver ecosystem services [@Doran2002_SoilHealth;@Vidal-Legaz2017_SoilQuality;@INRAE2025_PreserverQualite;@FAO2020_DefinitionSoil]. Soil quality can be considered an extension of the soil fertility concept, focusing on fertility, and a part of the soil health concept, considering soil as an ecosystem with an ecological community to protect [@INRAE2025_PreserverQualite].
 
-
-
-
+Within the LCA framework, soil quality is associated to the instrumental value of soils. @Vidal-Legaz2017_SoilQuality proposes an impact pathway to link 
+Some simplified indicators use soil organic matter (SOM) or soil organic carbon values as indicators of soil quality, many dimensions of soil quality being strongly correlated to SOM content.
 ### soil, land, ground
 [[INRAE2025_PreserverQualite#soil perceptions]]
 ### soil quality
