@@ -1,6 +1,6 @@
 ---
 tags:
-  - production
+  - production/presentation
 ---
 **Nature avec ou sans biodiversité**, on comprend pourquoi la protection de la nature se concentre sur la **biodiversité**, la diversité des formes de vie sur Terre. Chaque organisme participe au fonctionnement de l'écosystème et est porteur d'un patrimoine génétique unique. Les **forces de l'évolution** ont favorisé le développement de millions d'espèces adaptées à chaque environnement trouvé sur Terre. Mais ces environnements, transformés par l'homme deviennent inhabitable pour certaines espèces.
 

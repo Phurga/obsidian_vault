@@ -13,13 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/extinction.md",
+                "file": "misc/admin/ADMIN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "extinction"
+              "title": "ADMIN"
+            }
+          },
+          {
+            "id": "ee2e2bd16974e32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/operational taxonomic unit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "operational taxonomic unit"
+            }
+          },
+          {
+            "id": "96cb105fbc090525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Sandler2010_ValueSpecies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sandler2010_ValueSpecies"
             }
           },
           {
@@ -28,17 +58,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Scherer2023_BiodiversityImpact.md",
+                "file": "concepts/species-area relationship.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scherer2023_BiodiversityImpact"
+              "title": "species-area relationship"
+            }
+          },
+          {
+            "id": "b8028a6019cd4a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Green2006_SpatialScaling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Green2006_SpatialScaling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "everywhere",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -190,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "productions/living soils.md",
+                "file": "misc/admin/ADMIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +244,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for living soils"
+              "title": "Backlinks for ADMIN"
             }
           },
           {
@@ -209,12 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/checks/check for mistagged files.md",
+                "file": "misc/admin/ADMIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from check for mistagged files"
+              "title": "Outgoing links from ADMIN"
             }
           },
           {
@@ -223,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/checks/check for mistagged files.md",
+                "file": "misc/admin/ADMIN.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of check for mistagged files"
+              "title": "Outline of ADMIN"
             }
           },
           {
@@ -270,10 +314,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sources/Scherer2023_BiodiversityImpact.md"
+                "file": "misc/admin/ADMIN.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Scherer2023_BiodiversityImpact"
+              "title": "File properties for ADMIN"
             }
           }
         ]
@@ -291,37 +335,40 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "66295868f4e1b192",
+  "active": "b3ae676c2371be60",
   "lastOpenFiles": [
-    "concepts/PREDICTS.md",
-    "productions/to the point.md",
+    "productions/Introduction to main.md",
+    "concepts/shannon index.md",
+    "concepts/operational taxonomic unit.md",
+    "sources/Weinbauer2007_ExtinctionMicrobes.md",
     "concepts/extinction.md",
-    "sources/FAO2025_HowConserve.md",
+    "productions/living soils.md",
+    "productions/research questions.md",
+    "productions/fundational concepts.md",
+    "productions/archive/ma these en 180s.md",
+    "productions/archive/Challenges in extending land use change impacts on biodiversity to soil organisms.md",
+    "productions/archive",
+    "productions/CSI - Introduction.md",
+    "sources/Doolittle1999_PhylogeneticClassification.md",
+    "concepts/bacteria.md",
+    "sources/Sandler2010_ValueSpecies.md",
+    "sources/Himes2024_WhyNature.md",
+    "sources/Geisen2019_ChallengesOpportunities.md",
     "sources/Newbold2016_GlobalPatterns.md",
+    "sources/FAO2025_HowConserve.md",
+    "sources/Green2006_SpatialScaling.md",
+    "attachments/Green2006_SpatialScaling_TAR.png",
+    "concepts/species-area relationship.md",
+    "sources/Storch2012_UniversalSpecies.md",
+    "attachments/Storch2012_UniversalSpecies_SAR_slope.png",
+    "sources/Green2004_SpatialScaling.md",
+    "sources/Scherer2023_BiodiversityImpact.md",
+    "concepts/PREDICTS.md",
     "sources/MacArthur2001_TheoryIsland.md",
     "misc/templates/new zotero note.md",
-    "sources/FAO2020_DefinitionSoil.md",
-    "concepts/soil biodiversity.md",
-    "concepts/microbial loop.md",
-    "sources/FAO2020_StateKnowledge.md",
-    "concepts/soil macroarthropod.md",
-    "sources/Bar-On2018_BiomassDistribution.md",
-    "productions/living soils.md",
-    "productions/calculations/Burg2025_speciesdistribution.md",
-    "sources/IUCN2025_IUCNRed.md",
-    "sources/Hudson2017_DatabasePREDICTS.md",
-    "sources/Scherer2023_BiodiversityImpact.md",
-    "sources/Stork2018_HowMany.md",
-    "sources/VanDenHoogen2019_SoilNematode.md",
     "attachments/Bar-On2018_biomassdistribution_taxon.webp",
-    "sources/Marsden2025_IntroductionSoil.md",
-    "productions/Intro to CSI.md",
-    "misc/checks/check for source references in notes.md",
-    "sources/delete_list.md",
-    "sources/Saad2013_LandUse.md",
     "sources/delete_files.ps1",
     "sources/New Text Document.txt",
-    "misc/checks/zotero script author names.md",
     "misc/admin",
     "attachments/wikipedia_european_union_organs.png",
     "attachments/Burg2025_photo_taxonomy.jpg",
@@ -333,12 +380,9 @@
     "attachments/Koellner2013_UNEPSETACguideline_impact_pathway.png",
     "attachments/IPBES2019_GlobalAssessmenta_history.png",
     "attachments/UNEP2025_Indicatorsrepository_ecosystem_redlist.png",
-    "attachments/Hedde2025_SoilFauna_homogeneisation_earthworms_richness.png",
-    "attachments/IPBES2022_Summarypolicymakers_paradigms.png",
     "attachments/les-sols-dominants-de-france-metropolitaine_hautedef.pdf",
     "attachments/sols_france_grand.pdf",
     "concepts.zip",
-    "sources.zip",
     "home canvas.canvas",
     "concept/test.canvas"
   ]

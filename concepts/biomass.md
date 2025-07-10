@@ -9,7 +9,7 @@ aliases:
 [[Bar-On2018_BiomassDistribution]], distribution of biomass per taxon
 ![[Bar-On2018_biomassdistribution_taxon.webp|600]]
 
-Among plant biomass, 25% is below ground [[Ma2021_globaldistribution]], out most of the world biomass is in soils.
+Among plant biomass, 25% is below ground [[Ma2021_GlobalDistribution]], out most of the world biomass is in soils.
 
 Bacteria, archaea, protists, fungi, annelids, nematodes, arthropods [[Rosenberg_globalbiomass]] are mostly below ground, so basically global biomass is  of biomass to be in soils.
 

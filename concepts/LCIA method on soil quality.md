@@ -12,7 +12,7 @@ aliases:
 Indicators exist to assess the impacts of human activities on soil quality. Sources: [[UNEP2019_GlobalGuidance]] updated with [[DeLaurentiis2024_SoilOrganic]]
 - [[soil organic matter|SOM]] change ([[MilaiCanals2007_MethodAssessing]])
 - [[soil organic matter|SOC]] change ([[Brandao2013_GlobalCharacterisation]] via [[IPCC2019_2019Refinement]], updated in [[DeLaurentiis2024_SoilOrganic]] #todo/refneeded )
-- [[biotic production]] ([[net primary production]] and [[Koellner2013_UNEPSETACguideline]])
+- [[biotic production]] ([[net primary production]] and [[Koellner2013_UNEPSETACGuideline]])
 - [[Erosion]] (at inventory level using [[RUSLE]] with [[Nunez2013_Inclusionsoil]] and [[Sonderegger2020_AssessingImpacts]] or at impact pathway only with [[LANCA]])
 - [[soil quality index]] (SQI) based ([[Agroscope]] with [[SALCA-SQ]], [[PEF method]], others)
 - salinisation ([[Payen2014_PassSalt]]), 

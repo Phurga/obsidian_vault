@@ -45,3 +45,7 @@ Species richness distribution might be more related to habitat diversity and het
 #todo/notsure SAR is on one side linked to the [[island biogeography]] while habitat diversity approaches is linked to the [[niche theory]]. The latter is seamingly more mechanistic while the first one is more correlative.
 ## data sources for calculations
 [[Storch2012_UniversalSpecies]] gives z values for mammals, birds and amphibious at regional level (consolidated in appendix S1.2 of [[Kuipers2021_ConsideringHabitat]]).
+z=0.25 roughly
+
+## sar for microbes
+[[Green2004_SpatialScaling]], z=0.074

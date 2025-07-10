@@ -18,6 +18,8 @@ importDate: 2025-07-09
 
 %% begin notes %%
 Used in [[Kuipers2021_ConsideringHabitat]] for SHR (species habitat relationships) values (ie z slopes in the SAR). These slopes are only used to link area and species and are ecoregion specific based on and do not account for land use.
+### sar slope
+![[Storch2012_UniversalSpecies_SAR_slope.png]]
 %% end notes %%
 
 %% Import Date: 2025-07-09T15:24:33.308+02:00 %%

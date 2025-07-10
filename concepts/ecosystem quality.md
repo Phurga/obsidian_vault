@@ -14,7 +14,7 @@ See also:
 - [[life cycle impact assessment]]
 
 References:
-- [[Koellner2013_UNEPSETACguideline]]
+- [[Koellner2013_UNEPSETACGuideline]]
 - [[Curran2011_MeaningfulEnd]]
 - [[Verones2017_LCIAFramework]]
 - [[Woods2018_EcosystemQuality]]
