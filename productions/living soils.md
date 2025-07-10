@@ -11,8 +11,8 @@ Soil is slowly formed under the influence of climate, relief, parent material (b
 ### soil biodiversity
 Soils show outstanding biodiversity, hosting more than half of species on Earth [@Anthony2023_EnumeratingSoil]. Soils show complex structure with multi-scale porosity and great surface area (see figure below). Soil is also a medium with diverse forms of energy, carbon and nutrient also often in scarce amounts. Physico-chemical properties (pH, soil organic carbon sources, temperature, humidity) of this medium vary largely across the world and at micro scales. This diversity of habitat drives a high diversity of life forms [@Fierer2009_GlobalPatterns;@Labouyrie2023_PatternsSoil;@EuropeanCommission2016_GlobalSoil]. 
 
->[!figure] Hierarchical structure of soils
->![[Marsden2025_Introduction_soil_aggregate.png]]
+>[!figure] Hierarchical structure of soils, [@Thakur2020_IntegrativeUnderstanding]
+>![[Thakur2020_IntegrativeUnderstanding_hierarchy.png]]
 
 ### life forms in the soil
 Most soil organisms in number of species are microorganisms such as bacteria or fungi [@Anthony2023_EnumeratingSoil]. Most soil organisms in abundance are nematodes [@VanDenHoogen2019_SoilNematode]. Soil also hosts large amounts of arthropods, from microarthropods such as springtails, to carnivorous macroarthropods including ants and termites[@Anthony2023_EnumeratingSoil;@Bar-On2018_BiomassDistribution]0. Invertebrates are also major contributors of ecosystem functions, especially earthworms (annelids) which represent a significant portion of soil living biomass [@Bar-On2018_BiomassDistribution].
