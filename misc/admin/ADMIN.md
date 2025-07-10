@@ -7,3 +7,6 @@ nextcloud, appui itap, mission (comm eleonore)
 ecoinvent:
 Ecoquery_cirad_1
 4m!75nwmjRjj
+
+.\localadmin
+localcem34
