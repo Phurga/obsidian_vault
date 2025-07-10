@@ -21,7 +21,7 @@ We can have estimates of how many different species are in the soil but it is un
 ### monitoring soil biodiversity
 It is not necessary to inventory all species to study biodiversity loss: environmental DNA analysis, and especially DNA metabarcoding allows to collect soil sample, extract DNA fragments of millions of organisms and extract DNA markers (sections) to identify an organism. Identification is different from definition. Identifying an organism refers to reading its DNA. Based on the similarity (of specific DNA sections) with other organisms, one can group organisms together, without having to observe nor describe the organism morphology or physiology, nor even read any full genome.
 
-It is then possible to derive species counts or abundance counts at local scale that can be used to derive biodiversity metrics at local or regional scale. Metrics can be used to derive spatial, temporal or environmental patterns, such as the influence of human land use intensity on soil biodiversity [@Labouyrie2023_PatternsSoil].
+It is then possible to derive species counts or abundance counts at local scale that can be used to derive biodiversity metrics at local or regional scale. Metrics can be used to derive spatial, temporal or environmental patterns, such as the influence of human land use intensity on soil biodiversity [@Labouyrie2023_PatternsSoil].cmd
 ### soil quality
 Soil quality is measured in reference to a reference soil state. Some simplified indicators use soil organic matter (SOM) or soil organic carbon values as indicators of soil quality, many dimensions of soil quality being strongly correlated to SOM content.
 

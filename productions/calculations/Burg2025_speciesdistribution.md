@@ -17,4 +17,4 @@ Links:
 [excel file](file:\\\C:\Users\aburg\Documents\calculations\species_count.xlsx)
 
 Gallery:
-![[Burg2025_speciesdistribution_taxa.png]]
+![[Burg2025_speciesdistribution_taxa.png|800]]

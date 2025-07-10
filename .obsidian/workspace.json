@@ -4,100 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "f2620d08ab6ce1f3",
+        "id": "fb78eaea2a3371a3",
         "type": "tabs",
         "children": [
           {
-            "id": "63994e2d28ef2ffb",
+            "id": "b3ae676c2371be60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productions/living soils.md",
+                "file": "concepts/extinction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "living soils"
+              "title": "extinction"
             }
           },
           {
-            "id": "c3c95b94a7a22fcb",
+            "id": "66295868f4e1b192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Bar-On2018_BiomassDistribution.md",
+                "file": "sources/Scherer2023_BiodiversityImpact.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bar-On2018_BiomassDistribution"
-            }
-          },
-          {
-            "id": "34a640122120065a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/soil macroarthropod.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "soil macroarthropod"
-            }
-          },
-          {
-            "id": "f303285fd39ebb77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/FAO2020_StateKnowledge.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "FAO2020_StateKnowledge"
-            }
-          },
-          {
-            "id": "ac6475a18f4f2be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/microbial loop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "microbial loop"
-            }
-          },
-          {
-            "id": "fd74d42a05a22f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/soil biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "soil biodiversity"
+              "title": "Scherer2023_BiodiversityImpact"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -322,7 +262,7 @@
       {
         "id": "9a3355cbb1b7d160",
         "type": "tabs",
-        "dimension": 23.840445269016698,
+        "dimension": 23.8404452690167,
         "children": [
           {
             "id": "02350dbab455fbf7",
@@ -330,10 +270,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "productions/living soils.md"
+                "file": "sources/Scherer2023_BiodiversityImpact.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for living soils"
+              "title": "File properties for Scherer2023_BiodiversityImpact"
             }
           }
         ]
@@ -351,18 +291,29 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "63994e2d28ef2ffb",
+  "active": "66295868f4e1b192",
   "lastOpenFiles": [
-    "sources/Stork2018_HowMany.md",
-    "productions/living soils.md",
-    "sources/VanDenHoogen2019_SoilNematode.md",
-    "sources/Bar-On2018_BiomassDistribution.md",
-    "attachments/Bar-On2018_biomassdistribution_taxon.webp",
-    "concepts/soil macroarthropod.md",
-    "sources/FAO2020_StateKnowledge.md",
+    "concepts/PREDICTS.md",
+    "productions/to the point.md",
+    "concepts/extinction.md",
     "sources/FAO2025_HowConserve.md",
-    "concepts/microbial loop.md",
+    "sources/Newbold2016_GlobalPatterns.md",
+    "sources/MacArthur2001_TheoryIsland.md",
+    "misc/templates/new zotero note.md",
+    "sources/FAO2020_DefinitionSoil.md",
     "concepts/soil biodiversity.md",
+    "concepts/microbial loop.md",
+    "sources/FAO2020_StateKnowledge.md",
+    "concepts/soil macroarthropod.md",
+    "sources/Bar-On2018_BiomassDistribution.md",
+    "productions/living soils.md",
+    "productions/calculations/Burg2025_speciesdistribution.md",
+    "sources/IUCN2025_IUCNRed.md",
+    "sources/Hudson2017_DatabasePREDICTS.md",
+    "sources/Scherer2023_BiodiversityImpact.md",
+    "sources/Stork2018_HowMany.md",
+    "sources/VanDenHoogen2019_SoilNematode.md",
+    "attachments/Bar-On2018_biomassdistribution_taxon.webp",
     "sources/Marsden2025_IntroductionSoil.md",
     "productions/Intro to CSI.md",
     "misc/checks/check for source references in notes.md",
@@ -371,18 +322,7 @@
     "sources/delete_files.ps1",
     "sources/New Text Document.txt",
     "misc/checks/zotero script author names.md",
-    "misc/checks/check for duplicate itemkeys zotero.md",
-    "misc/checks/check for relevant files to create.md",
-    "sources/Cornelus2023_GISREVALIM.md",
-    "sources/CornelusMelissa2023_GISREVALIM.md",
-    "misc/checks/check for mistagged files.md",
-    "sources/Fehrenbach2015_HemerobyImpact.md",
-    "sources/EuropeanCommission2010_EuropeanAtlas.md",
     "misc/admin",
-    "sources/CBD2021_SpeciesHabitat.md",
-    "sources/CBD&UNEP2021_IndicatorMetadata.md",
-    "sources/CBDandUNEP2021_IndicatorMetadata.md",
-    "sources/Sonnemann2011_GlobalGuidance.md",
     "attachments/wikipedia_european_union_organs.png",
     "attachments/Burg2025_photo_taxonomy.jpg",
     "productions/calculations",

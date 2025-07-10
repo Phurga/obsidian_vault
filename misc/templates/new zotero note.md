@@ -1,8 +1,9 @@
 ---
 tags:
-  - source{% if itemType %}/{{itemType}}{% endif %}
+  - source/{{itemType}}
   - zotero
-doi: {% if DOI %}"{{DOI}}"{% endif %}
+{% if DOI %}doi: "{{DOI}}"{% endif %}
+{% if ISBN %}isbn: "{{ISBN}}"{% endif %}
 itemKey: {{itemKey}}
 importDate: {{importDate | format("YYYY-MM-DD")}}
 ---

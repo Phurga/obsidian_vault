@@ -2,9 +2,10 @@
 tags:
   - source/book
   - zotero
-doi: 
+
+isbn: "978-0-691-08836-5"
 itemKey: MWNMVDA2
-importDate: 2025-07-09
+importDate: 2025-07-10
 ---
 >[!metadata]+
 > The theory of island biogeography
@@ -17,4 +18,4 @@ importDate: 2025-07-09
 Source of the [[species-area relationship|SAR]] as said in [[deBaan2013_LandUsea]]
 %% end notes %%
 
-%% Import Date: 2025-07-09T15:24:30.067+02:00 %%
+%% Import Date: 2025-07-10T10:29:00.463+02:00 %%
