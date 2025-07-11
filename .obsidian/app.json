@@ -4,7 +4,7 @@
   "newFileLocation": "root",
   "newFileFolderPath": "images",
   "attachmentFolderPath": "attachments",
-  "spellcheck": false,
+  "spellcheck": true,
   "promptDelete": false,
   "showInlineTitle": true,
   "readableLineLength": true,

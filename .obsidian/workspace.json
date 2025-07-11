@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productions/Synthesis before vacations.md",
+                "file": "concepts/life cycle assessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Synthesis before vacations"
+              "title": "life cycle assessment"
             }
           },
           {
@@ -172,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "7cd80f92a2a79fd4",
@@ -270,10 +269,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "productions/Synthesis before vacations.md"
+                "file": "concepts/life cycle assessment.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Synthesis before vacations"
+              "title": "File properties for life cycle assessment"
             }
           }
         ]
@@ -293,8 +292,8 @@
   },
   "active": "7c05dcc62694b61e",
   "lastOpenFiles": [
-    "references.md",
     "productions/Synthesis before vacations.md",
+    "references.md",
     "productions/~$nthesis before vacations-1.docx",
     "productions/Synthesis before vacations-1.docx",
     "productions/Synthesis before vacations-1.epub",

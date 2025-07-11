@@ -18,3 +18,6 @@ The main stages of an LCA study consist in:
 - establishing the [[life cycle inventory|life cycle inventory]]
 - performing the [[life cycle impact assessment|life cycle impact assessment]]
 - interpreting the results, and gradually refining the results based on the latest obtained results, focusing data collection and interpretation efforts on the most relevant parts of the model
+## history
+See [[Goedkoop2013_ReCiPe2008]], originates in the 1990s, mostly Dutch work until 2000.
+Also see [[Hauschild2018_LifeCycle]].
