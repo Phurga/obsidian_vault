@@ -1,4 +1,5 @@
 # manuel
+- cousin chap14indicateurs de fonction pas d'etat
 - github education copilot
 - rep laura
 [ ] prod ecrite mi semaine review ou fin de semaine

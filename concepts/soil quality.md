@@ -5,6 +5,7 @@ tags:
   - concept/definition
 ---
 **Soil quality** (or **soil health**) is the ability of the [[soil]] to sustain the productivity, diversity, and environmental services of terrestrial ecosystems ([[FAO2020_DefinitionSoil]]).
+Simply put, soil quality refers to the capacity of soil to function (and deliver ecosystem services under an anthropocentric view). But it can also refer to what the soil is[@conference cousin 11 07 2025].
 ## multiple definitions
 Soil fertility, soil productivity, soil quality, soil health, soil security: several evolving terms characterizing what we value in soils and our understanding of this complex medium. Blurry definitions disentangled in [[INRAE2025_PreserverQualite]] and [[FAO2015_StatusWorlds]].
 
